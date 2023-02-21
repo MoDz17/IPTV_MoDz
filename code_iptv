@@ -27,9 +27,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 20/02/2023",
+             "name": "Ultm. versión 21/02/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 20/02/2023",
+            "info": "última versión actualizada el 21/02/2023",
             "stations": []
 	}, 
 	
@@ -223,8 +223,7 @@
 				}, {
 					"name": "Canal 21",
 					"image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
-					 "url": "https://parsimoniousinvincible.net/embed/gagr8b",
-					"referer": "https://macron.xyz/",
+					 "url": "https://emb.apl210.me/player/live.php?id=210385&w=100%&h=100%",
 					"isHost" : "true"
 					 }, {
 						"name": "Canal 22",
@@ -244,7 +243,25 @@
 						"url": "https://parsimoniousinvincible.net/embed/105qqn",
 							"referer": "https://streamonsport44.buzz/",
 							 "isHost": "true"  
-								  }, {
+								  }, 
+								  
+						{
+							"name": "Canal 25",
+							"image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
+						"url": "https://unbiasedsenseevent.com/embed/df7nk3qyxpu1vx",
+							"referer": "https://buzztv.futbol/",
+							 "isHost": "true"  
+								  },
+								  
+						{
+							"name": "Canal 26",
+							"image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
+						"url": "https://unbiasedsenseevent.com/embed/df7nk3qyxpu1vx",
+							"referer": "https://elixx.xyz/",
+							 "isHost": "true"  
+								  },		  
+								  
+			  {
 				"name": "Canal 1",
 				"image": "https://i.ibb.co/4NvkCVR/logo-deportes.png",
 				 "url": "https://unbiasedsenseevent.com/embed/yjicnctevw6jymj",
