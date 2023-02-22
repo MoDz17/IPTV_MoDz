@@ -27,9 +27,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 21/02/2023",
+             "name": "Ultm. versión 22/02/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 21/02/2023",
+            "info": "última versión actualizada el 22/02/2023",
             "stations": []
 	}, 
 	
@@ -285,6 +285,11 @@
                   		"referer" : "https://1rowsportz.info/",
 			 	"isHost": "true"
 			 }, {
+				"name": "Canal 5",
+	   			"image": "https://i.ibb.co/4NvkCVR/logo-deportes.png",
+	   			"url":"http://212.224.84.217:2200/NL/mdeporteshd-esp/tracks-v1a1/mono.m3u8?token=fwBlCndpe3BpD3tnN3cSfwJlc3NicwdpfT9gfXRhe3ppenZg",
+	   			"userAgent" : ""
+	 		}, {
 				"name": "Canal 1",
 				"image": "https://i.ibb.co/sVPN8q6/logo-golf.png",
 				"url" : "https://gooals.top/tv/albaplayer/stream-528/?serv=1/",
@@ -295,7 +300,12 @@
 				"image": "https://i.ibb.co/sVPN8q6/logo-golf.png",
 			  	"url": "https://watchtvchh.xyz/channel/ch017091.php",
             			"isHost": "true"
-               		 }, {
+               		 	}, {
+				"name": "Canal 3",
+	   			"image": "https://i.ibb.co/sVPN8q6/logo-golf.png",
+	   			"url":"http://212.224.84.217:2200/NL/mgolfhd-esp/tracks-v1a1/mono.m3u8?token=fwBlCndpe3BpD3tnN3cSfwJlc3NicwdpfT9gfXRhe3ppenZg",
+	   			"userAgent" : ""
+	 			}, {
 				"name": "Canal 1",
 				"image": "https://i.ibb.co/MMd7zpC/logo-toros.png",
 				 "url" : "https://deliriousholistic.net/embed/a57mc",
@@ -344,7 +354,7 @@
 				 }, {
 	   "name": "Canal 5",
 			   "image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-			"url": "https://vikistream.com/embed2.php?player=desktop&live=do10",
+			"url": "https://vikistream.com/embed2.php?player=desktop&live=do30",
 			"referer": "https://l1l1.to/",
 			"isHost": "true"
 		}, {
@@ -400,7 +410,12 @@
                     "image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
                               "url" : "https://embx210793.apl204.me/player/live.php?id=210793&w=100%&h=100%",
                     "isHost" : "true"
-			}, { 
+			}, {
+		"name": "Canal 15",
+	   	"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
+	   	"url":"http://51.178.36.235:49214/DAZN_1/hls/playlist.m3u8",
+	   	"userAgent" : ""
+	 		}, { 
 			"name": "Canal 1",
 			   "image": "https://i.ibb.co/vhNCnrq/DAZN-2-Logo-Sin-Fondo.webp",
 		 "url": "https://parsimoniousinvincible.net/embed/opthng68di66m",
@@ -452,7 +467,12 @@
 			 "url": "https://parsimoniousinvincible.net/embed/xmr0xxbbmzod",
 			  "referer": "https://leet365.cc/",
 			 "isHost": "true"
-			}, { 
+			}, {
+		"name": "Canal 10",
+	   	"image": "https://i.ibb.co/vhNCnrq/DAZN-2-Logo-Sin-Fondo.webp",
+	   	"url":"http://51.178.36.235:49214/DAZN_2/hls/playlist.m3u8",
+	   	"userAgent" : ""
+	 		}, { 
 			"name": "Canal 1",
 			   "image": "https://i.ibb.co/p1Ry56w/DAZN-3-Logo-Sin-Fondo.png",
 		 "url": "https://vikistream.com/embed2.php?player=desktop&live=do30",
@@ -498,8 +518,13 @@
 				"url": "https://parsimoniousinvincible.net/embed/xvofyfktwqkwrr",
 			   "referer" : "https://macron.xyz/",
 			   "isHost":"true"
-				  }, { 
-			"name": "Canal 1",
+				  }, {
+				"name": "Canal 9",
+	   			"image": "https://i.ibb.co/p1Ry56w/DAZN-3-Logo-Sin-Fondo.png",
+	   			"url":"http://51.178.36.235:49214/DAZN_3/hls/playlist.m3u8",
+	   			"userAgent" : ""
+	 			}, { 
+				"name": "Canal 1",
 			   "image": "https://i.ibb.co/LQy2rM6/DAZN-4-Logo-Sin-Fondo.png",
 			   "url": "https://2w0160v7u50gwy.constraindefiant.net/embed/w67i2uz",
 				"referer" : "https://streamonsport44.buzz/",
@@ -538,6 +563,11 @@
 	"url": "https://vikistream.com/embed2.php?player=desktop&live=do29",
 	"referer": "https://l1l1.to/",
 	 "isHost": "true"  
+	 }, {
+		"name": "Canal 8",
+	   	"image": "https://i.ibb.co/LQy2rM6/DAZN-4-Logo-Sin-Fondo.png",
+	   	"url":"http://51.178.36.235:49214/DAZN_4/hls/playlist.m3u8",
+	   	"userAgent" : ""
 	 }, {
 		"name": "Canal 1",
 		"image": "https://i.ibb.co/Ntcj66Q/logo-es1.webp",
@@ -855,6 +885,11 @@
 					"url" : "https://unbiasedsenseevent.com/embed/7s62oay",
               				"referer": "https://l1l1.to/",
            				"isHost" : "true"
+				}, {
+					"name": "Canal 8",
+	   				"image": "https://static1.diariosur.es/www/multimedia/201907/30/media/cortadas/liga-smart-bank-kHMB-U80877895812lSF-1248x770@RC.jpg",
+	   				"url":"http://212.224.84.217:2200/NL/daznlaliga2-esp/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo",
+	   				"userAgent" : ""
 				}]
                       }, 
 					  
@@ -1430,6 +1465,11 @@
 								"url": "http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8",
 							   	"userAgent" : ""
 							   }, {
+								"name": "DAZN F1",
+	   							"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+	   							"url":"http://51.178.36.235:49214/DAZN_F1/hls/playlist.m3u8",
+	   							"userAgent" : ""
+	 						}, {
 								"name": "Canal 1",
 								  "image": "https://i.ibb.co/sWgvCCK/logo-f1-fix.png",
 								"url": "",
@@ -1497,7 +1537,7 @@
 							}, {
 								  "name": "Canal 13",
 								  "image": "https://i.ibb.co/sWgvCCK/logo-f1-fix.png",
-								  "url" : "http://ufckhabib.com/f1/formula1-stream.php",
+								  "url" : "http://sportsurge.stream/embed/f1.php",
 								  "isHost": "true"
 							  }, {
 								  "name": "Canal 14",
@@ -1607,7 +1647,22 @@
 								"image": "https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
 												 "url": "https://assia24.com/live2/mix1/?lang=es",
 							 "isHost": "true"
-								}]
+								}, {
+									"name": "Canal 7",
+	   								"image": "https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
+	   								"url":"https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8",
+	   								"userAgent" : ""
+	 							}, {
+									"name": "Canal 8",
+	   								"image": "https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
+	   								"url":"https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8",
+	   								"userAgent" : ""
+	 							}, {
+									"name": "Canal 9",
+	   								"image": "https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
+	   								"url":"https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/manifest.m3u8",
+	   								"userAgent" : ""
+	 							}]
 						}, 
 						
 						{       
