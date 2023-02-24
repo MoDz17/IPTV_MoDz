@@ -27,9 +27,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 23/02/2023",
+             "name": "Ultm. versión 25/02/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 23/02/2023",
+            "info": "última versión actualizada el 25/02/2023",
             "stations": []
 	}, 
 	
@@ -331,8 +331,8 @@
 		"stations": [{
 			"name": "Canal 1",
 		   "image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-		 "url": "https://unbiasedsenseevent.com/embed/p7uf4et6n5s8o0",
-              "referer": "https://1l1l.to/",
+		 "url": "https://daddylivehd.com/mylivetv/stream-537.php",
+              "referer": "https://www.freeshot.live/",
 			   "isHost" : "true"
 				  }, {
 			   "name": "Canal 2",
@@ -352,9 +352,9 @@
 			"url":"https://watchtvchh.xyz/channel/ch017008.php",
             		"isHost" : "true"
 				 }, {
-	   "name": "Canal 5",
+	   		"name": "Canal 5",
 			   "image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-			"url": "https://vikistream.com/embed2.php?player=desktop&live=do30",
+			"url": "https://vikistream.com/embed2.php?player=desktop&live=do23",
 			"referer": "https://l1l1.to/",
 			"isHost": "true"
 		}, {
@@ -1025,7 +1025,7 @@
 						 }, {
 							"name": "Canal 4",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-					  		"url": "https://vikistream.com/embed2.php?player=desktop&live=do20",
+					  		"url": "https://vikistream.com/embed2.php?player=desktop&live=do30",
 							 "referer" : "https://1l1l.to/",
 							 "isHost": "true"
 						}, {
@@ -1477,7 +1477,8 @@
 							   }, {
 								"name": "Canal 2",
 								  "image": "https://i.ibb.co/sWgvCCK/logo-f1-fix.png",
-								"url": "https://assia24.com/live/mix-sport39/?lang=pl",
+								"url": "https://utopianwilderness.com/embed/yyae8b9smh4vpe",
+								"referer": "https://starlive.xyz/",
 								   "isHost": "true"
 							   }, {
 											"name": "Canal 3",
@@ -1515,8 +1516,9 @@
 									}, {
 									"name": "Canal 9",
 								  	"image": "https://i.ibb.co/sWgvCCK/logo-f1-fix.png",
-									"url" : "https://srv1.exyu.cc:443/live/stevica/stevica1234/1370.m3u8",
-								  	"userAgent": ""
+									"url": "https://utopianwilderness.com/embed/yyae8b9smh4vpe",
+               								"referer": "https://starlive.xyz/",
+									"isHost": "true"
 							   }, {
 											"name": "Canal 10",
 								  "image": "https://i.ibb.co/sWgvCCK/logo-f1-fix.png",
@@ -1526,8 +1528,9 @@
 							  }, {
 								"name": "Canal 11",
 								"image": "https://i.ibb.co/sWgvCCK/logo-f1-fix.png",
-								"url": "http://94.177.158.190:8081/live/FORMULA1.m3u8/playlist.m3u8",
-							   "userAgent": ""
+								"url": "https://daddylivehd.com/mylivetv/stream-537.php",
+							   	"referer": "https://www.freeshot.live/",
+								"isHost": "true"
 									 }, {
 								"name": "Canal 12",
 								"image": "https://i.ibb.co/sWgvCCK/logo-f1-fix.png",
@@ -1689,7 +1692,7 @@
 								},{
 							 "name": "Canal 3",
 								"image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
-						   "url": "http://sportsurge.stream/embed/boxing2.php",
+						   "url": "http://sportsurge.stream/embed/wwe.php",
 						 "isHost": "true"
 							},{ 
 							 "name": "Canal 4",
@@ -1700,7 +1703,7 @@
 								},{ 
 							 	"name": "Canal 5",
 								"image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
-							   	"url": "http://sportsurge.stream/embed/mma.php",
+							   	"url": "http://sportsurge.stream/embed/ufc.php",
 								"isHost" : "true"
 						  },{ 
 							 "name": "Canal 6",
@@ -1710,7 +1713,7 @@
 						 },{ 
 							 "name": "Canal 7",
 							"image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
-							   "url": "http://sportsurge.stream/embed/ufc.php",
+							   "url": "http://sportsurge.stream/embed/mma.php",
 						 "isHost":"true"  
 					}, { 
 						 	"name": "Canal 8",
@@ -2242,13 +2245,13 @@
                  }, {
 			"name": "Multi 1",
 			"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-			 "url": "https://parsimoniousinvincible.net/embed/52g8nnqi37bly6",
+			 "url": "https://parsimoniousinvincible.net/embed/zlie5rc6nrd95",
 			  "referer" : "https://streamonsport.ru/",
              		"isHost": "true"
                  }, {
 			"name": "Multi 2",
 			"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-			 "url": "https://vikistream.com/embed2.php?player=desktop&live=do1",
+			 "url": "https://vikistream.com/embed2.php?player=desktop&live=do14",
 			  "referer" : "https://l1l1.to/",
              		"isHost": "true"
                  }]
