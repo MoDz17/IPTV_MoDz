@@ -617,9 +617,9 @@
 		"info": "",
 		"stations": [{
 				"name": "Bein Sport Ñ",
-             	"image": "https://static.wikia.nocookie.net/logosfake/images/3/3a/BeIN_Sports_en_Espa%C3%B1ol.png/revision/latest/scale-to-width-down/2953?cb=20180913094220",
-           		"url" :  "https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8",
-			 	"userAgent": ""
+             			"image": "https://static.wikia.nocookie.net/logosfake/images/3/3a/BeIN_Sports_en_Espa%C3%B1ol.png/revision/latest/scale-to-width-down/2953?cb=20180913094220",
+           			"url" :  "https://watchtvchh.xyz/channel/ch016034.php",
+			 	"isHost": "true"
                       }, {
 			               "name": "Canal 1",
                      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/1200px-Logo_bein_sports_1.png",
@@ -822,7 +822,7 @@
                     "image": "https://i.ibb.co/VQpLvTb/logo-channels-ESPN.jpg",
                     "url": "https://wecast.to/hls.php?stream=38tSc8hE6z9c",
                      "referer": "https://bahiadeportes.com/",  
-					"isHost":true
+			"isHost" : "true"
                  },{
                     "name": "Canal 22 [ESPN2]",
                     "image": "https://i.ibb.co/VQpLvTb/logo-channels-ESPN.jpg",
@@ -2001,9 +2001,8 @@
                }, {
 			"name": "Win Sports+",
 			"image": "https://media.metrolatam.com/2019/12/23/capturadepantall-f0f54bcde7fc1471047f7b0e52fe8147-1200x800.jpg",
-			"url":"https://www.tutelehd.net/online2.php?a=3305",
-          "referer" : "https://tucanaldeportivo.com/",
-	           "isHost": "true"
+			"url":"https://watchtvchh.xyz/channel/ch016054.php",
+	           	"isHost": "true"
               }, {
 			"name": "Caracol TV",
 			"image": "https://i.ytimg.com/vi/0N6ycjiJ4Rs/hqdefault.jpg",
