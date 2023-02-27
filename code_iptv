@@ -1554,7 +1554,7 @@
 								  "name": "Canal 14",
 								  "image": "https://i.ibb.co/sWgvCCK/logo-f1-fix.png",
 								  "url" : "https://www.soccerstreams.football/news/formula-sun/",
-								  "isHost": "true"
+								  "userAgent": "navigator"
 										   }, {
 								  "name": "Canal 1",
 								  "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
