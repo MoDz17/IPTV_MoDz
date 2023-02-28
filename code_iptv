@@ -1,13 +1,13 @@
 {
 	"name": "IPT - ADICTOS",
     "author": "MoDz",
-    "image": "https://i.ibb.co/jRKnqsC/Pic-Profile-SV.png",
+    "image": "https://i.ibb.co/PGL5P2Z/Main-pic-Logo-and-Banner.jpg",
     "info": "IPTV oficial de FUTBOL-ADICTOS",
     "telegram": "+wIBp4fXctzpjYTU0",
     "url": "https://raw.githubusercontent.com/MoDz17/IPTV_MoDz/main/code_iptv",
     "groups": [{
              "name": "FUTBOL - ADICTOS",
-            "image": "https://i.ibb.co/jRKnqsC/Pic-Profile-SV.png",
+            "image": "https://i.ibb.co/PGL5P2Z/Main-pic-Logo-and-Banner.jpg",
             "info": "",
             "stations": [{
 			"name": "@FutbolAdictosHD",
@@ -27,9 +27,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 26/02/2023",
+             "name": "Ultm. versión 01/03/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 26/02/2023",
+            "info": "última versión actualizada el 01/03/2023",
             "stations": []
 	}, 
 	
@@ -319,7 +319,7 @@
 			  }, {
 				"name": "Canal 3",
 				"image": "https://i.ibb.co/MMd7zpC/logo-toros.png",
-		   		"url" : "http://castlempire.site:8080/UserTest4Octubre_00s/uek4neVNWyxE/173691",
+		   		"url" : "http://45.143.222.41:8080/live/9a7c64ba/d84b4b99e6/1132.m3u8",
 				"userAgent" : ""
 				}]
 	}, 
