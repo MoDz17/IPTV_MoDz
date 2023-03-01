@@ -29,7 +29,7 @@
 	{
              "name": "Ultm. versión 01/03/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 01/03/2023",
+            "info": "última versión actualizada el 01/03/2023 [parte 2]",
             "stations": []
 	}, 
 	
@@ -474,7 +474,7 @@
 	 		}, { 
 			"name": "Canal 1",
 			   "image": "https://i.ibb.co/p1Ry56w/DAZN-3-Logo-Sin-Fondo.png",
-		 "url": "https://vikistream.com/embed2.php?player=desktop&live=do30",
+		 "url": "https://vikistream.com/embed2.php?player=desktop&live=do26",
 		"referer": "https://l1l1.to/",
 		"isHost": "true"   
 			   },{ 
@@ -559,7 +559,7 @@
 	 }, {
 	"name": "Canal 7",
 	"image": "https://i.ibb.co/LQy2rM6/DAZN-4-Logo-Sin-Fondo.png",
-	"url": "https://vikistream.com/embed2.php?player=desktop&live=do29",
+	"url": "https://vikistream.com/embed2.php?player=desktop&live=do20",
 	"referer": "https://l1l1.to/",
 	 "isHost": "true"  
 	 }, {
