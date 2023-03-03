@@ -1525,9 +1525,10 @@
 	   							"userAgent" : ""
 	 						}, {
 								"name": "Canal 1",
-								  "image": "https://i.ibb.co/sWgvCCK/logo-f1-fix.png",
-								"url": "",
-								   "userAgent" : ""
+							  	"image": "https://i.ibb.co/sWgvCCK/logo-f1-fix.png",
+								"url": "https://utopianwilderness.com/embed/d9g5w8sf900",
+							   	"referer": "https://starlive.xyz/",
+								"isHost": "true"
 							   }, {
 								"name": "Canal 2",
 								"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
@@ -1565,12 +1566,12 @@
 								  "name": "Canal 7",
 								  "image": "https://i.ibb.co/sWgvCCK/logo-f1-fix.png",
 								  "url": "https://castmax.live/embed/daznf1.html",
-											"referer" : "https://bahiadeportes.com/",
+								  "referer" : "https://bahiadeportes.com/",
 								   "isHost":"true"
 									 }, {   
 								  "name": "Canal 8",
 								  "image": "https://i.ibb.co/sWgvCCK/logo-f1-fix.png",
-									"url": "https://starlive.xyz/embed.php?id=liveDaznF1_ES", 
+								  "url": "https://starlive.xyz/embed.php?id=liveDaznF1_ES", 
 								   "isHost":"true"  
 									}, {
 									"name": "Canal 9",
@@ -1579,9 +1580,9 @@
                								"referer": "https://starlive.xyz/",
 									"isHost": "true"
 							   }, {
-											"name": "Canal 10",
+								"name": "Canal 10",
 								  "image": "https://i.ibb.co/sWgvCCK/logo-f1-fix.png",
-											"url" : "https://unbiasedsenseevent.com/embed/g359w0ew",
+								"url" : "https://unbiasedsenseevent.com/embed/g359w0ew",
 								  "referer": "https://buzztv.futbol/",
 								  "isHost": "true"	 
 							  }, {
@@ -1609,7 +1610,7 @@
 								  "name": "Canal 1",
 								  "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
 								   "url" : "https://vkvsd85.mycdn.me/hls/3074988771866.m3u8/sig/uOg-J1nq8ic/expires/1667818231562/srcIp/95.17.98.4/clientType/13/srcAg/CHROME_ANDROID/mid/4160512666394/3074988771866_high/index.m3u8",
-										  "userAgent" : ""
+								  "userAgent" : ""
 									   }, {
 								  "name": "Canal 2",
 								  "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
