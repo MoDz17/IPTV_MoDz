@@ -27,9 +27,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 04/03/2023",
+             "name": "Ultm. versión 05/03/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 04/03/2023",
+            "info": "última versión actualizada el 05/03/2023",
             "stations": []
 	}, 
 	
@@ -1600,7 +1600,7 @@
 							   }, {
 								"name": "Canal 12",
 								  "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-								"url" : "https://unbiasedsenseevent.com/embed/g359w0ew",
+								"url" : "https://unbiasedsenseevent.com/embed/phsheh97kpcdvc2",
 								  "referer": "https://buzztv.futbol/",
 								  "isHost": "true"	 
 							  }, {
@@ -1617,16 +1617,26 @@
 							}, {
 								  "name": "Canal 15",
 								  "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-								  "url" : "http://sportsurge.stream/embed/f1.php",
-								  "isHost": "true"
-							  }, {
-								  "name": "Canal 16",
-								  "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
 								  "url" : "https://vikistream.com/embed2.php?player=desktop&live=do17",
 								  "referer": "https://l1l1.to/",
 								  "isHost": "true"
-							   }, {
+						   	}, {
+								"name": "Canal 16",
+								"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+								"url":"https://argusport.live:90/DAZN-F1/video.m3u8",
+								"userAgent" : ""
+							 }, {
+								"name": "Canal 16",
+								"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+								"url":"http://212.224.84.254:2200/NL/daznf1hd-esp/index.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jne3Jo",
+								"userAgent" : ""
+							 }, {
 								  "name": "Canal 17 [inglés]",
+								  "image": "https://i.ibb.co/nwQrbvN/inglesa.webp",
+								  "url" : "http://sportsurge.stream/embed/f1.php",
+								  "isHost": "true"
+							  }, {
+								  "name": "Canal 18 [inglés]",
 								  "image": "https://i.ibb.co/nwQrbvN/inglesa.webp",
 								  "url" : "https://www.soccerstreams.football/news/03-03/formula-march-3/",
 								  "userAgent": "navigator"
@@ -1635,7 +1645,7 @@
 								  "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
 								   "url" : "https://vkvsd85.mycdn.me/hls/3074988771866.m3u8/sig/uOg-J1nq8ic/expires/1667818231562/srcIp/95.17.98.4/clientType/13/srcAg/CHROME_ANDROID/mid/4160512666394/3074988771866_high/index.m3u8",
 								  "userAgent" : ""
-									   }, {
+							   }, {
 								  "name": "Canal 2",
 								  "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
 								   "url": "https://unbiasedsenseevent.com/embed/9ojk2p0842qtbgr",
@@ -1808,6 +1818,12 @@
 							"image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
 						   	"url": "https://markkystreams.com/video/boxing-2/",
              						"userAgent":""  
+					}, {
+						 	"name": "Canal 10",
+							"image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
+						  	"url" :  "https://unbiasedsenseevent.com/embed/ksji2aq4bn72",
+							"referer" : "https://buzztv.futbol/",
+						 	"isHost":"true"
 					}]
 					   }, {
             "name": "Rugby",
