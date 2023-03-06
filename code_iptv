@@ -27,9 +27,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 05/03/2023",
+             "name": "Ultm. versión 06/03/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 05/03/2023",
+            "info": "última versión actualizada el 06/03/2023",
             "stations": []
 	}, 
 	
@@ -504,7 +504,7 @@
 		 }, { 
 			"name": "Canal 1",
 			   "image": "https://i.ibb.co/p1Ry56w/DAZN-3-Logo-Sin-Fondo.png",
-		 "url": "https://vikistream.com/embed2.php?player=desktop&live=do26",
+		 "url": "https://vikistream.com/embed2.php?player=desktop&live=do29",
 		"referer": "https://l1l1.to/",
 		"isHost": "true"   
 			   },{ 
@@ -594,7 +594,7 @@
 	 }, {
 	"name": "Canal 7",
 	"image": "https://i.ibb.co/LQy2rM6/DAZN-4-Logo-Sin-Fondo.png",
-	"url": "https://vikistream.com/embed2.php?player=desktop&live=do20",
+	"url": "https://vikistream.com/embed2.php?player=desktop&live=do18",
 	"referer": "https://l1l1.to/",
 	 "isHost": "true"  
 	 }, {
@@ -1097,7 +1097,7 @@
 						}, {
 							"name": "Canal 5",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-							 "url": "https://unbiasedsenseevent.com/embed/kd6w2ucd5c",
+							 "url": "https://unbiasedsenseevent.com/embed/ez3sjcbvjr4",
 							 "referer" : "https://elixx.xyz/",
 							 "isHost": "true"
 							}, {
@@ -1126,7 +1126,7 @@
 						}, {
 			"name": "Canal 10",
 			"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-			"url": "https://parsimoniousinvincible.net/embed/zi9oo",
+			"url": "https://parsimoniousinvincible.net/embed/anirqn",
 			 "referer" : "https://streamonsport.ru/",
              "isHost": "true"
                 }, {
@@ -1221,7 +1221,7 @@
 			}, {
 				 "name": "Canal 28",
 			   "image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-			   "url":"https://vikistream.com/embed2.php?player=desktop&live=do6",
+			   "url":"https://vikistream.com/embed2.php?player=desktop&live=do1",
 			   "referer": "https://l1l1.to/",
 			   "isHost" : "true" 
 			}]
@@ -2409,7 +2409,12 @@
         "image":"https://i.ibb.co/1bpMSRX/logo-f1-2.png",
         "stations": 
         [
-           {
+	    {
+            "name": "Bahrein 2023",
+            "image": "https://i.ibb.co/2FFYTy4/GP-Bahrein23.jpg",
+            "url": "https://vk.com/video739310848_456239022",
+            "embed": "true"
+            }, {
             "name": "Gran Bretaña 2022",
             "image": "https://i.ibb.co/PxWNBH2/miniatura-GB22.jpg",
             "url": "https://vk.com/video739310848_456239018",
