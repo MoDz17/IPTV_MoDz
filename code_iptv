@@ -27,9 +27,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 06/03/2023",
+             "name": "Ultm. versión 07/03/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 06/03/2023",
+            "info": "última versión actualizada el 07/03/2023",
             "stations": []
 	}, 
 	
@@ -1044,7 +1044,7 @@
 						  }, {
 							"name": "Canal 5",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-							 "url": "https://vikistream.com/embed2.php?player=desktop&live=do15",
+							 "url": "https://vikistream.com/embed2.php?player=desktop&live=do19",
 							"referer": "https://l1l1.to/",
 							 "isHost": "true"
 					   }, {
@@ -2369,6 +2369,17 @@
 			"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
 			 "url": "https://utopianwilderness.com/embed/btusjpa",
 			"referer" : "https://starlive.xyz/",
+             		"isHost": "true"
+                 }, {
+			"name": "Canal 21",
+			"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
+			 "url": "https://vikistream.com/embed2.php?player=desktop&live=do15",
+			"referer" : "https://l1l1.to/",
+             		"isHost": "true"
+                 }, {
+			"name": "Canal 22",
+			"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
+			 "url": "http://sportsurge.stream/embed/footy1.php",
              		"isHost": "true"
                  }, {
 			"name": "Multi 1",
