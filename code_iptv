@@ -27,9 +27,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 07/03/2023",
+             "name": "Ultm. versión 08/03/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 07/03/2023",
+            "info": "última versión actualizada el 08/03/2023",
             "stations": []
 	}, 
 	
@@ -374,7 +374,7 @@
 				 }, {
 	   		"name": "Canal 5",
 			   "image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-			"url": "https://vikistream.com/embed2.php?player=desktop&live=do10",
+			"url": "https://vikistream.com/embed2.php?player=desktop&live=do23",
 			"referer": "https://l1l1.to/",
 			"isHost": "true"
 		}, {
@@ -594,7 +594,7 @@
 	 }, {
 	"name": "Canal 7",
 	"image": "https://i.ibb.co/LQy2rM6/DAZN-4-Logo-Sin-Fondo.png",
-	"url": "https://vikistream.com/embed2.php?player=desktop&live=do18",
+	"url": "https://vikistream.com/embed2.php?player=desktop&live=do30",
 	"referer": "https://l1l1.to/",
 	 "isHost": "true"  
 	 }, {
@@ -1091,7 +1091,7 @@
 						 }, {
 							"name": "Canal 4",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-					  		"url": "https://vikistream.com/embed2.php?player=desktop&live=do30",
+					  		"url": "https://vikistream.com/embed2.php?player=desktop&live=do20",
 							 "referer" : "https://1l1l.to/",
 							 "isHost": "true"
 						}, {
@@ -2003,8 +2003,8 @@
                     },{
                     "name": "ESPN HD",
                     "image": "https://i.ibb.co/pfvTKxK/espn.gif",
-                  "url": "https://kepa.pw/abed.php?file=espnargentinabahia",
-                     "referer": "https://bahiadeportes.com/",  
+		    "url": "https://tvhd.capshd.xyz/stream.php?ch=https://tucanaldeportivo.com/espn2hd.php",
+                     "referer": "https://www.daddylive.pro/",  
 			"isHost":true
                   },{
                     "name": "ESPN2 HD",
@@ -2373,7 +2373,7 @@
                  }, {
 			"name": "Canal 21",
 			"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-			 "url": "https://vikistream.com/embed2.php?player=desktop&live=do15",
+			 "url": "https://vikistream.com/embed2.php?player=desktop&live=do40",
 			"referer" : "https://l1l1.to/",
              		"isHost": "true"
                  }, {
