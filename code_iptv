@@ -1631,12 +1631,17 @@
 								"url":"http://212.224.84.254:2200/NL/daznf1hd-esp/index.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jne3Jo",
 								"userAgent" : ""
 							 }, {
-								  "name": "Canal 18 [inglés]",
+								  "name": "Canal 18",
+								  "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+								  "url" : "https://watchtvchh.xyz/channel/ch018001.php",
+								  "isHost": "true"
+							  }, {
+								  "name": "Canal 19 [inglés]",
 								  "image": "https://i.ibb.co/nwQrbvN/inglesa.webp",
 								  "url" : "http://sportsurge.stream/embed/f1.php",
 								  "isHost": "true"
 							  }, {
-								  "name": "Canal 19 [inglés]",
+								  "name": "Canal 20 [inglés]",
 								  "image": "https://i.ibb.co/nwQrbvN/inglesa.webp",
 								  "url" : "https://www.soccerstreams.football/news/03-03/formula-march-3/",
 								  "userAgent": "navigator"
