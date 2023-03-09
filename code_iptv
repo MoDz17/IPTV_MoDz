@@ -27,9 +27,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 08/03/2023",
+             "name": "Ultm. versión 10/03/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 08/03/2023",
+            "info": "última versión actualizada el 10/03/2023",
             "stations": []
 	}, 
 	
@@ -374,7 +374,7 @@
 				 }, {
 	   		"name": "Canal 5",
 			   "image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-			"url": "https://vikistream.com/embed2.php?player=desktop&live=do23",
+			"url": "https://vikistream.com/embed2.php?player=desktop&live=do40",
 			"referer": "https://l1l1.to/",
 			"isHost": "true"
 		}, {
@@ -1994,190 +1994,207 @@
 		"name": "Canales variados",
 		"image": "https://i.ibb.co/Brj5qrX/logo-variados.png",
 		"info": "",
-		"stations": [{
+		"stations": [
+		
+		{
+			"name": "Eleven 1",
+			"image": "https://i.ibb.co/ZSp0GsT/logo-Eleven-Sports.png",
+			"url":"http://213.13.16.138/shls/LIVE%24Eleven_Sports_1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END",
+			"userAgent" : ""
+		 }, {
+			"name": "Eleven 2",
+			"image": "https://i.ibb.co/ZSp0GsT/logo-Eleven-Sports.png",
+			"url":"http://213.13.16.138/shls/LIVE%24Eleven_Sports_2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END",
+			"userAgent" : ""
+		 }, {
 			"name": "Sky Sports Golf",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sky_Sport_Golf_Logo_2022.svg/1200px-Sky_Sport_Golf_Logo_2022.svg.png",
 			 "url": "http://cricplay2.xyz/link3/sky-sports-golf",
 			"referer": "http://cricfree.live/",
-             "isHost": "true"
+             		"isHost": "true"
                 }, {
-                    "name": "ESPN HD",
-                    "image": "https://i.ibb.co/pfvTKxK/espn.gif",
+                    "name": "ESPN",
+                    "image": "https://i.ibb.co/rFNKx28/logo-ESPN.png",
                 "url": "http://168.194.171.33:8000/play/a01a/index.m3u8",
 			 "userAgent" : ""
                     },{
-                    "name": "ESPN HD",
-                    "image": "https://i.ibb.co/pfvTKxK/espn.gif",
+                    "name": "ESPN",
+                    "image": "https://i.ibb.co/rFNKx28/logo-ESPN.png",
 		    "url": "https://tvhd.capshd.xyz/stream.php?ch=https://tucanaldeportivo.com/espn2hd.php",
                      "referer": "https://www.daddylive.pro/",  
 			"isHost":true
                   },{
-                    "name": "ESPN2 HD",
-                    "image": "https://imagizer.imageshack.com/v2/640x480q90/922/Svldvw.png",
+                    "name": "ESPN2",
+                    "image": "https://i.ibb.co/XLzx4Rp/logo-ESPN2.png",
                      "url": "http://168.194.171.33:8000/play/a00y/index.m3u8",
 			 "userAgent" : ""
                  },{
-                    "name": "ESPN2 HD",
-                    "image": "https://imagizer.imageshack.com/v2/640x480q90/922/Svldvw.png",
+                    "name": "ESPN2",
+                    "image": "https://i.ibb.co/XLzx4Rp/logo-ESPN2.png",
                      "url":"https://kepa.pw/abed.php?file=espn2argentinabahia",
 		     "referer" : "https://bahiadeportes.com/",
-            "isHost" : "true"
-                                    },{
-                    "name": "ESPN3 HD",
-                    "image": "https://i.ibb.co/Jzf8TCz/espn3.gif",
+            		"isHost" : "true"
+	    	},{
+                    "name": "ESPN3",
+                    "image": "https://i.ibb.co/NNqX2Nj/logo-ESPN3.png",
 		    "url": "https://kepa.pw/abed.php?file=espn3argentinabahia",
                     "referer" : "https://bahiadeportes.com/",
                      "isHost" : "true"
                   },{
-                    "name": "ESPN3 HD",
-                    "image": "https://i.ibb.co/Jzf8TCz/espn3.gif",
+                    "name": "ESPN3",
+                    "image": "https://i.ibb.co/NNqX2Nj/logo-ESPN3.png",
                      "url": "http://168.194.171.33:8000/play/a01y/index.m3u8",
 			 "userAgent" : ""
 		}, {
-			"name": "Fox Sport 1",
-			"image": "https://i.pinimg.com/originals/03/a3/82/03a3822bfa7d5e79c01c69e997ea1eac.jpg",
-                  "url": "http://168.194.171.33:8000/play/a00q/index.m3u8",
+              		"name": "ESPN U",
+			"image": "https://i.ibb.co/HGZw6rY/logo-ESPNU.png",
+			"url": "https://pahaplayers.click/ch/pahe044ch.php",
+                    	"isHost": "true"
+		}, {
+			"name": "Fox Sports 1",
+			"image": "https://i.ibb.co/55GZL1c/logo-fs1.png",
+                  	"url": "http://168.194.171.33:8000/play/a00q/index.m3u8",
 			 "userAgent" : ""
 		}, {
-			"name": "Fox Sport 2",
-			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzzWOE1xMXXiPmjUaz-3LdohqBsNK17JmWlVh2EYvH7fK3ZDNNjRzAzxqANSy8hLZporQ&usqp=CAU",
-                       			 "url": "http://168.194.171.33:8000/play/a01k/index.m3u8",
+			"name": "Fox Sports 2",
+			"image": "https://i.ibb.co/tqfYrvH/logo-fs2.webp",
+			 "url": "http://168.194.171.33:8000/play/a01k/index.m3u8",
 			 "userAgent" : ""
 		}, {
-			"name": "Fox Sport 3",
-			"image": "https://i.ytimg.com/vi/Z2_19oGaU-g/hqdefault.jpg",
-		 "url": "http://168.194.171.33:8000/play/a01l/index.m3u8",
+			"name": "Fox Sports 3",
+			"image": "https://i.ibb.co/xS4PqcP/logo-fs3.png",
+		 	"url": "http://168.194.171.33:8000/play/a01l/index.m3u8",
 			 "userAgent" : ""
            }, {
 			"name": "TUDN",
-			"image": "https://televisa.brightspotcdn.com/dims4/default/67595e0/2147483647/strip/true/crop/1000x563+0+0/resize/1200x675!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2Ff7%2Ffe%2F6e7f5225433c9ba97a4bd5342329%2Fproxy.jpeg",
+			"image": "https://i.ibb.co/XF20w23/logo-TUDN.png",
 			"url":"https://watchtvchh.xyz/channel/ch07006.php",
 	                "isHost": "true"
         }, {
+			"name": "TUDN",
+			"image": "https://i.ibb.co/XF20w23/logo-TUDN.png",
+			"url":"https://linear-357.frequency.stream/dist/vix/357/hls/master/playlist_1024x576.m3u8",
+			"userAgent" : ""
+		 }, {
 			"name": "DirecTV Sports",
-			"image": "https://pbs.twimg.com/profile_images/430086061675778048/q6z2tn5R.jpeg",
+			"image": "https://i.ibb.co/xYZB8br/logo-dtvs.png",
+			"url": "https://www.tutele.nl/online.php?a=8",
+			 "referer" : "https://www.freelive365.net/",
+	           	"isHost": "true"
+		}, {
+			"name": "DirecTV Sports",
+			"image": "https://i.ibb.co/xYZB8br/logo-dtvs.png",
 			"url": "https://coolcast2.com/embed.php?player=desktop&live=directvlive",
                          "referer" : "https://tucanaldeportivo.com/",
 			 "isHost" : "true"
               }, {
 			"name": "DirecTV Sports 2",
-			"image": "https://static.wikia.nocookie.net/logopedia/images/9/90/DirecTV_Sports_2_2015.png/revision/latest?cb=20200706224535&path-prefix=es",
+			"image": "https://i.ibb.co/5vNqyrJ/logo-dtvs2.png",
 			"url": "https://www.tutele.nl/online.php?a=7",
 			 "referer" : "https://www.freelive365.net/",
-	           "isHost": "true"
+	           	"isHost": "true"
                }, {
-			"name": "DirecTV Sports+",
-			"image": "https://fullcanaleshd.files.wordpress.com/2016/05/6a910-directv2bmas.png",
-			"url": "https://www.tutele.nl/online.php?a=8",
-			 "referer" : "https://www.freelive365.net/",
-	           "isHost": "true"
-		}, {
-			"name": "TyC Sport",
-			"image": "https://statics-files.tycsports.com/frontend/tycsports/img/site_image.jpg",
+			"name": "TyC Sports",
+			"image": "https://i.ibb.co/ZfvKGP2/logo-TyC.png",
 			"url": "https://daddyhd.com/embed/stream-157.php",
                          "referer" : "https://www.yallashot.top/",
 			 "isHost" : "true"
                }, {
 			"name": "TNT Sports",
-			"image": "https://i0.wp.com/qepd.news/wp-content/uploads/2019/07/cropped-tnt-sports.jpg?fit=600%2C337&ssl=1",
+			"image": "https://i.ibb.co/b5R24vt/logo-TNT.png",
 			"url": "https://www.tutele.nl/online.php?a=149",
-             "referer" : "https://www.freelive365.net/",
-	           "isHost": "true"
+             		"referer" : "https://www.freelive365.net/",
+	           	"isHost": "true"
               }, {
 			"name": "TNT Sports",
-			"image": "https://i0.wp.com/qepd.news/wp-content/uploads/2019/07/cropped-tnt-sports.jpg?fit=600%2C337&ssl=1",
+			"image": "https://i.ibb.co/b5R24vt/logo-TNT.png",
 			"url":"https://www.tutele.nl/online.php?a=4",
-           "referer" : "https://www.freelive365.net/",
-	           "isHost": "true"
+			"referer" : "https://www.freelive365.net/",
+	           	"isHost": "true"
 		 }, {
-			"name": "Win Sports+",
-			"image": "https://media.metrolatam.com/2019/12/23/capturadepantall-f0f54bcde7fc1471047f7b0e52fe8147-1200x800.jpg",
+			"name": "Win Sports",
+			"image": "https://i.ibb.co/z2vQ9Cd/logo-WS.png",
 			"url":"https://livetvon.click/stream/stream-392.php",
-	           "isHost": "true"    
+	           	"isHost": "true"    
                }, {
-			"name": "Win Sports+",
-			"image": "https://media.metrolatam.com/2019/12/23/capturadepantall-f0f54bcde7fc1471047f7b0e52fe8147-1200x800.jpg",
+			"name": "Win Sports",
+			"image": "https://i.ibb.co/z2vQ9Cd/logo-WS.png",
 			"url":"https://watchtvchh.xyz/channel/ch016054.php",
 	           	"isHost": "true"
               }, {
 			"name": "Caracol TV",
-			"image": "https://i.ytimg.com/vi/0N6ycjiJ4Rs/hqdefault.jpg",
+			"image": "https://i.ibb.co/Cz6VDPZ/logo-caracol.webp",
 			"url" : "https://s01.castamp.com/live/c1dawfawer/chunklist.m3u8?h=rG-pC_s-awBtrT8rkYJS6Q&e=1673662304&u=4674ceaffbd1dd0a5db1ebc16a85ac05&d=37_11_141_29",
 			"userAgent": ""
              }, {
-			"name": "Sky Sport Football",
+			"name": "Sky Sports Football",
 			"image": "https://yt3.ggpht.com/ytc/AAUvwngvw3NiQZvSQLBLGF5g8zJbQQnS50W0IVNyL8dmXA=s900-c-k-c0x00ffffff-no-rj",
 			"url": "https://gocast2.com/embedcr.php?player=desktop&live=skysfott",
                 	"referer" : "https://cricplay2.xyz/",
             		"isHost" : "true"
                }, {
-			"name": "Sky Sport Football",
+			"name": "Sky Sports Football",
 			"image": "https://yt3.ggpht.com/ytc/AAUvwngvw3NiQZvSQLBLGF5g8zJbQQnS50W0IVNyL8dmXA=s900-c-k-c0x00ffffff-no-rj",
 			"url": "https://gocast2.com/embedcr.php?player=desktop&live=skysfott",
             		"referer" : "https://www.freeshot.live/",
 			"isHost": "true" 
-			 }, {
-              "name": "Sky Sport Darts",
+		 }, {
+             		 "name": "Sky Sports Darts",
 			"image": "https://mir-s3-cdn-cf.behance.net/project_modules/fs/390c6d61066503.5a70fb4ebedee.jpg",
 			"url": "https://starlive.xyz/embed.php?id=liveB1",
 			"isHost": "true"
 			  }, {
-              "name": "Sky Sport Darts",
+              		"name": "Sky Sports Darts",
 			"image": "https://mir-s3-cdn-cf.behance.net/project_modules/fs/390c6d61066503.5a70fb4ebedee.jpg",
 			"url": "https://starlive.xyz/embed.php?id=liveDazn3",
 			"isHost": "true"
 		 }, {
-              "name": "Sky Sport Arena",
+              		"name": "Sky Sport Arena",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Sky_Sport_Arena_-_Logo_2018.svg/1200px-Sky_Sport_Arena_-_Logo_2018.svg.png",
 			"url": "https://watchtvchh.xyz/channel/ch017025.php",
 			"isHost": "true"	 
               }, {
-              "name": "Sport TV-1",
+              		"name": "Sport TV-1",
 			"image": "https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png",
-		 "url" :  "https://unbiasedsenseevent.com/embed/k2szvuyqaq8a44x",
-		"referer" : "https://buzztv.futbol/",
+		 	"url" :  "https://unbiasedsenseevent.com/embed/k2szvuyqaq8a44x",
+			"referer" : "https://buzztv.futbol/",
 			 "isHost":"true"
 		}, {
-             "name": "Sport TV-2",
+             		"name": "Sport TV-2",
 			"image": "https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png",
 			 "url" :  "https://unbiasedsenseevent.com/embed/ozbhq",
-		"referer" : "https://buzztv.futbol/",
+			"referer" : "https://buzztv.futbol/",
 			 "isHost":"true"
           }, {
-             "name": "Sport TV-3",
+             		"name": "Sport TV-3",
 			"image": "https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png",
 			 "url" :  "https://unbiasedsenseevent.com/embed/5ojjlk47ul",
-		"referer" : "https://buzztv.futbol/",
+			"referer" : "https://buzztv.futbol/",
 			 "isHost":"true"
           }, {
-              "name": "Sport TV-4",
+              		"name": "Sport TV-4",
 			"image": "https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png",
 			  "url" :  "https://unbiasedsenseevent.com/embed/lsdcbyzutk9g9",
-		"referer" : "https://buzztv.futbol/",
+			"referer" : "https://buzztv.futbol/",
 			 "isHost":"true"
                 }, {
-              "name": "Sport TV-5",
+              		"name": "Sport TV-5",
 			"image": "https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png",
 			 "url" :  "https://unbiasedsenseevent.com/embed/kq68lxi2vab",
-		"referer" : "https://buzztv.futbol/",
+			"referer" : "https://buzztv.futbol/",
 			 "isHost":"true"
                 }, {
 			"name": "Sport TV-6",
-			"image": "https://uploads-eu-west-1.insided.com/meo-pt/attachment/f3f8b257-7ff1-453e-9e97-6dfec9118d9f_thumb.png",
+			"image": "https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png",
 			"url":"http://213.13.16.138/shls/LIVE%24SPORTTV6_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END",
 			"userAgent" : ""
 		 }, {
-              "name": "Fox NFL",
-			"image": "https://i.ytimg.com/vi/E1VNJ6YgrcY/maxresdefault.jpg",
+              		"name": "Fox NFL",
+			"image": "https://i.ibb.co/4gFncw9/logo-FNFL.png",
 			"url": "https://ragnaru.net/embed.php?player=desktop&live=do19",
                     "referer": "https://em.bedsport.live/",
                     "isHost": "true"      
-		 }, {
-              "name": "ESPN U",
-			"image": "https://www.nicepng.com/png/detail/36-369397_espnu-logo-espn-u.png",
-			"url": "https://pahaplayers.click/ch/pahe044ch.php",
-                    "isHost": "true"
-		}]
+		 }]
 		}, {
 			"name": "TV España",
 			"image": "https://i.ibb.co/f8KVfs4/bandera-esp.webp",
