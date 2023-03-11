@@ -374,7 +374,7 @@
 				 }, {
 	   		"name": "Canal 5",
 			   "image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-			"url": "https://vikistream.com/embed2.php?player=desktop&live=do40",
+			"url": "https://vikistream.com/embed2.php?player=desktop&live=do10",
 			"referer": "https://l1l1.to/",
 			"isHost": "true"
 		}, {
@@ -875,37 +875,43 @@
 			 "referer": "https://bahiadeportes.com/",
 			 "isHost": "true" 
 		}, {
-                    "name": "Canal 24 [ESPN]",
+			"name": "Canal 24",
+			"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
+			"url" : "https://earthquakecensus.com/embed/b0wn4l3",
+			 "referer": "https://starlive.xyz/",
+			 "isHost": "true" 
+		}, {
+                    "name": "Canal 25 [ESPN]",
                     "image": "https://i.ibb.co/VQpLvTb/logo-channels-ESPN.jpg",
                     "url": "https://wecast.to/hls.php?stream=38tSc8hE6z9c",
                      "referer": "https://bahiadeportes.com/",  
 			"isHost" : "true"
                  },{
-                    "name": "Canal 25 [ESPN2]",
+                    "name": "Canal 26 [ESPN2]",
                     "image": "https://i.ibb.co/VQpLvTb/logo-channels-ESPN.jpg",
                      "url":"https://wecast.to/hls.php?stream=wrK4VGJ4fyST",
 		     "referer" : "https://bahiadeportes.com/",
             		"isHost" : "true"
                   },{
-                    "name": "Canal 26 [ESPN3]",
+                    "name": "Canal 27 [ESPN3]",
                     "image": "https://i.ibb.co/VQpLvTb/logo-channels-ESPN.jpg",
                    "url": "https://wecast.to/hls.php?stream=yhzly0qurt9y",
                  "referer" : "https://bahiadeportes.com/",
                      "isHost" : "true"
              }, {
-			"name": "Canal 27 [inglés]",
+			"name": "Canal 28 [inglés]",
 			"image": "https://i.ibb.co/nwQrbvN/inglesa.webp",
            		"url": "https://deliriousholistic.net/embed/37g5h7ynae",
 	   		"referer" : "https://strims.top/",
              		"isHost":"true" 
            }, {
-			"name": "Canal 28 [inglés]",
+			"name": "Canal 29 [inglés]",
 			"image": "https://i.ibb.co/nwQrbvN/inglesa.webp",
             		"url" : "https://www.nolive.me/sd0embed",
 			"referer": "https://embedstream.me/",
              		"isHost": "true" 
 	   }, {
-			"name": "Canal 29 [inglés]",
+			"name": "Canal 30 [inglés]",
 	   		"image": "https://i.ibb.co/nwQrbvN/inglesa.webp",
 	   		"url":"https://enjoy4k.shop:30445/live/abr_ch4/playlist.m3u8",
 	   		"userAgent" : ""
@@ -1091,7 +1097,7 @@
 						 }, {
 							"name": "Canal 4",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-					  		"url": "https://vikistream.com/embed2.php?player=desktop&live=do20",
+					  		"url": "https://vikistream.com/embed2.php?player=desktop&live=do30",
 							 "referer" : "https://1l1l.to/",
 							 "isHost": "true"
 						}, {
@@ -1790,7 +1796,7 @@
 								},{
 							 "name": "Canal 3",
 								"image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
-						   "url": "https://markkystreams.com/video/boxing-1/",
+						   "url": "https://markkystreams.com/video/mma/",
 						 "isHost": "true"
 							},{ 
 							 "name": "Canal 4",
@@ -1821,7 +1827,7 @@
 					}, { 
 						 	"name": "Canal 9",
 							"image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
-						   	"url": "https://markkystreams.com/video/boxing-2/",
+						   	"url": "https://markkystreams.com/video/ufc/",
              						"userAgent":""  
 					}, {
 						 	"name": "Canal 10",
@@ -2141,7 +2147,7 @@
 		 }, {
              		 "name": "Sky Sports Darts",
 			"image": "https://mir-s3-cdn-cf.behance.net/project_modules/fs/390c6d61066503.5a70fb4ebedee.jpg",
-			"url": "https://starlive.xyz/embed.php?id=liveB1",
+			"url": "https://starlive.xyz/embed.php?id=liveSP1",
 			"isHost": "true"
 			  }, {
               		"name": "Sky Sports Darts",
