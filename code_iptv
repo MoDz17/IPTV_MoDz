@@ -27,9 +27,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 10/03/2023",
+             "name": "Ultm. versión 11/03/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 10/03/2023",
+            "info": "última versión actualizada el 11/03/2023",
             "stations": []
 	}, 
 	
@@ -139,7 +139,7 @@
 				"name": "Canal 6",
 				"image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
 			"url": "https://parsimoniousinvincible.net/embed/lbr3etluqsw",
-				"referer": "https://streamonsport.ru/",
+				"referer": "https://macron.xyz/",
 				 "isHost": "true"
 			}, {
 				"name": "Canal 7",
@@ -276,12 +276,13 @@
 				"name": "Canal 2",
 				"image": "https://i.ibb.co/4NvkCVR/logo-deportes.png",
 				 "url": "https://voraciousglove.net/embed/89ftq8ua1j5lr",
-				 "referer" : "https://streamonsport.ru/",
-							 "isHost" : "true"
+				 "referer" : "https://macron.xyz/",
+				 "isHost" : "true"
 			}, {
 				"name": "Canal 3",
 				"image": "https://i.ibb.co/4NvkCVR/logo-deportes.png",
-				 "url": "https://embx202281.apl199.me/player/live.php?id=210443&w=100%&h=100%",
+				 "url": "https://vikistream.com/embed2.php?player=desktop&live=do20",
+				 "referer": "https://l1l1.to/",
 				"isHost": "true"
 			 }, {
 			 	"name": "Canal 4",
@@ -508,11 +509,11 @@
 		"referer": "https://l1l1.to/",
 		"isHost": "true"   
 			   },{ 
-			"name": "Canal 2",
-			   "image": "https://i.ibb.co/p1Ry56w/DAZN-3-Logo-Sin-Fondo.png",
+				"name": "Canal 2",
+			   	"image": "https://i.ibb.co/p1Ry56w/DAZN-3-Logo-Sin-Fondo.png",
 				"url": "https://parsimoniousinvincible.net/embed/xvofyfktwqkwrr",
-	   "referer" : "https://streamonsport.ru/",
-	   "isHost":"true"
+	   			"referer" : "https://streamonsport.ru/",
+	   			"isHost":"true"
 			  },{ 
 			"name": "Canal 3",
 			   "image": "https://i.ibb.co/p1Ry56w/DAZN-3-Logo-Sin-Fondo.png",
@@ -539,7 +540,7 @@
 				"name": "Canal 7",
 			   "image": "https://i.ibb.co/p1Ry56w/DAZN-3-Logo-Sin-Fondo.png",
 			   "url": "https://warnforlese.net/embed/xvofyfktwqkwrr",
-			   "referer" : "https://streamonsport44.buzz/",
+			   "referer" : "https://macron.xyz/",
 			   "isHost":"true"
 				   }, {
 			   "name": "Canal 8",
@@ -583,7 +584,7 @@
 	"name": "Canal 5",
 	"image": "https://i.ibb.co/LQy2rM6/DAZN-4-Logo-Sin-Fondo.png",
 	"url" : "https://parsimoniousinvincible.net/embed/w67i2uz",
-	 "referer": "https://streamonsport44.buzz/",
+	 "referer": "https://macron.xyz/",
 	 "isHost": "true"
 	   }, {
 	"name": "Canal 6",
@@ -805,7 +806,7 @@
 						"name": "Canal 11",
 						"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
 					 	"url": "https://parsimoniousinvincible.net/embed/6na79kddf",
-						"referer": "https://streamonsport.ru/",
+						"referer": "https://macron.xyz/",
 						 "isHost": "true"
 						 }, {
 						"name": "Canal 12",
@@ -1068,7 +1069,7 @@
 						   }, {
 							"name": "Canal 8",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-							"url": "https://cdn122.com/embed/h8zgkrg",
+							"url": "https://vikistream.com/embed2.php?player=desktop&live=do14",
 							"referer" : "https://l1l1.to/",
 							 "isHost": "true"
 						}]
@@ -1103,7 +1104,7 @@
 						}, {
 							"name": "Canal 5",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-							 "url": "https://unbiasedsenseevent.com/embed/ez3sjcbvjr4",
+							 "url": "https://unbiasedsenseevent.com/embed/kd6w2ucd5c",
 							 "referer" : "https://elixx.xyz/",
 							 "isHost": "true"
 							}, {
@@ -1227,7 +1228,7 @@
 			}, {
 				 "name": "Canal 28",
 			   "image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-			   "url":"https://vikistream.com/embed2.php?player=desktop&live=do1",
+			   "url":"https://vikistream.com/embed2.php?player=desktop&live=do6",
 			   "referer": "https://l1l1.to/",
 			   "isHost" : "true" 
 			}]
@@ -1489,13 +1490,13 @@
 							 "name": "Canal 4",
 								"image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
 						   "url" : "https://parsimoniousinvincible.net/embed/rq4g6",
-						"referer" : "https://streamonsport.ru/",
+						"referer" : "https://macron.xyz/",
 						"isHost":"true"
 								 },{
 								 "name": "Canal 5",
 								"image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
 							 "url": "https://parsimoniousinvincible.net/embed/105qqn",
-							  "referer" : "https://streamonsport.ru/",
+							  "referer" : "https://macron.xyz/",
 						 "isHost": "true"
 								  },{
 								 "name": "Canal 6",
@@ -1507,7 +1508,7 @@
 								 "name": "Canal 7",
 								"image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
 							 "url": "https://parsimoniousinvincible.net/embed/dp4tigbdvjxr4l",
-							  "referer" : "https://streamonsport.ru/",
+							  "referer" : "https://macron.xyz/",
 						 "isHost": "true"
 								  },{
 								 "name": "Canal 8",
@@ -1519,7 +1520,7 @@
 								 "name": "Canal 9",
 								"image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
 							 "url": "https://parsimoniousinvincible.net/embed/dxcfd934ttzx",
-                  					"referer" : "https://streamonsport.ru/",
+                  					"referer" : "https://macron.xyz/",
 						 	"isHost": "true" 
 							  }]
 						  }, {
@@ -1988,14 +1989,19 @@
 				   }, {
 				"name": "Canal 13",
 				"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
-				"url" : "http://markkystreams.com/video/nhl-12/",
+				"url" : "http://markkystreams.com/video/nhl-13/",
 				"isHost": "true"
-					 }, {
+			 }, {
 				"name": "Canal 14",
 				"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
-				"url" : "http://markkystreams.com/video/nhl-13/",
+				"url" : "http://markkystreams.com/video/nhl-14/",
 				"isHost": "true"    
-			}]
+			}, {
+				"name": "Canal 15",
+				"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
+				"url" : "http://markkystreams.com/video/nhl-15/",
+				"isHost": "true"
+			 }]
 				 }, {
 		"name": "Canales variados",
 		"image": "https://i.ibb.co/Brj5qrX/logo-variados.png",
