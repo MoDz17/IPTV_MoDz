@@ -1828,14 +1828,24 @@
 					}, { 
 						 	"name": "Canal 9",
 							"image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
-						   	"url": "https://markkystreams.com/video/ufc/",
-             						"userAgent":""  
+						   	"url": "http://sportsurge.stream/embed/boxing2.php",
+             						"isHost":"true"  
 					}, {
 						 	"name": "Canal 10",
 							"image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
-						  	"url" :  "https://unbiasedsenseevent.com/embed/ksji2aq4bn72",
+						  	"url" :  "https://unbiasedsenseevent.com/embed/awcg463b",
 							"referer" : "https://buzztv.futbol/",
 						 	"isHost":"true"
+					}, { 
+						 	"name": "Canal 11",
+							"image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
+						   	"url": "http://sportsurge.stream/embed/boxing3.php",
+             						"isHost":"true"  
+					}, { 
+						 	"name": "Canal 12",
+							"image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
+						   	"url": "https://markkystreams.com/video/ufc/",
+             						"isHost":"true"  
 					}]
 					   }, {
             "name": "Rugby",
