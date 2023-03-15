@@ -385,7 +385,7 @@
 				 }, {
 	   		"name": "Canal 5",
 			   "image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-			"url": "https://vikistream.com/embed2.php?player=desktop&live=do10",
+			"url": "https://vikistream.com/embed2.php?player=desktop&live=do20",
 			"referer": "https://l1l1.to/",
 			"isHost": "true"
 		}, {
@@ -515,7 +515,7 @@
 		 }, { 
 			"name": "Canal 1",
 			   "image": "https://i.ibb.co/p1Ry56w/DAZN-3-Logo-Sin-Fondo.png",
-		 "url": "https://vikistream.com/embed2.php?player=desktop&live=do29",
+		 "url": "https://vikistream.com/embed2.php?player=desktop&live=do10",
 		"referer": "https://l1l1.to/",
 		"isHost": "true"   
 			   },{ 
@@ -2443,6 +2443,11 @@
 			"name": "Canal 22",
 			"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
 			 "url": "http://sportsurge.stream/embed/footy1.php",
+             		"isHost": "true"
+                 }, {
+			"name": "Canal 23",
+			"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
+			 "url": "http://sportsurge.stream/embed/footy2.php",
              		"isHost": "true"
                  }, {
 			"name": "Multi 1",
