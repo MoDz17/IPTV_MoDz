@@ -27,9 +27,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 12/03/2023",
+             "name": "Ultm. versión 18/03/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 12/03/2023",
+            "info": "última versión actualizada el 18/03/2023",
             "stations": []
 	}, 
 	
@@ -897,37 +897,43 @@
 			"url" : "https://starlive.xyz/ch/espndeportes.php",
 			 "isHost": "true" 
 		}, {
-                    "name": "Canal 26 [ESPN]",
+			"name": "Canal 26",
+			"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
+			"url" : "https://voraciousglove.net/embed/zbz7klq",
+			 "referer": "https://1stream.buzz/",
+			 "isHost": "true" 
+		}, {
+                    "name": "Canal 27 [ESPN]",
                     "image": "https://i.ibb.co/VQpLvTb/logo-channels-ESPN.jpg",
                     "url": "https://wecast.to/hls.php?stream=38tSc8hE6z9c",
                      "referer": "https://bahiadeportes.com/",  
 			"isHost" : "true"
                  },{
-                    "name": "Canal 27 [ESPN2]",
+                    "name": "Canal 28 [ESPN2]",
                     "image": "https://i.ibb.co/VQpLvTb/logo-channels-ESPN.jpg",
                      "url":"https://wecast.to/hls.php?stream=wrK4VGJ4fyST",
 		     "referer" : "https://bahiadeportes.com/",
             		"isHost" : "true"
                   },{
-                    "name": "Canal 28 [ESPN3]",
+                    "name": "Canal 29 [ESPN3]",
                     "image": "https://i.ibb.co/VQpLvTb/logo-channels-ESPN.jpg",
                    "url": "https://wecast.to/hls.php?stream=yhzly0qurt9y",
                  "referer" : "https://bahiadeportes.com/",
                      "isHost" : "true"
              }, {
-			"name": "Canal 29 [inglés]",
+			"name": "Canal 30 [inglés]",
 			"image": "https://i.ibb.co/nwQrbvN/inglesa.webp",
            		"url": "https://deliriousholistic.net/embed/37g5h7ynae",
 	   		"referer" : "https://strims.top/",
              		"isHost":"true" 
            }, {
-			"name": "Canal 30 [inglés]",
+			"name": "Canal 31 [inglés]",
 			"image": "https://i.ibb.co/nwQrbvN/inglesa.webp",
             		"url" : "https://www.nolive.me/sd0embed",
 			"referer": "https://embedstream.me/",
              		"isHost": "true" 
 	   }, {
-			"name": "Canal 31 [inglés]",
+			"name": "Canal 32 [inglés]",
 	   		"image": "https://i.ibb.co/nwQrbvN/inglesa.webp",
 	   		"url":"https://enjoy4k.shop:30445/live/abr_ch4/playlist.m3u8",
 	   		"userAgent" : ""
@@ -1592,7 +1598,7 @@
 							  }, {
 								"name": "Canal 6",
 								  "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-								"url" : "https://starlive.xyz/embed.php?id=liveF1_ES",
+								"url" : "https://www.freeshot.live/live-tv/dazn-f1/241",
 								  "isHost": "true" 	
 								}, {
 								"name": "Canal 7",
@@ -1643,7 +1649,7 @@
 							}, {
 								  "name": "Canal 15",
 								  "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-								  "url" : "https://vikistream.com/embed2.php?player=desktop&live=do16",
+								  "url" : "https://vikistream.com/embed2.php?player=desktop&live=do26",
 								  "referer": "https://l1l1.to/",
 								  "isHost": "true"
 						   	}, {
@@ -1662,12 +1668,35 @@
 								  "url" : "https://watchtvchh.xyz/channel/ch018001.php",
 								  "isHost": "true"
 							  }, {
-								  "name": "Canal 19 [inglés]",
+								"name": "Canal 19",
+							  	"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+								"url" : "https://starlive.xyz/embed.php?id=liveF1_ES",
+							  	"isHost":"true"  
+							  }, {
+								"name": "Canal 20",
+						  		"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+								"url" : "https://wecast.to/popy.php?stream=RdKfpotjL5g",
+							  	"referer" : "https://livetvstream.pro/",
+                             					"isHost":"true" 
+							  }, {
+								"name": "Canal 21",
+						  		"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+								"url" : "https://ntv.capshd.xyz/canaltv.php?ch=https://tucanaldeportivo.com/daznf1.php",
+							  	"referer" : "https://www.tarjetarojatv.site/",
+                             					"isHost":"true" 
+							  }, {
+								"name": "Canal 22",
+						  		"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+								"url" : "https://earthquakecensus.com/embed/d9g5w8sf900",
+							  	"referer" : "https://starlive.xyz/",
+                             					"isHost":"true" 
+							  }, {
+								  "name": "Canal 1 [F1 inglés]",
 								  "image": "https://i.ibb.co/nwQrbvN/inglesa.webp",
 								  "url" : "http://sportsurge.stream/embed/f1.php",
 								  "isHost": "true"
 							  }, {
-								  "name": "Canal 20 [inglés]",
+								  "name": "Canal 2 [F1 inglés]",
 								  "image": "https://i.ibb.co/nwQrbvN/inglesa.webp",
 								  "url" : "https://www.soccerstreams.football/news/03-03/formula-march-3/",
 								  "userAgent": "navigator"
