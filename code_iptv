@@ -29,7 +29,7 @@
 	{
              "name": "Ultm. versión 18/03/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 18/03/2023",
+            "info": "última versión actualizada el 18/03/2023 [parte 2]",
             "stations": []
 	}, 
 	
@@ -385,7 +385,7 @@
 				 }, {
 	   		"name": "Canal 5",
 			   "image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-			"url": "https://vikistream.com/embed2.php?player=desktop&live=do20",
+			"url": "https://vikistream.com/embed2.php?player=desktop&live=do10",
 			"referer": "https://l1l1.to/",
 			"isHost": "true"
 		}, {
@@ -903,37 +903,43 @@
 			 "referer": "https://1stream.buzz/",
 			 "isHost": "true" 
 		}, {
-                    "name": "Canal 27 [ESPN]",
+			"name": "Canal 27",
+			"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
+			"url" : "https://zvmajb6v.ilive.sbs/embed/ZDUfOFldOZ40",
+			 "referer": "https://onionstream.live/",
+			 "isHost": "true" 
+		}, {
+                    "name": "Canal 28 [ESPN]",
                     "image": "https://i.ibb.co/VQpLvTb/logo-channels-ESPN.jpg",
                     "url": "https://wecast.to/hls.php?stream=38tSc8hE6z9c",
                      "referer": "https://bahiadeportes.com/",  
 			"isHost" : "true"
                  },{
-                    "name": "Canal 28 [ESPN2]",
+                    "name": "Canal 29 [ESPN2]",
                     "image": "https://i.ibb.co/VQpLvTb/logo-channels-ESPN.jpg",
                      "url":"https://wecast.to/hls.php?stream=wrK4VGJ4fyST",
 		     "referer" : "https://bahiadeportes.com/",
             		"isHost" : "true"
                   },{
-                    "name": "Canal 29 [ESPN3]",
+                    "name": "Canal 30 [ESPN3]",
                     "image": "https://i.ibb.co/VQpLvTb/logo-channels-ESPN.jpg",
                    "url": "https://wecast.to/hls.php?stream=yhzly0qurt9y",
                  "referer" : "https://bahiadeportes.com/",
                      "isHost" : "true"
              }, {
-			"name": "Canal 30 [inglés]",
+			"name": "Canal 31 [inglés]",
 			"image": "https://i.ibb.co/nwQrbvN/inglesa.webp",
            		"url": "https://deliriousholistic.net/embed/37g5h7ynae",
 	   		"referer" : "https://strims.top/",
              		"isHost":"true" 
            }, {
-			"name": "Canal 31 [inglés]",
+			"name": "Canal 32 [inglés]",
 			"image": "https://i.ibb.co/nwQrbvN/inglesa.webp",
             		"url" : "https://www.nolive.me/sd0embed",
 			"referer": "https://embedstream.me/",
              		"isHost": "true" 
 	   }, {
-			"name": "Canal 32 [inglés]",
+			"name": "Canal 33 [inglés]",
 	   		"image": "https://i.ibb.co/nwQrbvN/inglesa.webp",
 	   		"url":"https://enjoy4k.shop:30445/live/abr_ch4/playlist.m3u8",
 	   		"userAgent" : ""
@@ -952,7 +958,7 @@
 				   }, {
 					"name": "Canal 3",
 					"image": "https://static1.diariosur.es/www/multimedia/201907/30/media/cortadas/liga-smart-bank-kHMB-U80877895812lSF-1248x770@RC.jpg",
-								"url" : "https://parsimoniousinvincible.net/embed/opthng68di66m",
+					"url" : "https://parsimoniousinvincible.net/embed/opthng68di66m",
 					   "referer" : "https://streamonsport44.buzz/",
 					  "isHost" : "true"
 					   }, {
@@ -984,6 +990,12 @@
 	   				"image": "https://static1.diariosur.es/www/multimedia/201907/30/media/cortadas/liga-smart-bank-kHMB-U80877895812lSF-1248x770@RC.jpg",
 	   				"url":"http://212.224.84.217:2200/NL/daznlaliga2-esp/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo",
 	   				"userAgent" : ""
+				}, {
+					"name": "Canal 9",
+					"image": "https://static1.diariosur.es/www/multimedia/201907/30/media/cortadas/liga-smart-bank-kHMB-U80877895812lSF-1248x770@RC.jpg",
+					"url" : "https://unbiasedsenseevent.com/embed/elvylkg3",
+              				"referer": "https://l1l1.to/",
+           				"isHost" : "true"
 				}]
                       }, 
 					  
@@ -1012,7 +1024,7 @@
 							}, {
 							"name": "Canal 4",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-					   		"url": "https://vikistream.com/embed2.php?player=desktop&live=do26",
+					   		"url": "https://vikistream.com/embed2.php?player=desktop&live=do10",
 							 "referer": "https://1l1l.to/",
 							 "isHost": "true"
 								}, {
@@ -1096,7 +1108,7 @@
 						}, {
 							"name": "Canal 9",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-							"url": "https://vikistream.com/embed2.php?player=desktop&live=do11",
+							"url": "https://vikistream.com/embed2.php?player=desktop&live=do15",
 							"referer" : "https://l1l1.to/",
 							 "isHost": "true"
 						}]
@@ -1155,7 +1167,8 @@
 						   }, {
 							"name": "Canal 9",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-							"url": "https://starlive.xyz/embed.php?id=liveDazn31",
+							"url": "https://vikistream.com/embed2.php?player=desktop&live=do2",
+							"referer": "https://l1l1.to/",
 							 "isHost": "true"
 						}, {
 			"name": "Canal 10",
@@ -1258,6 +1271,12 @@
 			   "url":"https://vikistream.com/embed2.php?player=desktop&live=do3",
 			   "referer": "https://l1l1.to/",
 			   "isHost" : "true" 
+			}, {
+				 "name": "Canal 29",
+			   "image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
+			   "url":"https://vikistream.com/embed2.php?player=desktop&live=do1",
+			   "referer": "https://l1l1.to/",
+			   "isHost" : "true" 
 			}]
 		 }, {
 			"name": "Ligue 1",
@@ -1272,7 +1291,7 @@
 			}, {
 				"name": "Canal 2",
 				"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-				 "url": "https://vikistream.com/embed2.php?player=desktop&live=do36",
+				 "url": "https://vikistream.com/embed2.php?player=desktop&live=do38",
 				"referer": "https://l1l1.to/",
 				 "isHost": "true"
 			}, {
@@ -1326,7 +1345,7 @@
 				 }, {
 				"name": "Canal 11",
 				"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-		   		"url": "https://vikistream.com/embed2.php?player=desktop&live=do3",
+		   		"url": "https://vikistream.com/embed2.php?player=desktop&live=do7",
 				"referer": "https://l1l1.to/",
 				 "isHost": "true"
 				}, {
@@ -1547,6 +1566,11 @@
 							 "url": "https://parsimoniousinvincible.net/embed/dxcfd934ttzx",
                   					"referer" : "https://macron.xyz/",
 						 	"isHost": "true" 
+							  }, {
+								 "name": "Canal 10",
+								"image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
+							 "url": "https://assia24.com/live/online-football/?lang=pl",
+						 	"isHost": "true" 
 							  }]
 						  }, {
 							  "name": "Zona Motor",
@@ -1689,6 +1713,12 @@
 						  		"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
 								"url" : "https://earthquakecensus.com/embed/d9g5w8sf900",
 							  	"referer" : "https://starlive.xyz/",
+                             					"isHost":"true" 
+							  }, {
+								"name": "Canal 23",
+						  		"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+								"url" : "https://4bj8z9iu.sportbar.live/embed/PU4IBDfvLUhv",
+							  	"referer" : "https://onionstream.live/",
                              					"isHost":"true" 
 							  }, {
 								  "name": "Canal 1 [F1 inglés]",
