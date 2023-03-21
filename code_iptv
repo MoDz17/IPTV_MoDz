@@ -27,9 +27,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 18/03/2023",
+             "name": "Ultm. versión 21/03/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 18/03/2023 [parte 2]",
+            "info": "última versión actualizada el 21/03/2023",
             "stations": []
 	}, 
 	
@@ -2521,68 +2521,81 @@
 			  "referer" : "https://l1l1.to/",
              		"isHost": "true"
                  }]
-   }, {
-    "name":"En diferido",
-"image":"https://i.ibb.co/hCsX9VM/logo-diferido.png",
-"groups":
-[
-    {
-    "name": "               ↑  ↑  ↑",
-       "image": "https://i.ibb.co/xMwGggX/logo-aviso-pc.png",    
-      "url" : ""
-  }, {
-    "name": "Peticiones",
-       "image": "https://i.ibb.co/rc9ds7x/jugones-pic-discord.png",    
-      "stations": 
-    [
-    {
-      "name": "Hacer petición",
-      "image": "https://i.ibb.co/rc9ds7x/jugones-pic-discord.png",    
-      "url" : "https://discord.gg/phVVJFSR4t",
-      "embed": "true"
-      }
-    ]
-  }, {
-        "name":"Fórmula 1",
-        "image":"https://i.ibb.co/1bpMSRX/logo-f1-2.png",
-        "stations": 
-        [
-	    {
-            "name": "Bahrein 2023",
-            "image": "https://i.ibb.co/2FFYTy4/GP-Bahrein23.jpg",
-            "url": "https://vk.com/video739310848_456239022",
-            "embed": "true"
-            }, {
-            "name": "Gran Bretaña 2022",
-            "image": "https://i.ibb.co/PxWNBH2/miniatura-GB22.jpg",
-            "url": "https://vk.com/video739310848_456239018",
-            "embed": "true"
-            }, {
-            "name": "Mónaco 2022",
-            "image": "https://i.ibb.co/C9F6qDj/GP-Monaco.jpg",
-            "url": "https://vk.com/video739310848_456239021",
-            "embed": "true"
-            }
-        ] 
-    }, {
-        "name":"UFC",
-        "image":"https://i.ibb.co/S5NN7p3/logo-ufc.png",
-        "stations": 
-        [
-            {
-            "name": "UFC 284",
-            "image": "https://i.ibb.co/51LsJfL/Makha-Volka284.jpg",
-            "url": "https://vk.com/video739310848_456239020",
-             "embed": "true"
-            },
-            {
-            "name": "UFC 284",
-            "image": "https://i.ibb.co/NK0CNN7/Rodri-Emme284.jpg",
-            "url": "https://vk.com/video739310848_456239019",
-            "embed": "true"
-            }
-        ]
-    }
-  ]
-}]
+   			}, {
+    				"name":"En diferido",
+					"image":"https://i.ibb.co/hCsX9VM/logo-diferido.png",
+					"groups":
+								[
+    								{
+    									"name": "               ↑  ↑  ↑",
+										"image": "https://i.ibb.co/xMwGggX/logo-aviso-pc.png",    
+										"url" : ""
+  									}, {
+										"name": "Peticiones",
+       									"image": "https://i.ibb.co/rc9ds7x/jugones-pic-discord.png",    
+      									"stations": 
+    								[
+    									{
+      										"name": "Hacer petición",
+      										"image": "https://i.ibb.co/rc9ds7x/jugones-pic-discord.png",    
+											"url" : "https://discord.gg/phVVJFSR4t",
+      										"embed": "true"
+      									}
+    								]
+  									}, {
+        									"name":"Fórmula 1",
+        									"image":"https://i.ibb.co/1bpMSRX/logo-f1-2.png",
+        									"stations": 
+        							[
+										{
+											"name": "Bahrein 2023",
+            								"image": "https://i.ibb.co/2FFYTy4/GP-Bahrein23.jpg",
+            								"url": "https://vk.com/video739310848_456239022",
+            								"embed": "true"
+            							}, {
+            								"name": "Gran Bretaña 2022",
+            								"image": "https://i.ibb.co/PxWNBH2/miniatura-GB22.jpg",
+            								"url": "https://vk.com/video739310848_456239018",
+            								"embed": "true"
+            							}, {
+            								"name": "Mónaco 2022",
+            								"image": "https://i.ibb.co/C9F6qDj/GP-Monaco.jpg",
+											"url": "https://vk.com/video739310848_456239021",
+            								"embed": "true"
+            							}
+        							] 
+    								}, {
+        									"name":"UFC",
+        									"image":"https://i.ibb.co/S5NN7p3/logo-ufc.png",
+        									"stations": 
+        							[
+            							{
+            								"name": "UFC 284",
+            								"image": "https://i.ibb.co/51LsJfL/Makha-Volka284.jpg",
+            								"url": "https://vk.com/video739310848_456239020",
+											"embed": "true"
+            							}, {
+            								"name": "UFC 284",
+            								"image": "https://i.ibb.co/NK0CNN7/Rodri-Emme284.jpg",
+            								"url": "https://vk.com/video739310848_456239019",
+            								"embed": "true"
+            							}
+									]
+    								}
+  								]
+						}, {
+								"name": "Streams",
+						   		"image": "https://i.ibb.co/njPF3vb/Stream-Pic-Pro.png",
+						   		"info": "",
+						   		"stations": 
+						   		[
+									{
+										"name": "Acceder",
+										"image": "https://i.ibb.co/dkBqspW/logo-telegram.png",    
+									   	"url" : "http://futbolgratisbymodz.rf.gd/",
+									   	"embed": "true"
+									}
+								]
+				   			}
+	]
 }
