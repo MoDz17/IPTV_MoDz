@@ -27,9 +27,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 21/03/2023",
+             "name": "Ultm. versión 24/03/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 21/03/2023",
+            "info": "última versión actualizada el 24/03/2023",
             "stations": []
 	}, 
 	
@@ -39,12 +39,12 @@
 		"info": "",
 		"stations": [{
 			"name": "[CERRADO]",
-		   "image": "https://i.ibb.co/KVhG0c8/logo-mundial.jpg",    
-		  "url" : ""
+		   	"image": "https://i.ibb.co/KVhG0c8/logo-mundial.jpg",    
+		  	"url" : ""
 			  }, {
 			"name": "[CERRADO]",
-		   "image": "https://i.ibb.co/KVhG0c8/logo-mundial.jpg",    
-	   "url" : ""
+		   	"image": "https://i.ibb.co/KVhG0c8/logo-mundial.jpg",    
+	   		"url" : ""
 		   }, {
 			"name": "Canal 1",
 		  "image": "https://i.ibb.co/8dXVPMV/logo-0.png",
@@ -108,7 +108,7 @@
 				   "url":"http://51.158.36.81:18000/M_Vamos/hls/playlist.m3u8",
 				   "userAgent" : ""
 			   }, {
-				"name": "Canal 1",
+				"name": "[ROTO]",
 				"image": "https://i.ibb.co/0KhDfH0/logo-M-fest.png",
 				"url":"http://51.158.36.81:18000/M_Fest/hls/playlist.m3u8",
 				"userAgent" : ""
@@ -337,21 +337,17 @@
 	   			"url":"http://212.224.84.217:2200/NL/mgolfhd-esp/tracks-v1a1/mono.m3u8?token=fwBlCndpe3BpD3tnN3cSfwJlc3NicwdpfT9gfXRhe3ppenZg",
 	   			"userAgent" : ""
 	 			}, {
-				"name": "Canal 1",
+				"name": "[CERRADO]",
 				"image": "https://i.ibb.co/MMd7zpC/logo-toros.png",
-				 "url" : "https://deliriousholistic.net/embed/a57mc",
-				 "referer" : "https://verlatelevision.com/",
-				 "ishost" : "true"
+				 "url" : ""
 			}, {
-				"name": "Canal 2",
+				"name": "[CERRADO]",
 				"image": "https://i.ibb.co/MMd7zpC/logo-toros.png",
-				"url": "http://xone8.1222908.net:80/live/559912B0380379ED95C397C46957B9DF/323637.m3u8",
-				"userAgent": "PlusMediaPlayer/0.0.9"
+				"url": ""
 			  }, {
-				"name": "Canal 3",
+				"name": "[CERRADO]",
 				"image": "https://i.ibb.co/MMd7zpC/logo-toros.png",
-		   		"url" : "http://45.143.222.41:8080/live/9a7c64ba/d84b4b99e6/1132.m3u8",
-				"userAgent" : ""
+		   		"url" : ""
 				}]
 	}, 
 	
@@ -438,7 +434,7 @@
 	}, {
                  "name": "Canal 14",
                     "image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-                              "url" : "https://embx210793.apl204.me/player/live.php?id=210793&w=100%&h=100%",
+		      "url" : "https://emb.apl217.me/player/live.php?id=210795&w=100%&h=100%",
                     "isHost" : "true"
 			}, {
 		"name": "Canal 15",
@@ -508,10 +504,15 @@
 	   	"url":"http://51.178.36.235:49214/DAZN_2/hls/playlist.m3u8",
 	   	"userAgent" : ""
 	 		}, {
-			"name": "Canal 11",
+			   "name": "Canal 11",
 			   "image": "https://i.ibb.co/vhNCnrq/DAZN-2-Logo-Sin-Fondo.webp",
 			   "url":"http://51.158.36.81:18000/DAZN_2/hls/playlist.m3u8",
 			   "userAgent" : ""
+		 }, {
+			   "name": "Canal 12",
+			   "image": "https://i.ibb.co/vhNCnrq/DAZN-2-Logo-Sin-Fondo.webp",
+			   "url":"https://emb.apl217.me/player/live.php?id=210937&w=100%&h=100%",
+			   "isHost": "true"
 		 }, { 
 			"name": "Canal 1",
 			   "image": "https://i.ibb.co/p1Ry56w/DAZN-3-Logo-Sin-Fondo.png",
@@ -618,6 +619,11 @@
 	   	"image": "https://i.ibb.co/LQy2rM6/DAZN-4-Logo-Sin-Fondo.png",
 	   	"url":"http://51.158.36.81:18000/DAZN_4/hls/playlist.m3u8",
 	   	"userAgent" : ""
+	 }, {
+		"name": "Canal 10",
+	   	"image": "https://i.ibb.co/LQy2rM6/DAZN-4-Logo-Sin-Fondo.png",
+	   	"url":"https://embx210976.apl217.me/player/live.php?id=210976?&w=100%&h=100%",
+	   	"isHost": "true"
 	 }, {
 		"name": "Canal 1",
 		"image": "https://i.ibb.co/Ntcj66Q/logo-es1.webp",
@@ -1794,6 +1800,18 @@
 								   "url": "https://ragnaru.net/embed2.php?player=desktop&live=do2",
 								  "referer": "https://l1l1.to/",
 								   "isHost": "true"
+							  }, {
+								  "name": "Canal 12",
+								  "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
+								   "url": "https://vikistream.com/embed2.php?player=desktop&live=do30",
+								  "referer": "https://l1l1.to/",
+								   "isHost": "true"
+							  }, {
+								  "name": "Canal 13",
+								  "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
+								   "url": "https://unbiasedsenseevent.com/embed/ilxvi582u4i37s",
+								  "referer": "https://l1l1.to/",
+								   "isHost": "true"
 							  }]
 						  }, 
 						  
@@ -2547,8 +2565,13 @@
         									"image":"https://i.ibb.co/1bpMSRX/logo-f1-2.png",
         									"stations": 
         							[
-										{
-											"name": "Bahrein 2023",
+								{
+									"name": "Arabia Saudí 2023",
+            								"image": "https://i.ibb.co/19C1h23/miniatura-GPAS23.jpg",
+            								"url": "https://vk.com/video739310848_456239023",
+            								"embed": "true"
+            							}, {
+									"name": "Bahrein 2023",
             								"image": "https://i.ibb.co/2FFYTy4/GP-Bahrein23.jpg",
             								"url": "https://vk.com/video739310848_456239022",
             								"embed": "true"
