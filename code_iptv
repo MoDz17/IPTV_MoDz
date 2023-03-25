@@ -27,9 +27,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 24/03/2023",
+             "name": "Ultm. versión 25/03/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 24/03/2023",
+            "info": "última versión actualizada el 25/03/2023",
             "stations": []
 	}, 
 	
@@ -381,7 +381,7 @@
 				 }, {
 	   		"name": "Canal 5",
 			   "image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-			"url": "https://vikistream.com/embed2.php?player=desktop&live=do10",
+			"url": "https://vikistream.com/embed2.php?player=desktop&live=do23",
 			"referer": "https://l1l1.to/",
 			"isHost": "true"
 		}, {
@@ -1778,16 +1778,16 @@
 								   "referer" : "https://www.daddylive.link/",
            							   "isHost" : "true"
 									 }, {
-								  "name": "Canal 8",
-								  "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
-									 "url" : "https://deliriousholistic.net/embed/tm0reet5y6nl3fi",
-								   "referer" : "https://bahiadeportes.com/",
+								 		 "name": "Canal 8",
+								  		"image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
+										 "url" : "https://bahiadeportes.com/dazn-1/",
+								  		 "referer" : "https://cdix.pages.dev/dazn1",
 										  "isHost" : "true"
-										}, {
-								  "name": "Canal 9",
-								  "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
-							   "url": "https://sportkart1.xyz/tv/scplayer-150.php",
-										  "referer" : "https://maxsport.one/",
+									}, {
+								  		"name": "Canal 9",
+								  		"image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
+							   			"url": "https://maxsport.one/dazn1.php",
+										  "referer" : "https://ntuplay.xyz/maxsport.php?id=cnpremium445",
 										   "isHost" : "true"
 								}, {
 								  "name": "Canal 10",
@@ -1942,7 +1942,12 @@
 							"image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
 						   	"url": "https://markkystreams.com/video/ufc/",
              						"isHost":"true"  
-					}]
+					}, { 
+							"name": "Canal 13",
+							"image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
+							"url": "http://sportsurge.stream/embed/wwe.php",
+							"isHost" : "true"
+				  	}]
 					   }, {
             "name": "Rugby",
             "image": "https://i.ibb.co/1Ggb57C/logo-NFL.png",
