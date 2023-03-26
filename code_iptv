@@ -27,9 +27,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 24/03/2023",
+             "name": "Ultm. versión 26/03/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 24/03/2023",
+            "info": "última versión actualizada el 26/03/2023",
             "stations": []
 	}, 
 	
@@ -286,7 +286,7 @@
 			}, {
 				"name": "Canal 3",
 				"image": "https://i.ibb.co/4NvkCVR/logo-deportes.png",
-				 "url": "https://emb.apl214.me/player/live.php?id=210443&w=100%&h=100%",
+				 "url": "https://emb.apl217.me/player/live.php?id=210444&w=100%&h=100%",
 				"isHost": "true"
 			 }, {
 			 	"name": "Canal 4",
@@ -317,10 +317,15 @@
          		}, {
 			"name": "Canal 2",
 			"image": "https://i.ibb.co/3CcWsMq/logo-deportes2.png",
-		 	"url": "https://embx209096.apl214.me/player/live.php?id=209096&w=100%&h=100%",
-			"referer": "https://livetvstream.pro/",
+		 	"url": "https://embx210444.apl217.me/player/live.php?id=210444&w=100%&h=100%",
              		"isHost": "true"  
          		}, {
+			 "name": "Canal 3",
+			"image": "https://i.ibb.co/3CcWsMq/logo-deportes2.png",
+			"url": "https://parsimoniousinvincible.net/embed/105qqn",
+			"referer" : "https://macron.xyz/",
+			"isHost": "true"
+		  	}, {
 				"name": "Canal 1",
 				"image": "https://i.ibb.co/sVPN8q6/logo-golf.png",
 				"url" : "https://gooals.top/tv/albaplayer/stream-528/?serv=1/",
@@ -404,7 +409,7 @@
   }, {
 	"name": "Canal 9",
 	"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-"url" : "https://parsimoniousinvincible.net/embed/h5m4gyv36vtc",
+	"url" : "https://parsimoniousinvincible.net/embed/h5m4gyv36vtc",
 	 "referer": "https://streamonsport.ru/",
 	 "isHost": "true"
  }, {
@@ -416,7 +421,7 @@
   }, {
 	"name": "Canal 11",
 	"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-"url" : "https://parsimoniousinvincible.net/embed/h5m4gyv36vtc",
+	"url" : "https://parsimoniousinvincible.net/embed/qkduopi8remo1q",
 	 "referer": "https://macron.xyz/",
 	 "isHost": "true"  
  }, {
@@ -627,8 +632,8 @@
 	 }, {
 		"name": "Canal 1",
 		"image": "https://i.ibb.co/Ntcj66Q/logo-es1.webp",
-	 "url": "http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79867.ts",
-		 "userAgent": ""
+	 	"url": "https://www.freeshot.live/live-tv/eurosport-1-es/156",
+		"isHost": "true"
 	}, {
 		"name": "Canal 2",
 		"image": "https://i.ibb.co/Ntcj66Q/logo-es1.webp",
@@ -839,7 +844,7 @@
 					  }, {
 						"name": "Canal 14",
 						"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-						"url": "https://emb.apl214.me/player/live.php?id=211012&w=100%&h=100%",
+						"url": "https://embx211012.apl217.me/player/live.php?id=211012&w=100%&h=100%",
 						"isHost":"true"
 				  	}, {
 						"name": "Canal 15",
@@ -1553,9 +1558,9 @@
 								 },{
 								 "name": "Canal 5",
 								"image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
-							 "url": "https://parsimoniousinvincible.net/embed/105qqn",
-							  "referer" : "https://macron.xyz/",
-						 "isHost": "true"
+							 	"url": "https://parsimoniousinvincible.net/embed/105qqn",
+							  	"referer" : "https://macron.xyz/",
+						 		"isHost": "true"
 								  },{
 								 "name": "Canal 6",
 								"image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
@@ -1564,7 +1569,8 @@
 						 		},{
 								 	"name": "Canal 7",
 									"image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
-							 		"url": "https://fotnet24.com/movistar-deportes-3/",
+							 		"url": "https://parsimoniousinvincible.net/embed/dp4tigbdvjxr4l",
+									"referer" : "https://macron.xyz/",
 						 			"isHost": "true"
 								  },{
 								 "name": "Canal 8",
