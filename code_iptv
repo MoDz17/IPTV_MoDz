@@ -1739,6 +1739,12 @@
 							  	"referer" : "https://onionstream.live/",
                              					"isHost":"true" 
 							  }, {
+								"name": "Canal 24",
+						  		"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+								"url" : "https://daddylivehd.sx/tele/stream-537.php",
+							  	"userAgent":"VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+                             					"isHost":"true" 
+							  }, {
 								  "name": "Canal 1 [F1 inglés]",
 								  "image": "https://i.ibb.co/nwQrbvN/inglesa.webp",
 								  "url" : "http://sportsurge.stream/embed/f1.php",
