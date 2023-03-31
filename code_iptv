@@ -27,9 +27,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 26/03/2023",
+             "name": "Ultm. versión 31/03/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 26/03/2023",
+            "info": "última versión actualizada el 31/03/2023",
             "stations": []
 	}, 
 	
@@ -1611,6 +1611,16 @@
 								"url": "http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8",
 							   	"userAgent" : ""
 							   }, {
+								"name": "F1 Android",
+							  	"image": "https://i.ibb.co/803DYn7/MJ-F1.jpg",
+								"url": "",
+							   	"userAgent" : ""
+							   }, {
+								"name": "F1 iOS",
+							  	"image": "https://i.ibb.co/803DYn7/MJ-F1.jpg",
+								"url": "",
+							   	"userAgent" : ""
+							   }, {
 								"name": "Canal 1",
 	   							"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
 	   							"url":"http://51.178.36.235:49214/DAZN_F1/hls/playlist.m3u8",
@@ -1754,6 +1764,16 @@
 								  "image": "https://i.ibb.co/nwQrbvN/inglesa.webp",
 								  "url" : "https://www.soccerstreams.football/news/03-03/formula-march-3/",
 								  "userAgent": "navigator"
+							   }, {
+								  "name": "MotoGP Android",
+								  "image": "https://i.ibb.co/71RQmYh/MJ-MGP.jpg",
+								  "url" : "https://vkvsd19.mycdn.me/hls/3958661122586.m3u8/sig/xlH4T2wstkE/expires/1680365249753/srcIp/37.14.131.253/urls/45.136.21.80/clientType/13/srcAg/CHROME_ANDROID/mid/4833030777626/3958661122586_fullhd/index.m3u8",
+								  "userAgent": ""
+							   }, {
+								  "name": "MotoGP iOS",
+								  "image": "https://i.ibb.co/71RQmYh/MJ-MGP.jpg",
+								  "url" : "https://vkvsd19.mycdn.me/hls/3958661122586.m3u8/sig/EdSiHcbbb3Y/expires/1680365218374/srcIp/37.14.131.253/urls/45.136.21.80/clientType/13/srcAg/SAFARI_IPHONE_OTHER/mid/4833030777626/3958661122586_fullhd/index.m3u8",
+								  "userAgent": ""
 							   }, {
 								  "name": "Canal 1",
 								  "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
@@ -2137,6 +2157,21 @@
 		"stations": [
 		
 		{
+			"name": "BT Sport 1",
+			"image": "https://i.ibb.co/w6gRYRm/BTS1.png",
+			"url":"http://163.172.221.223:90/bt1/index.m3u8",
+			"userAgent" : ""
+		 }, {
+			"name": "BT Sport 2",
+			"image": "https://i.ibb.co/ChrQRMv/BTS2.png",
+			"url":"http://163.172.221.223:90/bt2/index.m3u8",
+			"userAgent" : ""
+		 }, {
+			"name": "BT Sport 3",
+			"image": "https://i.ibb.co/SRy0SHs/BTS3.png",
+			"url":"http://163.172.221.223:90/bt3/index.m3u8",
+			"userAgent" : ""
+		 }, {
 			"name": "Eleven 1",
 			"image": "https://i.ibb.co/ZSp0GsT/logo-Eleven-Sports.png",
 			"url":"http://213.13.16.138/shls/LIVE%24Eleven_Sports_1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END",
@@ -2390,11 +2425,10 @@
 						   "url":"https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master.m3u8",
 						   "userAgent" : ""
 						 }, {
-							"name": "Dark (terror)",
+							"name": "[ROTO]",
 							"image": "https://i.ibb.co/zGm2z2y/logo-dark-18.png",
 							"url": "http://94.158.219.85:8081/channel/n457fb186/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.y1Ubsu9jmzophdGjATa9tpy7Lwu89ZvlFBjw4Urdy8xwjeVmPLFWo6H0_H7WHjK-ks-W5x32XD_u5Ji0WbOs9A",
 							 "online":"true"
-							  
 					  }, {
 							"name": "À Punt",
 							"image": "https://i.ibb.co/105c5Rn/logo-a-Punt.png",
