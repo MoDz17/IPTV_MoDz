@@ -27,9 +27,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 31/03/2023",
+             "name": "Ultm. versión 01/04/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 31/03/2023",
+            "info": "última versión actualizada el 01/04/2023",
             "stations": []
 	}, 
 	
@@ -88,7 +88,7 @@
 				}, {
 				"name": "Canal 4",
 				"image": "https://i.ibb.co/HHL04RY/logo-vamos.png",
-				"url" : "https://watchtvchh.xyz/channel/ch017084.php",
+				"url" : "https://sportskart.click/embed/stream-521.php",
 				"isHost":"true"
 				}, {
 					"name": "Canal 5",
@@ -381,7 +381,7 @@
 	   }, {
 		   	"name": "Canal 4",
 			"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-			"url":"https://watchtvchh.xyz/channel/ch017008.php",
+			"url":"https://sportskart.click/embed/stream-445.php",
             		"isHost" : "true"
 				 }, {
 	   		"name": "Canal 5",
@@ -466,7 +466,7 @@
 			   },{ 
 			"name": "Canal 3",
 			   "image": "https://i.ibb.co/vhNCnrq/DAZN-2-Logo-Sin-Fondo.webp",
-			  "url": "https://watchtvchh.xyz/channel/ch017009.php",
+			  "url": "https://sportskart.click/embed/stream-446.php",
 			"isHost": "true"
 		  },{ 
 			"name": "Canal 4",
@@ -550,7 +550,7 @@
 				   }, {
 			   "name": "Canal 6",
 			   "image": "https://i.ibb.co/p1Ry56w/DAZN-3-Logo-Sin-Fondo.png",
-			"url": "https://watchtvchh.xyz/channel/ch017010.php",
+			   "url": "https://sportskart.click/embed/stream-447.php",
 			   "isHost":"true"
 			  }, {
 				"name": "Canal 7",
@@ -916,8 +916,7 @@
 		}, {
 			"name": "Canal 27",
 			"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-			"url" : "https://zvmajb6v.ilive.sbs/embed/ZDUfOFldOZ40",
-			 "referer": "https://onionstream.live/",
+			"url" : "https://sportskart.click/embed/stream-84.php",
 			 "isHost": "true" 
 		}, {
                     "name": "Canal 28 [ESPN]",
@@ -1701,7 +1700,7 @@
 							}, {
 								  "name": "Canal 15",
 								  "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-								  "url" : "https://vikistream.com/embed2.php?player=desktop&live=do26",
+								  "url" : "https://vikistream.com/embed2.php?player=desktop&live=do10",
 								  "referer": "https://l1l1.to/",
 								  "isHost": "true"
 						   	}, {
@@ -1840,7 +1839,7 @@
 							  }, {
 								  "name": "Canal 12",
 								  "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
-								   "url": "https://vikistream.com/embed2.php?player=desktop&live=do30",
+								   "url": "https://vikistream.com/embed2.php?player=desktop&live=do26",
 								  "referer": "https://l1l1.to/",
 								   "isHost": "true"
 							  }, {
