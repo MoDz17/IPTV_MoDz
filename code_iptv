@@ -29,7 +29,7 @@
 	{
              "name": "Ultm. versión 01/04/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 01/04/2023",
+            "info": "última versión actualizada el 01/04/2023 [parte 2]",
             "stations": []
 	}, 
 	
@@ -71,7 +71,7 @@
 	 }, {
 		  "name": "Canal 1",
 		   "image": "https://i.ibb.co/HHL04RY/logo-vamos.png",
-		"url" : "https://watchtvchh.xyz/channel/ch017084.php",
+		"url" : "https://sportskart.click/embed/stream-521.php",
 		"isHost": "true"
 		  }, {
 			"name": "Canal 2",
@@ -317,7 +317,7 @@
          		}, {
 			"name": "Canal 2",
 			"image": "https://i.ibb.co/3CcWsMq/logo-deportes2.png",
-		 	"url": "https://embx210444.apl217.me/player/live.php?id=210444&w=100%&h=100%",
+		 	"url": "https://emb.apl223.me/player/live.php?id=209096&w=100%&h=100%",
              		"isHost": "true"  
          		}, {
 			 "name": "Canal 3",
@@ -334,7 +334,7 @@
 				 }, {
 				"name": "Canal 2",
 				"image": "https://i.ibb.co/sVPN8q6/logo-golf.png",
-			  	"url": "https://watchtvchh.xyz/channel/ch017091.php",
+			  	"url": "https://sportskart.click/embed/stream-528.php",
             			"isHost": "true"
                		 	}, {
 				"name": "Canal 3",
@@ -427,7 +427,7 @@
  }, {
 	"name": "Canal 12",
 	"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-"url" : "https://parsimoniousinvincible.net/embed/zbz7klq",
+	"url" : "https://parsimoniousinvincible.net/embed/zbz7klq",
 	 "referer": "https://macron.xyz/",
 	 "isHost": "true"  
  }, {
@@ -451,7 +451,13 @@
 			   "image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
 			   "url":"http://51.158.36.81:18000/DAZN_1/hls/playlist.m3u8",
 			   "userAgent" : ""
-		 	}, { 
+		 	}, {
+				"name": "Canal 17",
+				"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
+				"url" : "https://vikistream.com/embed2.php?player=desktop&live=do33",
+	 			"referer": "https://l1l1.to/",
+	 			"isHost": "true"  
+ 			}, { 
 			"name": "Canal 1",
 			   "image": "https://i.ibb.co/vhNCnrq/DAZN-2-Logo-Sin-Fondo.webp",
 		 "url": "https://parsimoniousinvincible.net/embed/opthng68di66m",
@@ -471,12 +477,12 @@
 		  },{ 
 			"name": "Canal 4",
 			   "image": "https://i.ibb.co/vhNCnrq/DAZN-2-Logo-Sin-Fondo.webp",
-			  "url" : "https://watchtvchh.xyz/channel/ch017009.php",
+			  "url" : "https://sportskart.click/embed/stream-427.php",
 			"isHost": "true"
 			   },{ 
 			"name": "Canal 5",
 			   "image": "https://i.ibb.co/vhNCnrq/DAZN-2-Logo-Sin-Fondo.webp",
-			  "url" : "https://wecast.to/onionstream.php?stream=vQ3uV8WE8MSt",
+			  "url" : "https://wecast.to/onionstream.php?stream=xmr0xxbbmzod",
 			   "referer": "https://onionstream.live/",
 		 	   "isHost" : "true"
 		}, {
@@ -521,9 +527,8 @@
 		 }, { 
 			"name": "Canal 1",
 			   "image": "https://i.ibb.co/p1Ry56w/DAZN-3-Logo-Sin-Fondo.png",
-		 "url": "https://vikistream.com/embed2.php?player=desktop&live=do10",
-		"referer": "https://l1l1.to/",
-		"isHost": "true"   
+		 	"url": "https://sportskart.click/embed/stream-427.php",
+			"isHost": "true"   
 			   },{ 
 				"name": "Canal 2",
 			   	"image": "https://i.ibb.co/p1Ry56w/DAZN-3-Logo-Sin-Fondo.png",
@@ -574,7 +579,13 @@
 			   "image": "https://i.ibb.co/p1Ry56w/DAZN-3-Logo-Sin-Fondo.png",
 			   "url":"http://51.158.36.81:18000/DAZN_3/hls/playlist.m3u8",
 			   "userAgent" : ""
-		 		}, { 
+		 		}, {
+			   		"name": "Canal 11",
+			   		"image": "https://i.ibb.co/p1Ry56w/DAZN-3-Logo-Sin-Fondo.png",
+					"url": "https://vikistream.com/embed2.php?player=desktop&live=do32",
+			   		"referer" : "https://l1l1.to/",
+			   		"isHost":"true"
+				  }, { 
 				"name": "Canal 1",
 			   "image": "https://i.ibb.co/LQy2rM6/DAZN-4-Logo-Sin-Fondo.png",
 			   "url": "https://2w0160v7u50gwy.constraindefiant.net/embed/w67i2uz",
@@ -583,7 +594,7 @@
 		  },{ 
 			"name": "Canal 2",
 			   "image": "https://i.ibb.co/LQy2rM6/DAZN-4-Logo-Sin-Fondo.png",
-		 "url": "https://vikistream.com/embed2.php?player=desktop&live=do10",
+		 "url": "https://vikistream.com/embed2.php?player=desktop&live=do36",
 			"referer": "https://l1l1.to/",
 		"isHost": "true"  
 		 },{ 
@@ -594,7 +605,7 @@
 				},{ 
 			"name": "Canal 4",
 		   	"image": "https://i.ibb.co/LQy2rM6/DAZN-4-Logo-Sin-Fondo.png",
-			"url": "https://watchtvchh.xyz/channel/ch017011.php",
+			"url": "https://sportskart.click/embed/stream-428.php",
            		"isHost" : "true"  
    }, {
 	"name": "Canal 5",
@@ -1218,12 +1229,12 @@
 			 }, {
 				 "name": "Canal 15",
 			   "image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-			   "url":"https://starlive.xyz/embed.php?id=liveB2",
+			   "url":"https://starlive.xyz/embed.php?id=liveCh19",
 			   "isHost" : "true"
 				  }, {
 				"name": "Canal 16",
 			   "image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-			   "url":"https://starlive.xyz/embed.php?id=liveB3",
+			   "url":"https://starlive.xyz/embed.php?id=liveSC",
 			   "isHost" : "true"
 			 }, {
 				"name": "Canal 17",
@@ -1766,12 +1777,12 @@
 							   }, {
 								  "name": "MotoGP Android",
 								  "image": "https://i.ibb.co/71RQmYh/MJ-MGP.jpg",
-								  "url" : "https://vkvsd19.mycdn.me/hls/3958661122586.m3u8/sig/xlH4T2wstkE/expires/1680365249753/srcIp/37.14.131.253/urls/45.136.21.80/clientType/13/srcAg/CHROME_ANDROID/mid/4833030777626/3958661122586_fullhd/index.m3u8",
+								  "url" : "https://vkvsd77.mycdn.me/hls/3965780232730.m3u8/sig/QodyWucIYYk/expires/1680435519745/srcIp/37.14.131.253/urls/45.136.20.63/clientType/13/srcAg/CHROME_ANDROID/mid/4839018212122/3965780232730_fullhd/index.m3u8",
 								  "userAgent": ""
 							   }, {
 								  "name": "MotoGP iOS",
 								  "image": "https://i.ibb.co/71RQmYh/MJ-MGP.jpg",
-								  "url" : "https://vkvsd19.mycdn.me/hls/3958661122586.m3u8/sig/EdSiHcbbb3Y/expires/1680365218374/srcIp/37.14.131.253/urls/45.136.21.80/clientType/13/srcAg/SAFARI_IPHONE_OTHER/mid/4833030777626/3958661122586_fullhd/index.m3u8",
+								  "url" : "https://vkvsd96.mycdn.me/hls/3965780232730.m3u8/sig/ZL2RS7zQQM0/expires/1680435578499/srcIp/37.14.131.253/urls/185.226.53.66/clientType/13/srcAg/SAFARI_IPHONE_OTHER/mid/4839018212122/3965780232730_fullhd/index.m3u8",
 								  "userAgent": ""
 							   }, {
 								  "name": "Canal 1",
@@ -1828,7 +1839,7 @@
 								}, {
 								  "name": "Canal 10",
 								  "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
-								  "url": "http://ufckhabib.com/f1/motogp-streams.php",
+								  "url": "https://headlines.soccerstreams.football/sat-formula-australian-2023/",
 								   "isHost":"true"
 							   }, {
 								  "name": "Canal 11",
@@ -2467,11 +2478,11 @@
               "referer": "https://streamonsport.ru/",
              "isHost": "true"
                      }, {
-		    "name": "Canal 4",
+		    	"name": "Canal 4",
 			"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-			 "url": "https://unbiasedsenseevent.com/embed/df7nk3qyxpu1vx",
-              "referer": "https://elixx.xyz/",
-             "isHost": "true" 
+			 "url": "https://unbiasedsenseevent.com/embed/ez3sjcbvjr4",
+              		"referer": "https://elixx.xyz/",
+             		"isHost": "true" 
                      }, {
 		     "name": "Canal 5",
 			"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
