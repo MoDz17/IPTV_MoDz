@@ -328,9 +328,8 @@
 		  	}, {
 				"name": "Canal 1",
 				"image": "https://i.ibb.co/sVPN8q6/logo-golf.png",
-				"url" : "https://gooals.top/tv/albaplayer/stream-528/?serv=1/",
-				"referer" : "https://www.daddylive.link/",
-			   	"isHost" : "true"
+				"url" : "http://xone8.1222908.net:80/live/346C0F77EDBDF396B9EF8A379964C00A/323627.m3u8",
+			   	"userAgent" : ""
 				 }, {
 				"name": "Canal 2",
 				"image": "https://i.ibb.co/sVPN8q6/logo-golf.png",
@@ -1777,12 +1776,12 @@
 							   }, {
 								  "name": "MotoGP Android",
 								  "image": "https://i.ibb.co/71RQmYh/MJ-MGP.jpg",
-								  "url" : "https://vkvsd77.mycdn.me/hls/3965780232730.m3u8/sig/QodyWucIYYk/expires/1680435519745/srcIp/37.14.131.253/urls/45.136.20.63/clientType/13/srcAg/CHROME_ANDROID/mid/4839018212122/3965780232730_fullhd/index.m3u8",
+								  "url" : "https://vkvsd66.mycdn.me/hls/3968275974682.m3u8/sig/8x-wHQxDSLI/expires/1680455334745/srcIp/37.14.131.253/urls/45.136.20.57/clientType/13/srcAg/CHROME_ANDROID/mid/4840937302810/3968275974682_fullhd/index.m3u8",
 								  "userAgent": ""
 							   }, {
 								  "name": "MotoGP iOS",
 								  "image": "https://i.ibb.co/71RQmYh/MJ-MGP.jpg",
-								  "url" : "https://vkvsd96.mycdn.me/hls/3965780232730.m3u8/sig/ZL2RS7zQQM0/expires/1680435578499/srcIp/37.14.131.253/urls/185.226.53.66/clientType/13/srcAg/SAFARI_IPHONE_OTHER/mid/4839018212122/3965780232730_fullhd/index.m3u8",
+								  "url" : "",
 								  "userAgent": ""
 							   }, {
 								  "name": "Canal 1",
