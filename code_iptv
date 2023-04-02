@@ -23,13 +23,17 @@
 			"name": "@futboladictohd",
 		   "image": "https://i.ibb.co/xYLFH0F/Insta-logo.png",    
 		  "url" : "https://instagram.com/futboladictohd",
-		  "embed": "true"}]
+		  "embed": "true"}, 
+		  {
+			"name": "By MoDz",
+		   "image": "https://i.ibb.co/64mjMcF/MoDz.jpg",    
+		  "url" : ""}]
 	}, 
 	
 	{
              "name": "Ultm. versión 02/04/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 02/04/2023",
+            "info": "última versión actualizada el 02/04/2023 [parte 2]",
             "stations": []
 	}, 
 	
@@ -2625,9 +2629,14 @@
         									"name":"Fórmula 1",
         									"image":"https://i.ibb.co/1bpMSRX/logo-f1-2.png",
         									"stations": 
-        							[
-								{
-									"name": "Arabia Saudí 2023",
+        							 [
+										{
+											"name": "Australia 2023",
+            								"image": "https://i.ibb.co/frx3Bjm/F1-GPA23.jpg",
+            								"url": "https://vk.com/video739310848_456239024",
+            								"embed": "true"
+            							}, {
+											"name": "Arabia Saudí 2023",
             								"image": "https://i.ibb.co/19C1h23/miniatura-GPAS23.jpg",
             								"url": "https://vk.com/video739310848_456239023",
             								"embed": "true"
@@ -2647,25 +2656,47 @@
 											"url": "https://vk.com/video739310848_456239021",
             								"embed": "true"
             							}
-        							] 
+        							 ] 
     								}, {
+    										"name":"MotoGP",
+        									"image":"https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
+        									"stations": 
+										[
+            								{
+												"name": "Sprint Argentina 2023",
+												"image": "https://i.ibb.co/RCzcL77/MGP-GPA23.jpg",
+												"url": "https://vk.com/video739310848_456239027",
+												"embed": "true"
+											}, {
+												"name": "Portugal 2023",
+												"image": "https://i.ibb.co/KsTzs7v/MGP-GPP23.jpg",
+												"url": "https://vk.com/video739310848_456239026",
+												"embed": "true"
+											}, {
+												"name": "Sprint Portugal 2023",
+												"image": "https://i.ibb.co/KsTzs7v/MGP-GPP23.jpg",
+												"url": "https://vk.com/video739310848_456239025",
+												"embed": "true"
+											}
+										]
+  									}, {
         									"name":"UFC",
         									"image":"https://i.ibb.co/S5NN7p3/logo-ufc.png",
         									"stations": 
-        							[
-            							{
-            								"name": "UFC 284",
-            								"image": "https://i.ibb.co/51LsJfL/Makha-Volka284.jpg",
-            								"url": "https://vk.com/video739310848_456239020",
-											"embed": "true"
-            							}, {
-            								"name": "UFC 284",
-            								"image": "https://i.ibb.co/NK0CNN7/Rodri-Emme284.jpg",
-            								"url": "https://vk.com/video739310848_456239019",
-            								"embed": "true"
-            							}
-									]
-    								}
+        								  [
+            								{
+            									"name": "UFC 284",
+            									"image": "https://i.ibb.co/51LsJfL/Makha-Volka284.jpg",
+            									"url": "https://vk.com/video739310848_456239020",
+												"embed": "true"
+            								}, {
+            									"name": "UFC 284",
+            									"image": "https://i.ibb.co/NK0CNN7/Rodri-Emme284.jpg",
+            									"url": "https://vk.com/video739310848_456239019",
+            									"embed": "true"
+            								}
+										  ]
+    									}
   								]
 						}, {
 								"name": "Streams",
