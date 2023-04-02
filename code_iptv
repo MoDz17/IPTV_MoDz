@@ -27,9 +27,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 01/04/2023",
+             "name": "Ultm. versión 02/04/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 01/04/2023 [parte 2]",
+            "info": "última versión actualizada el 02/04/2023",
             "stations": []
 	}, 
 	
@@ -126,7 +126,7 @@
 			}, {
 				"name": "Canal 3",
 				"image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
-				"url": "https://watchtvchh.xyz/channel/ch016097.php",
+				"url": "https://sportskart.click/embed/stream-435.php",
 				 "isHost" : "true"
 			 }, {
 				"name": "Canal 4",
@@ -1134,7 +1134,7 @@
 						}, {
 							"name": "Canal 9",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-							"url": "https://vikistream.com/embed2.php?player=desktop&live=do15",
+							"url": "https://vikistream.com/embed2.php?player=desktop&live=do11",
 							"referer" : "https://l1l1.to/",
 							 "isHost": "true"
 						}]
@@ -1317,25 +1317,25 @@
 			}, {
 				"name": "Canal 2",
 				"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-				 "url": "https://vikistream.com/embed2.php?player=desktop&live=do38",
+				 "url": "https://vikistream.com/embed2.php?player=desktop&live=do35",
 				"referer": "https://l1l1.to/",
 				 "isHost": "true"
 			}, {
 				"name": "Canal 3",
 				"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-		   		"url": "https://vikistream.com/embed2.php?player=desktop&live=do34",
+		   		"url": "https://vikistream.com/embed2.php?player=desktop&live=do36",
 				"referer": "https://l1l1.to/",
 				 "isHost": "true"
 			}, {
 				"name": "Canal 4",
 				"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-				  "url": "https://unbiasedsenseevent.com/embed/pbbue38",
+				  "url": "https://unbiasedsenseevent.com/embed/pbbue32",
 				  "referer" : "https://elixx.xyz/",
 				"isHost":"true"
 						}, {
 				"name": "Canal 5",
 				"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-				"url": "https://vikistream.com/embed2.php?player=desktop&live=do35",
+				"url": "https://vikistream.com/embed2.php?player=desktop&live=do38",
 				"referer": "https://l1l1.to/",
 				 "isHost": "true"
 			}, {
@@ -1620,12 +1620,7 @@
 								"url": "http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8",
 							   	"userAgent" : ""
 							   }, {
-								"name": "F1 Android",
-							  	"image": "https://i.ibb.co/803DYn7/MJ-F1.jpg",
-								"url": "",
-							   	"userAgent" : ""
-							   }, {
-								"name": "F1 iOS",
+								"name": "F1 Android/iOS",
 							  	"image": "https://i.ibb.co/803DYn7/MJ-F1.jpg",
 								"url": "",
 							   	"userAgent" : ""
@@ -1774,14 +1769,9 @@
 								  "url" : "https://www.soccerstreams.football/news/03-03/formula-march-3/",
 								  "userAgent": "navigator"
 							   }, {
-								  "name": "MotoGP Android",
+								  "name": "MotoGP Android/iOS",
 								  "image": "https://i.ibb.co/71RQmYh/MJ-MGP.jpg",
 								  "url" : "https://vkvsd66.mycdn.me/hls/3968275974682.m3u8/sig/8x-wHQxDSLI/expires/1680455334745/srcIp/37.14.131.253/urls/45.136.20.57/clientType/13/srcAg/CHROME_ANDROID/mid/4840937302810/3968275974682_fullhd/index.m3u8",
-								  "userAgent": ""
-							   }, {
-								  "name": "MotoGP iOS",
-								  "image": "https://i.ibb.co/71RQmYh/MJ-MGP.jpg",
-								  "url" : "",
 								  "userAgent": ""
 							   }, {
 								  "name": "Canal 1",
@@ -1856,6 +1846,12 @@
 								  "name": "Canal 13",
 								  "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
 								   "url": "https://unbiasedsenseevent.com/embed/ilxvi582u4i37s",
+								  "referer": "https://l1l1.to/",
+								   "isHost": "true"
+							  }, {
+								  "name": "Canal 14",
+								  "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
+								   "url": "https://cdn122.com/embed/2k2kr220ol6yr6i?skin=15",
 								  "referer": "https://l1l1.to/",
 								   "isHost": "true"
 							  }]
