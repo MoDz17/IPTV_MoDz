@@ -25,7 +25,7 @@
 		  "url" : "https://instagram.com/futboladictohd",
 		  "embed": "true"}, 
 		  {
-			"name": "               By MoDz",
+			"name": "             By MoDz",
 		   "image": "https://i.ibb.co/64mjMcF/MoDz.jpg",    
 		  "url" : ""}]
 	}, 
@@ -1856,6 +1856,12 @@
 								  "name": "Canal 14",
 								  "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
 								   "url": "https://cdn122.com/embed/2k2kr220ol6yr6i?skin=15",
+								  "referer": "https://l1l1.to/",
+								   "isHost": "true"
+							  }, {
+								  "name": "Canal 15",
+								  "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
+								   "url": "https://cdn122.com/embed/2k2kr220ol6yr6i?skin=26",
 								  "referer": "https://l1l1.to/",
 								   "isHost": "true"
 							  }]
