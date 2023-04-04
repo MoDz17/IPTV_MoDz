@@ -25,15 +25,15 @@
 		  "url" : "https://instagram.com/futboladictohd",
 		  "embed": "true"}, 
 		  {
-			"name": "By MoDz",
+			"name": "               By MoDz",
 		   "image": "https://i.ibb.co/64mjMcF/MoDz.jpg",    
 		  "url" : ""}]
 	}, 
 	
 	{
-             "name": "Ultm. versión 02/04/2023",
+             "name": "Ultm. versión 04/04/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 02/04/2023 [parte 2]",
+            "info": "última versión actualizada el 04/04/2023",
             "stations": []
 	}, 
 	
@@ -1995,6 +1995,88 @@
 							"isHost" : "true"
 				  	}]
 					   }, {
+						"name": "Béisbol",
+						"image": "https://i.ibb.co/4Km4DJp/MLB-logo.png",
+						"info": "",
+						"stations": 
+			   		[		
+						{
+									"name": "Canal 1",
+									"image": "https://i.ibb.co/vDDxKB8/MLB-logo-Channels.png",
+									"url" : "http://markkystreams.com/video/mlb-1/",
+									"isHost": "true"
+						}, {  
+									"name": "Canal 2",
+									"image": "https://i.ibb.co/vDDxKB8/MLB-logo-Channels.png",
+									"url" : "http://markkystreams.com/video/mlb-2/",
+									"isHost": "true"
+						}, {
+									"name": "Canal 3",
+									"image": "https://i.ibb.co/vDDxKB8/MLB-logo-Channels.png",
+									"url" : "http://markkystreams.com/video/mlb-3/",
+									"isHost": "true"
+						}, {
+									"name": "Canal 4",
+									"image": "https://i.ibb.co/vDDxKB8/MLB-logo-Channels.png",
+									"url" : "http://markkystreams.com/video/mlb-4/",
+									"isHost": "true"
+						}, {  
+									 "name": "Canal 5",
+									"image": "https://i.ibb.co/vDDxKB8/MLB-logo-Channels.png",
+									"url" : "http://markkystreams.com/video/mlb-5/",
+									"isHost": "true"
+						}, {
+									"name": "Canal 6",
+									"image": "https://i.ibb.co/vDDxKB8/MLB-logo-Channels.png",
+									"url" : "http://markkystreams.com/video/mlb-6/",
+									"isHost": "true"
+						}, {
+									"name": "Canal 7",
+									"image": "https://i.ibb.co/vDDxKB8/MLB-logo-Channels.png",
+									"url" : "http://markkystreams.com/video/mlb-7/",
+									"isHost": "true"
+						 }, {
+									"name": "Canal 8",
+									"image": "https://i.ibb.co/vDDxKB8/MLB-logo-Channels.png",
+									"url" : "http://markkystreams.com/video/mlb-8/",
+									"isHost": "true"
+						}, {
+									"name": "Canal 9",
+									"image": "https://i.ibb.co/vDDxKB8/MLB-logo-Channels.png",
+									"url" : "http://markkystreams.com/video/mlb-9/",
+									"isHost": "true"
+						}, {
+									"name": "Canal 10",
+									"image": "https://i.ibb.co/vDDxKB8/MLB-logo-Channels.png",
+									"url" : "http://markkystreams.com/video/mlb-10/",
+									"isHost": "true"
+						}, {
+									"name": "Canal 11",
+									"image": "https://i.ibb.co/vDDxKB8/MLB-logo-Channels.png",
+									"url" : "http://markkystreams.com/video/mlb-11/",
+									"isHost": "true"
+						}, {
+									"name": "Canal 12",
+									"image": "https://i.ibb.co/vDDxKB8/MLB-logo-Channels.png",
+									"url" : "http://markkystreams.com/video/mlb-12/",
+									"isHost": "true"  
+						}, {
+									"name": "Canal 13",
+									"image": "https://i.ibb.co/vDDxKB8/MLB-logo-Channels.png",
+									"url" : "http://markkystreams.com/video/mlb-13/",
+									"isHost": "true" 
+						 }, { 
+									"name": "Canal 14",
+									"image": "https://i.ibb.co/vDDxKB8/MLB-logo-Channels.png",
+									"url" : "http://markkystreams.com/video/mlb-14/",
+									"isHost": "true"
+						}, { 
+									"name": "Canal 15",
+									"image": "https://i.ibb.co/vDDxKB8/MLB-logo-Channels.png",
+									"url" : "http://markkystreams.com/video/mlb-15/",
+									"isHost": "true" 
+						}]
+				}, {
             "name": "Rugby",
             "image": "https://i.ibb.co/1Ggb57C/logo-NFL.png",
             "info": "",
@@ -2662,7 +2744,12 @@
         									"image":"https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
         									"stations": 
 										[
-            								{
+											{
+												"name": "Argentina 2023",
+												"image": "https://i.ibb.co/RCzcL77/MGP-GPA23.jpg",
+												"url": "https://vk.com/video739310848_456239028",
+												"embed": "true"
+											}, {
 												"name": "Sprint Argentina 2023",
 												"image": "https://i.ibb.co/RCzcL77/MGP-GPA23.jpg",
 												"url": "https://vk.com/video739310848_456239027",
