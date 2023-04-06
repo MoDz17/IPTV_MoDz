@@ -25,15 +25,15 @@
 		  "url" : "https://instagram.com/futboladictohd",
 		  "embed": "true"}, 
 		  {
-			"name": "             By MoDz",
+			"name": "              By MoDz",
 		   "image": "https://i.ibb.co/64mjMcF/MoDz.jpg",    
 		  "url" : ""}]
 	}, 
 	
 	{
-             "name": "Ultm. versión 04/04/2023",
+             "name": "Ultm. versión 06/04/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 04/04/2023",
+            "info": "última versión actualizada el 06/04/2023",
             "stations": []
 	}, 
 	
@@ -478,10 +478,11 @@
 			  "url": "https://sportskart.click/embed/stream-446.php",
 			"isHost": "true"
 		  },{ 
-			"name": "Canal 4",
-			   "image": "https://i.ibb.co/vhNCnrq/DAZN-2-Logo-Sin-Fondo.webp",
-			  "url" : "https://sportskart.click/embed/stream-427.php",
-			"isHost": "true"
+				"name": "Canal 4",
+			   	"image": "https://i.ibb.co/vhNCnrq/DAZN-2-Logo-Sin-Fondo.webp",
+			  	"url": "https://vikistream.com/embed2.php?player=desktop&live=do26",
+				"referer": "https://l1l1.to/",
+				"isHost": "true"
 			   },{ 
 			"name": "Canal 5",
 			   "image": "https://i.ibb.co/vhNCnrq/DAZN-2-Logo-Sin-Fondo.webp",
@@ -651,7 +652,7 @@
 	}, {
 		"name": "Canal 2",
 		"image": "https://i.ibb.co/Ntcj66Q/logo-es1.webp",
-		"url": "https://watchtvchh.xyz/channel/ch017087.php",
+		"url": "https://sportskart.click/embed/stream-524.php",
              	"isHost": "true"
 	}, {
 		"name": "Canal 3",
@@ -662,7 +663,7 @@
 		}, {
 		"name": "Canal 1",
 		"image": "https://i.ibb.co/HLcq8Cj/logo-es2.webp",
-		"url" : "http://castlempire.site:8080/UserTest2Octubre_00s/bqCs7jw4KQJa/173701",
+		"url" : "https://sportskart.click/embed/stream-525.php",
              	"userAgent": ""
 	}, {
 		"name": "Canal 2",
@@ -2009,47 +2010,47 @@
 						{
 									"name": "Canal 1",
 									"image": "https://i.ibb.co/vDDxKB8/MLB-logo-Channels.png",
-									"url" : "http://markkystreams.com/video/mlb-1/",
+									"url" : "http://markkystreams.com/video/mlb-01/",
 									"isHost": "true"
 						}, {  
 									"name": "Canal 2",
 									"image": "https://i.ibb.co/vDDxKB8/MLB-logo-Channels.png",
-									"url" : "http://markkystreams.com/video/mlb-2/",
+									"url" : "http://markkystreams.com/video/mlb-02/",
 									"isHost": "true"
 						}, {
 									"name": "Canal 3",
 									"image": "https://i.ibb.co/vDDxKB8/MLB-logo-Channels.png",
-									"url" : "http://markkystreams.com/video/mlb-3/",
+									"url" : "http://markkystreams.com/video/mlb-03/",
 									"isHost": "true"
 						}, {
 									"name": "Canal 4",
 									"image": "https://i.ibb.co/vDDxKB8/MLB-logo-Channels.png",
-									"url" : "http://markkystreams.com/video/mlb-4/",
+									"url" : "http://markkystreams.com/video/mlb-04/",
 									"isHost": "true"
 						}, {  
 									 "name": "Canal 5",
 									"image": "https://i.ibb.co/vDDxKB8/MLB-logo-Channels.png",
-									"url" : "http://markkystreams.com/video/mlb-5/",
+									"url" : "http://markkystreams.com/video/mlb-05/",
 									"isHost": "true"
 						}, {
 									"name": "Canal 6",
 									"image": "https://i.ibb.co/vDDxKB8/MLB-logo-Channels.png",
-									"url" : "http://markkystreams.com/video/mlb-6/",
+									"url" : "http://markkystreams.com/video/mlb-06/",
 									"isHost": "true"
 						}, {
 									"name": "Canal 7",
 									"image": "https://i.ibb.co/vDDxKB8/MLB-logo-Channels.png",
-									"url" : "http://markkystreams.com/video/mlb-7/",
+									"url" : "http://markkystreams.com/video/mlb-07/",
 									"isHost": "true"
 						 }, {
 									"name": "Canal 8",
 									"image": "https://i.ibb.co/vDDxKB8/MLB-logo-Channels.png",
-									"url" : "http://markkystreams.com/video/mlb-8/",
+									"url" : "http://markkystreams.com/video/mlb-08/",
 									"isHost": "true"
 						}, {
 									"name": "Canal 9",
 									"image": "https://i.ibb.co/vDDxKB8/MLB-logo-Channels.png",
-									"url" : "http://markkystreams.com/video/mlb-9/",
+									"url" : "http://markkystreams.com/video/mlb-09/",
 									"isHost": "true"
 						}, {
 									"name": "Canal 10",
@@ -2285,10 +2286,10 @@
 			"referer": "http://cricfree.live/",
              		"isHost": "true"
                 }, {
-                    "name": "ESPN",
-                    "image": "https://i.ibb.co/rFNKx28/logo-ESPN.png",
-                "url": "http://168.194.171.33:8000/play/a01a/index.m3u8",
-			 "userAgent" : ""
+                    	"name": "ESPN",
+                    	"image": "https://i.ibb.co/rFNKx28/logo-ESPN.png",
+                	"url": "https://sportskart.click/embed/stream-149.php",
+			"isHost": "true"
                     },{
                     "name": "ESPN",
                     "image": "https://i.ibb.co/rFNKx28/logo-ESPN.png",
@@ -2296,10 +2297,10 @@
                      "referer": "https://www.daddylive.pro/",  
 			"isHost":true
                   },{
-                    "name": "ESPN2",
-                    "image": "https://i.ibb.co/XLzx4Rp/logo-ESPN2.png",
-                     "url": "http://168.194.171.33:8000/play/a00y/index.m3u8",
-			 "userAgent" : ""
+                    	"name": "ESPN2",
+                    	"image": "https://i.ibb.co/XLzx4Rp/logo-ESPN2.png",
+                     	"url": "https://sportskart.click/embed/stream-150.php",
+		 	"isHost": "true"
                  },{
                     "name": "ESPN2",
                     "image": "https://i.ibb.co/XLzx4Rp/logo-ESPN2.png",
@@ -2541,7 +2542,17 @@
 							"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe1Hb_2hzPBE_9l3bVg3PxT-tlC9EzjeGm9Q9Q4Vzwis12TaZ9QDUNDa4IyZL-E6Y3uMI&usqp=CAU",
 							"url":"https://media1.ultrik.com/live/torole1.m3u8?variant=0",
 							"userAgent" : ""
-		 			}]
+		 			}, {
+			 				"name": "Canal 1",
+							"image": "https://i.ibb.co/wYk6sYX/logo-Mundo-Toro.png",
+      							"url": "http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/136048",
+							"userAgent": ""
+             				}, {
+			 				"name": "Canal 2",
+							"image": "https://i.ibb.co/wYk6sYX/logo-Mundo-Toro.png",
+      							"url": "http://726426250506438027.opword.xyz:80/play/vi914676/9560732625/438027.ts",
+							"userAgent": ""
+             				}]
 		}, {
 			"name": "Eventos",
 		   "image": "https://i.ibb.co/s2Kbx9R/calendario-2023.png",
