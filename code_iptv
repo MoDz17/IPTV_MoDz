@@ -31,9 +31,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 08/04/2023",
+             "name": "Ultm. versión 09/04/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 08/04/2023",
+            "info": "última versión actualizada el 09/04/2023",
             "stations": []
 	}, 
 	
@@ -625,8 +625,8 @@
    }, {
 	"name": "Canal 5",
 	"image": "https://i.ibb.co/LQy2rM6/DAZN-4-Logo-Sin-Fondo.png",
-	"url" : "https://vikistream.com/embed2.php?player=desktop&live=do32",
-	 "referer": "https://l1l1.to/",
+	"url" : "https://parsimoniousinvincible.net/embed/w67i2uz",
+	"referer": "https://macron.xyz/",
 	 "isHost": "true"
 	   }, {
 	"name": "Canal 6",
@@ -2011,7 +2011,12 @@
 							"image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
 							"url": "http://sportsurge.stream/embed/wwe.php",
 							"isHost" : "true"
-				  	}]
+				  	}, {
+							"name": "Canal 14",
+						   	"image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
+						   	"url":"https://d856dff4.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWdiX1BGTE1NQV9ITFM/22e27f77-d243-40b2-9dd3-cb6efe6e61a0/5.m3u8",
+						   	"userAgent" : ""
+					 }]
 					   }, {
 						"name": "Béisbol",
 						"image": "https://i.ibb.co/4Km4DJp/MLB-logo.png",
@@ -2257,6 +2262,11 @@
 				"name": "Canal 15",
 				"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
 				"url" : "http://markkystreams.com/video/nhl-15/",
+				"isHost": "true"
+			 }, {
+				"name": "Canal 16",
+				"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
+				"url" : "http://markkystreams.com/video/nhl-16/",
 				"isHost": "true"
 			 }]
 				 }, {
@@ -2516,7 +2526,7 @@
 						 }, {
 							"name": "Gol Play",
 						   "image": "https://i.ibb.co/4ZhrbdF/Gol-Play-logo.png",
-						   "url":"https://piratilla2.xyz/306802/hls/gol.m3u8",
+						   "url":"https://photocall.tv/t9rq/hls/gol.m3u8",
 						   "userAgent" : ""
 						 }, {
 							"name": "Real Madrid",
@@ -2544,13 +2554,13 @@
 							"url":"https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/profile_0/chunklist_dvr.m3u8",
 							"userAgent" : ""
 		 			}, {
-							"name": "Mundo Toros",
-							"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe1Hb_2hzPBE_9l3bVg3PxT-tlC9EzjeGm9Q9Q4Vzwis12TaZ9QDUNDa4IyZL-E6Y3uMI&usqp=CAU",
+							"name": "Canal 1",
+							"image": "https://i.ibb.co/hyJxtMw/logo-Torole.png",
 							"url":"https://media1.ultrik.com/live/torole1.m3u8",
 							"userAgent" : ""
 		 			}, {
-							"name": "Mundo Toros (2)",
-							"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe1Hb_2hzPBE_9l3bVg3PxT-tlC9EzjeGm9Q9Q4Vzwis12TaZ9QDUNDa4IyZL-E6Y3uMI&usqp=CAU",
+							"name": "Canal 2",
+							"image": "https://i.ibb.co/hyJxtMw/logo-Torole.png",
 							"url":"https://media1.ultrik.com/live/torole1.m3u8?variant=0",
 							"userAgent" : ""
 		 			}, {
@@ -2562,6 +2572,16 @@
 			 				"name": "Canal 2",
 							"image": "https://i.ibb.co/wYk6sYX/logo-Mundo-Toro.png",
       							"url": "http://726426250506438027.opword.xyz:80/play/vi914676/9560732625/438027.ts",
+							"userAgent": ""
+             				}, {
+			 				"name": "CMM",
+							"image": "https://i.ibb.co/5vFXwzy/logo-CMM.png",
+      							"url": "https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4ycl/protocol/https/format/applehttp/.m3u8",
+							"userAgent": ""
+             				}, {
+			 				"name": "Canal Sur",
+							"image": "https://i.ibb.co/dLRFMTF/logo-Canal-Sur.png",
+      							"url": "https://cdnlive.codev8.net/rtvalive/channel1.smil/chunklist_b2200000.m3u8",
 							"userAgent": ""
              				}]
 		}, {
