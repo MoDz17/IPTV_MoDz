@@ -31,9 +31,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 06/04/2023",
+             "name": "Ultm. versión 08/04/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 06/04/2023",
+            "info": "última versión actualizada el 08/04/2023",
             "stations": []
 	}, 
 	
@@ -400,7 +400,7 @@
 		}, {
 			"name": "Canal 6",
 	"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-	"url": "https://watchtvchh.xyz/channel/ch017008.php",
+	"url": "https://sportskart.click/embed/stream-445.php",
 	 "isHost": "true"
 	   }, {
 	"name": "Canal 7",
@@ -463,6 +463,12 @@
 				"name": "Canal 17",
 				"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
 				"url" : "https://vikistream.com/embed2.php?player=desktop&live=do33",
+	 			"referer": "https://l1l1.to/",
+	 			"isHost": "true"  
+ 			}, {
+				"name": "Canal 18",
+				"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
+				"url" : "https://vikistream.com/embed2.php?player=desktop&live=do34",
 	 			"referer": "https://l1l1.to/",
 	 			"isHost": "true"  
  			}, { 
@@ -536,7 +542,7 @@
 		 }, { 
 			"name": "Canal 1",
 			   "image": "https://i.ibb.co/p1Ry56w/DAZN-3-Logo-Sin-Fondo.png",
-		 	"url": "https://sportskart.click/embed/stream-427.php",
+		 	"url": "https://sportskart.click/embed/stream-446.php",
 			"isHost": "true"   
 			   },{ 
 				"name": "Canal 2",
@@ -614,13 +620,13 @@
 				},{ 
 			"name": "Canal 4",
 		   	"image": "https://i.ibb.co/LQy2rM6/DAZN-4-Logo-Sin-Fondo.png",
-			"url": "https://sportskart.click/embed/stream-428.php",
+			"url": "https://sportskart.click/embed/stream-448.php",
            		"isHost" : "true"  
    }, {
 	"name": "Canal 5",
 	"image": "https://i.ibb.co/LQy2rM6/DAZN-4-Logo-Sin-Fondo.png",
-	"url" : "https://parsimoniousinvincible.net/embed/w67i2uz",
-	 "referer": "https://macron.xyz/",
+	"url" : "https://vikistream.com/embed2.php?player=desktop&live=do32",
+	 "referer": "https://l1l1.to/",
 	 "isHost": "true"
 	   }, {
 	"name": "Canal 6",
@@ -1144,7 +1150,7 @@
 						}, {
 							"name": "Canal 9",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-							"url": "https://vikistream.com/embed2.php?player=desktop&live=do11",
+							"url": "https://vikistream.com/embed2.php?player=desktop&live=do15",
 							"referer" : "https://l1l1.to/",
 							 "isHost": "true"
 						}]
@@ -1357,7 +1363,7 @@
 				 }, {
 				"name": "Canal 7",
 				"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-		   		"url": "https://vikistream.com/embed2.php?player=desktop&live=do9",
+		   		"url": "https://vikistream.com/embed2.php?player=desktop&live=do38",
 				"referer": "https://l1l1.to/",
 				 "isHost": "true"
 			}, {
@@ -1375,7 +1381,7 @@
 			}, {
 				"name": "Canal 10",
 				"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-				 "url": "https://vikistream.com/embed2.php?player=desktop&live=do7",
+				 "url": "https://vikistream.com/embed2.php?player=desktop&live=do6",
 				"referer": "https://l1l1.to/",
 				 "isHost": "true"
 				 }, {
@@ -1987,7 +1993,7 @@
 					}, {
 						 	"name": "Canal 10",
 							"image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
-						  	"url" :  "https://unbiasedsenseevent.com/embed/awcg463b",
+						  	"url" :  "https://unbiasedsenseevent.com/embed/k2szvuyqaq8a44x",
 							"referer" : "https://buzztv.futbol/",
 						 	"isHost":"true"
 					}, { 
