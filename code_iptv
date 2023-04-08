@@ -334,17 +334,22 @@
 				"image": "https://i.ibb.co/sVPN8q6/logo-golf.png",
 				"url" : "http://xone8.1222908.net:80/live/346C0F77EDBDF396B9EF8A379964C00A/323627.m3u8",
 			   	"userAgent" : ""
-				 }, {
+			 }, {
 				"name": "Canal 2",
 				"image": "https://i.ibb.co/sVPN8q6/logo-golf.png",
 			  	"url": "https://sportskart.click/embed/stream-528.php",
             			"isHost": "true"
-               		 	}, {
+			}, {
 				"name": "Canal 3",
 	   			"image": "https://i.ibb.co/sVPN8q6/logo-golf.png",
 	   			"url":"http://212.224.84.217:2200/NL/mgolfhd-esp/tracks-v1a1/mono.m3u8?token=fwBlCndpe3BpD3tnN3cSfwJlc3NicwdpfT9gfXRhe3ppenZg",
 	   			"userAgent" : ""
-	 			}, {
+			}, {
+				"name": "Canal 4",
+				"image": "https://i.ibb.co/sVPN8q6/logo-golf.png",
+				"url" : "http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/135992",
+			   	"userAgent" : ""
+			 }, {
 				"name": "[CERRADO]",
 				"image": "https://i.ibb.co/MMd7zpC/logo-toros.png",
 				 "url" : ""
