@@ -33,7 +33,7 @@
 	{
              "name": "Ultm. versión 09/04/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 09/04/2023",
+            "info": "última versión actualizada el 09/04/2023 [parte 2]",
             "stations": []
 	}, 
 	
@@ -1038,6 +1038,12 @@
 					"url" : "https://parsimoniousinvincible.net/embed/opthng68di66m",
               				"referer": "https://streamonsport.ru/",
            				"isHost" : "true"
+				}, {
+					"name": "Canal 11",
+					"image": "https://static1.diariosur.es/www/multimedia/201907/30/media/cortadas/liga-smart-bank-kHMB-U80877895812lSF-1248x770@RC.jpg",
+					"url" : "https://unbiasedsenseevent.com/embed/3mb8fn",
+              				"referer": "https://l1l1.to/",
+           				"isHost" : "true"
 				}]
                       }, 
 					  
@@ -1333,13 +1339,13 @@
 			}, {
 				"name": "Canal 2",
 				"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-				 "url": "https://vikistream.com/embed2.php?player=desktop&live=do35",
+				 "url": "https://vikistream.com/embed2.php?player=desktop&live=do2",
 				"referer": "https://l1l1.to/",
 				 "isHost": "true"
 			}, {
 				"name": "Canal 3",
 				"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-		   		"url": "https://vikistream.com/embed2.php?player=desktop&live=do36",
+		   		"url": "https://vikistream.com/embed2.php?player=desktop&live=do38",
 				"referer": "https://l1l1.to/",
 				 "isHost": "true"
 			}, {
@@ -1351,7 +1357,7 @@
 						}, {
 				"name": "Canal 5",
 				"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-				"url": "https://vikistream.com/embed2.php?player=desktop&live=do38",
+				"url": "https://vikistream.com/embed2.php?player=desktop&live=do18",
 				"referer": "https://l1l1.to/",
 				 "isHost": "true"
 			}, {
@@ -2572,6 +2578,11 @@
 			 				"name": "Canal 2",
 							"image": "https://i.ibb.co/wYk6sYX/logo-Mundo-Toro.png",
       							"url": "http://726426250506438027.opword.xyz:80/play/vi914676/9560732625/438027.ts",
+							"userAgent": ""
+             				}, {
+			 				"name": "Canal 3",
+							"image": "https://i.ibb.co/wYk6sYX/logo-Mundo-Toro.png",
+      							"url": "http://185.233.16.90:80/hu1215866/wvdMBygd9@/438026",
 							"userAgent": ""
              				}, {
 			 				"name": "CMM",
