@@ -31,9 +31,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 09/04/2023",
+             "name": "Ultm. versión 10/04/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 09/04/2023 [parte 2]",
+            "info": "última versión actualizada el 10/04/2023",
             "stations": []
 	}, 
 	
@@ -1485,7 +1485,7 @@
                                 }, {
                "name": "Canal 15",
 			"image": "https://i.ibb.co/jVB1bwy/NBA-Logo.jpg",
-			"url" : "https://www.google.es/",
+			"url" : "http://markkystreams.com/video/nba-15/",
 			"isHost": "true"
                 }, {
 			"name": "Canal 16",
@@ -2577,7 +2577,7 @@
              				}, {
 			 				"name": "Canal 2",
 							"image": "https://i.ibb.co/wYk6sYX/logo-Mundo-Toro.png",
-      							"url": "http://726426250506438027.opword.xyz:80/play/vi914676/9560732625/438027.ts",
+      							"url": "http://185.233.16.89/play/va08271/4122744267/441851.ts",
 							"userAgent": ""
              				}, {
 			 				"name": "Canal 3",
@@ -2835,18 +2835,42 @@
         									"image":"https://i.ibb.co/S5NN7p3/logo-ufc.png",
         									"stations": 
         								  [
-            								{
+									  {
+            									"name": "UFC 287",
+            									"image": "https://www.itnwwe.com/wp-content/uploads/2023/01/UFC-287-Poster.jpg",
+            									"url": "https://vk.com/video739310848_456239033",
+										"embed": "true"
+            								}, {
+            									"name": "UFC 287",
+            									"image": "https://www.itnwwe.com/wp-content/uploads/2023/01/UFC-287-Poster.jpg",
+            									"url": "https://vk.com/video739310848_456239032",
+										"embed": "true"
+            								}, {
+            									"name": "UFC 287",
+            									"image": "https://www.itnwwe.com/wp-content/uploads/2023/01/UFC-287-Poster.jpg",
+            									"url": "https://vk.com/video739310848_456239031",
+										"embed": "true"
+            								}, {
+            									"name": "UFC 287",
+            									"image": "https://www.itnwwe.com/wp-content/uploads/2023/01/UFC-287-Poster.jpg",
+            									"url": "https://vk.com/video739310848_456239030",
+										"embed": "true"
+            								}, {
+            									"name": "UFC 287",
+            									"image": "https://www.itnwwe.com/wp-content/uploads/2023/01/UFC-287-Poster.jpg",
+            									"url": "https://vk.com/video739310848_456239029",
+										"embed": "true"
+            								}, {
             									"name": "UFC 284",
             									"image": "https://i.ibb.co/51LsJfL/Makha-Volka284.jpg",
             									"url": "https://vk.com/video739310848_456239020",
-												"embed": "true"
+										"embed": "true"
             								}, {
             									"name": "UFC 284",
             									"image": "https://i.ibb.co/NK0CNN7/Rodri-Emme284.jpg",
             									"url": "https://vk.com/video739310848_456239019",
             									"embed": "true"
-            								}
-										  ]
+            								}]
     									}
   								]
 						}, {
