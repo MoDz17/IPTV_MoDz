@@ -31,9 +31,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 10/04/2023",
+             "name": "Ultm. versión 15/04/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 10/04/2023",
+            "info": "última versión actualizada el 15/04/2023",
             "stations": []
 	}, 
 	
@@ -471,7 +471,12 @@
 				"url" : "https://vikistream.com/embed2.php?player=desktop&live=do34",
 	 			"referer": "https://l1l1.to/",
 	 			"isHost": "true"  
- 			}, { 
+ 			}, {
+				"name": "Canal 19",
+				"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
+				"url":"https://daddy.yurendtv.biz.id/https://ddy5.onlinewebtv.lol:443/ddy5/premium445/tracks-v1a1/mono.m3u8",
+				"userAgent" : ""
+			}, { 
 			"name": "Canal 1",
 			   "image": "https://i.ibb.co/vhNCnrq/DAZN-2-Logo-Sin-Fondo.webp",
 		 "url": "https://parsimoniousinvincible.net/embed/opthng68di66m",
@@ -539,7 +544,12 @@
 			   "image": "https://i.ibb.co/vhNCnrq/DAZN-2-Logo-Sin-Fondo.webp",
 			   "url":"https://emb.apl217.me/player/live.php?id=210937&w=100%&h=100%",
 			   "isHost": "true"
-		 }, { 
+		 }, {
+				"name": "Canal 13",
+				"image": "https://i.ibb.co/vhNCnrq/DAZN-2-Logo-Sin-Fondo.webp",
+				"url":"https://daddy.yurendtv.biz.id/https://ddy1.onlinewebtv.lol:443/ddy1/premium446/tracks-v1a1/mono.m3u8",
+				"userAgent" : ""
+			}, { 
 			"name": "Canal 1",
 			   "image": "https://i.ibb.co/p1Ry56w/DAZN-3-Logo-Sin-Fondo.png",
 		 	"url": "https://sportskart.click/embed/stream-446.php",
@@ -600,7 +610,12 @@
 					"url": "https://vikistream.com/embed2.php?player=desktop&live=do32",
 			   		"referer" : "https://l1l1.to/",
 			   		"isHost":"true"
-				  }, { 
+				  }, {
+				"name": "Canal 12",
+				"image": "https://i.ibb.co/p1Ry56w/DAZN-3-Logo-Sin-Fondo.png",
+				"url":"https://daddy.yurendtv.biz.id/https://ddy1.onlinewebtv.lol:443/ddy1/premium447/tracks-v1a1/mono.m3u8",
+				"userAgent" : ""
+			}, { 
 				"name": "Canal 1",
 			   "image": "https://i.ibb.co/LQy2rM6/DAZN-4-Logo-Sin-Fondo.png",
 			   "url": "https://2w0160v7u50gwy.constraindefiant.net/embed/w67i2uz",
@@ -656,6 +671,11 @@
 	   	"url":"https://embx210976.apl217.me/player/live.php?id=210976?&w=100%&h=100%",
 	   	"isHost": "true"
 	 }, {
+		"name": "Canal 11",
+		"image": "https://i.ibb.co/LQy2rM6/DAZN-4-Logo-Sin-Fondo.png",
+		"url":"https://daddy.yurendtv.biz.id/https://ddy1.onlinewebtv.lol:443/ddy1/premium448/tracks-v1a1/mono.m3u8",
+		"userAgent" : ""
+	}, {
 		"name": "Canal 1",
 		"image": "https://i.ibb.co/Ntcj66Q/logo-es1.webp",
 	 	"url": "https://www.freeshot.live/live-tv/eurosport-1-es/156",
@@ -797,11 +817,10 @@
               "referer": "https://starlive.xyz/",
              "isHost": "true"
                      }, {
-		   "name": "Canal 2",
+		   	"name": "Canal 2",
 			"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-			 "url": "https://utopianwilderness.com/embed/bfrdpjjztqnm67m",
-              "referer": "https://starlive.xyz/",
-             "isHost": "true"
+			 "url": "https://daddy.yurendtv.biz.id/https://ddy6.onlinewebtv.lol:443/ddy6/premium538/tracks-v1a1/mono.m3u8",
+              		"userAgent" : ""
 	             }, {
 			"name": "Canal 3",
 			"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
@@ -1882,6 +1901,12 @@
 								   "url": "https://cdn122.com/embed/2k2kr220ol6yr6i?skin=26",
 								  "referer": "https://l1l1.to/",
 								   "isHost": "true"
+							  }, {
+								  "name": "Canal 16",
+								  "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
+								   "url": "https://vikistream.com/embed2.php?player=desktop&live=do27",
+								  "referer": "https://l1l1.to/",
+								   "isHost": "true"
 							  }]
 						  }, 
 						  
@@ -2281,7 +2306,7 @@
 		"info": "",
 		"stations": [
 		
-		{
+		 {
 			"name": "BT Sport 1",
 			"image": "https://i.ibb.co/w6gRYRm/BTS1.png",
 			"url":"http://163.172.221.223:90/bt1/index.m3u8",
@@ -2289,7 +2314,7 @@
 		 }, {
 			"name": "BT Sport 2",
 			"image": "https://i.ibb.co/ChrQRMv/BTS2.png",
-			"url":"http://163.172.221.223:90/bt2/index.m3u8",
+			"url":"https://daddy.yurendtv.biz.id/https://ddy1.onlinewebtv.lol:443/ddy1/premium32/tracks-v1a1/mono.m3u8",
 			"userAgent" : ""
 		 }, {
 			"name": "BT Sport 3",
@@ -2599,6 +2624,11 @@
 							"image": "https://i.ibb.co/dLRFMTF/logo-Canal-Sur.png",
       							"url": "https://cdnlive.codev8.net/rtvalive/channel1.smil/chunklist_b2200000.m3u8",
 							"userAgent": ""
+             				}, {
+			 				"name": "My Pádel TV",
+							"image": "https://i.ibb.co/zVS6WCK/logo-My-PTV.webp",
+      							"url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01970-mypadeldigitals-mypadeltv-samsungspain/playlist.m3u8",
+							"userAgent": ""
              				}]
 		}, {
 			"name": "Eventos",
@@ -2635,11 +2665,11 @@
              		"referer": "https://sportz.football/",
              		"isHost": "true"
                      }, {
-		    "name": "Canal 6",
+		    	"name": "Canal 6",
 			"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
 			 "url": "https://vikistream.com/embed2.php?player=desktop&live=do26",
-              "referer": "https://l1l1.to/",
-             "isHost": "true" 
+              		"referer": "https://l1l1.to/",
+             		"isHost": "true" 
                      }, {
 		   "name": "Canal 7",
 			"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
