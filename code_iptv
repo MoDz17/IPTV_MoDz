@@ -933,7 +933,7 @@
 		 }, {
 			"name": "Canal 22",
 			"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-			"url" : "https://starlive.xyz/embed.php?id=liveL",
+			"url" : "https://starlive.xyz/embed.php?id=livebeinMAX7",
 			 "isHost": "true" 
 		}, {
 			"name": "Canal 23",
@@ -964,37 +964,43 @@
 			"url" : "https://sportskart.click/embed/stream-84.php",
 			 "isHost": "true" 
 		}, {
-                    "name": "Canal 28 [ESPN]",
+			"name": "Canal 28",
+			"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
+			"url" : "https://e3mp0v3xclyp2g.trustexploration.com/embed/ed8cxtbybq3x",
+			 "referer": "https://bahiadeportes.com/",
+			 "isHost": "true" 
+		}, {
+                    "name": "Canal 29 [ESPN]",
                     "image": "https://i.ibb.co/VQpLvTb/logo-channels-ESPN.jpg",
                     "url": "https://wecast.to/hls.php?stream=38tSc8hE6z9c",
                      "referer": "https://bahiadeportes.com/",  
 			"isHost" : "true"
                  },{
-                    "name": "Canal 29 [ESPN2]",
+                    "name": "Canal 30 [ESPN2]",
                     "image": "https://i.ibb.co/VQpLvTb/logo-channels-ESPN.jpg",
                      "url":"https://wecast.to/hls.php?stream=wrK4VGJ4fyST",
 		     "referer" : "https://bahiadeportes.com/",
             		"isHost" : "true"
                   },{
-                    "name": "Canal 30 [ESPN3]",
+                    "name": "Canal 31 [ESPN3]",
                     "image": "https://i.ibb.co/VQpLvTb/logo-channels-ESPN.jpg",
                    "url": "https://wecast.to/hls.php?stream=yhzly0qurt9y",
                  "referer" : "https://bahiadeportes.com/",
                      "isHost" : "true"
              }, {
-			"name": "Canal 31 [inglés]",
+			"name": "Canal 32 [inglés]",
 			"image": "https://i.ibb.co/nwQrbvN/inglesa.webp",
            		"url": "https://deliriousholistic.net/embed/37g5h7ynae",
 	   		"referer" : "https://strims.top/",
              		"isHost":"true" 
            }, {
-			"name": "Canal 32 [inglés]",
+			"name": "Canal 33 [inglés]",
 			"image": "https://i.ibb.co/nwQrbvN/inglesa.webp",
             		"url" : "https://www.nolive.me/sd0embed",
 			"referer": "https://embedstream.me/",
              		"isHost": "true" 
 	   }, {
-			"name": "Canal 33 [inglés]",
+			"name": "Canal 34 [inglés]",
 	   		"image": "https://i.ibb.co/nwQrbvN/inglesa.webp",
 	   		"url":"https://enjoy4k.shop:30445/live/abr_ch4/playlist.m3u8",
 	   		"userAgent" : ""
@@ -1061,6 +1067,12 @@
 					"name": "Canal 11",
 					"image": "https://static1.diariosur.es/www/multimedia/201907/30/media/cortadas/liga-smart-bank-kHMB-U80877895812lSF-1248x770@RC.jpg",
 					"url" : "https://unbiasedsenseevent.com/embed/3mb8fn",
+              				"referer": "https://l1l1.to/",
+           				"isHost" : "true"
+				}, {
+					"name": "Canal 12",
+					"image": "https://static1.diariosur.es/www/multimedia/201907/30/media/cortadas/liga-smart-bank-kHMB-U80877895812lSF-1248x770@RC.jpg",
+					"url" : "https://vikistream.com/embed2.php?player=desktop&live=do21",
               				"referer": "https://l1l1.to/",
            				"isHost" : "true"
 				}]
@@ -2399,6 +2411,11 @@
 			"name": "TUDN",
 			"image": "https://i.ibb.co/XF20w23/logo-TUDN.png",
 			"url":"https://linear-357.frequency.stream/dist/vix/357/hls/master/playlist_1024x576.m3u8",
+			"userAgent" : ""
+		 }, {
+			"name": "TUDN",
+			"image": "https://i.ibb.co/XF20w23/logo-TUDN.png",
+			"url":"http://skytvpluzz.xyz:8000/GoN3xt/mVD21jrp3D/29669",
 			"userAgent" : ""
 		 }, {
 			"name": "DirecTV Sports",
