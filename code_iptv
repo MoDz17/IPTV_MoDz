@@ -31,9 +31,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 16/04/2023",
+             "name": "Ultm. versión 18/04/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 16/04/2023",
+            "info": "última versión actualizada el 18/04/2023",
             "stations": []
 	}, 
 	
@@ -112,11 +112,6 @@
 				   "url":"http://51.158.36.81:18000/M_Vamos/hls/playlist.m3u8",
 				   "userAgent" : ""
 			   }, {
-				"name": "[ROTO]",
-				"image": "https://i.ibb.co/0KhDfH0/logo-M-fest.png",
-				"url":"http://51.158.36.81:18000/M_Fest/hls/playlist.m3u8",
-				"userAgent" : ""
-			}, {
 				"name": "Canal 1",
 				"image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png", 
 		 		"url": "https://parsimoniousinvincible.net/embed/lbr3etluqsw",
@@ -2572,10 +2567,10 @@
 						   "url":"https://ztnr.rtve.es/ztnr/1712295.m3u8",
 						   "userAgent" : ""
 						 }, {
-							"name": "Gol Play",
+						   "name": "Gol Play",
 						   "image": "https://i.ibb.co/4ZhrbdF/Gol-Play-logo.png",
-						   "url":"https://play.goltelevision.com/api/manifest/live.m3u8?token=0803a8c61334d1a5078ddbe62f5e0d0f&expire=643cbfd9",
-						   "userAgent" : ""
+						   "url":"https://www.goltelevision.com/en-directo",
+						   "embed": "true"
 						 }, {
 							"name": "Real Madrid",
 						   "image": "https://i.ibb.co/G5fHMBD/real-Madrid-TV-logo.png",
@@ -2592,11 +2587,6 @@
 						   "url":"https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master.m3u8",
 						   "userAgent" : ""
 						 }, {
-							"name": "[ROTO]",
-							"image": "https://i.ibb.co/zGm2z2y/logo-dark-18.png",
-							"url": "http://94.158.219.85:8081/channel/n457fb186/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.y1Ubsu9jmzophdGjATa9tpy7Lwu89ZvlFBjw4Urdy8xwjeVmPLFWo6H0_H7WHjK-ks-W5x32XD_u5Ji0WbOs9A",
-							 "online":"true"
-					  }, {
 							"name": "À Punt",
 							"image": "https://i.ibb.co/105c5Rn/logo-a-Punt.png",
 							"url":"https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/profile_0/chunklist_dvr.m3u8",
@@ -2856,6 +2846,16 @@
         									"stations": 
 										[
 											{
+												"name": "Austin 2023",
+												"image": "https://i.ibb.co/qrr6ZxK/Moto-GP-Austin23.jpg",
+												"url": "https://vk.com/video739310848_456239035",
+												"embed": "true"
+											}, {
+												"name": "Sprint Austin 2023",
+												"image": "https://i.ibb.co/qrr6ZxK/Moto-GP-Austin23.jpg",
+												"url": "https://vk.com/video739310848_456239034",
+												"embed": "true"
+											}, {
 												"name": "Argentina 2023",
 												"image": "https://i.ibb.co/RCzcL77/MGP-GPA23.jpg",
 												"url": "https://vk.com/video739310848_456239028",
@@ -2965,7 +2965,7 @@
 								"embed": "true"
 								}, {
 								"name": "Liga Smartbank",
-								"image": "https://cope-cdnmed.agilecontent.com/resources/jpg/1/9/1655281910291.jpg",
+								"image": "https://i.ibb.co/L5f9j85/logo-Smartbank-Horarios.webp",
 								"url": "https://www.futboltv.info/competicion/laliga2",
 								"embed": "true"
 								}, {
