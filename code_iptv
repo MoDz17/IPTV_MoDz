@@ -31,9 +31,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 18/04/2023",
+             "name": "Ultm. versión 19/04/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 18/04/2023",
+            "info": "última versión actualizada el 19/04/2023",
             "stations": []
 	}, 
 	
@@ -110,6 +110,11 @@
 				   "name": "Canal 7",
 				   "image": "https://i.ibb.co/HHL04RY/logo-vamos.png",
 				   "url":"http://51.158.36.81:18000/M_Vamos/hls/playlist.m3u8",
+				   "userAgent" : ""
+			   }, {
+				   "name": "Canal 8",
+				   "image": "https://i.ibb.co/HHL04RY/logo-vamos.png",
+				   "url":"https://daddy.yurendtv.biz.id/https://ddy1.onlinewebtv.lol:443/ddy1/premium521/tracks-v1a1/mono.m3u8",
 				   "userAgent" : ""
 			   }, {
 				"name": "Canal 1",
@@ -265,12 +270,16 @@
 						{
 							"name": "Canal 26",
 							"image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
-						"url": "https://unbiasedsenseevent.com/embed/df7nk3qyxpu1vx",
+							"url": "https://unbiasedsenseevent.com/embed/df7nk3qyxpu1vx",
 							"referer": "https://elixx.xyz/",
 							 "isHost": "true"  
-								  },		  
-								  
-			  {
+			  },	{
+							"name": "Canal 27",
+							"image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
+							"url":"https://daddy.yurendtv.biz.id/https://ddy6.onlinewebtv.lol:443/ddy6/premium435/tracks-v1a1/mono.m3u8",
+							"userAgent" : ""
+		 },	
+		     {
 				"name": "Canal 1",
 				"image": "https://i.ibb.co/4NvkCVR/logo-deportes.png",
 				 "url": "https://unbiasedsenseevent.com/embed/yjicnctevw6jymj",
@@ -309,6 +318,11 @@
 		 	"url": "https://watchtvchh.xyz/channel/ch016098.php",
 			"isHost": "true"
 	  		}, {
+			"name": "Canal 8",
+			"image": "https://i.ibb.co/4NvkCVR/logo-deportes.png",
+			"url":"https://daddy.yurendtv.biz.id/https://ddy6.onlinewebtv.lol:443/ddy6/premium436/tracks-v1a1/mono.m3u8",
+			"userAgent" : ""
+			 }, {
 			"name": "Canal 1",
 			"image": "https://i.ibb.co/3CcWsMq/logo-deportes2.png",
 		 	"url": "https://watchtvchh.xyz/channel/ch017001.php",
@@ -343,6 +357,11 @@
 				"name": "Canal 4",
 				"image": "https://i.ibb.co/sVPN8q6/logo-golf.png",
 				"url" : "http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/135992",
+			   	"userAgent" : ""
+			 }, {
+				"name": "Canal 5",
+				"image": "https://i.ibb.co/sVPN8q6/logo-golf.png",
+				"url" : "https://daddy.yurendtv.biz.id/https://ddy6.onlinewebtv.lol:443/ddy6/premium528/tracks-v1a1/mono.m3u8",
 			   	"userAgent" : ""
 			 }, {
 				"name": "[CERRADO]",
@@ -806,12 +825,11 @@
 		"image": "https://i.ibb.co/djLCfnd/logo-category-La-Liga.jpg",
 		"info": "",
 		"stations": [{
-		    "name": "Canal 1",
+			"name": "Canal 1",
 			"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-			 "url": "https://utopianwilderness.com/embed/bmv26p4vymf9kq",
-              "referer": "https://starlive.xyz/",
-             "isHost": "true"
-                     }, {
+			"url":"https://daddy.yurendtv.biz.id/https://ddy1.onlinewebtv.lol/ddy1/premium84/tracks-v1a1/mono.m3u8",
+			"userAgent" : ""
+		}, {
 		   	"name": "Canal 2",
 			"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
 			 "url": "https://daddy.yurendtv.biz.id/https://ddy6.onlinewebtv.lol:443/ddy6/premium538/tracks-v1a1/mono.m3u8",
@@ -997,7 +1015,7 @@
 	   }, {
 			"name": "Canal 34 [inglés]",
 	   		"image": "https://i.ibb.co/nwQrbvN/inglesa.webp",
-	   		"url":"https://enjoy4k.shop:30445/live/abr_ch4/playlist.m3u8",
+	   		"url":"https://daddy.yurendtv.biz.id/https://ddy6.onlinewebtv.lol:443/ddy6/premium415/tracks-v1a1/mono.m3u8",
 	   		"userAgent" : ""
 	}, {
 					"name": "Canal 1",
@@ -2771,6 +2789,17 @@
              		"isHost": "true"
                  }, {
 			"name": "Canal 23",
+			"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
+			 "url": "http://sportsurge.stream/embed/footy2.php",
+             		"isHost": "true"
+                 }, {
+			"name": "Canal 24",
+			"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
+			 "url": "https://coolcast2.com/embed.php?player=desktop&live=espn2sur",
+             		"referer": "https://tucanaldeportivo.com/",
+             		"isHost": "true"
+                 }, {
+			"name": "Canal 25",
 			"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
 			 "url": "http://sportsurge.stream/embed/footy2.php",
              		"isHost": "true"
