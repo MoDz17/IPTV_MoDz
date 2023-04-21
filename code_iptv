@@ -31,9 +31,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 19/04/2023",
+             "name": "Ultm. versión 21/04/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 19/04/2023",
+            "info": "última versión actualizada el 21/04/2023",
             "stations": []
 	}, 
 	
@@ -2622,17 +2622,17 @@
 		 			}, {
 			 				"name": "Canal 1",
 							"image": "https://i.ibb.co/wYk6sYX/logo-Mundo-Toro.png",
-      							"url": "http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/136048",
+      							"url": "http://216.24.220.51:8080/unado-javi-Marmol/Jdhs89SvF/294323",
 							"userAgent": ""
              				}, {
 			 				"name": "Canal 2",
 							"image": "https://i.ibb.co/wYk6sYX/logo-Mundo-Toro.png",
-      							"url": "http://102.165.51.185:80/ypamzjtt/xY2597mnGj/313200",
+      							"url": "http://102.165.51.185:80/live/ypamzjtt/xY2597mnGj/313200.m3u8",
 							"userAgent": ""
              				}, {
 			 				"name": "Canal 3",
 							"image": "https://i.ibb.co/wYk6sYX/logo-Mundo-Toro.png",
-      							"url": "http://skytvpluzz.xyz:8000/GoN3xt/mVD21jrp3D/5677",
+      							"url": "http://102.165.51.185:80/4PNVKVUQ9R/1645894844/321451",
 							"userAgent": ""
              				}, {
 			 				"name": "Canal 4",
@@ -2640,6 +2640,16 @@
       							"url": "http://565490522593392527.itvipmode.xyz/hu1215866/wvdMBygd9@/438026",
 							"userAgent": ""
              				}, {
+							"name": "Canal 5",
+							"image": "https://i.ibb.co/wYk6sYX/logo-Mundo-Toro.png",
+							"url":"http://2022spn.net:8080/Nicky/1234/5209",
+							"userAgent" : ""
+				 	}, {
+							"name": "Canal 6",
+							"image": "https://i.ibb.co/wYk6sYX/logo-Mundo-Toro.png",
+							"url":"http://2022spn.net:8080/Nicky/1234/5210",
+							"userAgent" : ""
+		 			}, {
 			 				"name": "CMM",
 							"image": "https://i.ibb.co/5vFXwzy/logo-CMM.png",
       							"url": "https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4ycl/protocol/https/format/applehttp/.m3u8",
@@ -2802,6 +2812,12 @@
 			"name": "Canal 25",
 			"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
 			 "url": "http://sportsurge.stream/embed/footy2.php",
+             		"isHost": "true"
+                 }, {
+			"name": "Canal 26",
+			"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
+			 "url": "https://vikistream.com/embed2.php?player=desktop&live=do5",
+			 "referer": "https://l1l1.to/",
              		"isHost": "true"
                  }, {
 			"name": "Multi 1",
