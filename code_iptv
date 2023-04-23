@@ -2686,11 +2686,6 @@
 							"image": "https://i.ibb.co/zVS6WCK/logo-My-PTV.webp",
       							"url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01970-mypadeldigitals-mypadeltv-samsungspain/playlist.m3u8",
 							"userAgent": ""
-             				}, {
-			 				"name": "Caza y Pesca",
-							"image": "https://i.ibb.co/Wz1mZ6g/logo-Caza-Pesca.png",
-      							"url": "http://51.222.154.193:80/live/346C0F77EDBDF396B9EF8A379964C00A/323601.m3u8",
-							"userAgent": ""
              				}]
 		}, {
 			"name": "Eventos",
