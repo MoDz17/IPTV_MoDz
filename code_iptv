@@ -31,9 +31,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 23/04/2023",
+             "name": "Ultm. versión 29/04/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 23/04/2023",
+            "info": "última versión actualizada el 29/04/2023",
             "stations": []
 	}, 
 	
@@ -356,7 +356,7 @@
 			}, {
 				"name": "Canal 4",
 				"image": "https://i.ibb.co/sVPN8q6/logo-golf.png",
-				"url" : "http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/135992",
+				"url" : "http://51.222.154.193:80/live/346C0F77EDBDF396B9EF8A379964C00A/323627.m3u8",
 			   	"userAgent" : ""
 			 }, {
 				"name": "Canal 5",
@@ -515,7 +515,7 @@
 		  },{ 
 				"name": "Canal 4",
 			   	"image": "https://i.ibb.co/vhNCnrq/DAZN-2-Logo-Sin-Fondo.webp",
-			  	"url": "https://vikistream.com/embed2.php?player=desktop&live=do24",
+			  	"url": "https://vikistream.com/embed2.php?player=desktop&live=do9",
 				"referer": "https://l1l1.to/",
 				"isHost": "true"
 			   },{ 
@@ -951,7 +951,7 @@
 		 }, {
 			"name": "Canal 22",
 			"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-			"url" : "https://starlive.xyz/embed.php?id=livebeinMAX7",
+			"url" : "https://starlive.xyz/embed.php?id=liveLiga",
 			 "isHost": "true" 
 		}, {
 			"name": "Canal 23",
@@ -1216,7 +1216,25 @@
 						}, {
 							"name": "Canal 9",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-							"url": "https://vikistream.com/embed2.php?player=desktop&live=do15",
+							"url": "https://vikistream.com/embed2.php?player=desktop&live=do14",
+							"referer" : "https://l1l1.to/",
+							 "isHost": "true"
+						}, {
+							"name": "Canal 10",
+							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
+							"url": "https://vikistream.com/embed2.php?player=desktop&live=do16",
+							"referer" : "https://l1l1.to/",
+							 "isHost": "true"
+						}, {
+							"name": "Canal 11",
+							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
+							"url": "https://vikistream.com/embed2.php?player=desktop&live=do12",
+							"referer" : "https://l1l1.to/",
+							 "isHost": "true"
+						}, {
+							"name": "Canal 12",
+							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
+							"url": "https://vikistream.com/embed2.php?player=desktop&live=do11",
 							"referer" : "https://l1l1.to/",
 							 "isHost": "true"
 						}]
@@ -1847,6 +1865,17 @@
 							  	"userAgent":"VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
                              					"isHost":"true" 
 							  }, {
+								"name": "Canal 25",
+						  		"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+								"url" : "https://unbiasedsenseevent.com/embed/p7uf4et6n5s8o0",
+							  	"referer": "https://l1l1.to/",
+                             					"isHost":"true" 
+							  }, {
+								"name": "Canal 26",
+						  		"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+								"url" : "https://sportskart.click/embed/stream-537.php",
+                             					"isHost":"true" 
+							  }, {
 								  "name": "Canal 1 [F1 inglés]",
 								  "image": "https://i.ibb.co/nwQrbvN/inglesa.webp",
 								  "url" : "http://sportsurge.stream/embed/f1.php",
@@ -1856,6 +1885,12 @@
 								  "image": "https://i.ibb.co/nwQrbvN/inglesa.webp",
 								  "url" : "https://www.soccerstreams.football/news/03-03/formula-march-3/",
 								  "userAgent": "navigator"
+							   }, {
+								  "name": "Canal 3 [F1 inglés]",
+								  "image": "https://i.ibb.co/nwQrbvN/inglesa.webp",
+								  "url" : "https://unbiasedsenseevent.com/embed/apmjz067by90u",
+								  "referer": "https://buzztv.futbol/",
+								  "isHost": "true"
 							   }, {
 								  "name": "MotoGP Android/iOS",
 								  "image": "https://i.ibb.co/71RQmYh/MJ-MGP.jpg",
@@ -1954,6 +1989,12 @@
 								   "url": "https://vikistream.com/embed2.php?player=desktop&live=do27",
 								  "referer": "https://l1l1.to/",
 								   "isHost": "true"
+							  }, {
+								  "name": "Canal 17",
+								  "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
+								  "url": "https://unbiasedsenseevent.com/embed/i1a5vxjlhqqc",
+								  "referer": "https://elixx.xyz/",
+								  "isHost": "true"
 							  }]
 						  }, 
 						  
@@ -2649,7 +2690,7 @@
              				}, {
 			 				"name": "Canal 2",
 							"image": "https://i.ibb.co/wYk6sYX/logo-Mundo-Toro.png",
-      							"url": "http://102.165.51.185:80/live/ypamzjtt/xY2597mnGj/313200.m3u8",
+      							"url": "http://45.143.222.50:8080/live/Vladisergeevic/2f71144da3/1132.m3u8",
 							"userAgent": ""
              				}, {
 			 				"name": "Canal 3",
@@ -2670,6 +2711,11 @@
 							"name": "Canal 6",
 							"image": "https://i.ibb.co/wYk6sYX/logo-Mundo-Toro.png",
 							"url":"http://2022spn.net:8080/Nicky/1234/5210",
+							"userAgent" : ""
+		 			}, {
+							"name": "Canal 7",
+							"image": "https://i.ibb.co/wYk6sYX/logo-Mundo-Toro.png",
+							"url":"http://45.90.105.74:25461/live/bbv1/4QKmSRxShA/111131.m3u8",
 							"userAgent" : ""
 		 			}, {
 			 				"name": "CMM",
@@ -2841,6 +2887,11 @@
 			 "url": "https://vikistream.com/embed2.php?player=desktop&live=do5",
 			 "referer": "https://l1l1.to/",
              		"isHost": "true"
+                 }, {
+			"name": "Canal 27",
+			"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
+			 "url": "http://51.222.154.193:80/live/346C0F77EDBDF396B9EF8A379964C00A/323624.m3u8",
+			 "userAgent": ""
                  }, {
 			"name": "Multi 1",
 			"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
