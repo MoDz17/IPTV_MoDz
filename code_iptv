@@ -832,13 +832,15 @@
 		"stations": [{
 			"name": "Canal 1",
 			"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-			"url":"https://daddy.yurendtv.biz.id/https://ddy1.onlinewebtv.lol/ddy1/premium84/tracks-v1a1/mono.m3u8",
-			"userAgent" : ""
+			"url": "https://parsimoniousinvincible.net/embed/6na79kddf",
+			"referer": "https://macron.xyz/",
+		 	"isHost": "true"
 		}, {
 		   	"name": "Canal 2",
 			"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-			 "url": "https://daddy.yurendtv.biz.id/https://ddy6.onlinewebtv.lol:443/ddy6/premium538/tracks-v1a1/mono.m3u8",
-              		"userAgent" : ""
+			 "url" : "https://strayindicate.net/embed/t7w70x7v57",
+		   	"referer": "https://1rowsportz.info/",
+		   	"isHost": "true"
 	             }, {
 			"name": "Canal 3",
 			"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
@@ -889,8 +891,7 @@
 					}, {
 						"name": "Canal 11",
 						"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-					 	"url": "https://parsimoniousinvincible.net/embed/6na79kddf",
-						"referer": "https://macron.xyz/",
+					 	"url": "",
 						 "isHost": "true"
 						 }, {
 						"name": "Canal 12",
@@ -1922,8 +1923,7 @@
 										}, {
 								  "name": "Canal 5",
 								  "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
-								   "url" : "https://strayindicate.net/embed/t7w70x7v57",
-								   "referer": "https://1rowsportz.info/",
+								   "url" : "",
 								   "isHost": "true"
 										 }, {
 								  "name": "Canal 6",
@@ -2656,11 +2656,6 @@
 							"name": "Real Madrid",
 						   "image": "https://i.ibb.co/G5fHMBD/real-Madrid-TV-logo.png",
 						   "url":"https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8",
-						   "userAgent" : ""
-						 }, {
-							"name": "Barcelona",
-						   "image": "https://i.ibb.co/wht6HTy/barsatv-logo.jpg",
-						   "url":"http://154.62.74.29:1935/live/barza/chunklist.m3u8",
 						   "userAgent" : ""
 						 }, {
 							"name": "Esport 3",
