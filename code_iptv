@@ -31,9 +31,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 29/04/2023",
+             "name": "Ultm. versión 30/04/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 29/04/2023",
+            "info": "última versión actualizada el 30/04/2023",
             "stations": []
 	}, 
 	
@@ -891,8 +891,7 @@
 					}, {
 						"name": "Canal 11",
 						"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-					 	"url": "",
-						 "isHost": "true"
+					 	"url": ""
 						 }, {
 						"name": "Canal 12",
 						"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
@@ -1373,9 +1372,9 @@
 			   "url":"https://starlive.xyz/embed.php?id=liveDazn10",
 			   "isHost" : "true"
 			}, {
-				 "name": "Canal 24",
+			   "name": "Canal 24",
 			   "image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-			   "url":"https://starlive.xyz/embed.php?id=liveCh11",
+			   "url":"https://starlive.xyz/embed.php?id=liveCh15",
 			   "isHost" : "true"
 				  }, {
 				"name": "Canal 25",
@@ -1895,12 +1894,12 @@
 							   }, {
 								  "name": "MotoGP Android/iOS",
 								  "image": "https://i.ibb.co/71RQmYh/MJ-MGP.jpg",
-								  "url" : "https://vkvsd66.mycdn.me/hls/3968275974682.m3u8/sig/8x-wHQxDSLI/expires/1680455334745/srcIp/37.14.131.253/urls/45.136.20.57/clientType/13/srcAg/CHROME_ANDROID/mid/4840937302810/3968275974682_fullhd/index.m3u8",
+								  "url" : "",
 								  "userAgent": ""
 							   }, {
 								  "name": "Canal 1",
 								  "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
-								   "url" : "https://vkvsd85.mycdn.me/hls/3074988771866.m3u8/sig/uOg-J1nq8ic/expires/1667818231562/srcIp/95.17.98.4/clientType/13/srcAg/CHROME_ANDROID/mid/4160512666394/3074988771866_high/index.m3u8",
+								   "url" : "",
 								  "userAgent" : ""
 							   }, {
 								  "name": "Canal 2",
@@ -1923,9 +1922,8 @@
 										}, {
 								  "name": "Canal 5",
 								  "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
-								   "url" : "",
-								   "isHost": "true"
-										 }, {
+								   "url" : ""
+										}, {
 								  "name": "Canal 6",
 								  "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
 								  "url" : "https://parsimoniousinvincible.net/embed/zbz7klq",
@@ -2530,6 +2528,11 @@
 			"referer" : "https://www.freelive365.net/",
 	           	"isHost": "true"
 		 }, {
+			"name": "TNT Sports",
+			"image": "https://i.ibb.co/b5R24vt/logo-TNT.png",
+			"url":"https://embx205608.apl232.me/player/live.php?id=205608&w=100%&h=100%",
+	           	"isHost": "true"
+		 }, {
 			"name": "Win Sports",
 			"image": "https://i.ibb.co/z2vQ9Cd/logo-WS.png",
 			"url":"https://livetvon.click/stream/stream-392.php",
@@ -2885,7 +2888,7 @@
                  }, {
 			"name": "Canal 27",
 			"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-			 "url": "http://51.222.154.193:80/live/346C0F77EDBDF396B9EF8A379964C00A/323624.m3u8",
+			 "url": "http://51.222.154.193:80/live/346C0F77EDBDF396B9EF8A379964C00A/323623.m3u8",
 			 "userAgent": ""
                  }, {
 			"name": "Multi 1",
