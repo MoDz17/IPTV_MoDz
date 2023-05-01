@@ -31,9 +31,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 29/04/2023",
+             "name": "Ultm. versión 01/05/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 29/04/2023",
+            "info": "última versión actualizada el 01/05/2023",
             "stations": []
 	}, 
 	
@@ -257,29 +257,24 @@
 						"url": "https://parsimoniousinvincible.net/embed/105qqn",
 							"referer": "https://streamonsport44.buzz/",
 							 "isHost": "true"  
-								  }, 
-								  
-						{
+						  }, {
 							"name": "Canal 25",
 							"image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
 						"url": "https://unbiasedsenseevent.com/embed/df7nk3qyxpu1vx",
 							"referer": "https://buzztv.futbol/",
 							 "isHost": "true"  
-								  },
-								  
-						{
+						  }, {
 							"name": "Canal 26",
 							"image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
 							"url": "https://unbiasedsenseevent.com/embed/df7nk3qyxpu1vx",
 							"referer": "https://elixx.xyz/",
 							 "isHost": "true"  
-			  },	{
+			  }, {
 							"name": "Canal 27",
 							"image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
 							"url":"https://daddy.yurendtv.biz.id/https://ddy6.onlinewebtv.lol:443/ddy6/premium435/tracks-v1a1/mono.m3u8",
 							"userAgent" : ""
-		 },	
-		     {
+		 }, {
 				"name": "Canal 1",
 				"image": "https://i.ibb.co/4NvkCVR/logo-deportes.png",
 				 "url": "https://unbiasedsenseevent.com/embed/yjicnctevw6jymj",
@@ -323,6 +318,12 @@
 			"url":"https://daddy.yurendtv.biz.id/https://ddy6.onlinewebtv.lol:443/ddy6/premium436/tracks-v1a1/mono.m3u8",
 			"userAgent" : ""
 			 }, {
+			"name": "Canal 9",
+			"image": "https://i.ibb.co/4NvkCVR/logo-deportes.png",
+		 	"url": "https://5fpgy2l.ytxqwwrd8silogw.sbs/badir1/KAXb3KX2NJiK",
+			"referer" : "https://soccerstream100.co/",
+			"isHost": "true"
+	  		}, {
 			"name": "Canal 1",
 			"image": "https://i.ibb.co/3CcWsMq/logo-deportes2.png",
 		 	"url": "https://watchtvchh.xyz/channel/ch017001.php",
@@ -891,7 +892,9 @@
 					}, {
 						"name": "Canal 11",
 						"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-					 	"url": ""
+					 	"url": "https://wecast.to/badir1.php?stream=7ewaSvmPz0Bs",
+						"referer" : "https://soccerstream100.co/",
+			 			"isHost": "true"
 						 }, {
 						"name": "Canal 12",
 						"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
@@ -951,7 +954,8 @@
 		 }, {
 			"name": "Canal 22",
 			"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-			"url" : "https://starlive.xyz/embed.php?id=liveLiga",
+			"url" : "https://5fpgy2l.ytxqwwrd8silogw.sbs/badir1/7ewaSvmPz0Bs",
+			"referer" : "https://soccerstream100.co/",
 			 "isHost": "true" 
 		}, {
 			"name": "Canal 23",
@@ -1103,6 +1107,12 @@
 					"image": "https://i.ibb.co/tLYqRVW/logo-Liga-Smartbank.jpg",
 					"url" : "https://unbiasedsenseevent.com/embed/2k2kr220ol6yr6i",
               				"referer": "https://l1l1.to/",
+           				"isHost" : "true"
+				}, {
+					"name": "Canal 14",
+					"image": "https://i.ibb.co/tLYqRVW/logo-Liga-Smartbank.jpg",
+					"url" : "https://wecazt.com/badir1/hIER0xdlRlY",
+              				"referer" : "https://soccerstream100.co/",
            				"isHost" : "true"
 				}]
                       }, 
@@ -2891,6 +2901,12 @@
 			 "url": "http://51.222.154.193:80/live/346C0F77EDBDF396B9EF8A379964C00A/323623.m3u8",
 			 "userAgent": ""
                  }, {
+			"name": "Canal 28",
+			"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
+			 "url": "https://5fpgy2l.ytxqwwrd8silogw.sbs/badir1/iUAtC1knR175",
+			 "referer" : "https://soccerstream100.co/",
+			 "isHost":"true"
+                 }, {
 			"name": "Multi 1",
 			"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
 			 "url": "https://parsimoniousinvincible.net/embed/zlie5rc6nrd95",
@@ -2928,40 +2944,60 @@
         									"name":"Fórmula 1",
         									"image":"https://i.ibb.co/1bpMSRX/logo-f1-2.png",
         									"stations": 
-        							 [
-										{
-											"name": "Australia 2023",
-            								"image": "https://i.ibb.co/frx3Bjm/F1-GPA23.jpg",
-            								"url": "https://vk.com/video739310848_456239024",
-            								"embed": "true"
-            							}, {
-											"name": "Arabia Saudí 2023",
-            								"image": "https://i.ibb.co/19C1h23/miniatura-GPAS23.jpg",
-            								"url": "https://vk.com/video739310848_456239023",
-            								"embed": "true"
-            							}, {
-									"name": "Bahrein 2023",
-            								"image": "https://i.ibb.co/2FFYTy4/GP-Bahrein23.jpg",
-            								"url": "https://vk.com/video739310848_456239022",
-            								"embed": "true"
-            							}, {
-            								"name": "Gran Bretaña 2022",
-            								"image": "https://i.ibb.co/PxWNBH2/miniatura-GB22.jpg",
-            								"url": "https://vk.com/video739310848_456239018",
-            								"embed": "true"
-            							}, {
-            								"name": "Mónaco 2022",
-            								"image": "https://i.ibb.co/C9F6qDj/GP-Monaco.jpg",
-											"url": "https://vk.com/video739310848_456239021",
-            								"embed": "true"
-            							}
-        							 ] 
-    								}, {
+        							 		[
+											{
+												"name": "Azerbaiyán 2023",
+												"image": "https://i.ibb.co/yyStYjS/F1-GPAzer23.jpg",
+												"url": "https://vk.com/video739310848_456239039",
+												"embed": "true"
+											}, {
+												"name": "Sprint Azerbaiyán 2023",
+												"image": "https://i.ibb.co/yyStYjS/F1-GPAzer23.jpg",
+												"url": "https://vk.com/video739310848_456239038",
+												"embed": "true"
+											}, {
+												"name": "Australia 2023",
+            											"image": "https://i.ibb.co/frx3Bjm/F1-GPA23.jpg",
+            											"url": "https://vk.com/video739310848_456239024",
+            											"embed": "true"
+            										}, {
+												"name": "Arabia Saudí 2023",
+            											"image": "https://i.ibb.co/19C1h23/miniatura-GPAS23.jpg",
+            											"url": "https://vk.com/video739310848_456239023",
+            											"embed": "true"
+            										}, {
+												"name": "Bahrein 2023",
+            											"image": "https://i.ibb.co/2FFYTy4/GP-Bahrein23.jpg",
+            											"url": "https://vk.com/video739310848_456239022",
+            											"embed": "true"
+            										}, {
+            											"name": "Gran Bretaña 2022",
+            											"image": "https://i.ibb.co/PxWNBH2/miniatura-GB22.jpg",
+            											"url": "https://vk.com/video739310848_456239018",
+            											"embed": "true"
+            										}, {
+            											"name": "Mónaco 2022",
+            											"image": "https://i.ibb.co/C9F6qDj/GP-Monaco.jpg",
+												"url": "https://vk.com/video739310848_456239021",
+            											"embed": "true"
+            										}
+										] 
+    								        }, {
     										"name":"MotoGP",
         									"image":"https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
         									"stations": 
 										[
 											{
+												"name": "España 2023",
+												"image": "https://i.ibb.co/v3YTYFV/Moto-GP-Jerez23.jpg",
+												"url": "https://vk.com/video739310848_456239037",
+												"embed": "true"
+											}, {
+												"name": "Sprint España 2023",
+												"image": "https://i.ibb.co/v3YTYFV/Moto-GP-Jerez23.jpg",
+												"url": "https://vk.com/video739310848_456239036",
+												"embed": "true"
+											}, {
 												"name": "Austin 2023",
 												"image": "https://i.ibb.co/qrr6ZxK/Moto-GP-Austin23.jpg",
 												"url": "https://vk.com/video739310848_456239035",
