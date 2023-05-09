@@ -17,7 +17,7 @@
 		  {
 			"name": "Grupo Soporte",
 		   "image": "https://i.ibb.co/rc9ds7x/jugones-pic-discord.png",    
-		  "url" : "https://discord.gg/Bc2DXAhfPd",
+		  "url" : "https://discord.gg/EmNScyEmqN",
 		  "embed": "true"}, 
 		  {
 			"name": "@futboladictohd",
@@ -31,9 +31,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 01/05/2023",
+             "name": "Ultm. versión 09/05/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 01/05/2023",
+            "info": "última versión actualizada el 09/05/2023",
             "stations": []
 	}, 
 	
@@ -994,7 +994,7 @@
 		}, {
 			"name": "Canal 29",
 			"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-			"url" : "https://emb.apl230.me/player/live.php?id=210571&w=100%&h=100%",
+			"url" : "https://emb.apl232.me/player/live.php?id=211608&w=100%&h=100%",
 			 "isHost": "true" 
 		}, {
                     "name": "Canal 30 [ESPN]",
@@ -1167,6 +1167,12 @@
 							"name": "Canal 8",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
 					   		"url": "https://vikistream.com/embed2.php?player=desktop&live=do34",
+							  "referer": "https://1l1l.to/",
+							 "isHost": "true"
+						}, {
+							"name": "Canal 9",
+							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
+					   		"url": "https://vikistream.com/embed2.php?player=desktop&live=do20",
 							  "referer": "https://1l1l.to/",
 							 "isHost": "true"
 						}]
@@ -1417,6 +1423,12 @@
 				 "name": "Canal 30",
 			   "image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
 			   "url":"https://vikistream.com/embed2.php?player=desktop&live=do8",
+			   "referer": "https://l1l1.to/",
+			   "isHost" : "true" 
+			}, {
+				 "name": "Canal 31",
+			   "image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
+			   "url":"https://vikistream.com/embed2.php?player=desktop&live=do2",
 			   "referer": "https://l1l1.to/",
 			   "isHost" : "true" 
 			}]
@@ -2225,6 +2237,11 @@
 									"image": "https://i.ibb.co/vDDxKB8/MLB-logo-Channels.png",
 									"url" : "http://markkystreams.com/video/mlb-15/",
 									"isHost": "true" 
+						}, { 
+									"name": "Canal 16",
+									"image": "https://i.ibb.co/vDDxKB8/MLB-logo-Channels.png",
+									"url" : "http://markkystreams.com/video/mlb-16/",
+									"isHost": "true" 
 						}]
 				}, {
             "name": "Rugby",
@@ -2876,7 +2893,7 @@
                  }, {
 			"name": "Canal 23",
 			"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-			 "url": "http://sportsurge.stream/embed/footy2.php",
+			 "url": "http://sportsurge.stream/embed/footy1.php",
              		"isHost": "true"
                  }, {
 			"name": "Canal 24",
@@ -2907,6 +2924,18 @@
 			 "referer" : "https://soccerstream100.co/",
 			 "isHost":"true"
                  }, {
+			"name": "Canal 29",
+			"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
+			 "url": "https://coolcast2.com/embed.php?player=desktop&live=espnsur",
+			 "referer" : "https://tucanaldeportivo.com/",
+			 "isHost":"true"
+                 }, {
+			"name": "Canal 30",
+			"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
+			 "url": "https://vikistream.com/embed2.php?player=desktop&live=do31",
+			 "referer" : "https://l1l1.to/",
+			 "isHost":"true"
+                 }, {
 			"name": "Multi 1",
 			"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
 			 "url": "https://parsimoniousinvincible.net/embed/zlie5rc6nrd95",
@@ -2920,6 +2949,170 @@
              		"isHost": "true"
                  }]
    			}, {
+				"name": "RojaDirecta",
+				   "image": "https://i.ibb.co/ct8qBh7/Roja-Directa-Logo-XL.png",
+				   "info": "",
+				"stations": [
+				{
+					"name": "      ⚠️↑  USAR  ↑⚠️",
+					"image": "https://i.ibb.co/1KHsD50/use-vpn.webp"
+				}, {
+					"name": "Solicitar evento",
+					"image": "https://i.ibb.co/rc9ds7x/jugones-pic-discord.png",
+					"url" : "https://discord.gg/EmNScyEmqN",
+					"embed": "true"
+				}, {
+					"name": "Canal 1",
+					"image": "https://estaticos.esmadrid.com/cdn/farfuture/U7_1QZEirpUyXVUw_NFTHp5O1TB0FeTPOL-G81lp0JI/mtime:1682064376/sites/default/files/eventos/eventos/real_madrid_-_manchester_city_uefa_champions_league_1.jpg",
+					"url":"https://www.selogel.site/905.php",
+					"isHost" : "true"
+				 }, {
+					"name": "Canal 2",
+					"image": "https://estaticos.esmadrid.com/cdn/farfuture/U7_1QZEirpUyXVUw_NFTHp5O1TB0FeTPOL-G81lp0JI/mtime:1682064376/sites/default/files/eventos/eventos/real_madrid_-_manchester_city_uefa_champions_league_1.jpg",
+					"url":"https://to.xrivonet.info/17w5.html#w",
+					"isHost" : "true"
+				 }, {
+					"name": "Canal 3",
+					"image": "https://estaticos.esmadrid.com/cdn/farfuture/U7_1QZEirpUyXVUw_NFTHp5O1TB0FeTPOL-G81lp0JI/mtime:1682064376/sites/default/files/eventos/eventos/real_madrid_-_manchester_city_uefa_champions_league_1.jpg",
+					"url":"https://to.xrivonet.info/tdn15.html#w",
+					"isHost" : "true"
+				 }, {
+					"name": "Canal 4",
+					"image": "https://estaticos.esmadrid.com/cdn/farfuture/U7_1QZEirpUyXVUw_NFTHp5O1TB0FeTPOL-G81lp0JI/mtime:1682064376/sites/default/files/eventos/eventos/real_madrid_-_manchester_city_uefa_champions_league_1.jpg",
+					"url":"https://to.xrivonet.info/bx6.html#w",
+					"isHost" : "true"
+				 }, {
+					"name": "Canal 5",
+					"image": "https://estaticos.esmadrid.com/cdn/farfuture/U7_1QZEirpUyXVUw_NFTHp5O1TB0FeTPOL-G81lp0JI/mtime:1682064376/sites/default/files/eventos/eventos/real_madrid_-_manchester_city_uefa_champions_league_1.jpg",
+					"url":"https://www.selogel.site/911.php",
+					"isHost" : "true"
+				 }, {
+					"name": "Canal 6",
+					"image": "https://estaticos.esmadrid.com/cdn/farfuture/U7_1QZEirpUyXVUw_NFTHp5O1TB0FeTPOL-G81lp0JI/mtime:1682064376/sites/default/files/eventos/eventos/real_madrid_-_manchester_city_uefa_champions_league_1.jpg",
+					"url":"https://yesusa.online/yes26/6.php",
+					"isHost" : "true"
+				 }, {
+					"name": "Canal 7",
+					"image": "https://estaticos.esmadrid.com/cdn/farfuture/U7_1QZEirpUyXVUw_NFTHp5O1TB0FeTPOL-G81lp0JI/mtime:1682064376/sites/default/files/eventos/eventos/real_madrid_-_manchester_city_uefa_champions_league_1.jpg",
+					"url":"https://yesusa.online/yes26/5.php",
+					"isHost" : "true"
+				 }, {
+					"name": "Canal 8",
+					"image": "https://estaticos.esmadrid.com/cdn/farfuture/U7_1QZEirpUyXVUw_NFTHp5O1TB0FeTPOL-G81lp0JI/mtime:1682064376/sites/default/files/eventos/eventos/real_madrid_-_manchester_city_uefa_champions_league_1.jpg",
+					"url":"https://footballstreams.online/f43/9.php",
+					"isHost" : "true"
+				 }, {
+					"name": "Canal 9",
+					"image": "https://estaticos.esmadrid.com/cdn/farfuture/U7_1QZEirpUyXVUw_NFTHp5O1TB0FeTPOL-G81lp0JI/mtime:1682064376/sites/default/files/eventos/eventos/real_madrid_-_manchester_city_uefa_champions_league_1.jpg",
+					"url":"https://footballstreams.online/f43/6.php",
+					"isHost" : "true"
+				 }, {
+					"name": "Canal 10",
+					"image": "https://estaticos.esmadrid.com/cdn/farfuture/U7_1QZEirpUyXVUw_NFTHp5O1TB0FeTPOL-G81lp0JI/mtime:1682064376/sites/default/files/eventos/eventos/real_madrid_-_manchester_city_uefa_champions_league_1.jpg",
+					"url":"https://football4all.club/74/9.php",
+					"isHost" : "true"
+				 }, {
+					"name": "Canal 11",
+					"image": "https://estaticos.esmadrid.com/cdn/farfuture/U7_1QZEirpUyXVUw_NFTHp5O1TB0FeTPOL-G81lp0JI/mtime:1682064376/sites/default/files/eventos/eventos/real_madrid_-_manchester_city_uefa_champions_league_1.jpg",
+					"url":"https://allsportsgames.xyz/b.a02/6h.php",
+					"isHost" : "true"
+				 }, {
+					"name": "Canal 12",
+					"image": "https://estaticos.esmadrid.com/cdn/farfuture/U7_1QZEirpUyXVUw_NFTHp5O1TB0FeTPOL-G81lp0JI/mtime:1682064376/sites/default/files/eventos/eventos/real_madrid_-_manchester_city_uefa_champions_league_1.jpg",
+					"url":"https://pirlotvonlinehd.net/real-madrid.php",
+					"isHost" : "true"
+				 }, {
+					"name": "Canal 13",
+					"image": "https://estaticos.esmadrid.com/cdn/farfuture/U7_1QZEirpUyXVUw_NFTHp5O1TB0FeTPOL-G81lp0JI/mtime:1682064376/sites/default/files/eventos/eventos/real_madrid_-_manchester_city_uefa_champions_league_1.jpg",
+					"url":"https://pirlotvonlinehd.net/univision-deportes.php",
+					"isHost" : "true"
+				 }, {
+					"name": "Canal 14",
+					"image": "https://estaticos.esmadrid.com/cdn/farfuture/U7_1QZEirpUyXVUw_NFTHp5O1TB0FeTPOL-G81lp0JI/mtime:1682064376/sites/default/files/eventos/eventos/real_madrid_-_manchester_city_uefa_champions_league_1.jpg",
+					"url":"https://pirlotvonlinehd.net/manchester-city.php",
+					"isHost" : "true"
+				 }, {
+					"name": "Canal 15",
+					"image": "https://estaticos.esmadrid.com/cdn/farfuture/U7_1QZEirpUyXVUw_NFTHp5O1TB0FeTPOL-G81lp0JI/mtime:1682064376/sites/default/files/eventos/eventos/real_madrid_-_manchester_city_uefa_champions_league_1.jpg",
+					"url":"https://pirlotvonlinehd.net/canal-9.php",
+					"isHost" : "true"
+				 }, {
+					"name": "Canal 16",
+					"image": "https://estaticos.esmadrid.com/cdn/farfuture/U7_1QZEirpUyXVUw_NFTHp5O1TB0FeTPOL-G81lp0JI/mtime:1682064376/sites/default/files/eventos/eventos/real_madrid_-_manchester_city_uefa_champions_league_1.jpg",
+					"url":"https://pirlotvonlinehd.net/canal-1.php",
+					"isHost" : "true"
+				 }, {
+					"name": "Canal 17",
+					"image": "https://estaticos.esmadrid.com/cdn/farfuture/U7_1QZEirpUyXVUw_NFTHp5O1TB0FeTPOL-G81lp0JI/mtime:1682064376/sites/default/files/eventos/eventos/real_madrid_-_manchester_city_uefa_champions_league_1.jpg",
+					"url":"https://pirlotvonlinehd.net/canal-21.php",
+					"isHost" : "true"
+				 }, {
+					"name": "Canal 18",
+					"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+					"url":"",
+					"isHost" : "false"
+				 }, {
+					"name": "Canal 19",
+					"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+					"url":"",
+					"isHost" : "false"
+				 }, {
+					"name": "Canal 20",
+					"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+					"url":"",
+					"isHost" : "false"
+				 }, {
+					"name": "Canal 21",
+					"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+					"url":"",
+					"isHost" : "false"
+				 }, {
+					"name": "Canal 22",
+					"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+					"url":"",
+					"isHost" : "false"
+				 }, {
+					"name": "Canal 23",
+					"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+					"url":"",
+					"isHost" : "false"
+				 }, {
+					"name": "Canal 24",
+					"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+					"url":"",
+					"isHost" : "false"
+				 }, {
+					"name": "Canal 25",
+					"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+					"url":"",
+					"isHost" : "false"
+				 }, {
+					"name": "Canal 26",
+					"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+					"url":"",
+					"isHost" : "false"
+				 }, {
+					"name": "Canal 27",
+					"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+					"url":"",
+					"isHost" : "false"
+				 }, {
+					"name": "Canal 28",
+					"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+					"url":"",
+					"isHost" : "false"
+				 }, {
+					"name": "Canal 29",
+					"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+					"url":"",
+					"isHost" : "false"
+				 }, {
+					"name": "Canal 30",
+					"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+					"url":"",
+					"isHost" : "false"
+				 }]
+			}, {
     				"name":"En diferido",
 					"image":"https://i.ibb.co/hCsX9VM/logo-diferido.png",
 					"groups":
@@ -2936,7 +3129,7 @@
     									{
       										"name": "Hacer petición",
       										"image": "https://i.ibb.co/rc9ds7x/jugones-pic-discord.png",    
-											"url" : "https://discord.gg/Bc2DXAhfPd",
+											"url" : "https://discord.gg/EmNScyEmqN",
       										"embed": "true"
       									}
     								]
@@ -2945,7 +3138,13 @@
         									"image":"https://i.ibb.co/1bpMSRX/logo-f1-2.png",
         									"stations": 
         							 		[
+										
 											{
+												"name": "Miami 2023",
+												"image": "https://i.ibb.co/R0XJmqR/GP-Miami23.jpg",
+												"url": "https://vk.com/video739310848_456239040",
+												"embed": "true"
+											}, {
 												"name": "Azerbaiyán 2023",
 												"image": "https://i.ibb.co/yyStYjS/F1-GPAzer23.jpg",
 												"url": "https://vk.com/video739310848_456239039",
