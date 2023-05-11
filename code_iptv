@@ -31,9 +31,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 09/05/2023",
+             "name": "Ultm. versión 11/05/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 09/05/2023",
+            "info": "última versión actualizada el 11/05/2023",
             "stations": []
 	}, 
 	
@@ -269,12 +269,18 @@
 							"url": "https://unbiasedsenseevent.com/embed/df7nk3qyxpu1vx",
 							"referer": "https://elixx.xyz/",
 							 "isHost": "true"  
-			  }, {
+			  			}, {
 							"name": "Canal 27",
 							"image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
 							"url":"https://daddy.yurendtv.biz.id/https://ddy6.onlinewebtv.lol:443/ddy6/premium435/tracks-v1a1/mono.m3u8",
 							"userAgent" : ""
-		 }, {
+		 				}, {
+							"name": "Canal 28",
+							"image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
+							"url": "https://unbiasedsenseevent.com/embed/m5a6zzm8yc2",
+							"referer": "https://nopay.info/",
+							 "isHost": "true"  
+			  			}, {
 				"name": "Canal 1",
 				"image": "https://i.ibb.co/4NvkCVR/logo-deportes.png",
 				 "url": "https://unbiasedsenseevent.com/embed/yjicnctevw6jymj",
@@ -2710,7 +2716,7 @@
 		 			}, {
 			 				"name": "Canal 1",
 							"image": "https://i.ibb.co/wYk6sYX/logo-Mundo-Toro.png",
-      							"url": "http://216.24.220.51:8080/unado-javi-Marmol/Jdhs89SvF/294323",
+      							"url": "http://skytvpluzz.xyz:8000/live/GoN3xt/mVD21jrp3D/5677.m3u8",
 							"userAgent": ""
              				}, {
 			 				"name": "Canal 2",
@@ -2740,7 +2746,12 @@
 		 			}, {
 							"name": "Canal 7",
 							"image": "https://i.ibb.co/wYk6sYX/logo-Mundo-Toro.png",
-							"url":"http://45.90.105.74:25461/live/bbv1/4QKmSRxShA/111131.m3u8",
+							"url":"http://102.165.51.185:80/live/ypamzjtt/xY2597mnGj/313200.m3u8",
+							"userAgent" : ""
+		 			}, {
+							"name": "Canal 8",
+							"image": "https://i.ibb.co/wYk6sYX/logo-Mundo-Toro.png",
+							"url":"http://185.71.64.28:2052/live/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/96431.m3u8",
 							"userAgent" : ""
 		 			}, {
 			 				"name": "CMM",
@@ -2936,6 +2947,12 @@
 			 "referer" : "https://l1l1.to/",
 			 "isHost":"true"
                  }, {
+			"name": "Canal 31",
+			"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
+			"url": "https://parsimoniousinvincible.net/embed/6na79kddf",
+			"referer": "https://streamonsport.ru/",
+		 	"isHost": "true"
+		}, {
 			"name": "Multi 1",
 			"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
 			 "url": "https://parsimoniousinvincible.net/embed/zlie5rc6nrd95",
@@ -2963,49 +2980,49 @@
 					"embed": "true"
 				}, {
 					"name": "Canal 1",
-					"image": "https://images.daznservices.com/di/library/DAZN_News/71/35/inter-mailand-ac-milan-banner-29082022_1v90p6hto01qe1db5ub9kvjf3y.jpg?t=-328415422&quality=60&h=450",
-					"url":"https://pirlotvonlinehd.net/canal-5.php",
+					"image": "https://www.ficherio.com/wp-content/uploads/2023/05/image-1.png",
+					"url":"https://tarjetarojatv.cc/roja-directv.php",
 					"isHost" : "true"
 				 }, {
 					"name": "Canal 2",
-					"image": "https://images.daznservices.com/di/library/DAZN_News/71/35/inter-mailand-ac-milan-banner-29082022_1v90p6hto01qe1db5ub9kvjf3y.jpg?t=-328415422&quality=60&h=450",
-					"url":"https://pirlotvonlinehd.net/bein-sports.php",
+					"image": "https://www.ficherio.com/wp-content/uploads/2023/05/image-1.png",
+					"url":"https://tarjetarojatv.cc/roja-direct-canal-5.php",
 					"isHost" : "true"
 				 }, {
 					"name": "Canal 3",
-					"image": "https://images.daznservices.com/di/library/DAZN_News/71/35/inter-mailand-ac-milan-banner-29082022_1v90p6hto01qe1db5ub9kvjf3y.jpg?t=-328415422&quality=60&h=450",
-					"url":"https://pirlotvonlinehd.net/canal-26.php",
+					"image": "https://www.ficherio.com/wp-content/uploads/2023/05/image-1.png",
+					"url":"https://www.pirlotv.fr/2023/juventus-vs-sevilla-ida-en-vivo.php",
 					"isHost" : "true"
 				 }, {
 					"name": "Canal 4",
-					"image": "https://images.daznservices.com/di/library/DAZN_News/71/35/inter-mailand-ac-milan-banner-29082022_1v90p6hto01qe1db5ub9kvjf3y.jpg?t=-328415422&quality=60&h=450",
-					"url":"https://pirlotvonlinehd.net/canal-1.php",
+					"image": "https://www.ficherio.com/wp-content/uploads/2023/05/image-1.png",
+					"url":"https://tarjetarojatv.cc/roja-direct-bein.php",
 					"isHost" : "true"
 				 }, {
 					"name": "Canal 5",
-					"image": "https://images.daznservices.com/di/library/DAZN_News/71/35/inter-mailand-ac-milan-banner-29082022_1v90p6hto01qe1db5ub9kvjf3y.jpg?t=-328415422&quality=60&h=450",
-					"url":"https://pirlotvonlinehd.net/elitegol.php",
+					"image": "https://www.ficherio.com/wp-content/uploads/2023/05/image-1.png",
+					"url":"https://tarjetarojatv.cc/roja-direct-canal-3.php",
 					"isHost" : "true"
 				 }, {
 					"name": "Canal 6",
-					"image": "https://images.daznservices.com/di/library/DAZN_News/71/35/inter-mailand-ac-milan-banner-29082022_1v90p6hto01qe1db5ub9kvjf3y.jpg?t=-328415422&quality=60&h=450",
-					"url":"https://pirlotvonlinehd.net/univision-deportes.php",
+					"image": "https://www.ficherio.com/wp-content/uploads/2023/05/image-1.png",
+					"url":"https://tarjetarojatv.cc/roja-direct-canal-2.php",
 					"isHost" : "true"
 				 }, {
 					"name": "Canal 7",
-					"image": "https://images.daznservices.com/di/library/DAZN_News/71/35/inter-mailand-ac-milan-banner-29082022_1v90p6hto01qe1db5ub9kvjf3y.jpg?t=-328415422&quality=60&h=450",
-					"url":"https://pirlotvonlinehd.net/canal-40.php",
+					"image": "https://www.ficherio.com/wp-content/uploads/2023/05/image-1.png",
+					"url":"https://tarjetarojatv.cc/roja-direct-espn-deportes.php",
 					"isHost" : "true"
 				 }, {
 					"name": "Canal 8",
-					"image": "https://images.daznservices.com/di/library/DAZN_News/71/35/inter-mailand-ac-milan-banner-29082022_1v90p6hto01qe1db5ub9kvjf3y.jpg?t=-328415422&quality=60&h=450",
-					"url":"https://pirlotvonlinehd.net/canal-9.php",
+					"image": "https://www.ficherio.com/wp-content/uploads/2023/05/image-1.png",
+					"url":"https://www.capodeportes.me/canal-3.php",
 					"isHost" : "true"
 				 }, {
 					"name": "Canal 9",
-					"image": "https://images.daznservices.com/di/library/DAZN_News/71/35/inter-mailand-ac-milan-banner-29082022_1v90p6hto01qe1db5ub9kvjf3y.jpg?t=-328415422&quality=60&h=450",
-					"url":"https://pirlotvonlinehd.net/canal-29.php",
-					"isHost" : "true"
+					"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+					"url":"",
+					"isHost" : "false"
 				 }, {
 					"name": "Canal 10",
 					"image": "https://i.ibb.co/jr7VQss/logo-off.png",
