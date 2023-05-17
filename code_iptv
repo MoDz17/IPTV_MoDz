@@ -31,9 +31,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 11/05/2023",
+             "name": "Ultm. versión 17/05/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 11/05/2023",
+            "info": "última versión actualizada el 17/05/2023",
             "stations": []
 	}, 
 	
@@ -277,7 +277,7 @@
 		 				}, {
 							"name": "Canal 28",
 							"image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
-							"url": "https://unbiasedsenseevent.com/embed/m5a6zzm8yc2",
+							"url": "https://unbiasedsenseevent.com/embed/ybgsrf",
 							"referer": "https://nopay.info/",
 							 "isHost": "true"  
 			  			}, {
@@ -1493,8 +1493,8 @@
 			}, {
 				"name": "Canal 8",
 				"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-				 "url": "https://vikistream.com/embed2.php?player=desktop&live=do28",
-				"referer": "https://l1l1.to/",
+				 "url": "https://guerrillaforfight.com/embed/i1a5vxjlhqqc",
+				"referer": "https://elixx.xyz/",
 				 "isHost": "true"
 				 }, {
 				 "name": "Canal 9",
@@ -1525,7 +1525,13 @@
 				"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
 				"url": "http://iptvtree.es/qtvbox/w6kqBNLz48yf/79881",
 				"userAgent": " "
-			}]
+			}, {
+				"name": "Canal 14",
+				"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
+				 "url": "https://guerrillaforfight.com/embed/pbbue32",
+              			"referer" : "https://elixx.xyz/",
+				 "isHost": "true"
+			 }]
 		}, {
 		"name": "Liga NBA",
 		"image": "https://i.ibb.co/ysP3vZt/logo-category-NBA.png",
@@ -1713,7 +1719,7 @@
 								  },{
 								 "name": "Canal 6",
 								"image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
-							 	"url": "https://assia24.com/live/gol-tv/?lang=",
+							 	"url": "https://assia24.com/live/sportlive/?lang=en",
              							"isHost": "true"
 						 		},{
 								 	"name": "Canal 7",
@@ -1956,7 +1962,9 @@
 										}, {
 								  "name": "Canal 5",
 								  "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
-								   "url" : ""
+								   "url" : "https://coolcast2.com/embed.php?player=desktop&live=espn3sur",
+								   "referer": "https://tucanaldeportivo.com/",
+             							   "isHost": "true"
 										}, {
 								  "name": "Canal 6",
 								  "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
@@ -2026,6 +2034,12 @@
 								  "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
 								  "url": "https://unbiasedsenseevent.com/embed/i1a5vxjlhqqc",
 								  "referer": "https://elixx.xyz/",
+								  "isHost": "true"
+							  }, {
+								  "name": "Canal 18",
+								  "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
+								  "url": "https://strayindicate.net/embed/wwcujo0oiatyw93",
+								  "referer": "https://1rowsportz.info/",
 								  "isHost": "true"
 							  }]
 						  }, 
@@ -2167,6 +2181,16 @@
 						   	"image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
 						   	"url":"https://d856dff4.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWdiX1BGTE1NQV9ITFM/22e27f77-d243-40b2-9dd3-cb6efe6e61a0/5.m3u8",
 						   	"userAgent" : ""
+					 }, {
+							"name": "Canal 15",
+						   	"image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
+						   	"url":"http://sportsurge.stream/embed/boxing4.php",
+						   	"isHost":"true"
+					 }, {
+							"name": "Canal 16",
+						   	"image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
+						   	"url":"http://sportsurge.stream/embed/boxing5.php",
+						   	"isHost":"true"
 					 }]
 					   }, {
 						"name": "Béisbol",
@@ -2434,8 +2458,9 @@
 		 {
 			"name": "BT Sport 1",
 			"image": "https://i.ibb.co/w6gRYRm/BTS1.png",
-			"url":"http://163.172.221.223:90/bt1/index.m3u8",
-			"userAgent" : ""
+			"url": "https://unbiasedsenseevent.com/embed/m5a6zzm8yc2",
+			"referer": "https://nopay.info/",
+			 "isHost": "true"
 		 }, {
 			"name": "BT Sport 2",
 			"image": "https://i.ibb.co/ChrQRMv/BTS2.png",
@@ -2986,54 +3011,54 @@
 					"embed": "true"
 				}, {
 					"name": "Canal 1",
-					"image": "https://i.ibb.co/jr7VQss/logo-off.png",
-					"url":"",
-					"isHost" : "false"
+					"image": "https://imagenes.20minutos.es/files/image_990_v3/uploads/imagenes/2023/05/17/man-city-vs-real-madrid-en-directo.jpeg",
+					"url":"https://www.tarjetarojatv.fr/canal-6.php",
+					"isHost" : "true"
 				 }, {
 					"name": "Canal 2",
-					"image": "https://i.ibb.co/jr7VQss/logo-off.png",
-					"url":"",
-					"isHost" : "false"
+					"image": "https://imagenes.20minutos.es/files/image_990_v3/uploads/imagenes/2023/05/17/man-city-vs-real-madrid-en-directo.jpeg",
+					"url":"https://www.pirlotv.fr/2023/manchester-city-vs-real-madrid-vuelta-en-vivo.php",
+					"isHost" : "true"
 				 }, {
 					"name": "Canal 3",
-					"image": "https://i.ibb.co/jr7VQss/logo-off.png",
-					"url":"",
-					"isHost" : "false"
+					"image": "https://imagenes.20minutos.es/files/image_990_v3/uploads/imagenes/2023/05/17/man-city-vs-real-madrid-en-directo.jpeg",
+					"url":"https://pirlotvonlinehd.net/canal-1.php",
+					"isHost" : "true"
 				 }, {
 					"name": "Canal 4",
-					"image": "https://i.ibb.co/jr7VQss/logo-off.png",
-					"url":"",
-					"isHost" : "false"
+					"image": "https://imagenes.20minutos.es/files/image_990_v3/uploads/imagenes/2023/05/17/man-city-vs-real-madrid-en-directo.jpeg",
+					"url":"https://pirlotvonlinehd.net/canal-7.php",
+					"isHost" : "true"
 				 }, {
 					"name": "Canal 5",
-					"image": "https://i.ibb.co/jr7VQss/logo-off.png",
-					"url":"",
-					"isHost" : "false"
+					"image": "https://imagenes.20minutos.es/files/image_990_v3/uploads/imagenes/2023/05/17/man-city-vs-real-madrid-en-directo.jpeg",
+					"url":"https://pirlotvonlinehd.net/canal-11.php",
+					"isHost" : "true"
 				 }, {
 					"name": "Canal 6",
-					"image": "https://i.ibb.co/jr7VQss/logo-off.png",
-					"url":"",
-					"isHost" : "false"
+					"image": "https://imagenes.20minutos.es/files/image_990_v3/uploads/imagenes/2023/05/17/man-city-vs-real-madrid-en-directo.jpeg",
+					"url":"https://pirlotvonlinehd.net/espn.php",
+					"isHost" : "true"
 				 }, {
 					"name": "Canal 7",
-					"image": "https://i.ibb.co/jr7VQss/logo-off.png",
-					"url":"",
-					"isHost" : "false"
+					"image": "https://imagenes.20minutos.es/files/image_990_v3/uploads/imagenes/2023/05/17/man-city-vs-real-madrid-en-directo.jpeg",
+					"url":"https://pirlotvonlinehd.net/real-madrid.php",
+					"isHost" : "true"
 				 }, {
 					"name": "Canal 8",
-					"image": "https://i.ibb.co/jr7VQss/logo-off.png",
-					"url":"",
-					"isHost" : "false"
+					"image": "https://imagenes.20minutos.es/files/image_990_v3/uploads/imagenes/2023/05/17/man-city-vs-real-madrid-en-directo.jpeg",
+					"url":"https://pirlotvonlinehd.net/canal-29.php",
+					"isHost" : "true"
 				 }, {
 					"name": "Canal 9",
-					"image": "https://i.ibb.co/jr7VQss/logo-off.png",
-					"url":"",
-					"isHost" : "false"
+					"image": "https://imagenes.20minutos.es/files/image_990_v3/uploads/imagenes/2023/05/17/man-city-vs-real-madrid-en-directo.jpeg",
+					"url":"https://pirlotvonlinehd.net/canal-40.php",
+					"isHost" : "true"
 				 }, {
 					"name": "Canal 10",
-					"image": "https://i.ibb.co/jr7VQss/logo-off.png",
-					"url":"",
-					"isHost" : "false"
+					"image": "https://imagenes.20minutos.es/files/image_990_v3/uploads/imagenes/2023/05/17/man-city-vs-real-madrid-en-directo.jpeg",
+					"url":"https://pirlotvonlinehd.net/canal-9.php",
+					"isHost" : "true"
 				 }, {
 					"name": "Canal 11",
 					"image": "https://i.ibb.co/jr7VQss/logo-off.png",
