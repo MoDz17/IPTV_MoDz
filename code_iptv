@@ -31,9 +31,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 20/05/2023",
+             "name": "Ultm. versión 21/05/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 20/05/2023",
+            "info": "última versión actualizada el 21/05/2023",
             "stations": []
 	}, 
 	
@@ -1585,6 +1585,18 @@
 				 "url": "https://guerrillaforfight.com/embed/pbbue32",
               			"referer" : "https://elixx.xyz/",
 				 "isHost": "true"
+			 }, {
+				 "name": "Canal 15",
+			   	"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
+			   	"url":"https://vikistream.com/embed2.php?player=desktop&live=do3",
+			   	"referer": "https://l1l1.to/",
+			   	"isHost" : "true" 
+			}, {
+				"name": "Canal 16",
+				"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
+				 "url": "https://guerrillaforfight.com/embed/ouittc4oaboy",
+				"referer": "https://elixx.xyz/",
+				 "isHost": "true"
 			 }]
 		}, {
 		"name": "Liga NBA",
@@ -2668,7 +2680,7 @@
              }, {
 			"name": "Sky Sports Football",
 			"image": "https://yt3.ggpht.com/ytc/AAUvwngvw3NiQZvSQLBLGF5g8zJbQQnS50W0IVNyL8dmXA=s900-c-k-c0x00ffffff-no-rj",
-			"url": "https://gocast2.com/embedcr.php?player=desktop&live=skysfott",
+			"url": "https://millionscast.com/embedcr.php?player=desktop&live=skysfott",
                 	"referer" : "https://cricplay2.xyz/",
             		"isHost" : "true"
                }, {
