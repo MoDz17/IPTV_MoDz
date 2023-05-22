@@ -3083,44 +3083,44 @@
 					"embed": "true"
 				}, {
 					"name": "Canal 1",
-					"image": "https://s.secure.espncdn.com/stitcher/artwork/16x9.jpg?height=720&width=1280&cb=12&templateId=espn.core.dtc.large.16x9.1&source=https://artwork.espncdn.com/events/401455009/16x9/1280x720_20230518224304.jpg&showBadge=true&package=ESPN_PLUS",
-					"url":"https://www.pirlotv.fr/canal-40.php",
-					"isHost" : "true"
+					"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+					"url":"",
+					"isHost" : "false"
 				 }, {
 					"name": "Canal 2",
-					"image": "https://s.secure.espncdn.com/stitcher/artwork/16x9.jpg?height=720&width=1280&cb=12&templateId=espn.core.dtc.large.16x9.1&source=https://artwork.espncdn.com/events/401455010/16x9/1280x720_20230518223812.jpg&showBadge=true&package=ESPN_PLUS",
-					"url":"https://www.pirlotv.fr/en-vivo/laliga.php",
-					"isHost" : "true"
+					"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+					"url":"",
+					"isHost" : "false"
 				 }, {
 					"name": "Canal 3",
-					"image": "https://s.secure.espncdn.com/stitcher/artwork/16x9.jpg?height=720&width=1280&cb=12&templateId=espn.core.dtc.large.16x9.1&source=https://artwork.espncdn.com/events/401455010/16x9/1280x720_20230518223812.jpg&showBadge=true&package=ESPN_PLUS",
-					"url":"https://www.pirlotv.fr/canal-37.php",
-					"isHost" : "true"
+					"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+					"url":"",
+					"isHost" : "false"
 				 }, {
 					"name": "Canal 4",
-					"image": "https://s.secure.espncdn.com/stitcher/artwork/16x9.jpg?height=720&width=1280&cb=12&templateId=espn.core.dtc.large.16x9.1&source=https://artwork.espncdn.com/events/401455015/16x9/1280x720_20230518225708.jpg&showBadge=true&package=ESPN_PLUS",
-					"url":"https://www.pirlotv.fr/canal-13.php",
-					"isHost" : "true"
+					"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+					"url":"",
+					"isHost" : "false"
 				 }, {
 					"name": "Canal 5",
-					"image": "https://i.ytimg.com/vi/ISI5Z8vMPR0/maxresdefault.jpg",
-					"url":"https://www.pirlotv.fr/canal-12.php",
-					"isHost" : "true"
+					"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+					"url":"",
+					"isHost" : "false"
 				 }, {
 					"name": "Canal 6",
-					"image": "https://punditfeed.com/wp-content/uploads/2023/05/Villarreal-vs-Levante-prediction-e1684511303695.png",
-					"url":"https://www.pirlotv.fr/en-vivo/laliga-1.php",
-					"isHost" : "true"
+					"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+					"url":"",
+					"isHost" : "false"
 				 }, {
 					"name": "Canal 7",
-					"image": "https://punditfeed.com/wp-content/uploads/2023/05/Villarreal-vs-Levante-prediction-e1684511303695.png",
-					"url":"https://www.pirlotv.fr/canal-38.php",
-					"isHost" : "true"
+					"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+					"url":"",
+					"isHost" : "false"
 				 }, {
 					"name": "Canal 8",
-					"image": "https://punditfeed.com/wp-content/uploads/2023/05/Ponferradina-vs-Albacete-prediction-e1684511170404.png",
-					"url":"https://www.pirlotv.fr/canal-11.php",
-					"isHost" : "true"
+					"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+					"url":"",
+					"isHost" : "false"
 				 }, {
 					"name": "Canal 9",
 					"image": "https://i.ibb.co/jr7VQss/logo-off.png",
