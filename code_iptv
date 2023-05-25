@@ -31,9 +31,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 21/05/2023",
+             "name": "Ultm. versión 25/05/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 21/05/2023",
+            "info": "última versión actualizada el 25/05/2023",
             "stations": []
 	}, 
 	
@@ -79,12 +79,14 @@
 		"isHost": "true"
 		  }, {
 			"name": "Canal 2",
+			"info": "yggx071",
 		   "image": "https://i.ibb.co/HHL04RY/logo-vamos.png",    
-		   "url": "https://parsimoniousinvincible.net/embed/rq4g6",
+		   "url": "https://new.ucplay2.com/hembedplayer/yggxlive071/3/1536/712",
 			"referer":"https://1stream.buzz/",
 				   "isHost":"true"
 			 }, {
 				"name": "Canal 3",
+				"info": "rq4g6",
 				"image": "https://i.ibb.co/HHL04RY/logo-vamos.png",
 			   	"url": "https://parsimoniousinvincible.net/embed/rq4g6",
 			 	"referer":"https://streamonsport44.buzz/",
@@ -96,6 +98,7 @@
 				"isHost":"true"
 				}, {
 					"name": "Canal 5",
+					"info": "rq4g6",
 				   	"image": "https://i.ibb.co/HHL04RY/logo-vamos.png",
 					"url": "https://parsimoniousinvincible.net/embed/rq4g6",
 				 	"referer" : "https://leet365.cc/",
@@ -118,6 +121,7 @@
 				   "userAgent" : ""
 			   }, {
 				"name": "Canal 1",
+				"info": "lbr3",
 				"image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png", 
 		 		"url": "https://parsimoniousinvincible.net/embed/lbr3etluqsw",
 				"referer": "https://streamonsport.ru/",
@@ -134,12 +138,14 @@
 				 "isHost" : "true"
 			 }, {
 				"name": "Canal 4",
+				"info": "lbr3",
 				"image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
 			"url": "https://parsimoniousinvincible.net/embed/lbr3etluqsw",
 				"referer": "https://leet365.cc/",
 				 "isHost": "true"
 			}, {
 				"name": "Canal 5",
+				"info": "datzi6",
 				"image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
 				"url": "https://utopianwilderness.com/embed/datzi6",
 				  "referer" : "https://starlive.xyz/",
@@ -182,12 +188,14 @@
 				"isHost" : "true"
 				 }, {
 				"name": "Canal 12",
+				"info": "cmms5rk1",
 				"image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
 			"url": "https://parsimoniousinvincible.net/embed/cmms5rk1",
 				"referer": "https://streamonsport.ru/",
 				 "isHost": "true"
 			}, {
 				"name": "Canal 13",
+				"info": "cmms5rk1",
 				"image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
 				"url": "https://parsimoniousinvincible.net/embed/cmms5rk1",
 				"referer" : "https://macron.xyz/",
@@ -288,9 +296,10 @@
              			"isHost": "true"
 				  }, {  
 				"name": "Canal 2",
+				"info": "yggx067",
 				"image": "https://i.ibb.co/4NvkCVR/logo-deportes.png",
-				 "url": "https://voraciousglove.net/embed/89ftq8ua1j5lr",
-				 "referer" : "https://macron.xyz/",
+				 "url": "https://new.ucplay2.com/hembedplayer/yggxlive067/3/1536/712",
+				 "referer" : "https://1stream.buzz/",
 				 "isHost" : "true"
 			}, {
 				"name": "Canal 3",
@@ -341,9 +350,10 @@
              		"isHost": "true"  
          		}, {
 			 "name": "Canal 3",
+			 "info": "yggx068",
 			"image": "https://i.ibb.co/3CcWsMq/logo-deportes2.png",
-			"url": "https://parsimoniousinvincible.net/embed/105qqn",
-			"referer" : "https://macron.xyz/",
+			"url": "https://new.ucplay2.com/hembedplayer/yggxlive068/3/1536/712",
+			"referer" : "https://1stream.buzz/",
 			"isHost": "true"
 		  	}, {
 				"name": "Canal 1",
@@ -425,9 +435,10 @@
 	 "isHost": "true"
 	   }, {
 	"name": "Canal 7",
+	"info": "yggx081",
 	"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-	 "url": "https://parsimoniousinvincible.net/embed/h5m4gyv36vtc",
-      	"referer": "https://macron.xyz/",
+	 "url": "https://new.ucplay2.com/hembedplayer/yggxlive081/3/1536/712",
+      	"referer": "https://1stream.buzz/",
 	 "isHost": "true"
   }, {
 	"name": "Canal 8",
@@ -539,9 +550,10 @@
 			 "isHost": "true"
 			}, {
 			"name": "Canal 7",
+			"info": "yggx082",
 			"image": "https://i.ibb.co/vhNCnrq/DAZN-2-Logo-Sin-Fondo.webp",
-			 "url": "https://parsimoniousinvincible.net/embed/xmr0xxbbmzod",
-			"referer": "https://macron.xyz/",
+			 "url": "https://new.ucplay2.com/hembedplayer/yggxlive082/3/1536/712",
+			"referer": "https://1stream.buzz/",
 			 "isHost": "true"
 		  }, {
 			"name": "Canal 8",
@@ -616,9 +628,10 @@
 			   "isHost":"true"
 				   }, {
 			   "name": "Canal 8",
+			   "info": "yggx083",
 			   "image": "https://i.ibb.co/p1Ry56w/DAZN-3-Logo-Sin-Fondo.png",
-				"url": "https://parsimoniousinvincible.net/embed/xvofyfktwqkwrr",
-			   "referer" : "https://macron.xyz/",
+			"url": "https://new.ucplay2.com/hembedplayer/yggxlive083/3/1536/712",
+			   "referer" : "https://1stream.buzz/",
 			   "isHost":"true"
 				  }, {
 				"name": "Canal 9",
@@ -665,9 +678,10 @@
            		"isHost" : "true"  
    }, {
 	"name": "Canal 5",
+	"info": "yggx084",
 	"image": "https://i.ibb.co/LQy2rM6/DAZN-4-Logo-Sin-Fondo.png",
-	"url" : "https://parsimoniousinvincible.net/embed/w67i2uz",
-	"referer": "https://macron.xyz/",
+	"url" : "https://new.ucplay2.com/hembedplayer/yggxlive084/3/1536/712",
+	"referer": "https://1stream.buzz/",
 	 "isHost": "true"
 	   }, {
 	"name": "Canal 6",
@@ -838,18 +852,21 @@
 		"info": "",
 		"stations": [{
 			"name": "Canal 1",
+			"info": "yggx060",
 			"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-			"url": "https://parsimoniousinvincible.net/embed/6na79kddf",
-			"referer": "https://macron.xyz/",
+			"url": "https://new.ucplay2.com/hembedplayer/yggxlive060/3/1536/712",
+			"referer": "https://1stream.buzz/",
 		 	"isHost": "true"
 		}, {
 		   	"name": "Canal 2",
+			"info": "t7w70x",
 			"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
 			 "url" : "https://strayindicate.net/embed/t7w70x7v57",
 		   	"referer": "https://1rowsportz.info/",
 		   	"isHost": "true"
 	             }, {
 			"name": "Canal 3",
+			"info": "ktpqv",
 			"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
 			"url" : "https://utopianwilderness.com/embed/ktpqv1iq2",
 			 "referer": "https://starlive.xyz/",
@@ -868,12 +885,14 @@
 			"isHost" : "true"
 			 }, {
 			"name": "Canal 6",
+			"info": "2twhx",
 			"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
 			 "url": "https://strayindicate.net/embed/2twhx",
 			"referer": "https://1rowsportz.info/",
 			"isHost" : "true" 
                    }, {
 			"name": "Canal 7",
+			"info": "fhc0c",
 			"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
         		"url": "https://utopianwilderness.com/embed/fhc0cutcd",
 			"referer" : "https://starlive.xyz/",
@@ -903,6 +922,7 @@
 			 			"isHost": "true"
 						 }, {
 						"name": "Canal 12",
+						"info": "u2sgi0",
 						"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
 					 	"url" : "https://unbiasedsenseevent.com/embed/u2sgi0?skin=1",
 						"referer": "https://l1l1.to/",
@@ -982,8 +1002,9 @@
 			 "isHost": "true" 
 		}, {
 			"name": "Canal 26",
+			"info": "yggx080",
 			"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-			"url" : "https://voraciousglove.net/embed/zbz7klq",
+			"url" : "https://new.ucplay2.com/hembedplayer/yggxlive080/3/1536/712",
 			 "referer": "https://1stream.buzz/",
 			 "isHost": "true" 
 		}, {
@@ -1003,48 +1024,57 @@
 			"url" : "https://emb.apl232.me/player/live.php?id=211608&w=100%&h=100%",
 			 "isHost": "true" 
 		}, {
-                    "name": "Canal 30 [ESPN]",
+		   	"name": "Canal 30",
+			"info": "t7w70",
+			"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
+			 "url" : "https://strayindicate.net/embed/t7w70x7v57",
+		   	"referer": "https://1stream.buzz/",
+		   	"isHost": "true"
+	             }, {
+                    "name": "Canal 31 [ESPN]",
                     "image": "https://i.ibb.co/VQpLvTb/logo-channels-ESPN.jpg",
                     "url": "https://wecast.to/hls.php?stream=38tSc8hE6z9c",
                      "referer": "https://bahiadeportes.com/",  
 			"isHost" : "true"
                  },{
-                    "name": "Canal 31 [ESPN2]",
+                    "name": "Canal 32 [ESPN2]",
                     "image": "https://i.ibb.co/VQpLvTb/logo-channels-ESPN.jpg",
                      "url":"https://wecast.to/hls.php?stream=wrK4VGJ4fyST",
 		     "referer" : "https://bahiadeportes.com/",
             		"isHost" : "true"
                   },{
-                    "name": "Canal 32 [ESPN3]",
+                    "name": "Canal 33 [ESPN3]",
                     "image": "https://i.ibb.co/VQpLvTb/logo-channels-ESPN.jpg",
                    "url": "https://wecast.to/hls.php?stream=yhzly0qurt9y",
                  "referer" : "https://bahiadeportes.com/",
                      "isHost" : "true"
              }, {
-			"name": "Canal 33 [inglés]",
+			"name": "Canal 34 [inglés]",
 			"image": "https://i.ibb.co/nwQrbvN/inglesa.webp",
            		"url": "https://deliriousholistic.net/embed/37g5h7ynae",
 	   		"referer" : "https://strims.top/",
              		"isHost":"true" 
            }, {
-			"name": "Canal 34 [inglés]",
+			"name": "Canal 35 [inglés]",
 			"image": "https://i.ibb.co/nwQrbvN/inglesa.webp",
             		"url" : "https://www.nolive.me/sd0embed",
 			"referer": "https://embedstream.me/",
              		"isHost": "true" 
 	   }, {
-			"name": "Canal 35 [inglés]",
+			"name": "Canal 36 [inglés]",
 	   		"image": "https://i.ibb.co/nwQrbvN/inglesa.webp",
 	   		"url":"https://daddy.yurendtv.biz.id/https://ddy6.onlinewebtv.lol:443/ddy6/premium415/tracks-v1a1/mono.m3u8",
 	   		"userAgent" : ""
 	}, {
 					"name": "Canal 1",
+					"info": "pyxs8u",
 					"image": "https://i.ibb.co/tLYqRVW/logo-Liga-Smartbank.jpg",
 					 "url": "https://unbiasedsenseevent.com/embed/pyxs8u5a6hp",
 					"referer": "https://l1l1.to/",
 					 "isHost": "true"  
 				  }, {
 					"name": "Canal 2",
+					"info": "xfkc2i",
 					"image": "https://i.ibb.co/tLYqRVW/logo-Liga-Smartbank.jpg",
 				   	"url" : "https://parsimoniousinvincible.net/embed/xfkc2i",
 					"referer" : "https://streamonsport.ru/",
@@ -1207,6 +1237,7 @@
 							 "isHost": "true"
 							  }, {
 							"name": "Canal 6",
+							"info": "p78tx",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
 					   		"url": "https://unbiasedsenseevent.com/embed/p78txlnf0rc",
 							  "referer": "https://1l1l.to/",
@@ -1522,6 +1553,7 @@
 				 "isHost": "true"
 			}, {
 				"name": "Canal 4",
+				"info": "pbbue32",
 				"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
 				  "url": "https://unbiasedsenseevent.com/embed/pbbue32",
 				  "referer" : "https://elixx.xyz/",
@@ -1789,9 +1821,10 @@
              							"isHost": "true"
 						 		},{
 								 	"name": "Canal 7",
+									"info": "yggx069",
 									"image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
-							 		"url": "https://parsimoniousinvincible.net/embed/dp4tigbdvjxr4l",
-									"referer" : "https://macron.xyz/",
+							 		"url": "https://new.ucplay2.com/hembedplayer/yggxlive069/3/1536/712",
+									"referer" : "https://1stream.buzz/",
 						 			"isHost": "true"
 								  },{
 								 "name": "Canal 8",
@@ -1801,15 +1834,28 @@
 						 		"isHost": "true"
 						 },{
 								 "name": "Canal 9",
+								 "info": "yggx070",
 								"image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
-							 "url": "https://parsimoniousinvincible.net/embed/dxcfd934ttzx",
-                  					"referer" : "https://macron.xyz/",
+							 "url": "https://new.ucplay2.com/hembedplayer/yggxlive070/3/1536/712",
+                  					"referer" : "https://1stream.buzz/",
 						 	"isHost": "true" 
 							  }, {
 								 "name": "Canal 10",
 								"image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
-							 "url": "https://assia24.com/live/online-football/?lang=pl",
-						 	"isHost": "true" 
+							 	"url": "https://assia24.com/live/online-football/?lang=pl",
+						 		"isHost": "true" 
+							  }, {
+								 "name": "Canal 11",
+								 "info": "yggx062",
+								"image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
+							 	"url": "https://new.ucplay2.com/hembedplayer/yggxlive062/3/1536/712",
+								"referer" : "https://1stream.buzz/",
+						 		"isHost": "true" 
+							  }, {
+								 "name": "Canal 12",
+								"image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
+							 	"url": "https://assia24.com/live/sportlive/?lang=",
+						 		"isHost": "true" 
 							  }]
 						  }, {
 							  "name": "Zona Motor",
@@ -2085,8 +2131,9 @@
 								   "isHost": "true"
 							  }, {
 								  "name": "Canal 15",
+								  "info": "2k2k-21",
 								  "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
-								   "url": "https://cdn122.com/embed/2k2kr220ol6yr6i?skin=26",
+								   "url": "https://cdn122.com/embed/2k2kr220ol6yr6i?skin=21",
 								  "referer": "https://l1l1.to/",
 								   "isHost": "true"
 							  }, {
@@ -2103,9 +2150,10 @@
 								  "isHost": "true"
 							  }, {
 								  "name": "Canal 18",
+								  "info": "yggx109",
 								  "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
-								  "url": "https://strayindicate.net/embed/wwcujo0oiatyw93",
-								  "referer": "https://1rowsportz.info/",
+								  "url": "https://new.ucplay2.com/hembedplayer/yggxlive109/3/1536/712",
+								  "referer": "https://1stream.buzz/",
 								  "isHost": "true"
 							  }]
 						  }, 
@@ -2181,17 +2229,19 @@
 						 "isHost": "true"
 								},{
 							 "name": "Canal 2",
+							 "info": "6y5l8u",
 							"image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
 							  "url" :  "https://unbiasedsenseevent.com/embed/6y5l8ujvxr",
 							"referer" : "https://buzztv.futbol/",
 						 "isHost":"true"
 								},{
 							 "name": "Canal 3",
-								"image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
+							"image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
 						   "url": "https://markkystreams.com/video/mma/",
 						 "isHost": "true"
 							},{ 
 							 "name": "Canal 4",
+							 "info": "ilxvi5",
 								"image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
 							   "url": "https://unbiasedsenseevent.com/embed/ilxvi582u4i37s",
 						"referer": "https://l1l1.to/",
@@ -2930,7 +2980,7 @@
 						"referer": "https://starlive.xyz/",
 						 "isHost": "true"  
 						 }, {
-							"name": "Canal 11",
+				"name": "Canal 11",
 			"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
 			"url": "https://unbiasedsenseevent.com/embed/pyxs8u5a6hp",
               "referer": "https://l1l1.to/",
@@ -3365,36 +3415,43 @@
         								  [
 									  {
             									"name": "UFC 287",
+										"info": "Pereira vs Adesanya",
             									"image": "https://i.ibb.co/9WBcFnx/Pereira-vs-Adesanya.png",
             									"url": "https://vk.com/video739310848_456239033",
 										"embed": "true"
             								}, {
             									"name": "UFC 287",
+										"info": "Holland vs Ponzinibbio",
             									"image": "https://i.ibb.co/cTY7MgH/Holland-vs-Ponzi.jpg",
             									"url": "https://vk.com/video739310848_456239032",
 										"embed": "true"
             								}, {
             									"name": "UFC 287",
+										"info": "Rosas vs Rodríguez",
             									"image": "https://i.ibb.co/XLPwqbp/Rosas-vs-Rodriguez.jpg",
             									"url": "https://vk.com/video739310848_456239031",
 										"embed": "true"
             								}, {
             									"name": "UFC 287",
+										"info": "Meerschaert vs Pyfer",
             									"image": "https://i.ibb.co/tztkZjX/Meers-vs-Pyfer.jpg",
             									"url": "https://vk.com/video739310848_456239030",
 										"embed": "true"
             								}, {
             									"name": "UFC 287",
+										"info": "---",
             									"image": "https://i.ibb.co/P43N2PQ/Nuer-vs-Garcia.jpg",
             									"url": "https://vk.com/video739310848_456239029",
 										"embed": "true"
             								}, {
             									"name": "UFC 284",
+										"info": "Makhachev vs Volkanovski",
             									"image": "https://i.ibb.co/51LsJfL/Makha-Volka284.jpg",
             									"url": "https://vk.com/video739310848_456239020",
 										"embed": "true"
             								}, {
             									"name": "UFC 284",
+										"info": "Rodríguez vs Emmett",
             									"image": "https://i.ibb.co/NK0CNN7/Rodri-Emme284.jpg",
             									"url": "https://vk.com/video739310848_456239019",
             									"embed": "true"
@@ -3409,6 +3466,7 @@
 						   		[
 									{
 										"name": "Acceder",
+										"info": "Telegram",
 										"image": "https://i.ibb.co/dkBqspW/logo-telegram.png",    
 									   	"url" : "http://futbolgratisbymodz.rf.gd/",
 									   	"embed": "true"
