@@ -37,7 +37,7 @@
 	{
              "name": "Ultm. versión 27/05/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 27/05/2023",
+            "info": "última versión actualizada el 27/05/2023 [parte 2]",
             "stations": []
 	}, 
 	
@@ -79,8 +79,8 @@
 	 }, {
 		  "name": "Canal 1",
 		   "image": "https://i.ibb.co/HHL04RY/logo-vamos.png",
-		"url" : "https://sportskart.click/embed/stream-521.php",
-		"isHost": "true"
+		"url" : "http://51.222.154.193:80/live/346C0F77EDBDF396B9EF8A379964C00A/323623.m3u8",
+		"userAgent": ""
 		  }, {
 			"name": "Canal 2",
 			"info": "yggx071",
@@ -292,6 +292,27 @@
 							"url": "https://unbiasedsenseevent.com/embed/ybgsrf",
 							"referer": "https://nopay.info/",
 							 "isHost": "true"  
+			  			}, {
+							"name": "Canal 29",
+							"info": "yggx064",
+							"image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
+							"url": "https://new.ucplay2.com/hembedplayer/yggxlive064/3/1536/712",
+							"referer": "https://1stream.buzz/",
+							 "isHost": "true"  
+			  			}, {
+							"name": "Canal 30",
+							"info": "yggx065",
+							"image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
+							"url": "https://new.ucplay2.com/hembedplayer/yggxlive065/3/1536/712",
+							"referer": "https://1stream.buzz/",
+							 "isHost": "true"  
+			  			}, {
+							"name": "Canal 31",
+							"info": "yggx066",
+							"image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
+							"url": "https://new.ucplay2.com/hembedplayer/yggxlive066/3/1536/712",
+							"referer": "https://1stream.buzz/",
+							"isHost": "true"  
 			  			}, {
 				"name": "Canal 1",
 				"image": "https://i.ibb.co/4NvkCVR/logo-deportes.png",
@@ -1201,7 +1222,13 @@
 					"url" : "https://voraciousglove.net/embed/opthng68di66m",
 			 		"referer": "https://1stream.buzz/",
            				"isHost" : "true"
-				}]
+				}, {
+					"name": "Canal 23",
+					"image": "https://i.ibb.co/tLYqRVW/logo-Liga-Smartbank.jpg",
+					"url" : "https://vikistream.com/embed2.php?player=desktop&live=do30",
+			 		"referer": "https://l1l1.to/",
+					 "isHost": "true"
+			  	}]
                       }, 
 					  
 					  {
@@ -1345,6 +1372,19 @@
 							"name": "Canal 12",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
 							"url": "https://vikistream.com/embed2.php?player=desktop&live=do11",
+							"referer" : "https://l1l1.to/",
+							 "isHost": "true"
+						}, {
+							"name": "Canal 13",
+							"info": "yggx050",
+							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
+							"url": "https://new.ucplay2.com/hembedplayer/yggxlive050/3/1536/712",
+							"referer" : "https://1stream.buzz/",
+							 "isHost": "true"
+						}, {
+							"name": "Canal 14",
+							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
+							"url": "https://vikistream.com/embed2.php?player=desktop&live=do17",
 							"referer" : "https://l1l1.to/",
 							 "isHost": "true"
 						}]
@@ -1576,7 +1616,7 @@
 				 }, {
 				"name": "Canal 7",
 				"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-		   		"url": "https://vikistream.com/embed2.php?player=desktop&live=do38",
+		   		"url": "https://vikistream.com/embed2.php?player=desktop&live=do22",
 				"referer": "https://l1l1.to/",
 				 "isHost": "true"
 			}, {
@@ -1632,7 +1672,63 @@
 				 "url": "https://guerrillaforfight.com/embed/ouittc4oaboy",
 				"referer": "https://elixx.xyz/",
 				 "isHost": "true"
-			 }]
+			 }, {
+				"name": "Canal 17",
+				"info": "ouitt",
+				"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
+				 "url": "https://exerciseexercise.net/embed/ouittc4oaboy",
+              			"referer" : "https://elixx.xyz/",
+				 "isHost": "true"
+			 }, {
+				 "name": "Canal 18",
+				 "info": "yggx036",
+			   	"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
+			   	"url":"https://new.ucplay2.com/hembedplayer/yggxlive036/3/1536/712",
+			   	"referer": "https://1stream.buzz/",
+			   	"isHost" : "true" 
+			}, {
+				 "name": "Canal 19",
+				 "info": "yggx023",
+			   	"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
+			   	"url":"https://new.ucplay2.com/hembedplayer/yggxlive023/3/1536/712",
+			   	"referer": "https://1stream.buzz/",
+			   	"isHost" : "true" 
+			}, {
+				"name": "Canal 20",
+				"info": "ouitt",
+				"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
+				 "url": "https://exerciseexercise.net/embed/gtyxnveukc1tw0i",
+              			"referer" : "https://elixx.xyz/",
+				 "isHost": "true"
+			 }, {
+				 "name": "Canal 21",
+				 "info": "yggx024",
+			   	"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
+			   	"url":"https://new.ucplay2.com/hembedplayer/yggxlive024/3/1536/712",
+			   	"referer": "https://1stream.buzz/",
+			   	"isHost" : "true" 
+			}, {
+				 "name": "Canal 22",
+				 "info": "yggx025",
+			   	"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
+			   	"url":"https://new.ucplay2.com/hembedplayer/yggxlive025/3/1536/712",
+			   	"referer": "https://1stream.buzz/",
+			   	"isHost" : "true" 
+			}, {
+				 "name": "Canal 23",
+				 "info": "yggx026",
+			   	"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
+			   	"url":"https://new.ucplay2.com/hembedplayer/yggxlive026/3/1536/712",
+			   	"referer": "https://1stream.buzz/",
+			   	"isHost" : "true" 
+			}, {
+				 "name": "Canal 24",
+				 "info": "yggx028",
+			   	"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
+			   	"url":"https://new.ucplay2.com/hembedplayer/yggxlive028/3/1536/712",
+			   	"referer": "https://1stream.buzz/",
+			   	"isHost" : "true" 
+			}]
 		}, {
 		"name": "Liga NBA",
 		"image": "https://i.ibb.co/ysP3vZt/logo-category-NBA.png",
@@ -1986,8 +2082,7 @@
 							  }, {
 								"name": "Canal 19",
 							  	"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-								"url" : "https://nopay.info/embed.php?id=liveF1_ES",
-							  	"isHost":"true"  
+								"url" : ""
 							  }, {
 								"name": "Canal 20",
 						  		"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
@@ -2036,6 +2131,11 @@
 								"url" : "https://new.ucplay2.com/hembedplayer/yggxlive089/3/1536/712",
 								"referer": "https://1stream.buzz/",
                              					"isHost":"true" 
+							  }, {
+                  						"name": "Canal 28",
+								"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+                        					"url": "https://emb.apl239.me/player/live.php?id=211520&w=100%&h=100%",
+								"isHost": "true"
 							  }, {
 								  "name": "Canal 1 [F1 inglés]",
 								  "image": "https://i.ibb.co/nwQrbvN/inglesa.webp",
