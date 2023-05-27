@@ -1135,8 +1135,9 @@
 				}, {
 					"name": "Canal 8",
 	   				"image": "https://i.ibb.co/tLYqRVW/logo-Liga-Smartbank.jpg",
-	   				"url":"http://212.224.84.217:2200/NL/daznlaliga2-esp/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo",
-	   				"userAgent" : ""
+	   				"url": "https://ntv.capshd.xyz/canaltv.php?ch=https://1rowsportz.info/player/3/61",
+					"referer": "https://1stream.buzz/",
+					"isHost" : "true"
 				}, {
 					"name": "Canal 9",
 					"image": "https://i.ibb.co/tLYqRVW/logo-Liga-Smartbank.jpg",
@@ -1995,8 +1996,9 @@
 							   }, {
 								"name": "Canal 3",
 								"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-								"url":"http://51.158.36.81:18000/DAZN_F1/hls/playlist.m3u8",
-								"userAgent" : ""
+								"url": "https://exerciseexercise.net/embed/r23llp",
+                               					"referer" : "https://1stream.buzz/",
+								"isHost": "true"
 							 }, {
 								"name": "Canal 4",
 								  "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
