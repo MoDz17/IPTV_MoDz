@@ -9,31 +9,35 @@
              "name": "FUTBOL - ADICTOS",
             "image": "https://i.ibb.co/PGL5P2Z/Main-pic-Logo-and-Banner.jpg",
             "info": "",
-            "stations": [{
+            "stations": [
+	    	{
 			"name": "@FutbolAdictosHD",
-		   "image": "https://i.ibb.co/8MFrqt3/Twitter-logo.webp",    
-		  "url" : "https://twitter.com/futboladictoshd",
-		  "embed": "true"},
-		  {
+			"info": "Twitter",
+		   	"image": "https://i.ibb.co/8MFrqt3/Twitter-logo.webp",    
+		  	"url" : "https://twitter.com/futboladictoshd",
+		  	"embed": "true"
+		}, {
 			"name": "Grupo Soporte",
-		   "image": "https://i.ibb.co/rc9ds7x/jugones-pic-discord.png",    
-		  "url" : "https://discord.gg/EmNScyEmqN",
-		  "embed": "true"}, 
-		  {
+			"info": "Discord",
+		   	"image": "https://i.ibb.co/rc9ds7x/jugones-pic-discord.png",    
+		  	"url" : "https://discord.gg/EmNScyEmqN",
+		  	"embed": "true"
+		}, {
 			"name": "@futboladictohd",
-		   "image": "https://i.ibb.co/xYLFH0F/Insta-logo.png",    
-		  "url" : "https://instagram.com/futboladictohd",
-		  "embed": "true"}, 
-		  {
+			"info": "Instagram",
+		   	"image": "https://i.ibb.co/xYLFH0F/Insta-logo.png",    
+		  	"url" : "https://instagram.com/futboladictohd",
+		  	"embed": "true"
+		}, {
 			"name": "              By MoDz",
-		   "image": "https://i.ibb.co/64mjMcF/MoDz.jpg",    
-		  "url" : ""}]
+		   	"image": "https://i.ibb.co/64mjMcF/MoDz.jpg",    
+		  	"url" : ""}]
 	}, 
 	
 	{
-             "name": "Ultm. versión 25/05/2023",
+             "name": "Ultm. versión 27/05/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 25/05/2023",
+            "info": "última versión actualizada el 27/05/2023",
             "stations": []
 	}, 
 	
@@ -859,10 +863,10 @@
 		 	"isHost": "true"
 		}, {
 		   	"name": "Canal 2",
-			"info": "t7w70x",
+			"info": "yggx080",
 			"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-			 "url" : "https://strayindicate.net/embed/t7w70x7v57",
-		   	"referer": "https://1rowsportz.info/",
+			 "url" : "https://new.ucplay2.com/hembedplayer/yggxlive080/3/1536/712",
+		   	"referer": "https://1stream.buzz/",
 		   	"isHost": "true"
 	             }, {
 			"name": "Canal 3",
@@ -879,9 +883,10 @@
 			"isHost": "true"
                     }, {
 			"name": "Canal 5",
+			"info": "t7w70x",
 			"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-			 "url": "https://parsimoniousinvincible.net/embed/xvofyfktwqkwrr",
-			"referer": "https://streamonsport.ru/",
+			 "url": "https://strayindicate.net/embed/t7w70x7v57",
+			"referer": "https://1rowsportz.info/",
 			"isHost" : "true"
 			 }, {
 			"name": "Canal 6",
@@ -1002,11 +1007,8 @@
 			 "isHost": "true" 
 		}, {
 			"name": "Canal 26",
-			"info": "yggx080",
 			"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-			"url" : "https://new.ucplay2.com/hembedplayer/yggxlive080/3/1536/712",
-			 "referer": "https://1stream.buzz/",
-			 "isHost": "true" 
+			"url" : ""
 		}, {
 			"name": "Canal 27",
 			"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
@@ -1152,8 +1154,9 @@
            				"isHost" : "true"
 				}, {
 					"name": "Canal 15",
+					"info": "yggx061",
 					"image": "https://i.ibb.co/tLYqRVW/logo-Liga-Smartbank.jpg",
-					"url" : "https://voraciousglove.net/embed/ghwmh8cp1hkn",
+					"url" : "https://new.ucplay2.com/hembedplayer/yggxlive061/3/1536/712",
 			 		"referer": "https://1stream.buzz/",
            				"isHost" : "true"
 				}, {
@@ -1817,7 +1820,7 @@
 								  },{
 								 "name": "Canal 6",
 								"image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
-							 	"url": "https://assia24.com/live/sportlive/?lang=en",
+							 	"url": "https://sportskart.click/embed/stream-526.php",
              							"isHost": "true"
 						 		},{
 								 	"name": "Canal 7",
@@ -1952,8 +1955,7 @@
 							  }, {
 								"name": "Canal 13",
 								"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-								"url": "https://daddylivehd.com/mylivetv/stream-537.php",
-							   	"referer": "https://www.freeshot.live/",
+								"url": "https://sportskart.click/embed/stream-537.php",
 								"isHost": "true"
 									 }, {
 								"name": "Canal 14",
@@ -1984,7 +1986,7 @@
 							  }, {
 								"name": "Canal 19",
 							  	"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-								"url" : "https://starlive.xyz/embed.php?id=liveF1_ES",
+								"url" : "https://nopay.info/embed.php?id=liveF1_ES",
 							  	"isHost":"true"  
 							  }, {
 								"name": "Canal 20",
@@ -2026,6 +2028,13 @@
 								"name": "Canal 26",
 						  		"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
 								"url" : "https://sportskart.click/embed/stream-537.php",
+                             					"isHost":"true" 
+							  }, {
+								"name": "Canal 27",
+								"info": "yggx089",
+						  		"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+								"url" : "https://new.ucplay2.com/hembedplayer/yggxlive089/3/1536/712",
+								"referer": "https://1stream.buzz/",
                              					"isHost":"true" 
 							  }, {
 								  "name": "Canal 1 [F1 inglés]",
@@ -2125,6 +2134,7 @@
 								   "isHost": "true"
 							  }, {
 								  "name": "Canal 14",
+								  "info": "2k2k-15",
 								  "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
 								   "url": "https://cdn122.com/embed/2k2kr220ol6yr6i?skin=15",
 								  "referer": "https://l1l1.to/",
@@ -2137,25 +2147,39 @@
 								  "referer": "https://l1l1.to/",
 								   "isHost": "true"
 							  }, {
-								  "name": "Canal 16",
+                						"name": "Canal 16",
+               							"info": "2k2k-26",
+                						"image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
+                						"url": "https://cdn122.com/embed/2k2kr220ol6yr6i?skin=26",
+                						"referer": "https://l1l1.to/",
+                						"isHost": "true"
+							}, {
+								  "name": "Canal 17",
 								  "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
 								   "url": "https://vikistream.com/embed2.php?player=desktop&live=do27",
 								  "referer": "https://l1l1.to/",
 								   "isHost": "true"
 							  }, {
-								  "name": "Canal 17",
+								  "name": "Canal 18",
 								  "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
 								  "url": "https://unbiasedsenseevent.com/embed/i1a5vxjlhqqc",
 								  "referer": "https://elixx.xyz/",
 								  "isHost": "true"
 							  }, {
-								  "name": "Canal 18",
+								  "name": "Canal 19",
 								  "info": "yggx109",
 								  "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
 								  "url": "https://new.ucplay2.com/hembedplayer/yggxlive109/3/1536/712",
 								  "referer": "https://1stream.buzz/",
 								  "isHost": "true"
-							  }]
+							  }, {
+								  "name": "Canal 20",
+                						  "info": "MotoGP - wwcujo",
+                						  "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
+                						  "url": "https://strayindicate.net/embed/wwcujo0oiatyw93",
+                						  "referer": "https://1rowsportz.info/",
+                						  "isHost": "true"
+							 }]
 						  }, 
 						  
 						  {
@@ -2393,6 +2417,11 @@
 									"name": "Canal 16",
 									"image": "https://i.ibb.co/vDDxKB8/MLB-logo-Channels.png",
 									"url" : "http://markkystreams.com/video/mlb-16/",
+									"isHost": "true" 
+						}, { 
+									"name": "Canal 17",
+									"image": "https://i.ibb.co/vDDxKB8/MLB-logo-Channels.png",
+									"url" : "http://markkystreams.com/video/mlb-19/",
 									"isHost": "true" 
 						}]
 				}, {
@@ -3106,6 +3135,12 @@
 			"referer": "https://www.streamonsport99.top/",
 		 	"isHost": "true"
 		}, {
+			"name": "Canal 33",
+			"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
+			"url": "https://fractionhostile.net/embed/y8tcxjy446py6z3",
+			"referer": "https://nopay.info/",
+		 	"isHost": "true"
+		}, {
 			"name": "Multi 1",
 			"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
 			 "url": "https://parsimoniousinvincible.net/embed/zlie5rc6nrd95",
@@ -3299,7 +3334,7 @@
     									{
       										"name": "Hacer petición",
       										"image": "https://i.ibb.co/rc9ds7x/jugones-pic-discord.png",    
-											"url" : "https://discord.gg/EmNScyEmqN",
+										"url" : "https://discord.gg/EmNScyEmqN",
       										"embed": "true"
       									}
     								]
@@ -3439,7 +3474,7 @@
 										"embed": "true"
             								}, {
             									"name": "UFC 287",
-										"info": "---",
+										"info": "Nuerdanbieke vs García",
             									"image": "https://i.ibb.co/P43N2PQ/Nuer-vs-Garcia.jpg",
             									"url": "https://vk.com/video739310848_456239029",
 										"embed": "true"
