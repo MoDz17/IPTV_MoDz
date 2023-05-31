@@ -35,9 +35,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 30/05/2023",
+             "name": "Ultm. versión 31/05/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 30/05/2023",
+            "info": "última versión actualizada el 31/05/2023",
             "stations": []
 	}, 
 	
@@ -125,9 +125,9 @@
 				   "userAgent" : ""
 			   }, {
 				"name": "Canal 1",
-				"info": "lbr3",
+				"info": "exer-lbr3 | strmons",
 				"image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png", 
-		 		"url": "https://parsimoniousinvincible.net/embed/lbr3etluqsw",
+		 		"url": "https://exerciseexercise.net/embed/lbr3etluqsw",
 				"referer": "https://streamonsport.ru/",
 				"isHost" : "true"
 			 }, {
@@ -142,9 +142,9 @@
 				 "isHost" : "true"
 			 }, {
 				"name": "Canal 4",
-				"info": "lbr3",
+				"info": "exer-lbr3 | leet365",
 				"image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
-			"url": "https://parsimoniousinvincible.net/embed/lbr3etluqsw",
+				"url": "https://exerciseexercise.net/embed/lbr3etluqsw",
 				"referer": "https://leet365.cc/",
 				 "isHost": "true"
 			}, {
@@ -225,7 +225,7 @@
 					}, {
 					"name": "Canal 17",
 					"image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
-				"url": "https://parsimoniousinvincible.net/embed/lbr3etluqsw",
+					"url": "https://parsimoniousinvincible.net/embed/lbr3etluqsw",
 					"referer": "https://streamonsport.ru/",
 					 "isHost": "true"
 					}, {
@@ -243,7 +243,7 @@
 				   }, {
 					"name": "Canal 20",
 					"image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
-				"url": "https://parsimoniousinvincible.net/embed/gagr8b",
+					"url": "https://parsimoniousinvincible.net/embed/gagr8b",
 					"referer": "https://macron.xyz/",
 					 "isHost": "true"
 				}, {
@@ -294,7 +294,7 @@
 							 "isHost": "true"  
 			  			}, {
 							"name": "Canal 29",
-							"info": "exer-lbr3",
+							"info": "exer-lbr3 | 1str",
 							"image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
 							"url": "https://exerciseexercise.net/embed/lbr3etluqsw",
 							"referer": "https://1stream.buzz/",
@@ -313,6 +313,12 @@
 							"url": "https://new.ucplay2.com/hembedplayer/yggxlive066/3/1536/712",
 							"referer": "https://1stream.buzz/",
 							"isHost": "true"  
+			  			}, {
+							"name": "Canal 32",
+							"image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
+							"url": "https://fractionhostile.net/embed/e15sctndd4",
+							"referer": "https://nopay.info/",
+							 "isHost": "true"  
 			  			}, {
 				"name": "Canal 1",
 				"image": "https://i.ibb.co/4NvkCVR/logo-deportes.png",
@@ -781,7 +787,13 @@
 		"url": "https://warnforlese.net/embed/xlzl5is",
 		"referer": "https://macron.xyz",
 		"isHost": "true"
-		}, {
+	}, {
+		"name": "Canal 4",
+		"image": "https://i.ibb.co/HLcq8Cj/logo-es2.webp",
+		"url": "https://fractionhostile.net/embed/r7w1p9",
+		"referer": "https://buzztv.futbol/",
+		"isHost": "true"
+	}, {
 		"name": "Canal 1",
 		"image": "https://i2.wp.com/ossom.cl/wp-content/uploads/2020/03/red_bull_tv.jpg?fit=610%2C350&ssl=1",
 		"url": "https://www.socialcreator.com/directos/?s=109420&idprod=44822",
@@ -3169,6 +3181,11 @@
 							"url":"https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/bitrate_1.m3u8",
 							"userAgent" : ""
 		 				}, {
+						   "name": "Telecinco",
+						   "image": "https://i.ibb.co/Jqn9qfk/logo-telecinco.png",
+						   "url":"https://www.telecinco.es/endirecto/",
+						   "embed": "true"
+						 }, {
 							"name": "24h",
 						   "image": "https://i.ibb.co/NncBbd6/24h-logo.webp",
 						   "url":"https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8",
@@ -3493,57 +3510,61 @@
 					"embed": "true"
 				}, {
 					"name": "Canal 1",
-					"info": "F1 Mónaco",
+					"info": "Sevilla - Roma",
 					"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-					"url":"https://www.pirlotv.fr/2023/f1-gp-monaco-en-vivo.php",
+					"url":"https://www.pirlotv.fr/2023/sevilla-vs-roma-final-en-vivo.php",
 					"isHost" : "true"
 				 }, {
 					"name": "Canal 2",
-					"info": "F1 Mónaco",
+					"info": "Sevilla - Roma",
 					"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-					"url":"https://ultrastream.club/121/2.php",
+					"url":"https://www.capodeportes.me/canal-3.php",
 					"isHost" : "true"
 				 }, {
 					"name": "Canal 3",
-					"info": "F1 Mónaco",
+					"info": "Sevilla - Roma",
 					"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-					"url":"https://www.capodeportes.me/canal-48.php",
+					"url":"https://www.rojadirectaenvivo.fr/2023/sevilla-vs-roma-final-en-vivo.php",
 					"isHost" : "true"
 				 }, {
 					"name": "Canal 4",
-					"info": "F1 Mónaco",
+					"info": "Sevilla - Roma",
 					"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-					"url":"https://pirlotvonlinehd.net/movistar-formula-1.php",
+					"url":"https://pirlotvonlinehd.net/canal-7.php",
 					"isHost" : "true"
 				 }, {
 					"name": "Canal 5",
-					"info": "F1 Mónaco",
+					"info": "Sevilla - Roma",
 					"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-					"url":"https://pirlotvonlinehd.net/canal-formula-1.php",
+					"url":"https://pirlotvonlinehd.net/bein-sports.php",
 					"isHost" : "true"
 				 }, {
 					"name": "Canal 6",
-					"info": "F1 Mónaco",
+					"info": "Sevilla - Roma",
 					"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-					"url":"https://pirlotvonlinehd.net/fox-sports.php",
+					"url":"https://pirlotvonlinehd.net/canal-10.php",
 					"isHost" : "true"
 				 }, {
 					"name": "Canal 7",
-					"image": "https://i.ibb.co/jr7VQss/logo-off.png",
-					"url":"",
-					"isHost" : "false"
+					"info": "Sevilla - Roma",
+					"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
+					"url":"https://pirlotvonlinehd.net/canal-9.php",
+					"isHost" : "true"
 				 }, {
 					"name": "Canal 8",
-					"image": "https://i.ibb.co/jr7VQss/logo-off.png",
-					"url":"",
-					"isHost" : "false"
+					"info": "Sevilla - Roma",
+					"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
+					"url":"https://pirlotvonlinehd.net/canal-1.php",
+					"isHost" : "true"
 				 }, {
 					"name": "Canal 9",
+					"info": "",
 					"image": "https://i.ibb.co/jr7VQss/logo-off.png",
 					"url":"",
 					"isHost" : "false"
 				 }, {
 					"name": "Canal 10",
+					"info": "",
 					"image": "https://i.ibb.co/jr7VQss/logo-off.png",
 					"url":"",
 					"isHost" : "false"
