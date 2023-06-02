@@ -3532,52 +3532,52 @@
 					"embed": "true"
 				}, {
 					"name": "Canal 1",
-					"info": "Sevilla - Roma",
-					"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-					"url":"https://www.pirlotv.fr/2023/sevilla-vs-roma-final-en-vivo.php",
-					"isHost" : "true"
+					"info": "",
+					"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+					"url":"",
+					"isHost" : "false"
 				 }, {
 					"name": "Canal 2",
-					"info": "Sevilla - Roma",
-					"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-					"url":"https://www.capodeportes.me/canal-3.php",
-					"isHost" : "true"
+					"info": "",
+					"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+					"url":"",
+					"isHost" : "false"
 				 }, {
 					"name": "Canal 3",
-					"info": "Sevilla - Roma",
-					"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-					"url":"https://www.rojadirectaenvivo.fr/2023/sevilla-vs-roma-final-en-vivo.php",
-					"isHost" : "true"
+					"info": "",
+					"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+					"url":"",
+					"isHost" : "false"
 				 }, {
 					"name": "Canal 4",
-					"info": "Sevilla - Roma",
-					"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-					"url":"https://pirlotvonlinehd.net/canal-7.php",
-					"isHost" : "true"
+					"info": "",
+					"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+					"url":"",
+					"isHost" : "false"
 				 }, {
 					"name": "Canal 5",
-					"info": "Sevilla - Roma",
-					"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-					"url":"https://pirlotvonlinehd.net/bein-sports.php",
-					"isHost" : "true"
+					"info": "",
+					"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+					"url":"",
+					"isHost" : "false"
 				 }, {
 					"name": "Canal 6",
-					"info": "Sevilla - Roma",
-					"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-					"url":"https://pirlotvonlinehd.net/canal-10.php",
-					"isHost" : "true"
+					"info": "",
+					"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+					"url":"",
+					"isHost" : "false"
 				 }, {
 					"name": "Canal 7",
-					"info": "Sevilla - Roma",
-					"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-					"url":"https://pirlotvonlinehd.net/canal-9.php",
-					"isHost" : "true"
+					"info": "",
+					"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+					"url":"",
+					"isHost" : "false"
 				 }, {
 					"name": "Canal 8",
-					"info": "Sevilla - Roma",
-					"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-					"url":"https://pirlotvonlinehd.net/canal-1.php",
-					"isHost" : "true"
+					"info": "",
+					"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+					"url":"",
+					"isHost" : "false"
 				 }, {
 					"name": "Canal 9",
 					"info": "",
