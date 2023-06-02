@@ -35,9 +35,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 31/05/2023",
+             "name": "Ultm. versión 02/06/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 31/05/2023",
+            "info": "última versión actualizada el 02/06/2023",
             "stations": []
 	}, 
 	
@@ -83,16 +83,16 @@
 		"userAgent": ""
 		  }, {
 			"name": "Canal 2",
-			"info": "exer-opth",
+			"info": "exer-opth | 1str",
 		   "image": "https://i.ibb.co/HHL04RY/logo-vamos.png",    
 		   "url": "https://exerciseexercise.net/embed/opthng68di66m",
 			"referer":"https://1stream.buzz/",
 				   "isHost":"true"
 			 }, {
 				"name": "Canal 3",
-				"info": "rq4g6",
+				"info": "exer-rq4g6 | strmons",
 				"image": "https://i.ibb.co/HHL04RY/logo-vamos.png",
-			   	"url": "https://parsimoniousinvincible.net/embed/rq4g6",
+			   	"url": "https://exerciseexercise.net/embed/rq4g6",
 			 	"referer":"https://streamonsport44.buzz/",
 				"isHost":"true"
 				}, {
@@ -102,9 +102,9 @@
 				"isHost":"true"
 				}, {
 					"name": "Canal 5",
-					"info": "rq4g6",
+					"info": "exer-rq4g6 | leet365",
 				   	"image": "https://i.ibb.co/HHL04RY/logo-vamos.png",
-					"url": "https://parsimoniousinvincible.net/embed/rq4g6",
+					"url": "https://exerciseexercise.net/embed/rq4g6",
 				 	"referer" : "https://leet365.cc/",
 				   	"isHost":"true"
 			   }, {
@@ -156,8 +156,9 @@
 				"isHost" : "true"
 				 }, {
 				"name": "Canal 6",
+				"info": "exer-lbr3 | macron",
 				"image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
-			"url": "https://parsimoniousinvincible.net/embed/lbr3etluqsw",
+				"url": "https://exerciseexercise.net/embed/lbr3etluqsw",
 				"referer": "https://macron.xyz/",
 				 "isHost": "true"
 			}, {
@@ -168,8 +169,9 @@
 				"isHost" : "true"
 			 }, {
 				"name": "Canal 8",
+				"info": "exer-lbr3 | leet365",
 				"image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
-			"url": "https://parsimoniousinvincible.net/embed/lbr3etluqsw",
+				"url": "https://exerciseexercise.net/embed/lbr3etluqsw",
 				"referer": "https://leet365.cc/",
 				 "isHost": "true"
 			}, {
@@ -192,40 +194,41 @@
 				"isHost" : "true"
 				 }, {
 				"name": "Canal 12",
-				"info": "cmms5rk1",
+				"info": "exer-cmms | strmons",
 				"image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
-			"url": "https://parsimoniousinvincible.net/embed/cmms5rk1",
+				"url": "https://exerciseexercise.net/embed/cmms5rk1",
 				"referer": "https://streamonsport.ru/",
 				 "isHost": "true"
 			}, {
 				"name": "Canal 13",
-				"info": "cmms5rk1",
+				"info": "exer-cmms | macron",
 				"image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
-				"url": "https://parsimoniousinvincible.net/embed/cmms5rk1",
+				"url": "https://exerciseexercise.net/embed/cmms5rk1",
 				"referer" : "https://macron.xyz/",
 				 "isHost": "true"
 			  }, {
 				"name": "Canal 14",
 				"image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
-			"url": "https://parsimoniousinvincible.net/embed/cmms5rk1",
+				"url": "https://exerciseexercise.net/embed/cmms5rk1",
 				"referer": "https://macron.xyz/",
 				 "isHost": "true"
 			}, {
 				"name": "Canal 15",
+				"info": "exer-cmms | 1str",
 				"image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
-				"url": "https://parsimoniousinvincible.net/embed/cmms5rk1",
-				"referer" : "https://macron.xyz/",
+				"url": "https://exerciseexercise.net/embed/cmms5rk1",
+				"referer": "https://1stream.buzz/",
 				 "isHost": "true"
 				  }, {
 					"name": "Canal 16",
 					"image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
-				"url": "https://voraciousglove.net/embed/cmms5rk1",
+					"url": "https://voraciousglove.net/embed/cmms5rk1",
 					"referer": "https://leet365.cc/",
 					 "isHost": "true"
 					}, {
 					"name": "Canal 17",
 					"image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
-					"url": "https://parsimoniousinvincible.net/embed/lbr3etluqsw",
+					"url": "https://exerciseexercise.net/embed/lbr3etluqsw",
 					"referer": "https://streamonsport.ru/",
 					 "isHost": "true"
 					}, {
@@ -242,8 +245,9 @@
 					 "isHost": "true"  
 				   }, {
 					"name": "Canal 20",
+					"info": "exer-gagr8b | macron",
 					"image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
-					"url": "https://parsimoniousinvincible.net/embed/gagr8b",
+					"url": "https://exerciseexercise.net/embed/gagr8b",
 					"referer": "https://macron.xyz/",
 					 "isHost": "true"
 				}, {
@@ -253,26 +257,29 @@
 					"isHost" : "true"
 					 }, {
 						"name": "Canal 22",
+						"info": "exer-gagr8b | strmons",
 						"image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
-						  "url": "https://parsimoniousinvincible.net/embed/gagr8b",
+						  "url": "https://exerciseexercise.net/embed/gagr8b",
 						"referer": "https://streamonsport44.buzz/",
 						 "isHost": "true"
 								}, {
 						"name": "Canal 23",
+						"info": "exer-gagr8b | 1str",
 						"image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
-					"url": "https://parsimoniousinvincible.net/embed/gagr8b",
-						"referer": "https://streamonsport44.buzz/",
+						"url": "https://exerciseexercise.net/embed/gagr8b",
+						"referer": "https://1stream.buzz/",
 						 "isHost": "true"  
 						   }, {
 							"name": "Canal 24",
+							"info": "exer-105qqn | strmons",
 							"image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
-						"url": "https://parsimoniousinvincible.net/embed/105qqn",
+							"url": "https://exerciseexercise.net/embed/105qqn",
 							"referer": "https://streamonsport44.buzz/",
 							 "isHost": "true"  
 						  }, {
 							"name": "Canal 25",
 							"image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
-						"url": "https://unbiasedsenseevent.com/embed/df7nk3qyxpu1vx",
+							"url": "https://unbiasedsenseevent.com/embed/df7nk3qyxpu1vx",
 							"referer": "https://buzztv.futbol/",
 							 "isHost": "true"  
 						  }, {
@@ -327,7 +334,7 @@
              			"isHost": "true"
 				  }, {  
 				"name": "Canal 2",
-				"info": "exer-89ftq",
+				"info": "exer-89ftq | 1str",
 				"image": "https://i.ibb.co/4NvkCVR/logo-deportes.png",
 				 "url": "https://exerciseexercise.net/embed/89ftq8ua1j5lr",
 				 "referer" : "https://1stream.buzz/",
@@ -437,14 +444,16 @@
 			   "isHost" : "true"
 				  }, {
 			   "name": "Canal 2",
+			   "info": "exer-xmr0x | macron",
 			   "image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-		  "url": "https://parsimoniousinvincible.net/embed/xmr0xxbbmzod",
+		  "url": "https://exerciseexercise.net/embed/xmr0xxbbmzod",
 	   "referer": "https://macron.xyz/",
 		"isHost": "true"
 			  }, {
 			   "name": "Canal 3",
+			   "info": "exer-h5m4g | strmons44",
 			   "image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-		 	"url" : "https://parsimoniousinvincible.net/embed/h5m4gyv36vtc",
+		 	"url" : "https://exerciseexercise.net/embed/h5m4gyv36vtc",
 			 "referer": "https://streamonsport44.buzz/",
 			"isHost": "true"
 	   }, {
@@ -465,7 +474,7 @@
 	 "isHost": "true"
 	   }, {
 	"name": "Canal 7",
-	"info": "exer-h5m4g",
+	"info": "exer-h5m4g | 1str",
 	"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
 	 "url": "https://exerciseexercise.net/embed/h5m4gyv36vtc",
       	"referer": "https://1stream.buzz/",
@@ -478,8 +487,9 @@
 	 "isHost": "true"
   }, {
 	"name": "Canal 9",
+	"info": "exer-h5m4g | strmons",
 	"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-	"url" : "https://parsimoniousinvincible.net/embed/h5m4gyv36vtc",
+	"url" : "https://exerciseexercise.net/embed/h5m4gyv36vtc",
 	 "referer": "https://streamonsport.ru/",
 	 "isHost": "true"
  }, {
@@ -490,14 +500,16 @@
 	 "isHost": "true"
   }, {
 	"name": "Canal 11",
+	"info": "exer-qkduo | macron",
 	"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-	"url" : "https://parsimoniousinvincible.net/embed/qkduopi8remo1q",
+	"url" : "https://exerciseexercise.net/embed/qkduopi8remo1q",
 	 "referer": "https://macron.xyz/",
 	 "isHost": "true"  
  }, {
 	"name": "Canal 12",
+	"info": "exer-zbz7klq | macron",
 	"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-	"url" : "https://parsimoniousinvincible.net/embed/zbz7klq",
+	"url" : "https://exerciseexercise.net/embed/zbz7klq",
 	 "referer": "https://macron.xyz/",
 	 "isHost": "true"  
  }, {
@@ -545,8 +557,9 @@
 	 			"isHost": "true"  
  			}, { 
 			"name": "Canal 1",
+			"info": "exer-opthn | strmons",
 			   "image": "https://i.ibb.co/vhNCnrq/DAZN-2-Logo-Sin-Fondo.webp",
-		 "url": "https://parsimoniousinvincible.net/embed/opthng68di66m",
+		 "url": "https://exerciseexercise.net/embed/opthng68di66m",
            	"referer": "https://streamonsport.ru/",
 		"isHost": "true"
 			   },{ 
@@ -593,8 +606,9 @@
 			 "isHost": "true"
 			}, {
 			"name": "Canal 9",
+			"info": "exer-xmr0x | leet365",
 			"image": "https://i.ibb.co/vhNCnrq/DAZN-2-Logo-Sin-Fondo.webp",
-			 "url": "https://parsimoniousinvincible.net/embed/xmr0xxbbmzod",
+			 "url": "https://exerciseexercise.net/embed/xmr0xxbbmzod",
 			  "referer": "https://leet365.cc/",
 			 "isHost": "true"
 			}, {
@@ -624,8 +638,9 @@
 			"isHost": "true"   
 			   },{ 
 				"name": "Canal 2",
+				"info": "exer-xvofy | strmons",
 			   	"image": "https://i.ibb.co/p1Ry56w/DAZN-3-Logo-Sin-Fondo.png",
-				"url": "https://parsimoniousinvincible.net/embed/xvofyfktwqkwrr",
+				"url": "https://exerciseexercise.net/embed/xvofyfktwqkwrr",
 	   			"referer" : "https://streamonsport.ru/",
 	   			"isHost":"true"
 			  },{ 
@@ -658,7 +673,7 @@
 			   "isHost":"true"
 				   }, {
 			   "name": "Canal 8",
-			   "info": "exer-xvof",
+			   "info": "exer-xvof | 1str",
 			   "image": "https://i.ibb.co/p1Ry56w/DAZN-3-Logo-Sin-Fondo.png",
 			   "url": "https://exerciseexercise.net/embed/xvofyfktwqkwrr",
 			   "referer" : "https://1stream.buzz/",
@@ -708,7 +723,7 @@
            		"isHost" : "true"  
    }, {
 	"name": "Canal 5",
-	"info": "exer-w67i",
+	"info": "exer-w67i| 1str",
 	"image": "https://i.ibb.co/LQy2rM6/DAZN-4-Logo-Sin-Fondo.png",
 	"url" : "https://exerciseexercise.net/embed/w67i2uz",
 	"referer": "https://1stream.buzz/",
@@ -1177,15 +1192,15 @@
 					 "isHost": "true"  
 				  }, {
 					"name": "Canal 2",
-					"info": "xfkc2i",
+					"info": "exer-xfkc2i | strmons",
 					"image": "https://i.ibb.co/tLYqRVW/logo-Liga-Smartbank.jpg",
-				   	"url" : "https://parsimoniousinvincible.net/embed/xfkc2i",
+				   	"url" : "https://exerciseexercise.net/embed/xfkc2i",
 					"referer" : "https://streamonsport.ru/",
 					 "isHost": "true"
 				   }, {
 					"name": "Canal 3",
 					"image": "https://i.ibb.co/tLYqRVW/logo-Liga-Smartbank.jpg",
-					"url" : "https://parsimoniousinvincible.net/embed/opthng68di66m",
+					"url" : "https://exerciseexercise.net/embed/opthng68di66m",
 					   "referer" : "https://streamonsport44.buzz/",
 					  "isHost" : "true"
 					   }, {
@@ -1203,7 +1218,7 @@
 					  }, {
 					"name": "Canal 6",
 					"image": "https://i.ibb.co/tLYqRVW/logo-Liga-Smartbank.jpg",
-					"url" : "https://parsimoniousinvincible.net/embed/xmr0xxbbmzod",
+					"url" : "https://exerciseexercise.net/embed/xmr0xxbbmzod",
 					   "referer" : "https://streamonsport44.buzz/",
 					  "isHost" : "true"
 				   }, {
@@ -1227,7 +1242,7 @@
 				}, {
 					"name": "Canal 10",
 					"image": "https://i.ibb.co/tLYqRVW/logo-Liga-Smartbank.jpg",
-					"url" : "https://parsimoniousinvincible.net/embed/opthng68di66m",
+					"url" : "https://exerciseexercise.net/embed/opthng68di66m",
               				"referer": "https://streamonsport.ru/",
            				"isHost" : "true"
 				}, {
@@ -1343,7 +1358,7 @@
 								}, {
 							"name": "Canal 5",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-					   		"url": "https://parsimoniousinvincible.net/embed/w67i2uz",
+					   		"url": "https://exerciseexercise.net/embed/w67i2uz",
               						"referer": "https://leet365.cc/",
 							 "isHost": "true"
 							  }, {
@@ -1529,8 +1544,9 @@
 							 "isHost": "true"
 						}, {
 			"name": "Canal 10",
+			"info": "exer-anirqn | strmons",
 			"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-			"url": "https://parsimoniousinvincible.net/embed/anirqn",
+			"url": "https://exerciseexercise.net/embed/anirqn",
 			 "referer" : "https://streamonsport.ru/",
              "isHost": "true"
                 }, {
@@ -1985,13 +2001,13 @@
 								},{ 
 							 "name": "Canal 4",
 								"image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
-						   "url" : "https://parsimoniousinvincible.net/embed/rq4g6",
+						   "url" : "https://exerciseexercise.net/embed/rq4g6",
 						"referer" : "https://macron.xyz/",
 						"isHost":"true"
 								 },{
 								 "name": "Canal 5",
 								"image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
-							 	"url": "https://parsimoniousinvincible.net/embed/105qqn",
+							 	"url": "https://exerciseexercise.net/embed/105qqn",
 							  	"referer" : "https://macron.xyz/",
 						 		"isHost": "true"
 								  },{
@@ -2075,6 +2091,7 @@
 								"isHost": "true"
 							   }, {
 								"name": "Canal 3",
+								"info": "exer-r23llp | 1str",
 								"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
 								"url": "https://exerciseexercise.net/embed/r23llp",
                                					"referer" : "https://1stream.buzz/",
@@ -2097,8 +2114,9 @@
 								  "isHost": "true" 	
 								}, {
 								"name": "Canal 7",
+								"info": "exer-r23llp | strmons",
 								  "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-								  "url": "https://parsimoniousinvincible.net/embed/r23llp",
+								  "url": "https://exerciseexercise.net/embed/r23llp",
 								  "referer" : "https://streamonsport.ru/",
 								   "isHost":"true"
 							   }, {
@@ -2253,8 +2271,8 @@
 										  }, {
 								  "name": "Canal 3",
 								  "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
-								   "url": "https://parsimoniousinvincible.net/embed/zbz7klq",
-									"referer": "https://leet365.cc/",
+								   "url": "https://exerciseexercise.net/embed/zbz7klq",
+								  "referer": "https://leet365.cc/",
 								   "isHost": "true"
 										   }, {
 								  "name": "Canal 4",
@@ -2271,7 +2289,7 @@
 										}, {
 								  "name": "Canal 6",
 								  "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
-								  "url" : "https://parsimoniousinvincible.net/embed/zbz7klq",
+								  "url" : "https://exerciseexercise.net/embed/zbz7klq",
 								   "referer": "https://macron.xyz/",
 								   "isHost": "true"
 									   }, {
@@ -3299,8 +3317,9 @@
              "isHost": "true" 
 	              }, {
 		     "name": "Canal 3",
+		     "info": "exer-52g8n | strmons",
 			"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-			 "url": "https://parsimoniousinvincible.net/embed/52g8nnqi37bly6",
+			 "url": "https://exerciseexercise.net/embed/52g8nnqi37bly6",
               "referer": "https://streamonsport.ru/",
              "isHost": "true"
                      }, {
@@ -3358,8 +3377,9 @@
 			"isHost": "true"
 	            }, {
 			"name": "Canal 13",
+			"info": "exer-89ftq | strmons",
 			"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-     "url": "https://parsimoniousinvincible.net/embed/89ftq8ua1j5lr",
+     "url": "https://exerciseexercise.net/embed/89ftq8ua1j5lr",
               "referer": "https://streamonsport.ru/",
              "isHost": "true"  
 			 }, {
@@ -3460,8 +3480,9 @@
 			 "isHost":"true"
                  }, {
 			"name": "Canal 31",
+			"info": "exer-6na79 | strmons",
 			"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-			"url": "https://parsimoniousinvincible.net/embed/6na79kddf",
+			"url": "https://exerciseexercise.net/embed/6na79kddf",
 			"referer": "https://streamonsport.ru/",
 		 	"isHost": "true"
 		}, {
@@ -3484,8 +3505,9 @@
              		"isHost": "true" 
 	     	}, {
 			"name": "Multi 1",
+			"info": "exer-zlie5r | strmons",
 			"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-			 "url": "https://parsimoniousinvincible.net/embed/zlie5rc6nrd95",
+			 "url": "https://exerciseexercise.net/embed/zlie5rc6nrd95",
 			  "referer" : "https://streamonsport.ru/",
              		"isHost": "true"
                  }, {
@@ -3695,44 +3717,63 @@
         									"image":"https://i.ibb.co/1bpMSRX/logo-f1-2.png",
         									"stations": 
         							 		[
-										
 											{
+												"name": "Barcelona 2023",
+												"info": "GP España | Carrera",
+												"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+												"url": "",
+												"embed": "true"
+											}, {
+												"name": "Montecarlo 2023",
+												"info": "GP Mónaco | Carrera",
+												"image": "https://i.ibb.co/n3vPp80/F1-GPM-naco23.jpg",
+												"url": "https://vk.com/video739310848_456239043",
+												"embed": "true"
+											}, {
 												"name": "Miami 2023",
+												"info": "GP EE.UU | Carrera",
 												"image": "https://i.ibb.co/R0XJmqR/GP-Miami23.jpg",
 												"url": "https://vk.com/video739310848_456239040",
 												"embed": "true"
 											}, {
-												"name": "Azerbaiyán 2023",
+												"name": "Bakú 2023",
+												"info": "GP Azerbaiyán | Carrera",
 												"image": "https://i.ibb.co/yyStYjS/F1-GPAzer23.jpg",
 												"url": "https://vk.com/video739310848_456239039",
 												"embed": "true"
 											}, {
-												"name": "Sprint Azerbaiyán 2023",
+												"name": "Bakú 2023",
+												"info": "GP Azerbaiyán | Sprint",
 												"image": "https://i.ibb.co/yyStYjS/F1-GPAzer23.jpg",
 												"url": "https://vk.com/video739310848_456239038",
 												"embed": "true"
 											}, {
-												"name": "Australia 2023",
+												"name": "Melbourne 2023",
+												"info": "GP Australia | Carrera",
             											"image": "https://i.ibb.co/frx3Bjm/F1-GPA23.jpg",
             											"url": "https://vk.com/video739310848_456239024",
             											"embed": "true"
             										}, {
-												"name": "Arabia Saudí 2023",
+												"name": "Jeddah 2023",
+												"info": "GP Arabia Saudí | Carrera",
             											"image": "https://i.ibb.co/19C1h23/miniatura-GPAS23.jpg",
             											"url": "https://vk.com/video739310848_456239023",
             											"embed": "true"
             										}, {
-												"name": "Bahrein 2023",
+												"name": "Sakhir 2023",
+												"info": "GP Bahrein | Carrera",
             											"image": "https://i.ibb.co/2FFYTy4/GP-Bahrein23.jpg",
             											"url": "https://vk.com/video739310848_456239022",
             											"embed": "true"
             										}, {
-            											"name": "Gran Bretaña 2022",
+            											"name": "Silverstone 2022",
+												"info": "GP Gran Bretaña | Carrera",
             											"image": "https://i.ibb.co/PxWNBH2/miniatura-GB22.jpg",
             											"url": "https://vk.com/video739310848_456239018",
             											"embed": "true"
             										}, {
-            											"name": "Mónaco 2022",
+            											"name": "Montecarlo 2022",
+												"info": "GP Mónaco | Carrera",
             											"image": "https://i.ibb.co/C9F6qDj/GP-Monaco.jpg",
 												"url": "https://vk.com/video739310848_456239021",
             											"embed": "true"
@@ -3744,52 +3785,62 @@
         									"stations": 
 										[
 											{
-												"name": "Francia 2023",
+												"name": "Le Mans 2023",
+												"info": "GP Francia | Carrera",
 												"image": "https://i.ibb.co/g7bnK4v/MGP-Lemans23.jpg",
 												"url": "https://vk.com/video739310848_456239042",
 												"embed": "true"
 											}, {
-												"name": "Sprint Francia 2023",
+												"name": "Le Mans 2023",
+												"info": "GP Francia | Sprint",
 												"image": "https://i.ibb.co/g7bnK4v/MGP-Lemans23.jpg",
 												"url": "https://vk.com/video739310848_456239041",
 												"embed": "true"
 											}, {
-												"name": "España 2023",
+												"name": "Jerez 2023",
+												"info": "GP España | Carrera",
 												"image": "https://i.ibb.co/v3YTYFV/Moto-GP-Jerez23.jpg",
 												"url": "https://vk.com/video739310848_456239037",
 												"embed": "true"
 											}, {
-												"name": "Sprint España 2023",
+												"name": "Jerez 2023",
+												"info": "GP España | Sprint",
 												"image": "https://i.ibb.co/v3YTYFV/Moto-GP-Jerez23.jpg",
 												"url": "https://vk.com/video739310848_456239036",
 												"embed": "true"
 											}, {
 												"name": "Austin 2023",
+												"info": "GP EE.UU | Carrera",
 												"image": "https://i.ibb.co/qrr6ZxK/Moto-GP-Austin23.jpg",
 												"url": "https://vk.com/video739310848_456239035",
 												"embed": "true"
 											}, {
-												"name": "Sprint Austin 2023",
+												"name": "Austin 2023",
+												"info": "GP EE.UU | Sprint",
 												"image": "https://i.ibb.co/qrr6ZxK/Moto-GP-Austin23.jpg",
 												"url": "https://vk.com/video739310848_456239034",
 												"embed": "true"
 											}, {
-												"name": "Argentina 2023",
+												"name": "Termas de Río Hondo 2023",
+												"info": "GP Argentina | Carrera",
 												"image": "https://i.ibb.co/RCzcL77/MGP-GPA23.jpg",
 												"url": "https://vk.com/video739310848_456239028",
 												"embed": "true"
 											}, {
-												"name": "Sprint Argentina 2023",
+												"name": "Termas de Río Hondo 2023",
+												"info": "GP Argentina | Sprint",
 												"image": "https://i.ibb.co/RCzcL77/MGP-GPA23.jpg",
 												"url": "https://vk.com/video739310848_456239027",
 												"embed": "true"
 											}, {
-												"name": "Portugal 2023",
+												"name": "Do Algarve 2023",
+												"info": "GP Portugal | Carrera",
 												"image": "https://i.ibb.co/KsTzs7v/MGP-GPP23.jpg",
 												"url": "https://vk.com/video739310848_456239026",
 												"embed": "true"
 											}, {
-												"name": "Sprint Portugal 2023",
+												"name": "Do Algarve 2023",
+												"info": "GP Portugal | Sprint",
 												"image": "https://i.ibb.co/KsTzs7v/MGP-GPP23.jpg",
 												"url": "https://vk.com/video739310848_456239025",
 												"embed": "true"
