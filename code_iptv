@@ -35,9 +35,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 03/06/2023",
+             "name": "Ultm. versión 04/06/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 03/06/2023",
+            "info": "última versión actualizada el 04/06/2023",
             "stations": []
 	}, 
 	
@@ -328,7 +328,14 @@
 							"url": "https://fractionhostile.net/embed/e15sctndd4",
 							"referer": "https://nopay.info/",
 							 "isHost": "true"  
-			  			}, {
+			}, {
+					"name": "Canal 33",
+					"info": "exer-gagr8b | leet365",
+					"image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
+					"url": "https://exerciseexercise.net/embed/gagr8b",
+					"referer": "https://leet365.cc/",
+					 "isHost": "true"
+			}, {
 				"name": "Canal 1",
 				"image": "https://i.ibb.co/4NvkCVR/logo-deportes.png",
 				 "url": "https://unbiasedsenseevent.com/embed/yjicnctevw6jymj",
@@ -823,7 +830,7 @@
 	}, 
 	
 	{
-		"name": "Zona Bein Sports | 🔄🔜",
+		"name": "🔄🔜",
 		"image": "https://i.ibb.co/h89sHWC/logo-bein-sports.png",
 		"info": "",
 		"stations": [{
@@ -1067,7 +1074,7 @@
 			 "isHost": "true" 
 		}, {
 			"name": "Canal 26",
-			"info": "zbz7klq",
+			"info": "exer-zbz7klq | 1str",
 			"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
 			"url": "https://exerciseexercise.net/embed/zbz7klq",
 			"referer" : "https://1stream.buzz/",
@@ -1131,7 +1138,7 @@
 		   	"isHost": "true"
 	     }, {
 		   	"name": "Canal 36",
-			"info": "xfkc2i - exercise",
+			"info": "exer-xfkc2i | 1str",
 			"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
 			 "url" : "https://exerciseexercise.net/embed/xfkc2i",
 		   	"referer": "https://1stream.buzz/",
@@ -1149,6 +1156,25 @@
 			"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
 			 "url" : "https://exerciseexercise.net/embed/6na79kddf",
 		   	"referer": "https://1stream.buzz/",
+		   	"isHost": "true"
+	     }, {
+		   	"name": "Canal 39",
+			"info": "exer-tqhqq | 1str",
+			"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
+			 "url" : "https://exerciseexercise.net/embed/tqhqq",
+		   	"referer": "https://1stream.buzz/",
+		   	"isHost": "true"
+	     }, {
+		   	"name": "Canal 40",
+			"info": "exer-2tdbm | 1str",
+			"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
+			 "url" : "https://exerciseexercise.net/embed/2tdbm0ikkct3271",
+		   	"referer": "https://1stream.buzz/",
+		   	"isHost": "true"
+	     }, {
+		   	"name": "Canal 41",
+			"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
+			 "url" : "https://fractionhostile.net/embed/ybgsrf",
 		   	"isHost": "true"
 	     }, {
                     "name": "Canal 1 [ESPN]",
