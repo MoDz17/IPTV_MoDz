@@ -35,9 +35,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 04/06/2023",
+             "name": "Ultm. versión 11/06/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 04/06/2023",
+            "info": "última versión actualizada el 11/06/2023",
             "stations": []
 	}, 
 	
@@ -2413,11 +2413,11 @@
 								  "isHost": "true"
 							  }, {
 								  "name": "Canal 19",
-								  "info": "yggx109",
+								  "info": "",
 								  "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
-								  "url": "https://new.ucplay2.com/hembedplayer/yggxlive109/3/1536/712",
+								  "url": "",
 								  "referer": "https://1stream.buzz/",
-								  "isHost": "true"
+								  "isHost": "false"
 							  }, {
 								  "name": "Canal 20",
                 						  "info": "wwcujo",
@@ -2489,7 +2489,7 @@
 	   								"userAgent" : ""
 	 							}, {
 									"name": "Canal 10",
-									"info": "es1-m3u8",
+									"info": "",
 	   								"image": "https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
 	   								"url":"http://200.58.73.46:1976/play/a00o/index.m3u8",
 	   								"userAgent" : ""
@@ -3068,8 +3068,9 @@
 		}, {
 			"name": "Fox Sports 1",
 			"image": "https://i.ibb.co/55GZL1c/logo-fs1.png",
-                  	"url": "http://168.194.171.33:8000/play/a00q/index.m3u8",
-			 "userAgent" : ""
+                  	"url": "https://kepa.pw/abed.php?file=foxargentinabahia",
+                     	"referer": "https://bahiadeportes.com/",  
+			"isHost":"true"
 		}, {
 			"name": "Fox Sports 2",
 			"image": "https://i.ibb.co/tqfYrvH/logo-fs2.webp",
@@ -3265,9 +3266,14 @@
 						   "url":"https://www.goltelevision.com/en-directo",
 						   "embed": "true"
 						 }, {
-							"name": "Real Madrid",
+						   "name": "Real Madrid",
 						   "image": "https://i.ibb.co/G5fHMBD/real-Madrid-TV-logo.png",
 						   "url":"https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8",
+						   "userAgent" : ""
+						 }, {
+						   "name": "Las Palmas",
+						   "image": "https://diretele.com/wp-content/uploads/2019/03/union-deportiva-las-palmas-tv-en-directo.png",
+						   "url":"https://cdn318.fractalmedia.es/live319/hls/cudtv/high/index.m3u8",
 						   "userAgent" : ""
 						 }, {
 							"name": "Esport 3",
@@ -3292,8 +3298,9 @@
 		 			}, {
 			 				"name": "Canal 1",
 							"image": "https://i.ibb.co/wYk6sYX/logo-Mundo-Toro.png",
-      							"url": "http://iptvahora.cf:8080/live/NOTEST4tu4/qzVGZwQ6YW/143841.m3u8",
-							"userAgent": ""
+      							"url": "https://coolcast2.com/embed.php?player=desktop&live=MNDT020",
+							"referer": "https://www.freeshot.live/",
+                        				"isHost": "true"
              				}, {
 			 				"name": "Canal 2",
 							"image": "https://i.ibb.co/wYk6sYX/logo-Mundo-Toro.png",
@@ -3766,8 +3773,8 @@
 											{
 												"name": "Barcelona 2023",
 												"info": "GP España | Carrera",
-												"image": "https://i.ibb.co/jr7VQss/logo-off.png",
-												"url": "",
+												"image": "https://cdn-1.motorsport.com/images/mgl/Y99Q448Y/s1000/horarios-para-el-gp-de-espana--1.jpg",
+												"url": "https://vk.com/video739310848_456239044",
 												"embed": "true"
 											}, {
 												"name": "Montecarlo 2023",
@@ -3830,7 +3837,20 @@
         									"image":"https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
         									"stations": 
 										[
+										
 											{
+												"name": "Mugello 2023",
+												"info": "GP Italia | Carrera",
+												"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+												"url": "",
+												"embed": "true"
+											}, {
+												"name": "Mugello 2023",
+												"info": "GP Italia | Sprint",
+												"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+												"url": "",
+												"embed": "true"
+											}, {
 												"name": "Le Mans 2023",
 												"info": "GP Francia | Carrera",
 												"image": "https://i.ibb.co/g7bnK4v/MGP-Lemans23.jpg",
