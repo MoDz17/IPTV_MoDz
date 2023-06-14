@@ -35,9 +35,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 11/06/2023",
+             "name": "Ultm. versión 14/06/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 11/06/2023",
+            "info": "última versión actualizada el 14/06/2023",
             "stations": []
 	}, 
 	
@@ -3272,7 +3272,7 @@
 						   "userAgent" : ""
 						 }, {
 						   "name": "Las Palmas",
-						   "image": "https://diretele.com/wp-content/uploads/2019/03/union-deportiva-las-palmas-tv-en-directo.png",
+						   "image": "https://i.ibb.co/LgQTx2t/logo-UDLP-TV.png",
 						   "url":"https://cdn318.fractalmedia.es/live319/hls/cudtv/high/index.m3u8",
 						   "userAgent" : ""
 						 }, {
@@ -3773,7 +3773,7 @@
 											{
 												"name": "Barcelona 2023",
 												"info": "GP España | Carrera",
-												"image": "https://cdn-1.motorsport.com/images/mgl/Y99Q448Y/s1000/horarios-para-el-gp-de-espana--1.jpg",
+												"image": "https://i.ibb.co/8KvgC7c/F1-GPEspa-a23.jpg",
 												"url": "https://vk.com/video739310848_456239044",
 												"embed": "true"
 											}, {
@@ -3841,14 +3841,14 @@
 											{
 												"name": "Mugello 2023",
 												"info": "GP Italia | Carrera",
-												"image": "https://i.ibb.co/jr7VQss/logo-off.png",
-												"url": "",
+												"image": "https://i.ibb.co/9VP3v4y/GP-Italia-Moto-GP23.jpg",
+												"url": "https://vk.com/video739310848_456239046",
 												"embed": "true"
 											}, {
 												"name": "Mugello 2023",
 												"info": "GP Italia | Sprint",
-												"image": "https://i.ibb.co/jr7VQss/logo-off.png",
-												"url": "",
+												"image": "https://i.ibb.co/9VP3v4y/GP-Italia-Moto-GP23.jpg",
+												"url": "https://vk.com/video739310848_456239045",
 												"embed": "true"
 											}, {
 												"name": "Le Mans 2023",
