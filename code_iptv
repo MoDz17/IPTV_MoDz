@@ -20,7 +20,7 @@
 			"name": "Grupo Soporte",
 			"info": "Discord",
 		   	"image": "https://i.ibb.co/rc9ds7x/jugones-pic-discord.png",    
-		  	"url" : "https://discord.gg/EmNScyEmqN",
+		  	"url" : "https://t.me/+wIBp4fXctzpjYTU0",
 		  	"embed": "true"
 		}, {
 			"name": "@futboladictohd",
@@ -35,9 +35,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 17/06/2023",
+             "name": "Ultm. versión 24/06/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 17/06/2023",
+            "info": "última versión actualizada el 24/06/2023",
             "stations": []
 	}, 
 	
@@ -66,21 +66,22 @@
 		"desktop": "true",
 		"online":"true",
 		"ishost":"true" 	  
-  }, {
+  	}, {
 		"name": "Canal 3",
 		  "image": "https://i.ibb.co/8dXVPMV/logo-0.png",
 		   "url" : "https://sportskart.click/embed/stream-437.php",
 		 "ishost" : "true"
-	 }, {
+	 	}, {
 			"name": "Canal 4",
-		  "image": "https://i.ibb.co/8dXVPMV/logo-0.png",
-		   "url" : "http://castlempire.site:8080/UserTest3Octubre_00s/FskXxRJQ3Ys7/181326",
-             	"userAgent" : ""
-	 }, {
-		  "name": "Canal 1",
-		   "image": "https://i.ibb.co/HHL04RY/logo-vamos.png",
-		"url" : "http://51.222.154.193:80/live/346C0F77EDBDF396B9EF8A379964C00A/323623.m3u8",
-		"userAgent": ""
+		  	"image": "https://i.ibb.co/8dXVPMV/logo-0.png",
+		   	"url" : "http://castlempire.site:8080/UserTest3Octubre_00s/FskXxRJQ3Ys7/181326",
+             		"userAgent" : ""
+	 	}, {
+		  	"name": "Canal 1",
+			"info": "ip | 51.22",
+		   	"image": "https://i.ibb.co/HHL04RY/logo-vamos.png",
+			"url" : "http://51.222.154.193:80/live/346C0F77EDBDF396B9EF8A379964C00A/337813.m3u8",
+			"userAgent": ""
 		  }, {
 			"name": "Canal 2",
 			"info": "exer-opth | 1str",
@@ -389,9 +390,10 @@
 			"userAgent" : ""
 		 	}, {
 			"name": "Canal 7",
+			"info": "ip | 51.22",
 			"image": "https://i.ibb.co/4NvkCVR/logo-deportes.png",
-		 	"url": "https://watchtvchh.xyz/channel/ch016098.php",
-			"isHost": "true"
+		 	"url": "http://51.222.154.193:80/live/346C0F77EDBDF396B9EF8A379964C00A/323623.m3u8",
+			"userAgent": ""
 	  		}, {
 			"name": "Canal 8",
 			"image": "https://i.ibb.co/4NvkCVR/logo-deportes.png",
@@ -2292,8 +2294,9 @@
 							   }, {
 								  "name": "Canal 1",
 								  "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
-								   "url" : "",
-								  "userAgent" : ""
+								  "url" : "https://fractionhostile.net/embed/hpe7zi",
+								  "referer": "https://nopay.info/",
+								  "isHost": "true"
 							   }, {
 								  "name": "Canal 2",
 								  "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
@@ -3647,7 +3650,7 @@
 				}, {
 					"name": "Solicitar evento",
 					"image": "https://i.ibb.co/rc9ds7x/jugones-pic-discord.png",
-					"url" : "https://discord.gg/EmNScyEmqN",
+					"url" : "https://t.me/+wIBp4fXctzpjYTU0",
 					"embed": "true"
 				}, {
 					"name": "Canal 1",
@@ -3827,7 +3830,7 @@
     									{
       										"name": "Hacer petición",
       										"image": "https://i.ibb.co/rc9ds7x/jugones-pic-discord.png",    
-										"url" : "https://discord.gg/EmNScyEmqN",
+										"url" : "https://t.me/+wIBp4fXctzpjYTU0",
       										"embed": "true"
       									}
     								]
@@ -3837,6 +3840,12 @@
         									"stations": 
         							 		[
 											{
+												"name": "Montreal 2023",
+												"info": "GP Canadá | Carrera",
+												"image": "https://i.ibb.co/7jB41ps/F1-GPCanada23.jpg",
+												"url": "https://vk.com/video739310848_456239047",
+												"embed": "true"
+											}, {
 												"name": "Barcelona 2023",
 												"info": "GP España | Carrera",
 												"image": "https://i.ibb.co/8KvgC7c/F1-GPEspa-a23.jpg",
@@ -3903,8 +3912,32 @@
         									"image":"https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
         									"stations": 
 										[
-										
+
 											{
+												"name": "Assen 2023",
+												"info": "GP Países Bajos | Carrera",
+												"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+												"url": "",
+												"embed": "true"
+											}, {
+												"name": "Assen 2023",
+												"info": "GP Países Bajos | Sprint",
+												"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+												"url": "",
+												"embed": "true"
+											}, {
+												"name": "Sachsenring 2023",
+												"info": "GP Alemania | Carrera",
+												"image": "https://i.ibb.co/Xt2BNz7/Moto-GP-GPAlemania-23.jpg",
+												"url": "https://vk.com/video739310848_456239049",
+												"embed": "true"
+											}, {
+												"name": "Sachsenring 2023",
+												"info": "GP Alemania | Sprint",
+												"image": "https://i.ibb.co/Xt2BNz7/Moto-GP-GPAlemania-23.jpg",
+												"url": "https://vk.com/video739310848_456239048",
+												"embed": "true"
+											}, {
 												"name": "Mugello 2023",
 												"info": "GP Italia | Carrera",
 												"image": "https://i.ibb.co/9VP3v4y/GP-Italia-Moto-GP23.jpg",
