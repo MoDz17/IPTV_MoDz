@@ -35,9 +35,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 24/06/2023",
+             "name": "Ultm. versión 26/06/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 24/06/2023",
+            "info": "última versión actualizada el 26/06/2023",
             "stations": []
 	}, 
 	
@@ -2402,10 +2402,9 @@
 								  "isHost": "true"
 							  }, {
 								  "name": "Canal 19",
-								  "info": "",
+								  "info": "ucplay",
 								  "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
-								  "url": "",
-								  "referer": "https://1stream.buzz/",
+								  "url": "https://ucplay2.com/ghtrsjufff7gsrgh",
 								  "isHost": "false"
 							  }, {
 								  "name": "Canal 20",
@@ -3916,14 +3915,14 @@
 											{
 												"name": "Assen 2023",
 												"info": "GP Países Bajos | Carrera",
-												"image": "https://i.ibb.co/jr7VQss/logo-off.png",
-												"url": "",
+												"image": "https://i.ibb.co/F6wMgWy/moto-GP-Paises-Bajos23.jpg",
+												"url": "https://vk.com/video739310848_456239051",
 												"embed": "true"
 											}, {
 												"name": "Assen 2023",
 												"info": "GP Países Bajos | Sprint",
-												"image": "https://i.ibb.co/jr7VQss/logo-off.png",
-												"url": "",
+												"image": "https://i.ibb.co/F6wMgWy/moto-GP-Paises-Bajos23.jpg",
+												"url": "https://vk.com/video739310848_456239050",
 												"embed": "true"
 											}, {
 												"name": "Sachsenring 2023",
