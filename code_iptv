@@ -4015,7 +4015,20 @@
         									"image":"https://i.ibb.co/S5NN7p3/logo-ufc.png",
         									"stations": 
         								  [
-									  {
+
+									{
+            									"name": "UFC Jacksonville",
+										"info": "Emmett vs Topuria",
+            									"image": "https://i.ibb.co/yptg4Fh/Emmet-vs-Topuria23.jpg",
+            									"url": "https://vk.com/video739310848_456239053",
+										"embed": "true"
+            								}, {
+            									"name": "UFC Jacksonville",
+										"info": "Ribas vs Barber",
+            									"image": "https://i.ibb.co/VJzx0ft/Ribas-vs-Barber.jpg",
+            									"url": "https://vk.com/video739310848_456239052",
+										"embed": "true"
+            								}, {
             									"name": "UFC 287",
 										"info": "Pereira vs Adesanya",
             									"image": "https://i.ibb.co/9WBcFnx/Pereira-vs-Adesanya.png",
