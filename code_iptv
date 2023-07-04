@@ -35,9 +35,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 26/06/2023",
+             "name": "Ultm. versión 04/07/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 26/06/2023",
+            "info": "última versión actualizada el 04/07/2023",
             "stations": []
 	}, 
 	
@@ -127,12 +127,24 @@
 				   "referer" : "https://1stream.buzz/",
 				   "isHost":"true"
 			   }, {
-					"name": "Canal 9",
-					"info": "ip | 45.90",
+				   "name": "Canal 9",
+				   "info": "ip | 45.90",
 				   "image": "https://i.ibb.co/HHL04RY/logo-vamos.png",
 				   "url":"http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/11885",
 				   "userAgent" : ""
-				 }, {
+			 }, {
+				   "name": "Canal 10",
+				   "info": "tv.onplas",
+				   "image": "https://i.ibb.co/HHL04RY/logo-vamos.png",
+				   "url":"http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117129",
+				   "userAgent" : ""
+			 }, {
+				   "name": "Canal 11",
+				   "info": "tv.onplas",
+				   "image": "https://i.ibb.co/HHL04RY/logo-vamos.png",
+				   "url":"http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117130",
+				   "userAgent" : ""
+			 }, {
 				"name": "Canal 1",
 				"info": "exer-lbr3 | strmons",
 				"image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png", 
@@ -405,10 +417,22 @@
 		 	"url": "https://embx211818.apl240.me/player/live.php?id=211818&w=100%&h=100%",
 			"isHost": "true"
 	  		}, {
-					"name": "Canal 10",
-					"info": "ip | 45.90",
+				   "name": "Canal 10",
+				   "info": "ip | 45.90",
 				   "image": "https://i.ibb.co/4NvkCVR/logo-deportes.png",
 				   "url":"http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/11915",
+				   "userAgent" : ""
+			}, {
+				   "name": "Canal 11",
+				   "info": "tv.onplas",
+				   "image": "https://i.ibb.co/4NvkCVR/logo-deportes.png",
+				   "url":"http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117138",
+				   "userAgent" : ""
+			}, {
+				   "name": "Canal 12",
+				   "info": "tv.onplas",
+				   "image": "https://i.ibb.co/4NvkCVR/logo-deportes.png",
+				   "url":"http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117139",
 				   "userAgent" : ""
 			}, {
 			"name": "Canal 1",
@@ -887,7 +911,7 @@
 	
 	{
 		"name": "LaLiga",
-		"image": "https://i.ibb.co/djLCfnd/logo-category-La-Liga.jpg",
+		"image": "https://i.ibb.co/3NCs0m4/LaLigaEA.png",
 		"info": "",
 		"stations": 
 		[
@@ -1190,159 +1214,159 @@
 				   "userAgent" : ""
 		}]
 			}, {
-		"name": "Liga Smartbank",
-		"image": "https://i.ibb.co/PCFPqSm/logo-Liga-Smartbank.png",
+		"name": "Liga Hypermotion",
+		"image": "https://i.ibb.co/zZpZy4S/Liga-Hypermotion.png",
 		"info": "",
 		"stations": [{
 					"name": "Canal 1",
 					"info": "pyxs8u",
-					"image": "https://i.ibb.co/tLYqRVW/logo-Liga-Smartbank.jpg",
+					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
 					 "url": "https://unbiasedsenseevent.com/embed/pyxs8u5a6hp",
 					"referer": "https://l1l1.to/",
 					 "isHost": "true"  
 				  }, {
 					"name": "Canal 2",
 					"info": "exer-xfkc2i | strmons",
-					"image": "https://i.ibb.co/tLYqRVW/logo-Liga-Smartbank.jpg",
+					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
 				   	"url" : "https://exerciseexercise.net/embed/xfkc2i",
 					"referer" : "https://streamonsport.ru/",
 					 "isHost": "true"
 				   }, {
 					"name": "Canal 3",
-					"image": "https://i.ibb.co/tLYqRVW/logo-Liga-Smartbank.jpg",
+					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
 					"url" : "https://exerciseexercise.net/embed/opthng68di66m",
 					   "referer" : "https://streamonsport44.buzz/",
 					  "isHost" : "true"
 					   }, {
 					"name": "Canal 4",
-					"image": "https://i.ibb.co/tLYqRVW/logo-Liga-Smartbank.jpg",
+					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
 					"url": "https://unbiasedsenseevent.com/embed/h0tx31t",
 					"referer": "https://l1l1.to/",
 					"isHost": "true"
 						}, {
 					"name": "Canal 5",
-					"image": "https://i.ibb.co/tLYqRVW/logo-Liga-Smartbank.jpg",
+					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
 					"url" : "https://vikistream.com/embed/p7uf4et6n5s8o0",
 			 		"referer": "https://l1l1.to/",
 					 "isHost": "true"
 					  }, {
 					"name": "Canal 6",
-					"image": "https://i.ibb.co/tLYqRVW/logo-Liga-Smartbank.jpg",
+					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
 					"url" : "https://exerciseexercise.net/embed/xmr0xxbbmzod",
 					   "referer" : "https://streamonsport44.buzz/",
 					  "isHost" : "true"
 				   }, {
 					"name": "Canal 7",
-					"image": "https://i.ibb.co/tLYqRVW/logo-Liga-Smartbank.jpg",
+					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
 					"url" : "https://unbiasedsenseevent.com/embed/7s62oay",
               				"referer": "https://l1l1.to/",
            				"isHost" : "true"
 				}, {
 					"name": "Canal 8",
-	   				"image": "https://i.ibb.co/tLYqRVW/logo-Liga-Smartbank.jpg",
+	   				"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
 	   				"url": "https://ntv.capshd.xyz/canaltv.php?ch=https://1rowsportz.info/player/3/71",
 					"referer": "https://m.lacasadeltikitaka.net/",
 					"isHost" : "true"
 				}, {
 					"name": "Canal 9",
-					"image": "https://i.ibb.co/tLYqRVW/logo-Liga-Smartbank.jpg",
+					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
 					"url" : "https://unbiasedsenseevent.com/embed/elvylkg3",
               				"referer": "https://l1l1.to/",
            				"isHost" : "true"
 				}, {
 					"name": "Canal 10",
-					"image": "https://i.ibb.co/tLYqRVW/logo-Liga-Smartbank.jpg",
+					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
 					"url" : "https://exerciseexercise.net/embed/opthng68di66m",
               				"referer": "https://streamonsport.ru/",
            				"isHost" : "true"
 				}, {
 					"name": "Canal 11",
-					"image": "https://i.ibb.co/tLYqRVW/logo-Liga-Smartbank.jpg",
+					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
 					"url" : "https://unbiasedsenseevent.com/embed/3mb8fn",
               				"referer": "https://l1l1.to/",
            				"isHost" : "true"
 				}, {
 					"name": "Canal 12",
-					"image": "https://i.ibb.co/tLYqRVW/logo-Liga-Smartbank.jpg",
+					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
 					"url" : "https://vikistream.com/embed2.php?player=desktop&live=do21",
               				"referer": "https://l1l1.to/",
            				"isHost" : "true"
 				}, {
 					"name": "Canal 13",
-					"image": "https://i.ibb.co/tLYqRVW/logo-Liga-Smartbank.jpg",
+					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
 					"url" : "https://unbiasedsenseevent.com/embed/2k2kr220ol6yr6i",
               				"referer": "https://l1l1.to/",
            				"isHost" : "true"
 				}, {
 					"name": "Canal 14",
-					"image": "https://i.ibb.co/tLYqRVW/logo-Liga-Smartbank.jpg",
+					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
 					"url" : "https://wecazt.com/badir1/hIER0xdlRlY",
               				"referer" : "https://soccerstream100.co/",
            				"isHost" : "true"
 				}, {
 					"name": "Canal 15",
 					"info": "52g8nn",
-					"image": "https://i.ibb.co/tLYqRVW/logo-Liga-Smartbank.jpg",
+					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
 					"url" : "https://exerciseexercise.net/embed/52g8nnqi37bly6",
 			 		"referer": "https://1stream.buzz/",
            				"isHost" : "true"
 				}, {
 					"name": "Canal 16",
-					"image": "https://i.ibb.co/tLYqRVW/logo-Liga-Smartbank.jpg",
+					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
 					"url" : "https://voraciousglove.net/embed/xfkc2i",
 			 		"referer": "https://1stream.buzz/",
            				"isHost" : "true"
 				}, {
 					"name": "Canal 17",
-					"image": "https://i.ibb.co/tLYqRVW/logo-Liga-Smartbank.jpg",
+					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
 					"url" : "https://voraciousglove.net/embed/52g8nnqi37bly6",
 			 		"referer": "https://1stream.buzz/",
            				"isHost" : "true"
 				}, {
 					"name": "Canal 18",
-					"image": "https://i.ibb.co/tLYqRVW/logo-Liga-Smartbank.jpg",
+					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
 					"url" : "https://voraciousglove.net/embed/hsg7m6kb0fse",
 			 		"referer": "https://1stream.buzz/",
            				"isHost" : "true"
 				}, {
 					"name": "Canal 19",
-					"image": "https://i.ibb.co/tLYqRVW/logo-Liga-Smartbank.jpg",
+					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
 					"url" : "https://voraciousglove.net/embed/gaes7rdnbknd",
 			 		"referer": "https://1stream.buzz/",
            				"isHost" : "true"
 				}, {
 					"name": "Canal 20",
-					"image": "https://i.ibb.co/tLYqRVW/logo-Liga-Smartbank.jpg",
+					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
 					"url" : "https://voraciousglove.net/embed/brxaybp",
 			 		"referer": "https://1stream.buzz/",
            				"isHost" : "true"
 				}, {
 					"name": "Canal 21",
-					"image": "https://i.ibb.co/tLYqRVW/logo-Liga-Smartbank.jpg",
+					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
 					"url" : "https://voraciousglove.net/embed/77ta7nageht5ho",
 			 		"referer": "https://1stream.buzz/",
            				"isHost" : "true"
 				}, {
 					"name": "Canal 22",
-					"image": "https://i.ibb.co/tLYqRVW/logo-Liga-Smartbank.jpg",
+					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
 					"url" : "https://voraciousglove.net/embed/opthng68di66m",
 			 		"referer": "https://1stream.buzz/",
            				"isHost" : "true"
 				}, {
 					"name": "Canal 23",
-					"image": "https://i.ibb.co/tLYqRVW/logo-Liga-Smartbank.jpg",
+					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
 					"url" : "https://vikistream.com/embed2.php?player=desktop&live=do30",
 			 		"referer": "https://l1l1.to/",
 					 "isHost": "true"
 			  	}, {
 					"name": "Canal 24",
-					"image": "https://i.ibb.co/tLYqRVW/logo-Liga-Smartbank.jpg",
+					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
 					"url" : "https://assia25.com/live/superliga/?lang=pl",
 					 "isHost": "true"
 			  	}, {
 						"name": "Canal 25",
 						"info": "ip | 45.90",
-					   "image": "https://i.ibb.co/tLYqRVW/logo-Liga-Smartbank.jpg",
+					   "image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
 					   "url":"http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/69962",
 					   "userAgent" : ""
 				}]
@@ -2254,15 +2278,15 @@
 								"isHost":"true" 
 							  }, {
 								"name": "Canal 27",
-								"info": "",
+								"info": "2k2k | skin=1",
 						  		"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-								"url" : "",
-								"referer": "https://1stream.buzz/",
-								"isHost":"false" 
+								"url" : "https://unbiasedsenseevent.com/embed/2k2kr220ol6yr6i?skin=1",
+								"referer": "https://l1l1.to/",
+								"isHost":"true" 
 							  }, {
 								"name": "Canal 28",
 								"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-								"url": "https://embx212009.apl240.me/player/live.php?id=212009&w=100%&h=100%",
+								"url": "https://emb.apl239.me/player/live.php?id=212332&w=100%&h=100%",
 								"isHost": "true"
 							  }, {
 								"name": "Canal 29",
@@ -3838,7 +3862,20 @@
         									"image":"https://i.ibb.co/1bpMSRX/logo-f1-2.png",
         									"stations": 
         							 		[
+											
 											{
+												"name": "Spielberg 2023",
+												"info": "GP Austria | Carrera",
+												"image": "https://i.ibb.co/4TrbJ3L/F1-GPAustria23.jpg",
+												"url": "https://vk.com/video739310848_456239055",
+												"embed": "true"
+											}, {
+												"name": "Spielberg 2023",
+												"info": "GP Austria | Sprint",
+												"image": "https://i.ibb.co/4TrbJ3L/F1-GPAustria23.jpg",
+												"url": "https://vk.com/video739310848_456239054",
+												"embed": "true"
+											}, {
 												"name": "Montreal 2023",
 												"info": "GP Canadá | Carrera",
 												"image": "https://i.ibb.co/7jB41ps/F1-GPCanada23.jpg",
