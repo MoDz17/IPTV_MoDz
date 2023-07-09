@@ -35,9 +35,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 04/07/2023",
+             "name": "Ultm. versión 09/07/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 04/07/2023",
+            "info": "última versión actualizada el 09/07/2023",
             "stations": []
 	}, 
 	
@@ -55,9 +55,10 @@
 	   		"url" : ""
 		   }, {
 			"name": "Canal 1",
-		  "image": "https://i.ibb.co/8dXVPMV/logo-0.png",
-		   "url" : "http://xone8.1222908.net:80/live/559912B0380379ED95C397C46957B9DF/337812.m3u8",
-		  "userAgent" : "PlusMediaPlayer/0.0.9"
+			"info": "minafire",
+		  	"image": "https://i.ibb.co/8dXVPMV/logo-0.png",
+		   	"url" : "http://minafire.com:8080/live/BonIzCKME7/zPHE7oQejS/1108.m3u8",
+		  	"userAgent" : ""
 	 }, {
 		"name": "Canal 2",
 		"image": "https://i.ibb.co/8dXVPMV/logo-0.png",
@@ -68,8 +69,9 @@
 		"ishost":"true" 	  
   	}, {
 		"name": "Canal 3",
+		"info": "xone8",
 		  "image": "https://i.ibb.co/8dXVPMV/logo-0.png",
-		   "url" : "https://sportskart.click/embed/stream-437.php",
+		   "url" : "http://xone8.1222908.net:80/live/346C0F77EDBDF396B9EF8A379964C00A/337812.m3u8",
 		 "ishost" : "true"
 	 	}, {
 			"name": "Canal 4",
@@ -128,9 +130,9 @@
 				   "isHost":"true"
 			   }, {
 				   "name": "Canal 9",
-				   "info": "ip | 45.90",
+				   "info": "minafire",
 				   "image": "https://i.ibb.co/HHL04RY/logo-vamos.png",
-				   "url":"http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/11885",
+				   "url":"http://minafire.com:8080/live/BonIzCKME7/zPHE7oQejS/1174.m3u8",
 				   "userAgent" : ""
 			 }, {
 				   "name": "Canal 10",
@@ -143,6 +145,12 @@
 				   "info": "tv.onplas",
 				   "image": "https://i.ibb.co/HHL04RY/logo-vamos.png",
 				   "url":"http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117130",
+				   "userAgent" : ""
+			 }, {
+				   "name": "Canal 1",
+				   "info": "minafire",
+				   "image": "https://i.ibb.co/ZhwwZZ7/logo-Vamos-Ellas.webp",
+				   "url":"http://minafire.com:8080/live/BonIzCKME7/zPHE7oQejS/1111.m3u8",
 				   "userAgent" : ""
 			 }, {
 				"name": "Canal 1",
@@ -393,12 +401,13 @@
 			 }, {
 				"name": "Canal 5",
 	   			"image": "https://i.ibb.co/4NvkCVR/logo-deportes.png",
-	   			"url":"http://212.224.84.217:2200/NL/mdeporteshd-esp/tracks-v1a1/mono.m3u8?token=fwBlCndpe3BpD3tnN3cSfwJlc3NicwdpfT9gfXRhe3ppenZg",
+	   			"url":"",
 	   			"userAgent" : ""
 	 		}, {
 			"name": "Canal 6",
+			"info": "minafire",
 			"image": "https://i.ibb.co/4NvkCVR/logo-deportes.png",
-			"url":"http://51.158.36.81:18000/M_Deportes/hls/playlist.m3u8",
+			"url":"http://minafire.com:8080/live/BonIzCKME7/zPHE7oQejS/1101.m3u8",
 			"userAgent" : ""
 		 	}, {
 			"name": "Canal 7",
@@ -418,9 +427,9 @@
 			"isHost": "true"
 	  		}, {
 				   "name": "Canal 10",
-				   "info": "ip | 45.90",
+				   "info": "ip | 185.71",
 				   "image": "https://i.ibb.co/4NvkCVR/logo-deportes.png",
-				   "url":"http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/11915",
+				   "url":"http://185.71.64.28:2052/live/belguimm/PT88yuPMSsBt/151429.m3u8",
 				   "userAgent" : ""
 			}, {
 				   "name": "Canal 11",
@@ -453,13 +462,15 @@
 			"isHost": "true"
 		  	}, {
 				"name": "Canal 1",
+				"info": "xone8",
 				"image": "https://i.ibb.co/sVPN8q6/logo-golf.png",
 				"url" : "http://xone8.1222908.net:80/live/346C0F77EDBDF396B9EF8A379964C00A/323627.m3u8",
 			   	"userAgent" : ""
 			 }, {
 				"name": "Canal 2",
+				"info": "minafire",
 				"image": "https://i.ibb.co/sVPN8q6/logo-golf.png",
-			  	"url": "https://sportskart.click/embed/stream-528.php",
+			  	"url": "http://minafire.com:8080/live/BonIzCKME7/zPHE7oQejS/1116.m3u8",
             			"isHost": "true"
 			}, {
 				"name": "Canal 3",
@@ -620,7 +631,12 @@
 				   "image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
 				   "url":"http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/11775",
 				   "userAgent" : ""
-			}, { 
+			}, {
+				"name": "Canal 22",
+				"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
+				"url" : "https://emb.apl252.me/player/live.php?id=212510&w=100%&h=100%",
+	 			"isHost": "true"  
+ 			}, { 
 			"name": "Canal 1",
 			"info": "exer-opthn | strmons",
 			   "image": "https://i.ibb.co/vhNCnrq/DAZN-2-Logo-Sin-Fondo.webp",
@@ -2290,9 +2306,14 @@
 								"isHost": "true"
 							  }, {
 								"name": "Canal 29",
-								"info": "ip | 45.90",
+								"info": "minafire",
 								"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-								"url":"http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/11779",
+								"url":"http://minafire.com:8080/live/BonIzCKME7/zPHE7oQejS/1109.m3u8",
+								"userAgent" : ""
+							  }, {
+								"name": "Canal 30",
+								"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+								"url": "http://185.71.64.28:2052/live/belguimm/PT88yuPMSsBt/151415.m3u8",
 								"userAgent" : ""
 							  }, {
 								  "name": "Canal 1 [F1 inglés]",
@@ -3194,37 +3215,37 @@
               }, {
               		"name": "Sport TV-1",
 			"image": "https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png",
-		 	"url" :  "https://unbiasedsenseevent.com/embed/k2szvuyqaq8a44x",
+		 	"url" :  "https://abolishstand.net/embed/d9xskrhxh8g",
 			"referer" : "https://buzztv.futbol/",
 			 "isHost":"true"
 		}, {
              		"name": "Sport TV-2",
 			"image": "https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png",
-			 "url" :  "https://unbiasedsenseevent.com/embed/ozbhq",
+			 "url" :  "https://abolishstand.net/embed/hx9ejf",
 			"referer" : "https://buzztv.futbol/",
 			 "isHost":"true"
           }, {
              		"name": "Sport TV-3",
 			"image": "https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png",
-			 "url" :  "https://unbiasedsenseevent.com/embed/5ojjlk47ul",
+			 "url" :  "https://abolishstand.net/embed/cii4kw916f3t",
 			"referer" : "https://buzztv.futbol/",
 			 "isHost":"true"
           }, {
               		"name": "Sport TV-4",
 			"image": "https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png",
-			  "url" :  "https://unbiasedsenseevent.com/embed/lsdcbyzutk9g9",
+			  "url" :  "https://abolishstand.net/embed/ern2bja2uygn",
 			"referer" : "https://buzztv.futbol/",
 			 "isHost":"true"
                 }, {
               		"name": "Sport TV-5",
 			"image": "https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png",
-			 "url" :  "https://unbiasedsenseevent.com/embed/kq68lxi2vab",
+			 "url" :  "https://abolishstand.net/embed/vtwhdedmj96",
 			"referer" : "https://buzztv.futbol/",
 			 "isHost":"true"
                 }, {
 			"name": "Sport TV-6",
 			"image": "https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png",
-			"url":"http://213.13.16.138/shls/LIVE%24SPORTTV6_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END",
+			"url":"",
 			"userAgent" : ""
 		 }, {
               		"name": "Fox NFL",
@@ -3234,8 +3255,8 @@
                     "isHost": "true"      
 		 }, {
 			"name": "Bein Sport Ñ",
-					 "image": "https://static.wikia.nocookie.net/logosfake/images/3/3a/BeIN_Sports_en_Espa%C3%B1ol.png/revision/latest/scale-to-width-down/2953?cb=20180913094220",
-				   "url" :  "https://watchtvchh.xyz/channel/ch016034.php",
+	 		"image": "https://static.wikia.nocookie.net/logosfake/images/3/3a/BeIN_Sports_en_Espa%C3%B1ol.png/revision/latest/scale-to-width-down/2953?cb=20180913094220",
+		        "url" :  "https://watchtvchh.xyz/channel/ch016034.php",
 			 "isHost": "true"
 				  }, {
 					   "name": "Canal 1",
@@ -3410,8 +3431,9 @@
 							"userAgent": ""
              				}, {
 							"name": "Canal 5",
+							"info": "minafire",
 							"image": "https://i.ibb.co/wYk6sYX/logo-Mundo-Toro.png",
-							"url":"http://2022spn.net:8080/Nicky/1234/5209",
+							"url":"http://minafire.com:8080/live/BonIzCKME7/zPHE7oQejS/1100.m3u8",
 							"userAgent" : ""
 				 	}, {
 							"name": "Canal 6",
@@ -3421,12 +3443,17 @@
 		 			}, {
 							"name": "Canal 7",
 							"image": "https://i.ibb.co/wYk6sYX/logo-Mundo-Toro.png",
-							"url":"http://102.165.51.185:80/live/ypamzjtt/xY2597mnGj/313200.m3u8",
+							"url":"http://185.71.64.28:2052/live/belguimm/PT88yuPMSsBt/96431.m3u8",
 							"userAgent" : ""
 		 			}, {
 							"name": "Canal 8",
 							"image": "https://i.ibb.co/wYk6sYX/logo-Mundo-Toro.png",
 							"url":"http://185.71.64.28:2052/live/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/96431.m3u8",
+							"userAgent" : ""
+		 			}, {
+							"name": "Canal 9",
+							"image": "https://i.ibb.co/wYk6sYX/logo-Mundo-Toro.png",
+							"url":"http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/298810.m3u8",
 							"userAgent" : ""
 		 			}, {
 			 				"name": "CMM",
@@ -4151,12 +4178,12 @@
 								"embed": "true"
 								}, {
 								"name": "LaLiga",
-								"image": "https://i.ibb.co/djLCfnd/logo-category-La-Liga.jpg",
+								"image": "https://i.ibb.co/3NCs0m4/LaLigaEA.png",
 								"url": "https://www.futboltv.info/competicion/laliga",
 								"embed": "true"
 								}, {
-								"name": "Liga Smartbank",
-								"image": "https://i.ibb.co/L5f9j85/logo-Smartbank-Horarios.webp",
+								"name": "Liga Hypermotion",
+								"image": "https://i.ibb.co/zZpZy4S/Liga-Hypermotion.png",
 								"url": "https://www.futboltv.info/competicion/laliga2",
 								"embed": "true"
 								}, {
