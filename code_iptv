@@ -35,9 +35,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 09/07/2023",
+             "name": "Ultm. versión 10/07/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 09/07/2023",
+            "info": "última versión actualizada el 10/07/2023",
             "stations": []
 	}, 
 	
@@ -3244,6 +3244,7 @@
 			 "isHost":"true"
                 }, {
 			"name": "Sport TV-6",
+			"info": "off",
 			"image": "https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png",
 			"url":"",
 			"userAgent" : ""
@@ -3891,6 +3892,12 @@
         							 		[
 											
 											{
+												"name": "Silverstone 2023",
+												"info": "GP Gran Bretaña | Carrera",
+												"image": "https://images.emojiterra.com/openmoji/v13.1/512px/1f51c.png",
+												"url": "",
+												"embed": "false"
+											}, {
 												"name": "Spielberg 2023",
 												"info": "GP Austria | Carrera",
 												"image": "https://i.ibb.co/4TrbJ3L/F1-GPAustria23.jpg",
@@ -4080,7 +4087,7 @@
         									"stations": 
         								  [
 
-									{
+											{
             									"name": "UFC Jacksonville",
 										"info": "Emmett vs Topuria",
             									"image": "https://i.ibb.co/yptg4Fh/Emmet-vs-Topuria23.jpg",
@@ -4135,7 +4142,49 @@
             									"url": "https://vk.com/video739310848_456239019",
             									"embed": "true"
             								}]
-    									}
+    									}, {
+											"name": "San Fermín 2023",
+											"image": "https://i.ibb.co/Lv0YRVG/San-Fermin23.jpg",    
+											"stations": 
+										[
+											{
+												   "name": "Encierro 1",
+												   "image": "https://i.ibb.co/rZ8btwS/Encierro1.jpg",
+												   "url":"https://rtvemvodlote7.rtve.es/2023/dia1/DIA1_PGM.mp4",
+												   "userAgent" : ""
+											}, {
+												   "name": "Encierro 2",
+												   "image": "https://i.ibb.co/c1qWzMW/Encierro2.jpg",
+												   "url":"https://rtvemvodlote7.rtve.es/2023/dia2/DIA2_PGM.mp4",
+												   "userAgent" : ""
+											}, {
+												   "name": "Encierro 3",
+												   "image": "https://i.ibb.co/s5d3mkb/Encierro3.jpg",
+												   "url":"https://rtvemvodlote7.rtve.es/2023/dia3/DIA3_PGM.mp4",
+												   "userAgent" : ""
+											}, {
+												   "name": "Encierro 4",
+												   "image": "https://images.emojiterra.com/openmoji/v13.1/512px/1f51c.png",
+												   "url":"https://rtvemvodlote7.rtve.es/2023/dia4/DIA4_PGM.mp4",
+												   "userAgent" : ""
+											}, {
+												   "name": "Encierro 5",
+												   "image": "https://images.emojiterra.com/openmoji/v13.1/512px/1f51c.png",
+												   "url":"https://rtvemvodlote7.rtve.es/2023/dia5/DIA5_PGM.mp4",
+												   "userAgent" : ""
+											}, {
+												   "name": "Encierro 6",
+												   "image": "https://images.emojiterra.com/openmoji/v13.1/512px/1f51c.png",
+												   "url":"https://rtvemvodlote7.rtve.es/2023/dia6/DIA6_PGM.mp4",
+												   "userAgent" : ""
+											}, {
+												   "name": "Encierro 7",
+												   "image": "https://images.emojiterra.com/openmoji/v13.1/512px/1f51c.png",
+												   "url":"https://rtvemvodlote7.rtve.es/2023/dia7/DIA7_PGM.mp4",
+												   "userAgent" : ""
+											}
+										  ]
+									     }
   								]
 						}, {
 								"name": "Streams",
