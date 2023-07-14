@@ -35,9 +35,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 11/07/2023",
+             "name": "Ultm. versión 14/07/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 11/07/2023",
+            "info": "última versión actualizada el 14/07/2023",
             "stations": []
 	}, 
 	
@@ -2534,44 +2534,44 @@
 								}, {
 									"name":"Canal 12",
 								 	"image":"https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-								  	"url": "https://walkcast2.com/wiki.php?player=desktop&live=ten1",
-							 		"referer":"https://wikisport.click/",
+								  	"url": "https://fractionhostile.net/embed/2zigww29a02c1",
+            								"referer" : "https://nopay.info/",
 									"isHost":"true"
 								}, {
 									"name":"Canal 13",
 								 	"image":"https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-								  	"url": "https://walkcast2.com/wiki.php?player=desktop&live=ten2",
-							 		"referer":"https://wikisport.click/",
+								  	"url": "https://fractionhostile.net/embed/0pzvjkcs1",
+							 		"referer" : "https://nopay.info/",
 									"isHost":"true"
 								}, {
 									"name":"Canal 14",
 								 	"image":"https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-								  	"url": "https://walkcast2.com/wiki.php?player=desktop&live=ten3",
-							 		"referer":"https://wikisport.click/",
+								  	"url": "https://fractionhostile.net/embed/7qzyi4xhty3td4",
+							 		"referer" : "https://nopay.info/",
 									"isHost":"true"
 								}, {
 									"name":"Canal 15",
 								 	"image":"https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-								  	"url": "https://walkcast2.com/wiki.php?player=desktop&live=ten4",
-							 		"referer":"https://wikisport.click/",
+								  	"url" :  "https://abolishstand.net/embed/d9xskrhxh8g",
+									"referer" : "https://buzztv.futbol/",
 									"isHost":"true"
 								}, {
 									"name":"Canal 16",
 								 	"image":"https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-								  	"url": "https://walkcast2.com/wiki.php?player=desktop&live=ten5",
-							 		"referer":"https://wikisport.click/",
+								  	"url" :  "https://abolishstand.net/embed/hx9ejf",
+									"referer" : "https://buzztv.futbol/",
 									"isHost":"true"
 								}, {
 									"name":"Canal 17",
 								 	"image":"https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-								  	"url": "https://walkcast2.com/wiki.php?player=desktop&live=ten6",
-							 		"referer":"https://wikisport.click/",
+								  	"url" :  "https://2w37x8g7b483w9.dynamicrevival.net/embed/vsg649tgjupj50",
+									"referer" : "https://sportz.football/",
 									"isHost":"true"
 								}, {
 									"name":"Canal 18",
 								 	"image":"https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
 								  	"url": "https://walkcast2.com/wiki.php?player=desktop&live=ten7",
-							 		"referer":"https://wikisport.click/",
+							 		"referer":"https://elixx.xyz/",
 									"isHost":"true"
 								}, {
 									"name":"Canal 19",
@@ -4178,11 +4178,15 @@
 												   "userAgent" : ""
 											}, {
 												   "name": "Encierro 7",
-												   "image": "https://images.emojiterra.com/openmoji/v13.1/512px/1f51c.png",
+												   "image": "https://i.ibb.co/VQxmXQR/Encierro7.jpg",
 												   "url":"https://rtvemvodlote7.rtve.es/2023/dia7/DIA7_PGM.mp4",
 												   "userAgent" : ""
-											}
-										  ]
+											}, {
+												   "name": "Encierro 8",
+												   "image": "https://i.ibb.co/hFCV71Y/Encierro8.jpg",
+												   "url":"https://rtvemvodlote7.rtve.es/2023/dia8/DIA8_PGM.mp4",
+												   "userAgent" : ""
+											}]
 									     }
   								]
 						}, {
