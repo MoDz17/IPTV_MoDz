@@ -123,10 +123,9 @@
 				   "userAgent" : ""
 			   }, {
 				   "name": "Canal 8",
-				   "info": "exer-rq4g6 | 1str",
+				   "info": "",
 				   "image": "https://i.ibb.co/HHL04RY/logo-vamos.png",
-				   "url": "https://exerciseexercise.net/embed/rq4g6",
-				   "referer" : "https://1stream.buzz/",
+				   "url": "https://emb.apl256.me/player/live.php?id=212160&w=100%&h=100%",
 				   "isHost":"true"
 			   }, {
 				   "name": "Canal 9",
@@ -146,6 +145,12 @@
 				   "image": "https://i.ibb.co/HHL04RY/logo-vamos.png",
 				   "url":"http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117130",
 				   "userAgent" : ""
+			 }, {
+				   "name": "Canal 12",
+				   "info": "ucplay2",
+				   "image": "https://i.ibb.co/HHL04RY/logo-vamos.png",
+				   "url":"https://hd.ucplay2.com/vgfsdghd4hfhjcit",
+				   "isHost":"true"
 			 }, {
 				   "name": "Canal 1",
 				   "info": "minafire",
@@ -3427,7 +3432,7 @@
              				}, {
 			 				"name": "Canal 4",
 							"image": "https://i.ibb.co/wYk6sYX/logo-Mundo-Toro.png",
-      							"url": "http://207.244.157.26:8000/live/k0kal3kan3ws3rv3r/16yUAQJN5A/512.m3u8",
+      							"url": "http://nfnt.ddns.net:8080/Ash2/BMbu2xSrmb8M/341",
 							"userAgent": ""
              				}, {
 							"name": "Canal 5",
