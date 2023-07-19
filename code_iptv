@@ -35,9 +35,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 14/07/2023",
+             "name": "Ultm. versión 19/07/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 14/07/2023",
+            "info": "última versión actualizada el 19/07/2023",
             "stations": []
 	}, 
 	
@@ -3031,8 +3031,13 @@
 		"image": "https://i.ibb.co/Brj5qrX/logo-variados.png",
 		"info": "",
 		"stations": [
-		
+
 		 {
+			"name": "M. United TV",
+			"image": "https://i.ibb.co/Jd7ss3K/logo-MUTV.png",
+			"url":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8",
+			"userAgent" : ""
+		 }, {
 			"name": "BT Sport 1",
 			"image": "https://i.ibb.co/w6gRYRm/BTS1.png",
 			"url": "https://unbiasedsenseevent.com/embed/m5a6zzm8yc2",
@@ -3118,22 +3123,22 @@
 			"image": "https://i.ibb.co/xS4PqcP/logo-fs3.png",
 		 	"url": "http://168.194.171.33:8000/play/a01l/index.m3u8",
 			 "userAgent" : ""
-           }, {
+           	}, {
 			"name": "TUDN",
 			"image": "https://i.ibb.co/XF20w23/logo-TUDN.png",
 			"url":"https://watchtvchh.xyz/channel/ch07006.php",
 	                "isHost": "true"
-        }, {
+       	 	}, {
 			"name": "TUDN",
 			"image": "https://i.ibb.co/XF20w23/logo-TUDN.png",
 			"url":"https://linear-357.frequency.stream/dist/vix/357/hls/master/playlist_1024x576.m3u8",
 			"userAgent" : ""
-		 }, {
+		}, {
 			"name": "TUDN",
 			"image": "https://i.ibb.co/XF20w23/logo-TUDN.png",
 			"url":"http://skytvpluzz.xyz:8000/GoN3xt/mVD21jrp3D/29669",
 			"userAgent" : ""
-		 }, {
+		}, {
 			"name": "DirecTV Sports",
 			"image": "https://i.ibb.co/xYZB8br/logo-dtvs.png",
 			"url": "https://www.tutele.nl/online.php?a=8",
@@ -3248,7 +3253,7 @@
 			 "isHost":"true"
                 }, {
 			"name": "Sport TV-6",
-			"info": "off",
+			"info": "Fuera de servicio",
 			"image": "https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png",
 			"url":"",
 			"userAgent" : ""
@@ -3894,13 +3899,18 @@
         									"image":"https://i.ibb.co/1bpMSRX/logo-f1-2.png",
         									"stations": 
         							 		[
-											
 											{
-												"name": "Silverstone 2023",
-												"info": "GP Gran Bretaña | Carrera",
+												"name": "Budapest 2023",
+												"info": "GP Hungría | Carrera",
 												"image": "https://images.emojiterra.com/openmoji/v13.1/512px/1f51c.png",
 												"url": "",
 												"embed": "false"
+											}, {
+												"name": "Silverstone 2023",
+												"info": "GP Gran Bretaña | Carrera",
+												"image": "https://i.ibb.co/zr7481g/F1-GPGB23.jpg",
+												"url": "https://vk.com/video739310848_456239057",
+												"embed": "true"
 											}, {
 												"name": "Spielberg 2023",
 												"info": "GP Austria | Carrera",
@@ -4091,7 +4101,19 @@
         									"stations": 
         								  [
 
-											{
+									{
+            									"name": "UFC 290",
+										"info": "Volkanovski vs Rodríguez",
+            									"image": "https://i.ibb.co/2jskHZg/Volka-vs-Rodri.jpg",
+            									"url": "https://vk.com/video739310848_456239059",
+										"embed": "true"
+            								}, {
+            									"name": "UFC 290",
+										"info": "Moreno vs Pantoja",
+            									"image": "https://i.ibb.co/x62H3Qh/Moreno-vs-Pantoja.webp",
+            									"url": "https://vk.com/video739310848_456239058",
+										"embed": "true"
+            								}, {
             									"name": "UFC Jacksonville",
 										"info": "Emmett vs Topuria",
             									"image": "https://i.ibb.co/yptg4Fh/Emmet-vs-Topuria23.jpg",
