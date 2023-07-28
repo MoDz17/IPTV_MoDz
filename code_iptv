@@ -14,13 +14,13 @@
 			"name": "@FutbolAdictosHD",
 			"info": "Twitter",
 		   	"image": "https://i.ibb.co/8MFrqt3/Twitter-logo.webp",    
-		  	"url" : "https://twitter.com/futboladictoshd",
+		  	"url" : "https://twitter.com/futboladictohd",
 		  	"embed": "true"
 		}, {
 			"name": "Grupo Soporte",
 			"info": "Discord",
 		   	"image": "https://i.ibb.co/rc9ds7x/jugones-pic-discord.png",    
-		  	"url" : "https://t.me/+wIBp4fXctzpjYTU0",
+		  	"url" : "https://linktr.ee/futboladictoshd",
 		  	"embed": "true"
 		}, {
 			"name": "@futboladictohd",
@@ -35,9 +35,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 19/07/2023",
+             "name": "Ultm. versión 28/07/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 19/07/2023",
+            "info": "última versión actualizada el 28/07/2023",
             "stations": []
 	}, 
 	
@@ -938,16 +938,17 @@
 		[
 			{
 				"name": "Canal 1",
+				"info": "Fijo: M+ | fgnh",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				"url": "https://wecast.to/badir1.php?stream=BXaQAanLKPZ",
-				"referer": "https://streamsport.pro/",
-				 "isHost": "true"
+				"url": "https://hd.ucplay2.com/fgvsg556hcfgnh",
+				"isHost": "true"
 			}, {
 				 "name": "Canal 2",
-				 "info": "ip | 207.244",
+				 "info": "Fijo: DAZN | ydd4",
 				 "image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				 "url" : "http://207.244.157.26:8000/live/k0kal3kan3ws3rv3r/16yUAQJN5A/459.m3u8",
-				 "userAgent": ""
+				 "url": "https://abolishstand.net/embed/dvuf5ydd4",
+                  		 "referer": "https://buzztv.futbol/",
+				 "isHost": "true"
 					 }, {
 				"name": "Canal 3",
 				"info": "ktpqv",
@@ -1198,24 +1199,125 @@
 				   "url":"http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/88737",
 				   "userAgent" : ""
 			}, {
+	             		"name": "Canal 43",
+                    		"image": "https://www.frfutbol.com/pnfg/pimg/GestorContenidos/00100_0001007441_1_amistoso.jpg",
+                  		"url": "https://abolishstand.net/embed/dvuf5ydd4",
+                  		"referer": "https://buzztv.futbol/",
+             			"isHost": "true"
+                     	}, {
+                		 "name": "Canal 44",
+                    		"image": "https://www.frfutbol.com/pnfg/pimg/GestorContenidos/00100_0001007441_1_amistoso.jpg",
+                		"url": "https://hd.ucplay2.com/ghtrsjufff7gsrgh",
+             			"isHost": "true"
+                    	}, { 
+                 		"name": "Canal 45",
+                    		"image": "https://www.frfutbol.com/pnfg/pimg/GestorContenidos/00100_0001007441_1_amistoso.jpg",
+                      		"url": "https://hoca4u.com/footy.php?player=desktop&live=ufeed108",
+            			"referer" : "https://www.streamonsport2.sbs/",
+                 		"isHost": "true"
+                     	}, { 
+                 		"name": "Canal 46",
+                    		"image": "https://www.frfutbol.com/pnfg/pimg/GestorContenidos/00100_0001007441_1_amistoso.jpg",
+                      		"url": "https://s.cdn2.link/ch22.php",
+                 		"isHost": "true"
+                    	}, { 
+                 		"name": "Canal 47",
+                    		"image": "https://www.frfutbol.com/pnfg/pimg/GestorContenidos/00100_0001007441_1_amistoso.jpg",
+                      		"url": "https://s.cdn2.link/ch40.php",
+                 		"isHost": "true"
+                     	}, { 
+                 		"name": "Canal 48",
+                    		"image": "https://www.frfutbol.com/pnfg/pimg/GestorContenidos/00100_0001007441_1_amistoso.jpg",
+                    		"url" :  "https://abolishstand.net/embed/w131e7go",
+				"referer" : "https://buzztv.futbol/",
+			 	"isHost":"true"
+                     	}, { 
+                 		"name": "Canal 49",
+                    		"image": "https://www.frfutbol.com/pnfg/pimg/GestorContenidos/00100_0001007441_1_amistoso.jpg",
+                       		"url" :  "https://abolishstand.net/embed/7bkf9ztdqbvdly",
+				"referer" : "https://buzztv.futbol/",
+			 	"isHost":"true"
+                    	}, { 
+                 		"name": "Canal 50",
+                    		"image": "https://www.frfutbol.com/pnfg/pimg/GestorContenidos/00100_0001007441_1_amistoso.jpg",
+                     		"url" :  "https://abolishstand.net/embed/d9xskrhxh8g",
+				"referer" : "https://buzztv.futbol/",
+			 	"isHost":"true"
+                     	}, { 
+                 		"name": "Canal 51",
+                    		"image": "https://www.frfutbol.com/pnfg/pimg/GestorContenidos/00100_0001007441_1_amistoso.jpg",
+                      		"url": "https://walkcast2.com/wiki.php?player=desktop&live=ten9",
+            			"referer" : "https://wikisport.click/",
+                 		"isHost": "true"
+                     	}, { 
+                 		"name": "Canal 52",
+                    		"image": "https://www.frfutbol.com/pnfg/pimg/GestorContenidos/00100_0001007441_1_amistoso.jpg",
+                      		"url": "https://walkcast2.com/wiki.php?player=desktop&live=ten10",
+            			"referer" : "https://wikisport.click/",
+                 		"isHost": "true"
+			}, { 
+                 		"name": "Canal 53",
+                    		"image": "https://www.frfutbol.com/pnfg/pimg/GestorContenidos/00100_0001007441_1_amistoso.jpg",
+                      		"url": "https://hoca4u.com/footy.php?player=desktop&live=ufeed133",
+                  		"referer": "https://1rowsportz.info/",
+                 		"isHost": "true"
+			}, { 
+                 		"name": "Canal 54",
+                    		"image": "https://www.frfutbol.com/pnfg/pimg/GestorContenidos/00100_0001007441_1_amistoso.jpg",
+                      		"url": "https://abolishstand.net/embed/lhfsvq5z",
+               			"referer" : "https://elixx.xyz/",
+                 		"isHost": "true"
+			}, { 
+                 		"name": "Canal 55",
+                    		"image": "https://www.frfutbol.com/pnfg/pimg/GestorContenidos/00100_0001007441_1_amistoso.jpg",
+                      		"url": "https://abolishstand.net/embed/ejj6a0rybyyp",
+               			"referer" : "https://elixx.xyz/",
+                 		"isHost": "true"
+			}, { 
+                 		"name": "Canal 56",
+                    		"image": "https://www.frfutbol.com/pnfg/pimg/GestorContenidos/00100_0001007441_1_amistoso.jpg",
+                      		"url": "https://abolishstand.net/embed/mey8j3",
+               			"referer" : "https://elixx.xyz/",
+                 		"isHost": "true"
+			}, { 
+                 		"name": "Canal 57",
+                    		"image": "https://www.frfutbol.com/pnfg/pimg/GestorContenidos/00100_0001007441_1_amistoso.jpg",
+                      		"url": "https://www.freeshot.live/live-tv/movistar-liga-de-campeones/92",
+                 		"isHost": "true"
+			}, { 
+                 		"name": "Canal 58",
+                    		"image": "https://www.frfutbol.com/pnfg/pimg/GestorContenidos/00100_0001007441_1_amistoso.jpg",
+                      		"url": "https://ntuplay.xyz/embedlc.php?id=62",
+                 		"isHost": "true"
+			}, { 
+                 		"name": "Canal 59",
+                    		"image": "https://www.frfutbol.com/pnfg/pimg/GestorContenidos/00100_0001007441_1_amistoso.jpg",
+                      		"url": "https://s.cdn2.link/ch18.php",
+                 		"isHost": "true"
+                    	}, { 
+                 		"name": "Canal 60",
+                    		"image": "https://www.frfutbol.com/pnfg/pimg/GestorContenidos/00100_0001007441_1_amistoso.jpg",
+                      		"url": "https://hd.ucplay2.com/fgvsg556hcfgnh",
+                 		"isHost": "true"
+                    	}, {
 						"name": "Canal 1 [ESPN]",
 						"image": "https://i.ibb.co/VQpLvTb/logo-channels-ESPN.jpg",
 						"url": "https://wecast.to/hls.php?stream=38tSc8hE6z9c",
 						 "referer": "https://bahiadeportes.com/",  
 						"isHost" : "true"
-					 },{
+			 },{
 						"name": "Canal 2 [ESPN2]",
 						"image": "https://i.ibb.co/VQpLvTb/logo-channels-ESPN.jpg",
 						 "url":"https://wecast.to/hls.php?stream=wrK4VGJ4fyST",
 				 		"referer" : "https://bahiadeportes.com/",
 						"isHost" : "true"
-					  },{
+			  },{
 						"name": "Canal 3 [ESPN3]",
 						"image": "https://i.ibb.co/VQpLvTb/logo-channels-ESPN.jpg",
 					   	"url": "https://wecast.to/hls.php?stream=yhzly0qurt9y",
 					 	"referer" : "https://bahiadeportes.com/",
 						 "isHost" : "true"
-				 }, {
+			 }, {
 				"name": "Canal 4 [inglés]",
 				"image": "https://i.ibb.co/nwQrbvN/inglesa.webp",
 					   "url": "https://deliriousholistic.net/embed/37g5h7ynae",
@@ -2258,8 +2360,8 @@
 							  }, {
 								"name": "Canal 20",
 						  		"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-								"url" : "https://wecast.to/popy.php?stream=RdKfpotjL5g",
-							  	"referer" : "https://livetvstream.pro/",
+								"url": "https://hoca4u.com/footy.php?player=desktop&live=ufeed89",
+                               					"referer": "https://www.streamonsport2.sbs/",
                              					"isHost":"true" 
 							  }, {
 								"name": "Canal 21",
@@ -2305,8 +2407,10 @@
 								"isHost":"true" 
 							  }, {
 								"name": "Canal 28",
+								"info": "RdKfp",
 								"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-								"url": "https://emb.apl239.me/player/live.php?id=212332&w=100%&h=100%",
+								"url": "https://wecast.to/popy.php?stream=RdKfpotjL5g",
+                        					"referer" : "https://livetvstream.pro/",
 								"isHost": "true"
 							  }, {
 								"name": "Canal 29",
@@ -2319,6 +2423,20 @@
 								"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
 								"url": "http://185.71.64.28:2052/live/belguimm/PT88yuPMSsBt/151415.m3u8",
 								"userAgent" : ""
+							  }, {
+								"name": "Canal 31",
+								"info": "jwpz3",
+								"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+								"url": "https://candlesouth.net/embed/jwpz3ec0iqz",
+								"referer": "https://s2watch.link/",
+             							"isHost": "true"
+							  }, {
+								"name": "Canal 32",
+								"info": "",
+								"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+								"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do10",
+								"referer": "https://s.cdn2.link/",
+             							"isHost": "true"
 							  }, {
 								  "name": "Canal 1 [F1 inglés]",
 								  "image": "https://i.ibb.co/nwQrbvN/inglesa.webp",
@@ -3710,7 +3828,7 @@
 				}, {
 					"name": "Solicitar evento",
 					"image": "https://i.ibb.co/rc9ds7x/jugones-pic-discord.png",
-					"url" : "https://t.me/+wIBp4fXctzpjYTU0",
+					"url" : "https://linktr.ee/futboladictoshd",
 					"embed": "true"
 				}, {
 					"name": "Canal 1",
@@ -3890,7 +4008,7 @@
     									{
       										"name": "Hacer petición",
       										"image": "https://i.ibb.co/rc9ds7x/jugones-pic-discord.png",    
-										"url" : "https://t.me/+wIBp4fXctzpjYTU0",
+										"url" : "https://linktr.ee/futboladictoshd",
       										"embed": "true"
       									}
     								]
@@ -3900,6 +4018,18 @@
         									"stations": 
         							 		[
 											{
+												"name": "Spa 2023",
+												"info": "GP Bélgica | Carrera",
+												"image": "https://images.emojiterra.com/openmoji/v13.1/512px/1f51c.png",
+												"url": "",
+												"embed": "false"
+											}, {
+												"name": "Spa 2023",
+												"info": "GP Bélgica | Sprint",
+												"image": "https://images.emojiterra.com/openmoji/v13.1/512px/1f51c.png",
+												"url": "",
+												"embed": "false"
+											}, {
 												"name": "Budapest 2023",
 												"info": "GP Hungría | Carrera",
 												"image": "https://images.emojiterra.com/openmoji/v13.1/512px/1f51c.png",
@@ -4329,6 +4459,11 @@
 								"name": "Hockey",
 								"image": "https://i.ibb.co/868xpk5/logo-NHL.png",
 								"url": "https://www.futbolenlatv.es/deporte/hockey/competicion/national-hockey-league",
+								"embed": "true"
+								}, {
+								"name": "Sport•TV",
+								"image": "https://i.ibb.co/gTcYR5b/logo-Sport-TV.png",
+								"url": "https://www.sporttv.pt/guia",
 								"embed": "true"
 								}, {
 								"name": "Toros",
