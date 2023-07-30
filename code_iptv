@@ -35,9 +35,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 28/07/2023",
+             "name": "Ultm. versión 30/07/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 28/07/2023",
+            "info": "última versión actualizada el 30/07/2023",
             "stations": []
 	}, 
 	
@@ -944,7 +944,7 @@
 				"isHost": "true"
 			}, {
 				 "name": "Canal 2",
-				 "info": "Fijo: DAZN | ydd4",
+				 "info": "Fijo: DAZN | abolish - ydd4",
 				 "image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
 				 "url": "https://abolishstand.net/embed/dvuf5ydd4",
                   		 "referer": "https://buzztv.futbol/",
@@ -1201,7 +1201,7 @@
 			}, {
 	             		"name": "Canal 43",
                     		"image": "https://www.frfutbol.com/pnfg/pimg/GestorContenidos/00100_0001007441_1_amistoso.jpg",
-                  		"url": "https://abolishstand.net/embed/dvuf5ydd4",
+                  		"url": "https://abolishstand.net/embed/wl8gs0z8lq",
                   		"referer": "https://buzztv.futbol/",
              			"isHost": "true"
                      	}, {
@@ -1223,7 +1223,7 @@
                     	}, { 
                  		"name": "Canal 47",
                     		"image": "https://www.frfutbol.com/pnfg/pimg/GestorContenidos/00100_0001007441_1_amistoso.jpg",
-                      		"url": "https://s.cdn2.link/ch40.php",
+                      		"url": "https://s.cdn2.link/ch17.php",
                  		"isHost": "true"
                      	}, { 
                  		"name": "Canal 48",
@@ -1270,7 +1270,7 @@
 			}, { 
                  		"name": "Canal 55",
                     		"image": "https://www.frfutbol.com/pnfg/pimg/GestorContenidos/00100_0001007441_1_amistoso.jpg",
-                      		"url": "https://abolishstand.net/embed/ejj6a0rybyyp",
+                      		"url": "https://abolishstand.net/embed/g16dv8bwe2pkg",
                			"referer" : "https://elixx.xyz/",
                  		"isHost": "true"
 			}, { 
@@ -1299,7 +1299,88 @@
                     		"image": "https://www.frfutbol.com/pnfg/pimg/GestorContenidos/00100_0001007441_1_amistoso.jpg",
                       		"url": "https://hd.ucplay2.com/fgvsg556hcfgnh",
                  		"isHost": "true"
-                    	}, {
+                    	}, { 
+                 		"name": "Canal 61",
+                    		"image": "https://www.frfutbol.com/pnfg/pimg/GestorContenidos/00100_0001007441_1_amistoso.jpg",
+                      		"url": "https://s.cdn2.link/ch15.php",
+                 		"isHost": "true"
+                    	}, { 
+                 		"name": "Canal 62",
+                    		"image": "https://www.frfutbol.com/pnfg/pimg/GestorContenidos/00100_0001007441_1_amistoso.jpg",
+                      		"url": "https://s.cdn2.link/ch33.php",
+                 		"isHost": "true"
+                    	}, { 
+                 		"name": "Canal 63",
+                    		"image": "https://www.frfutbol.com/pnfg/pimg/GestorContenidos/00100_0001007441_1_amistoso.jpg",
+                      		"url" :  "https://abolishstand.net/embed/dfn3xpy",
+				"referer" : "https://buzztv.futbol/",
+                 		"isHost": "true"
+			}, { 
+                 		"name": "Canal 64",
+                    		"image": "https://www.frfutbol.com/pnfg/pimg/GestorContenidos/00100_0001007441_1_amistoso.jpg",
+                      		"url" :  "https://candlesouth.net/embed/vy7my0wu36",
+				"referer" : "https://l1l1.to/",
+                 		"isHost": "true"
+			}, { 
+                 		"name": "Canal 65",
+                    		"image": "https://www.frfutbol.com/pnfg/pimg/GestorContenidos/00100_0001007441_1_amistoso.jpg",
+                      		"url" :  "https://abolishstand.net/embed/fyg9m",
+				"referer" : "https://buzztv.futbol/",
+                 		"isHost": "true"
+			}, { 
+                 		"name": "Canal 66",
+                    		"image": "https://www.frfutbol.com/pnfg/pimg/GestorContenidos/00100_0001007441_1_amistoso.jpg",
+                      		"url": "https://abolishstand.net/embed/ugce3jz6chx",
+               			"referer" : "https://elixx.xyz/",
+                 		"isHost": "true"
+			}, { 
+                 		"name": "Canal 67",
+                    		"image": "https://www.frfutbol.com/pnfg/pimg/GestorContenidos/00100_0001007441_1_amistoso.jpg",
+                      		"url" :  "https://abolishstand.net/embed/p55njct",
+				"referer" : "https://buzztv.futbol/",
+                 		"isHost": "true"
+			}, { 
+                 		"name": "Canal 68",
+				"info": "candle | av8q3",
+                    		"image": "https://www.frfutbol.com/pnfg/pimg/GestorContenidos/00100_0001007441_1_amistoso.jpg",
+                      		"url" :  "https://candlesouth.net/embed/av8q3fwxcb",
+				"referer" : "https://l1l1.to/",
+                 		"isHost": "true"
+			}, { 
+                 		"name": "Canal 69",
+                    		"image": "https://www.frfutbol.com/pnfg/pimg/GestorContenidos/00100_0001007441_1_amistoso.jpg",
+                      		"url": "https://hoca4u.com/footy.php?player=desktop&live=ufeed139",
+				"referer": "https://www.streamonsport2.sbs/",
+                 		"isHost": "true"
+			}, { 
+                 		"name": "Canal 70",
+				"info": "abolish | av8q3",
+                    		"image": "https://www.frfutbol.com/pnfg/pimg/GestorContenidos/00100_0001007441_1_amistoso.jpg",
+                      		"url" :  "https://abolishstand.net/embed/av8q3fwxcb",
+				"referer" : "https://buzztv.futbol/",
+                 		"isHost": "true"
+			}, { 
+                 		"name": "Canal 71",
+				"info": "",
+                    		"image": "https://www.frfutbol.com/pnfg/pimg/GestorContenidos/00100_0001007441_1_amistoso.jpg",
+                      		"url": "https://abolishstand.net/embed/ejj6a0rybyyp",
+               			"referer" : "https://elixx.xyz/",
+                 		"isHost": "true"
+			}, { 
+                 		"name": "Canal 72",
+				"info": "candle | ydd4",
+                    		"image": "https://www.frfutbol.com/pnfg/pimg/GestorContenidos/00100_0001007441_1_amistoso.jpg",
+                      		"url" :  "https://candlesouth.net/embed/dvuf5ydd4",
+				"referer" : "https://l1l1.to/",
+                 		"isHost": "true"
+			}, { 
+                 		"name": "Canal 73",
+				"info": "",
+                    		"image": "https://www.frfutbol.com/pnfg/pimg/GestorContenidos/00100_0001007441_1_amistoso.jpg",
+                      		"url" :  "https://hoca4u.com/footy.php?player=desktop&live=ufeed132",
+				"referer" : "https://www.streamonsport2.sbs/",
+                 		"isHost": "true"
+			}, {
 						"name": "Canal 1 [ESPN]",
 						"image": "https://i.ibb.co/VQpLvTb/logo-channels-ESPN.jpg",
 						"url": "https://wecast.to/hls.php?stream=38tSc8hE6z9c",
@@ -2407,11 +2488,11 @@
 								"isHost":"true" 
 							  }, {
 								"name": "Canal 28",
-								"info": "RdKfp",
+								"info": "",
 								"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-								"url": "https://wecast.to/popy.php?stream=RdKfpotjL5g",
+								"url": "http://nemochannels.vip:8080/play/xv8nNsdYcXcLBlRSbxZk2b8FEYknhAkPGivm52soLWTE9D-R1Y2cDkLb1OTDjST0",
                         					"referer" : "https://livetvstream.pro/",
-								"isHost": "true"
+								"userAgent": ""
 							  }, {
 								"name": "Canal 29",
 								"info": "minafire",
@@ -2450,7 +2531,7 @@
 							   }, {
 								  "name": "Canal 3 [F1 inglés]",
 								  "image": "https://i.ibb.co/nwQrbvN/inglesa.webp",
-								  "url" : "https://unbiasedsenseevent.com/embed/apmjz067by90u",
+								  "url" : "https://unbiasedsenseevent.com/embed/gy67an2ct",
 								  "referer": "https://buzztv.futbol/",
 								  "isHost": "true"
 							   }, {
