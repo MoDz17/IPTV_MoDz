@@ -35,9 +35,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 30/07/2023",
+             "name": "Ultm. versión 02/08/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 30/07/2023",
+            "info": "última versión actualizada el 02/08/2023",
             "stations": []
 	}, 
 	
@@ -1223,7 +1223,7 @@
                     	}, { 
                  		"name": "Canal 47",
                     		"image": "https://www.frfutbol.com/pnfg/pimg/GestorContenidos/00100_0001007441_1_amistoso.jpg",
-                      		"url": "https://s.cdn2.link/ch17.php",
+                      		"url": "https://s.cdn2.link/ch1.php",
                  		"isHost": "true"
                      	}, { 
                  		"name": "Canal 48",
@@ -1302,7 +1302,7 @@
                     	}, { 
                  		"name": "Canal 61",
                     		"image": "https://www.frfutbol.com/pnfg/pimg/GestorContenidos/00100_0001007441_1_amistoso.jpg",
-                      		"url": "https://s.cdn2.link/ch15.php",
+                      		"url": "https://s.cdn2.link/ch3.php",
                  		"isHost": "true"
                     	}, { 
                  		"name": "Canal 62",
@@ -1349,7 +1349,7 @@
 			}, { 
                  		"name": "Canal 69",
                     		"image": "https://www.frfutbol.com/pnfg/pimg/GestorContenidos/00100_0001007441_1_amistoso.jpg",
-                      		"url": "https://hoca4u.com/footy.php?player=desktop&live=ufeed139",
+                      		"url": "https://hoca4u.com/footy.php?player=desktop&live=ufeed132",
 				"referer": "https://www.streamonsport2.sbs/",
                  		"isHost": "true"
 			}, { 
@@ -1377,8 +1377,13 @@
                  		"name": "Canal 73",
 				"info": "",
                     		"image": "https://www.frfutbol.com/pnfg/pimg/GestorContenidos/00100_0001007441_1_amistoso.jpg",
-                      		"url" :  "https://hoca4u.com/footy.php?player=desktop&live=ufeed132",
-				"referer" : "https://www.streamonsport2.sbs/",
+                      		"url" :  "https://embx210571.apl260.me//player/live.php?id=210571&w=100%&h=100%",
+                 		"isHost": "true"
+			}, { 
+                 		"name": "Canal 74",
+				"info": "",
+                    		"image": "https://www.frfutbol.com/pnfg/pimg/GestorContenidos/00100_0001007441_1_amistoso.jpg",
+                      		"url" :  "https://embx210386.apl260.me//player/live.php?id=210386&w=100%&h=100%",
                  		"isHost": "true"
 			}, {
 						"name": "Canal 1 [ESPN]",
@@ -4078,13 +4083,13 @@
 					"groups":
 								[
     								{
-    									"name": "               ↑  ↑  ↑",
+    										"name": "               ↑  ↑  ↑",
 										"image": "https://i.ibb.co/xMwGggX/logo-aviso-pc.png",    
 										"url" : ""
   									}, {
 										"name": "Peticiones",
-       									"image": "https://i.ibb.co/rc9ds7x/jugones-pic-discord.png",    
-      									"stations": 
+       										"image": "https://i.ibb.co/rc9ds7x/jugones-pic-discord.png",    
+      										"stations": 
     								[
     									{
       										"name": "Hacer petición",
@@ -4101,21 +4106,21 @@
 											{
 												"name": "Spa 2023",
 												"info": "GP Bélgica | Carrera",
-												"image": "https://images.emojiterra.com/openmoji/v13.1/512px/1f51c.png",
-												"url": "",
-												"embed": "false"
+												"image": "https://i.ibb.co/DVXTGTK/F1-GP-B-lgica23.jpg",
+												"url": "https://vk.com/video739310848_456239062",
+												"embed": "true"
 											}, {
 												"name": "Spa 2023",
 												"info": "GP Bélgica | Sprint",
-												"image": "https://images.emojiterra.com/openmoji/v13.1/512px/1f51c.png",
-												"url": "",
-												"embed": "false"
+												"image": "https://i.ibb.co/DVXTGTK/F1-GP-B-lgica23.jpg",
+												"url": "https://vk.com/video739310848_456239061",
+												"embed": "true"
 											}, {
 												"name": "Budapest 2023",
 												"info": "GP Hungría | Carrera",
-												"image": "https://images.emojiterra.com/openmoji/v13.1/512px/1f51c.png",
-												"url": "",
-												"embed": "false"
+												"image": "https://i.ibb.co/D7gwcVQ/f1-gp-hungria23.jpg",
+												"url": "https://vk.com/video739310848_456239060",
+												"embed": "true"
 											}, {
 												"name": "Silverstone 2023",
 												"info": "GP Gran Bretaña | Carrera",
