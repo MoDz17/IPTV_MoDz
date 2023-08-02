@@ -1302,7 +1302,7 @@
                     	}, { 
                  		"name": "Canal 61",
                     		"image": "https://www.frfutbol.com/pnfg/pimg/GestorContenidos/00100_0001007441_1_amistoso.jpg",
-                      		"url": "https://s.cdn2.link/ch3.php",
+                      		"url": "https://s.cdn2.link/ch22.php",
                  		"isHost": "true"
                     	}, { 
                  		"name": "Canal 62",
@@ -1384,6 +1384,13 @@
 				"info": "",
                     		"image": "https://www.frfutbol.com/pnfg/pimg/GestorContenidos/00100_0001007441_1_amistoso.jpg",
                       		"url" :  "https://embx210386.apl260.me//player/live.php?id=210386&w=100%&h=100%",
+                 		"isHost": "true"
+			}, { 
+                 		"name": "Canal 75",
+				"info": "",
+                    		"image": "https://www.frfutbol.com/pnfg/pimg/GestorContenidos/00100_0001007441_1_amistoso.jpg",
+                      		"url": "https://abolishstand.net/embed/ww6frra9pf",
+               			"referer" : "https://elixx.xyz/",
                  		"isHost": "true"
 			}, {
 						"name": "Canal 1 [ESPN]",
