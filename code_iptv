@@ -35,9 +35,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 05/08/2023",
+             "name": "Ultm. versión 06/08/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 05/08/2023",
+            "info": "última versión actualizada el 06/08/2023",
             "stations": []
 	}, 
 	
@@ -542,16 +542,16 @@
 			"url": "https://vikistream.com/embed2.php?player=desktop&live=do23",
 			"referer": "https://l1l1.to/",
 			"isHost": "true"
-		}, {
+	}, {
 			"name": "Canal 6",
-	"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-	"url": "https://sportskart.click/embed/stream-445.php",
-	 "isHost": "true"
+			"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
+			"url": "",
+	 		"isHost": "true"
 	   }, {
 	 "name": "Canal 7",
-	 "info": "ufeed80 | strmons2",
+	 "info": "ufeed81 | strmons2",
 	 "image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-	 "url" : "https://hoca4u.com/footy.php?player=desktop&live=ufeed80",
+	 "url" : "https://hoca4u.com/footy.php?player=desktop&live=ufeed81",
 	 "referer": "https://www.streamonsport2.sbs/",
 	 "isHost": "true"
   }, {
@@ -1397,6 +1397,13 @@
                     		"image": "https://www.frfutbol.com/pnfg/pimg/GestorContenidos/00100_0001007441_1_amistoso.jpg",
                       		"url": "https://abolishstand.net/embed/ww6frra9pf",
                			"referer" : "https://elixx.xyz/",
+                 		"isHost": "true"
+			}, { 
+                 		"name": "Canal 76",
+				"info": "",
+                    		"image": "https://www.frfutbol.com/pnfg/pimg/GestorContenidos/00100_0001007441_1_amistoso.jpg",
+                      		"url" :  "https://wecazt.com/popy.php?stream=YJ8krnYwZrR",
+			  	"referer" : "https://livetvstream.pro/",
                  		"isHost": "true"
 			}, {
 						"name": "Canal 1 [ESPN]",
