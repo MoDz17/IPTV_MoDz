@@ -35,9 +35,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 07/08/2023",
+             "name": "Ultm. versión 09/08/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 07/08/2023",
+            "info": "última versión actualizada el 09/08/2023",
             "stations": []
 	}, 
 	
@@ -1414,10 +1414,10 @@
                  		"isHost": "true"
 			}, { 
                  		"name": "Canal 78",
-				"info": "wecazt",
+				"info": "",
                     		"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-                      		"url" : "https://wecazt.com/popy.php?stream=4eLyr2RZq7v",
-				"referer" : "https://livetvstream.pro/",
+                      		"url" :  "https://abolishstand.net/embed/gy67an2ct",
+				"referer" : "https://buzztv.futbol/",
                  		"isHost": "true"
 			}, {
 						"name": "Canal 1 [ESPN]",
@@ -2827,89 +2827,95 @@
 								}, {
 									"name":"Canal 18",
 								 	"image":"https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-								  	"url": "https://walkcast2.com/wiki.php?player=desktop&live=ten7",
-							 		"referer":"https://elixx.xyz/",
-									"isHost":"true"
+								  	"url": "https://fiveyardlab.com/wiki.php?player=desktop&live=ten1",
+           								"referer" : "https://wikisport.click/",
+                							"isHost": "true"
 								}, {
 									"name":"Canal 19",
 								 	"image":"https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-								  	"url": "https://walkcast2.com/wiki.php?player=desktop&live=ten8",
-							 		"referer":"https://wikisport.click/",
+								  	"url": "https://fiveyardlab.com/wiki.php?player=desktop&live=ten2",
+            								"referer" : "https://wikisport.click/",
 									"isHost":"true"
 								}, {
 									"name":"Canal 20",
 								 	"image":"https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-								  	"url": "https://walkcast2.com/wiki.php?player=desktop&live=ten9",
-							 		"referer":"https://wikisport.click/",
+								  	"url": "https://fiveyardlab.com/wiki.php?player=desktop&live=ten3",
+            								"referer" : "https://wikisport.click/",
 									"isHost":"true"
 								}, {
 									"name":"Canal 21",
 								 	"image":"https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-								  	"url": "https://walkcast2.com/wiki.php?player=desktop&live=ten10",
-							 		"referer":"https://wikisport.click/",
+								  	"url": "https://fiveyardlab.com/wiki.php?player=desktop&live=ten4",
+									"referer" : "https://wikisport.click/",
 									"isHost":"true"
 								}, {
 									"name":"Canal 22",
-									"info": "Pista: Philippe Chartrier",
-								 	"image":"https://lavacacion.com/content/images/2019/12/maxresdefault.jpg",
-								  	"url": "https://loja.rarp.com.br/wp-content/plugins/super-links/application/helpers/super-links-proxy.php/https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/f.m3u8",
-							 		"userAgent" : ""
+									"info": "",
+								 	"image":"https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
+								  	"url": "https://fiveyardlab.com/wiki.php?player=desktop&live=ten5",
+            								"referer" : "https://wikisport.click/",
+									"isHost": "true"
 								}, {
 									"name":"Canal 23",
-									"info": "Pista: Suzanne",
-								 	"image":"https://lavacacion.com/content/images/2019/12/maxresdefault.jpg",
-								  	"url": "https://loja.rarp.com.br/wp-content/plugins/super-links/application/helpers/super-links-proxy.php/https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f/f.m3u8",
-							 		"userAgent" : ""
+									"info": "",
+								 	"image":"https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
+								  	"url": "https://fiveyardlab.com/wiki.php?player=desktop&live=ten6",
+            								"referer" : "https://wikisport.click/",
+                 							"isHost": "true"
 								}, {
 									"name":"Canal 24",
-									"info": "Pista: Simonne",
-								 	"image":"https://lavacacion.com/content/images/2019/12/maxresdefault.jpg",
-								  	"url": "https://loja.rarp.com.br/wp-content/plugins/super-links/application/helpers/super-links-proxy.php/https://playoutengine.sinclairstoryline.com/playout/d63dc8e6-3693-4c8b-8912-e08608f7513f/f.m3u8",
-							 		"userAgent" : ""
+									"info": "",
+								 	"image":"https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
+								  	"url": "https://fiveyardlab.com/wiki.php?player=desktop&live=ten7",
+									"referer" : "https://wikisport.click/",
+                 							"isHost": "true"
 								}, {
 									"name":"Canal 25",
-								 	"image":"https://lavacacion.com/content/images/2019/12/maxresdefault.jpg",
-								  	"url": "https://loja.rarp.com.br/wp-content/plugins/super-links/application/helpers/super-links-proxy.php/https://playoutengine.sinclairstoryline.com/playout/febfc709-d9a5-4caa-ab73-1cce0e4bc6e9/f.m3u8",
-							 		"userAgent" : ""
+								 	"image":"https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
+								  	"url": "https://fiveyardlab.com/wiki.php?player=desktop&live=ten8",
+            								"referer" : "https://wikisport.click/",
+									"isHost": "true"
 								}, {
 									"name":"Canal 26",
-								 	"image":"https://lavacacion.com/content/images/2019/12/maxresdefault.jpg",
-								  	"url": "https://loja.rarp.com.br/wp-content/plugins/super-links/application/helpers/super-links-proxy.php/https://playoutengine.sinclairstoryline.com/playout/b287bd53-b70f-4b04-9096-10a5b5ba9d29/f.m3u8",
-							 		"userAgent" : ""
+								 	"image":"https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
+								  	"url": "https://fiveyardlab.com/wiki.php?player=desktop&live=ten9",
+            								"referer" : "https://wikisport.click/",
+                 							"isHost": "true"
 								}, {
 									"name":"Canal 27",
-								 	"image":"https://lavacacion.com/content/images/2019/12/maxresdefault.jpg",
-								  	"url": "https://loja.rarp.com.br/wp-content/plugins/super-links/application/helpers/super-links-proxy.php/https://playoutengine.sinclairstoryline.com/playout/735dea87-2128-40b7-8eaa-4252092c6dae/f.m3u8",
-							 		"userAgent" : ""
+								 	"image":"https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
+								  	"url": "https://fiveyardlab.com/wiki.php?player=desktop&live=ten10",
+            								"referer" : "https://wikisport.click/",
+									"isHost": "true"
 								}, {
 									"name":"Canal 28",
-								 	"image":"https://lavacacion.com/content/images/2019/12/maxresdefault.jpg",
-								  	"url": "https://loja.rarp.com.br/wp-content/plugins/super-links/application/helpers/super-links-proxy.php/https://playoutengine.sinclairstoryline.com/playout/c05b21c0-e574-4b34-a26e-c6637dbd0fa5/f.m3u8",
+								 	"image":"https://i.ibb.co/jr7VQss/logo-off.png",
+								  	"url": "",
 							 		"userAgent" : ""
 								}, {
 									"name":"Canal 29",
-								 	"image":"https://lavacacion.com/content/images/2019/12/maxresdefault.jpg",
-								  	"url": "https://loja.rarp.com.br/wp-content/plugins/super-links/application/helpers/super-links-proxy.php/https://playoutengine.sinclairstoryline.com:443/playout/202886a0-38bf-4470-9043-6f7e3750a5cf/f.m3u8",
+								 	"image":"https://i.ibb.co/jr7VQss/logo-off.png",
+								  	"url": "",
 							 		"userAgent" : ""
 								}, {
 									"name":"Canal 30",
-								 	"image":"https://lavacacion.com/content/images/2019/12/maxresdefault.jpg",
-								  	"url": "https://loja.rarp.com.br/wp-content/plugins/super-links/application/helpers/super-links-proxy.php/https://playoutengine.sinclairstoryline.com/playout/c46b6ddd-59f0-475d-9f28-08e382d570d0/f.m3u8",
+								 	"image":"https://i.ibb.co/jr7VQss/logo-off.png",
+								  	"url": "",
 							 		"userAgent" : ""
 								}, {
 									"name":"Canal 31",
-								 	"image":"https://lavacacion.com/content/images/2019/12/maxresdefault.jpg",
-								  	"url": "https://loja.rarp.com.br/wp-content/plugins/super-links/application/helpers/super-links-proxy.php/https://playoutengine.sinclairstoryline.com/playout/450ba66f-1d01-4949-84f8-4b3dfa1dd156/f.m3u8",
+								 	"image":"https://i.ibb.co/jr7VQss/logo-off.png",
+								  	"url": "",
 							 		"userAgent" : ""
 								}, {
 									"name":"Canal 32",
-								 	"image":"https://lavacacion.com/content/images/2019/12/maxresdefault.jpg",
-								  	"url": "https://loja.rarp.com.br/wp-content/plugins/super-links/application/helpers/super-links-proxy.php/https://playoutengine.sinclairstoryline.com/playout/e8d54dc5-970b-4dc8-81f8-ceafb0cc1584/f.m3u8",
+								 	"image":"https://i.ibb.co/jr7VQss/logo-off.png",
+								  	"url": "",
 							 		"userAgent" : ""
 								}, {
 									"name":"Canal 33",
-								 	"image":"https://lavacacion.com/content/images/2019/12/maxresdefault.jpg",
-								  	"url": "https://loja.rarp.com.br/wp-content/plugins/super-links/application/helpers/super-links-proxy.php/https://playoutengine.sinclairstoryline.com/playout/4997220f-71e2-4e7e-bcaa-e6476bb8a3dd/f.m3u8",
+								 	"image":"https://i.ibb.co/jr7VQss/logo-off.png",
+								  	"url": "",
 							 		"userAgent" : ""
 								}]
 						}, 
@@ -3455,13 +3461,13 @@
              }, {
 			"name": "Sky Sports Football",
 			"image": "https://yt3.ggpht.com/ytc/AAUvwngvw3NiQZvSQLBLGF5g8zJbQQnS50W0IVNyL8dmXA=s900-c-k-c0x00ffffff-no-rj",
-			"url": "https://millionscast.com/embedcr.php?player=desktop&live=skysfott",
-                	"referer" : "https://cricplay2.xyz/",
+			"url": "https://cricplay2.xyz/sky-sports-football",
+                	"referer" : "https://www.freeshot.live/",
             		"isHost" : "true"
                }, {
 			"name": "Sky Sports Football",
 			"image": "https://yt3.ggpht.com/ytc/AAUvwngvw3NiQZvSQLBLGF5g8zJbQQnS50W0IVNyL8dmXA=s900-c-k-c0x00ffffff-no-rj",
-			"url": "https://gocast2.com/embedcr.php?player=desktop&live=skysfott",
+			"url": "https://lovesomecommunity.com/embedcr.php?player=desktop&live=skysfott",
             		"referer" : "https://www.freeshot.live/",
 			"isHost": "true" 
 		 }, {
@@ -4298,15 +4304,15 @@
 											{
 												"name": "Silverstone 2023",
 												"info": "GP Gran Bretaña | Carrera",
-												"image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
-												"url": "",
-												"embed": "false"
+												"image": "https://i.ibb.co/hB3T12x/Mot-GP-GP-Gran-Bre23.jpg",
+												"url": "https://vk.com/video739310848_456239064",
+												"embed": "true"
 											}, {
 												"name": "Silverstone 2023",
 												"info": "GP Gran Bretaña | Sprint",
-												"image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
-												"url": "",
-												"embed": "false"
+												"image": "https://i.ibb.co/hB3T12x/Mot-GP-GP-Gran-Bre23.jpg",
+												"url": "https://vk.com/video739310848_456239063",
+												"embed": "true"
 											}, {
 												"name": "Assen 2023",
 												"info": "GP Países Bajos | Carrera",
