@@ -35,9 +35,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 12/08/2023",
+             "name": "Ultm. versión 13/08/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 12/08/2023",
+            "info": "última versión actualizada el 13/08/2023",
             "stations": []
 	}, 
 	
@@ -80,10 +80,9 @@
              		"userAgent" : ""
 	 	}, {
 		  	"name": "Canal 1",
-			"info": "ip | 51.22",
+			"info": "",
 		   	"image": "https://i.ibb.co/HHL04RY/logo-vamos.png",
-			"url" : "http://51.222.154.193:80/live/346C0F77EDBDF396B9EF8A379964C00A/337813.m3u8",
-			"userAgent": ""
+			"url" : ""
 		  }, {
 			"name": "Canal 2",
 			"info": "exer-opth | 1str",
@@ -714,7 +713,7 @@
 			}, {
 		"name": "Canal 10",
 	   	"image": "https://i.ibb.co/vhNCnrq/DAZN-2-Logo-Sin-Fondo.webp",
-	   	"url":"http://51.178.36.235:49214/DAZN_2/hls/playlist.m3u8",
+	   	"url" : "https://sportskart.click/embed/stream-546.php",
 	   	"userAgent" : ""
 	 		}, {
 			   "name": "Canal 11",
@@ -954,8 +953,9 @@
 				"name": "Canal 1",
 				"info": "Fijo: M+ | fgnh",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				"url": "https://hd.ucplay2.com/fgvsg556hcfgnh",
-				"isHost": "true"
+				"url": "https://abolishstand.net/embed/bpnl5io93two",
+			   	"referer": "https://nopay.info/",
+             			"isHost": "true"
 			}, {
 				 "name": "Canal 2",
 				 "info": "Fijo: DAZN | abolish - ydd4",
@@ -1019,8 +1019,7 @@
 					}, {
 							"name": "Canal 11",
 							"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-							 "url": "https://wecast.to/badir1.php?stream=7ewaSvmPz0Bs",
-							"referer" : "https://soccerstream100.co/",
+							 "url": "https://sportskart.click/embed/stream-538.php",
 							 "isHost": "true"
 							 }, {
 							"name": "Canal 12",
@@ -1071,9 +1070,10 @@
 				"isHost" : "true" 
 					 }, {
 				"name": "Canal 20",
+				"info": "abol-xfkc2 | 1str",
 		   		"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-			   	"url" :  "https://hoca4u.com/footy.php?player=desktop&live=ufeed061",
-				"referer" : "https://www.streamonsport2.sbs/",
+			   	"url" :  "https://abolishstand.net/embed/xfkc2i",
+				"referer" : "https://1stream.buzz/",
 			 	"isHost":"true"
 			 }, {
 				"name": "Canal 21",
@@ -1113,7 +1113,7 @@
 			}, {
 				"name": "Canal 27",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				"url" : "https://sportskart.click/embed/stream-84.php",
+				"url" : "https://sportskart.click/embed/stream-448.php",
 				 "isHost": "true" 
 			}, {
 				"name": "Canal 28",
@@ -1209,11 +1209,10 @@
 				   "isHost": "true"
 			 }, {
 				"name": "Canal 42",
-				"info": "bpnl5",
+				"info": "",
 			   	"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-			   	"url": "https://abolishstand.net/embed/bpnl5io93two",
-			   	"referer": "https://nopay.info/",
-             			"isHost": "true"
+			   	"url": "https://hd.ucplay2.com/fgvsg556hcfgnh",
+				"isHost": "true"
 			}, {
 	             		"name": "Canal 43",
                     		"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
@@ -1410,7 +1409,7 @@
                  		"isHost": "true"
 			}, { 
                  		"name": "Canal 76",
-				"info": "",
+				"info": "wecazt",
                     		"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
                       		"url" :  "https://wecazt.com/popy.php?stream=YJ8krnYwZrR",
 			  	"referer" : "https://livetvstream.pro/",
@@ -1471,24 +1470,25 @@
 		"info": "",
 		"stations": [{
 					"name": "Canal 1",
-					"info": "pyxs8u",
+					"info": "candle | av8q3",
 					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
-					 "url": "https://unbiasedsenseevent.com/embed/pyxs8u5a6hp",
-					"referer": "https://l1l1.to/",
-					 "isHost": "true"  
+					"url" :  "https://candlesouth.net/embed/av8q3fwxcb",
+					"referer" : "https://l1l1.to/",
+					"isHost": "true"  
 				  }, {
 					"name": "Canal 2",
-					"info": "exer-xfkc2i | strmons",
+					"info": "",
 					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
-				   	"url" : "https://exerciseexercise.net/embed/xfkc2i",
-					"referer" : "https://streamonsport.ru/",
-					 "isHost": "true"
+				   	"url": "",
+           				"referer": "",
+					 "isHost": "false"
 				   }, {
 					"name": "Canal 3",
+					"info": "wecazt",
 					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
-					"url" : "https://exerciseexercise.net/embed/opthng68di66m",
-					   "referer" : "https://streamonsport44.buzz/",
-					  "isHost" : "true"
+					"url": "https://wecazt.com/popy.php?stream=CJ9AwYimdyUo",
+           				"referer": "https://livetvstream.pro/",
+           				"isHost" : "true"
 					   }, {
 					"name": "Canal 4",
 					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
@@ -1552,9 +1552,9 @@
 				}, {
 					"name": "Canal 14",
 					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
-					"url" : "https://wecazt.com/badir1/hIER0xdlRlY",
-              				"referer" : "https://soccerstream100.co/",
-           				"isHost" : "true"
+					"url" : "https://exerciseexercise.net/embed/opthng68di66m",
+				   	"referer" : "https://streamonsport44.buzz/",
+				  	"isHost" : "true"
 				}, {
 					"name": "Canal 15",
 					"info": "52g8nn",
@@ -1616,19 +1616,32 @@
 					"url" : "https://assia25.com/live/superliga/?lang=pl",
 					 "isHost": "true"
 			  	}, {
-					  "name": "Canal 25",
-					   "info": "ip | 45.90",
+					   "name": "Canal 25",
+					   "info": "",
 					   "image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
-					   "url":"http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/69962",
-					   "userAgent" : ""
+					   "url": "https://sportskart.click/embed/stream-539.php",
+					   "isHost": "true"
 				}, { 
-                 		"name": "Canal 26",
-				"info": "candle | av8q3",
-                    		"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
-                      		"url" :  "https://candlesouth.net/embed/av8q3fwxcb",
-				"referer" : "https://l1l1.to/",
-                 		"isHost": "true"
-				}]
+                 				"name": "Canal 26",
+						"info": "pyxs8u",
+						"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
+					 	"url": "https://unbiasedsenseevent.com/embed/pyxs8u5a6hp",
+						"referer": "https://l1l1.to/",
+					 	"isHost": "true"
+				}, { 
+                 				"name": "Canal 27",
+						"info": "assia25",
+                    				"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
+                      				"url": "https://assia25.com/live/livestream/?lang=",
+                 				"isHost": "true"
+				}, {
+					"name": "Canal 28",
+					"info": "exer-xfkc2i | strmons",
+					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
+				   	"url" : "https://exerciseexercise.net/embed/xfkc2i",
+					"referer" : "https://streamonsport.ru/",
+					 "isHost": "true"
+			   	}]
                       }, {
 						"name": "Premier League",
 						"image": "https://i.ibb.co/bvcpXFG/logo-Premier-League.png",
@@ -1732,7 +1745,7 @@
 						  }, {
 							"name": "Canal 5",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-							 "url": "https://vikistream.com/embed2.php?player=desktop&live=do19",
+							 "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do19",
 							"referer": "https://l1l1.to/",
 							 "isHost": "true"
 					   }, {
@@ -2040,7 +2053,7 @@
 				"name": "Canal 4",
 				"info": "af34f",
 				"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-				  "url": "https://fractionhostile.net/embed/af34f3lsimxj",
+				  "url": "https://abolishstand.net/embed/40ltfs8ms26hmy",
 				  "referer" : "https://elixx.xyz/",
 				"isHost":"true"
 						}, {
@@ -2177,6 +2190,13 @@
 			   	"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
 			   	"url": "https://abolishstand.net/embed/fxf2qstg",
 				"referer": "https://elixx.xyz/",
+			   	"isHost" : "true" 
+			}, {
+				"name": "Canal 26",
+				"info": "candl | swdrs",
+			   	"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
+			   	"url": "https://candlesouth.net/embed/swdrsibexfxe5wj",
+				"referer": "https://l1l1.to/",
 			   	"isHost" : "true" 
 			}]
 		}, {
