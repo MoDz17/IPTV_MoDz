@@ -35,9 +35,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 24/08/2023",
+             "name": "Ultm. versión 26/08/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 24/08/2023",
+            "info": "última versión actualizada el 26/08/2023",
             "stations": []
 	}, 
 	
@@ -3068,8 +3068,8 @@
 								},{
 							 "name": "Canal 3",
 							"image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
-						   "url": "https://markkystreams.com/video/mma/",
-						 "isHost": "true"
+						   	"url": "https://markkystreams.com/video/mma/",
+						 	"isHost": "true"
 							},{ 
 							 "name": "Canal 4",
 							 "info": "ilxvi5",
@@ -3149,7 +3149,7 @@
 							"info": "xdpq3",
 							"image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
 						  	"url": "https://candlesouth.net/embed/xdpq3ptcuts1qpp",
-            						"referer" : "https://elixx.xyz/",
+            						"referer" : "https://l1l1.to/",
 						 	"isHost":"true"
 					}]
 					   }, {
@@ -3823,13 +3823,13 @@
 							"url":"https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8",
 							"userAgent" : ""
 		 			}, {
-							"name": "Eventos 1",
-							"image": "https://i.ibb.co/3MmnC3x/ETB1-logo.png",
+							"name": "ETB Eventos 1",
+							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
 							"url":"https://multimedia.eitb.eus/live-content/oka1hd-hls/master.m3u8",
 							"userAgent" : ""
 		 			}, {
-							"name": "Eventos 2",
-							"image": "https://i.ibb.co/gw8K3SP/ETB2-logo.png",
+							"name": "ETB Eventos 2",
+							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
 							"url":"https://multimedia.eitb.eus/live-content/oka2hd-hls/master.m3u8",
 							"userAgent" : ""
 		 			}, {
@@ -3906,16 +3906,66 @@
 							"userAgent": ""
              				}]
 		}, {
-			"name": "Eventos",
+		   "name": "Eventos",
 		   "image": "https://i.ibb.co/s2Kbx9R/calendario-2023.png",
 		   "info": "",
-		   "stations": [{
+		   "stations": [
+
+		{
+			"name": "Cancha 1",
+			"image": "https://i.ibb.co/934pf1s/Mundial-Basket.jpg",
+			 "url": "https://abolishstand.net/embed/cj43emy3yok2h6",
+              		"referer": "https://nopay.info/",
+             		"isHost": "true"
+	   	}, {
+			"name": "Cancha 2",
+			"image": "https://i.ibb.co/934pf1s/Mundial-Basket.jpg",
+			 "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do19",
+              		"referer": "https://s2watch.link/",
+             		"isHost": "true"
+	   	}, {
+			"name": "Cancha 3",
+			"image": "https://i.ibb.co/934pf1s/Mundial-Basket.jpg",
+			 "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do24",
+              		"referer": "https://s2watch.link/",
+             		"isHost": "true"
+	   	}, {
+			"name": "Cancha 4",
+			"image": "https://i.ibb.co/934pf1s/Mundial-Basket.jpg",
+			 "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do25",
+              		"referer": "https://s2watch.link/",
+             		"isHost": "true"
+	   	}, {
+			"name": "Cancha 5",
+			"image": "https://i.ibb.co/934pf1s/Mundial-Basket.jpg",
+			 "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do26",
+              		"referer": "https://s2watch.link/",
+             		"isHost": "true"
+	   	}, {
+			"name": "Cancha 6",
+			"image": "https://i.ibb.co/934pf1s/Mundial-Basket.jpg",
+			 "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do36",
+              		"referer": "https://s2watch.link/",
+             		"isHost": "true"
+	   	}, {
+			"name": "Cancha 7",
+			"image": "https://i.ibb.co/934pf1s/Mundial-Basket.jpg",
+			 "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do9",
+              		"referer": "https://s2watch.link/",
+             		"isHost": "true"
+	   	}, {
+			"name": "Cancha 8",
+			"image": "https://i.ibb.co/934pf1s/Mundial-Basket.jpg",
+			 "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do23",
+              		"referer": "https://s2watch.link/",
+             		"isHost": "true"
+	   	}, {
 			"name": "Canal 1",
 			"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
 			 "url": "https://utopianwilderness.com/embed/a2x9fkk75ru",
               		"referer": "https://starlive.xyz/",
              		"isHost": "true"
-		   }, {
+	   	}, {
 			"name": "Canal 2",
 			"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
 			 "url": "https://utopianwilderness.com/embed/52a2x9fkk75ru",
@@ -4747,7 +4797,8 @@
 								"url": "https://www.futboltv.info/competicion/champions-league",
 								"embed": "true"
 								}, {
-								"name": "Champions League F",
+								"name": "Champions League",
+								"info": "Femenina",
 								"image": "https://i.ibb.co/QXw2WyV/Logo-UWCL.jpg",
 								"url": "https://www.futboltv.info/competicion/womens-champions-league",
 								"embed": "true"
