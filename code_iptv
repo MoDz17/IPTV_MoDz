@@ -2518,10 +2518,12 @@
 								"referer": "https://starlive.xyz/",
 								   "isHost": "true"
 							   }, {
-									"name": "Canal 5",
-								  "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-								"url" : "https://embx207272.apl197.me/player/live.php?id=207272&w=100%&h=100%",
-								  "userAgent": "true"  
+								"name": "Canal 5",
+								"info": "php",
+							  	"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+							 	"url": "https://www.player.tutelehd5.xyz/onlinemo.php?a=40263",
+                   						"referer" : "https://l1l1.to/",
+                    						"isHost": "true"  
 							  }, {
 								"name": "Canal 6",
 								  "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
@@ -4165,7 +4167,7 @@
 	     	}, {
 		    	"name": "Canal 35",
 			"info": "8g61v",
-			"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
+			"image": "https://media.ambito.com/p/8c558170ccdeba54e6e181312feb2cbc/adjuntos/239/imagenes/040/757/0040757757/inter-miami-logo.jpg",
 			"url" : "https://abolishstand.net/embed/8g61vpl9j92h0kv",
 			"referer" : "https://buzztv.futbol/",
              		"isHost": "true" 
@@ -4178,13 +4180,20 @@
              		"isHost": "true" 
 	     	}, {
 		    	"name": "Canal 37",
+			"info": "edl8z",
+			"image": "https://media.ambito.com/p/8c558170ccdeba54e6e181312feb2cbc/adjuntos/239/imagenes/040/757/0040757757/inter-miami-logo.jpg",
+			"url": "https://abolishstand.net/embed/edl8ze",
+			"referer": "https://1stream.buzz/",
+             		"isHost": "true" 
+	     	}, {
+		    	"name": "Canal 38",
 			"info": "eoq4q",
 			"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
 			"url": "https://candlesouth.net/embed/eoq4qqpn",
 			"referer": "https://l1l1.to/",
              		"isHost": "true" 
 	     	}, {
-		    	"name": "Canal 38",
+		    	"name": "Canal 39",
 			"info": "99df7",
 			"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
 			"url": "https://candlesouth.net/embed/99df7g4",
