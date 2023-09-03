@@ -35,9 +35,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 31/08/2023",
+             "name": "Ultm. versión 03/09/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 31/08/2023",
+            "info": "última versión actualizada el 03/09/2023",
             "stations": []
 	}, 
 	
@@ -405,49 +405,15 @@
 			 	"isHost": "true"
 			 }, {
 				"name": "Canal 5",
-	   			"image": "https://i.ibb.co/4NvkCVR/logo-deportes.png",
-	   			"url":"",
-	   			"userAgent" : ""
-	 		}, {
-			"name": "Canal 6",
-			"info": "minafire",
-			"image": "https://i.ibb.co/4NvkCVR/logo-deportes.png",
-			"url":"http://minafire.com:8080/live/BonIzCKME7/zPHE7oQejS/1101.m3u8",
-			"userAgent" : ""
-		 	}, {
-			"name": "Canal 7",
-			"info": "ip | 51.22",
-			"image": "https://i.ibb.co/4NvkCVR/logo-deportes.png",
-		 	"url": "http://51.222.154.193:80/live/346C0F77EDBDF396B9EF8A379964C00A/323623.m3u8",
-			"userAgent": ""
-	  		}, {
-			"name": "Canal 8",
-			"image": "https://i.ibb.co/4NvkCVR/logo-deportes.png",
-			"url":"https://daddy.yurendtv.biz.id/https://ddy6.onlinewebtv.lol:443/ddy6/premium436/tracks-v1a1/mono.m3u8",
-			"userAgent" : ""
+				"image": "https://i.ibb.co/4NvkCVR/logo-deportes.png",
+				"url":"https://daddy.yurendtv.biz.id/https://ddy6.onlinewebtv.lol:443/ddy6/premium436/tracks-v1a1/mono.m3u8",
+				"userAgent" : ""
 			 }, {
-			"name": "Canal 9",
-			"image": "https://i.ibb.co/4NvkCVR/logo-deportes.png",
-		 	"url": "https://embx211818.apl240.me/player/live.php?id=211818&w=100%&h=100%",
-			"isHost": "true"
-	  		}, {
-				   "name": "Canal 10",
-				   "info": "php",
-				   "image": "https://i.ibb.co/4NvkCVR/logo-deportes.png",
-				   "url":"https://sportskart.click/embed/stream-436.php",
-				   "isHost" : "true"
-			}, {
-				   "name": "Canal 11",
-				   "info": "tv.onplas",
-				   "image": "https://i.ibb.co/4NvkCVR/logo-deportes.png",
-				   "url":"http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117138",
-				   "userAgent" : ""
-			}, {
-				   "name": "Canal 12",
-				   "info": "tv.onplas",
-				   "image": "https://i.ibb.co/4NvkCVR/logo-deportes.png",
-				   "url":"http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117139",
-				   "userAgent" : ""
+			   	"name": "Canal 6",
+			   	"info": "php",
+			   	"image": "https://i.ibb.co/4NvkCVR/logo-deportes.png",
+			   	"url":"https://sportskart.click/embed/stream-436.php",
+			   	"isHost" : "true"
 			}, {
 			"name": "Canal 1",
 			"info": "php",
@@ -541,7 +507,7 @@
 				 }, {
 	   		"name": "Canal 5",
 			   "image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-			"url": "https://vikistream.com/embed2.php?player=desktop&live=do23",
+			"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do23",
 			"referer": "https://l1l1.to/",
 			"isHost": "true"
 	}, {
@@ -614,13 +580,13 @@
 		 	}, {
 				"name": "Canal 17",
 				"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-				"url" : "https://vikistream.com/embed2.php?player=desktop&live=do33",
+				"url" : "https://jewelavid.com/jwembed.php?player=desktop&live=do33",
 	 			"referer": "https://l1l1.to/",
 	 			"isHost": "true"  
  			}, {
 				"name": "Canal 18",
 				"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-				"url" : "https://vikistream.com/embed2.php?player=desktop&live=do34",
+				"url" : "https://jewelavid.com/jwembed.php?player=desktop&live=do34",
 	 			"referer": "https://l1l1.to/",
 	 			"isHost": "true"  
  			}, {
@@ -635,9 +601,9 @@
 	 			"isHost": "true"  
  			}, {
 				"name": "Canal 21",
-				"info": "jwpz3",
+				"info": "tutelehd5",
 			   	"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-			   	"url": "https://candlesouth.net/embed/jwpz3ec0iqz",
+			   	"url": "https://www.player.tutelehd5.xyz/onlinemo.php?a=40281",
                        		"referer" : "https://l1l1.to/",
 				"isHost": "true"
 			}, {
@@ -662,7 +628,7 @@
 			   },{ 
 			"name": "Canal 2",
 		   	"image": "https://i.ibb.co/vhNCnrq/DAZN-2-Logo-Sin-Fondo.webp",
-		 	"url": "https://vikistream.com/embed2.php?player=desktop&live=do2",
+		 	"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do2",
 			"referer": "https://l1l1.to/",
 			"isHost": "true"
 			   },{ 
@@ -673,7 +639,7 @@
 		  },{ 
 				"name": "Canal 4",
 			   	"image": "https://i.ibb.co/vhNCnrq/DAZN-2-Logo-Sin-Fondo.webp",
-			  	"url": "https://vikistream.com/embed2.php?player=desktop&live=do9",
+			  	"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do9",
 				"referer": "https://l1l1.to/",
 				"isHost": "true"
 	   	},{ 
@@ -686,7 +652,7 @@
 		}, {
 			"name": "Canal 6",
 			"image": "https://i.ibb.co/vhNCnrq/DAZN-2-Logo-Sin-Fondo.webp",
-			 "url": "https://vikistream.com/embed2.php?player=desktop&live=do25",
+			 "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do25",
 			"referer": "https://l1l1.to/",
 			 "isHost": "true"
 			}, {
@@ -789,7 +755,7 @@
 		 		}, {
 			   		"name": "Canal 11",
 			   		"image": "https://i.ibb.co/p1Ry56w/DAZN-3-Logo-Sin-Fondo.png",
-					"url": "https://vikistream.com/embed2.php?player=desktop&live=do32",
+					"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do32",
 			   		"referer" : "https://l1l1.to/",
 			   		"isHost":"true"
 				  }, {
@@ -812,7 +778,7 @@
 		  },{ 
 			"name": "Canal 2",
 			   "image": "https://i.ibb.co/LQy2rM6/DAZN-4-Logo-Sin-Fondo.png",
-		 "url": "https://vikistream.com/embed2.php?player=desktop&live=do36",
+		 "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do36",
 			"referer": "https://l1l1.to/",
 		"isHost": "true"  
 		 },{ 
@@ -841,7 +807,7 @@
 	 }, {
 	"name": "Canal 7",
 	"image": "https://i.ibb.co/LQy2rM6/DAZN-4-Logo-Sin-Fondo.png",
-	"url": "https://vikistream.com/embed2.php?player=desktop&live=do30",
+	"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do30",
 	"referer": "https://l1l1.to/",
 	 "isHost": "true"  
 	 }, {
@@ -952,11 +918,11 @@
 		[
 			{
 				"name": "Canal 1",
-				"info": "Fijo: M+ | abol-bpnl5",
+				"info": "Fijo: M+ | wecazt",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				"url": "https://abolishstand.net/embed/bpnl5io93two",
-			   	"referer": "https://nopay.info/",
-             			"isHost": "true"
+				"url" :  "https://wecazt.com/popy.php?stream=4eLyr2RZq7v",
+				"referer" : "https://livetvstream.pro/",
+			 	"isHost":"true"
 			}, {
 				 "name": "Canal 2",
 				 "info": "Fijo: DAZN | wecazt",
@@ -964,14 +930,14 @@
                       		 "url" :  "https://wecazt.com/popy.php?stream=YJ8krnYwZrR",
 			  	 "referer" : "https://livetvstream.pro/",
                  		 "isHost": "true"
-					 }, {
+			 }, {
 				"name": "Canal 3",
 				"info": "ktpqv",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
 				"url" : "https://utopianwilderness.com/embed/ktpqv1iq2",
 				 "referer": "https://starlive.xyz/",
 				 "isHost": "true"  
-						 }, {
+			 }, {
 				"name": "Canal 4",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
 				"url": "https://unbiasedsenseevent.com/embed/df7nk3qyxpu1vx",
@@ -1007,7 +973,7 @@
 					 }, {
 							"name": "Canal 9",
 							   "image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-							  "url" : "https://vikistream.com/embed2.php?player=desktop&live=do40",
+							  "url" : "https://jewelavid.com/jwembed.php?player=desktop&live=do40",
 							 "referer": "https://l1l1.to/",
 							"isHost": "true"
 					  }, {
@@ -1071,18 +1037,18 @@
 				"isHost" : "true" 
 					 }, {
 				"name": "Canal 20",
-				"info": "null",
+				"info": "tutelehd5",
 		   		"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-			   	"url" :  "",
-				"referer" : "",
-			 	"isHost":"false"
+			   	"url": "https://www.player.tutelehd5.xyz/onlinemo.php?a=40296",
+				"referer": "https://l1l1.to/",
+			 	"isHost":"true"
 			 }, {
 				"name": "Canal 21",
-				"info": "wecazt",
+				"info": "null",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				"url" :  "https://wecazt.com/popy.php?stream=4eLyr2RZq7v",
-				"referer" : "https://livetvstream.pro/",
-			 	"isHost":"true"
+				"url" :  "",
+				"referer" : "",
+			 	"isHost":"false"
 			 }, {
 				"name": "Canal 22",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
@@ -1152,22 +1118,22 @@
 				   "isHost": "true"
 			 }, {
 				   "name": "Canal 33",
-				"info": "um6txc",
+				"info": "abol-um6tx | 1str",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				 "url" : "https://exerciseexercise.net/embed/um6txc0v4k7ji8o",
+				 "url" : "https://abolishstand.net/embed/um6txc0v4k7ji8o",
 				   "referer": "https://1stream.buzz/",
 				   "isHost": "true"
 			 }, {
 				   "name": "Canal 34",
-				"info": "brxaybp",
+				"info": "abol-brxay | 1str",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				 "url" : "https://exerciseexercise.net/embed/brxaybp",
+				 "url" : "https://abolishstand.net/embed/brxaybp",
 				   "referer": "https://1stream.buzz/",
 				   "isHost": "true"
 			 }, {
 				   "name": "Canal 35",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				 "url" : "https://vikistream.com/embed2.php?player=desktop&live=do29",
+				 "url" : "https://jewelavid.com/jwembed.php?player=desktop&live=do29",
 				   "referer": "https://l1l1.to/",
 				   "isHost": "true"
 			 }, {
@@ -1178,9 +1144,9 @@
 				"userAgent": ""
 			 }, {
 				   "name": "Canal 37",
-				"info": "hsg7m6",
+				"info": "abol-hsg7m | 1str",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				 "url" : "https://exerciseexercise.net/embed/hsg7m6kb0fse",
+				 "url" : "https://abolishstand.net/embed/hsg7m6kb0fse",
 				   "referer": "https://1stream.buzz/",
 				   "isHost": "true"
 			 }, {
@@ -1192,16 +1158,16 @@
 				"isHost": "true"
 			 }, {
 				   "name": "Canal 39",
-				"info": "exer-tqhqq | 1str",
+				"info": "abol-tqhqq | 1str",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				 "url" : "https://exerciseexercise.net/embed/tqhqq",
+				 "url" : "https://abolishstand.net/embed/tqhqq",
 				   "referer": "https://1stream.buzz/",
 				   "isHost": "true"
 			 }, {
 				   "name": "Canal 40",
-				"info": "exer-2tdbm | 1str",
+				"info": "abol-2tdbm | 1str",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				 "url" : "https://exerciseexercise.net/embed/2tdbm0ikkct3271",
+				 "url" : "https://abolishstand.net/embed/2tdbm0ikkct3271",
 				   "referer": "https://1stream.buzz/",
 				   "isHost": "true"
 			 }, {
@@ -1225,7 +1191,7 @@
                 		 "name": "Canal 44",
 				"info": "ucplay2",
                     		"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-                		"url": "https://hd.ucplay2.com/gdfhgfh4ocean",
+                		"url": "https://hd.ucplay2.com/dfghdf1gfch",
              			"isHost": "true"
                     	}, { 
                  		"name": "Canal 45",
@@ -1475,11 +1441,11 @@
 		"info": "",
 		"stations": [{
 					"name": "Canal 1",
-					"info": "candle | av8q3",
+					"info": "abol-opthn | 1str",
 					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
-					"url" :  "https://candlesouth.net/embed/av8q3fwxcb",
-					"referer" : "https://l1l1.to/",
-					"isHost": "true"  
+					"url" :  "https://abolishstand.net/embed/opthng68di66m",
+					"referer" : "https://1stream.buzz/",
+           				"isHost" : "true"  
 				  }, {
 					"name": "Canal 2",
 					"info": "abol-xfkc2i | 1str",
@@ -1532,125 +1498,111 @@
            				"isHost" : "true"
 				}, {
 					"name": "Canal 10",
-					"info": "abol-opthn | 1str",
-					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
-					"url" :  "https://abolishstand.net/embed/opthng68di66m",
-					"referer" : "https://1stream.buzz/",
-           				"isHost" : "true"
-				}, {
-					"name": "Canal 11",
 					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
 					"url" : "https://unbiasedsenseevent.com/embed/3mb8fn",
               				"referer": "https://l1l1.to/",
            				"isHost" : "true"
 				}, {
-					"name": "Canal 12",
+					"name": "Canal 11",
 					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
-					"url" : "https://vikistream.com/embed2.php?player=desktop&live=do21",
+					"url" : "https://jewelavid.com/jwembed.php?player=desktop&live=do21",
               				"referer": "https://l1l1.to/",
            				"isHost" : "true"
 				}, {
-					"name": "Canal 13",
+					"name": "Canal 12",
 					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
 					"url" : "https://unbiasedsenseevent.com/embed/2k2kr220ol6yr6i",
               				"referer": "https://l1l1.to/",
            				"isHost" : "true"
 				}, {
-					"name": "Canal 14",
+					"name": "Canal 13",
 					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
 					"url" : "https://exerciseexercise.net/embed/opthng68di66m",
 				   	"referer" : "https://streamonsport44.buzz/",
 				  	"isHost" : "true"
 				}, {
-					"name": "Canal 15",
+					"name": "Canal 14",
 					"info": "abol-52g8n | 1str",
 					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
 					"url" : "https://abolishstand.net/embed/52g8nnqi37bly6",
 			 		"referer": "https://1stream.buzz/",
            				"isHost" : "true"
 				}, {
-					"name": "Canal 16",
+					"name": "Canal 15",
 					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
 					"url" : "https://voraciousglove.net/embed/xfkc2i",
 			 		"referer": "https://1stream.buzz/",
            				"isHost" : "true"
 				}, {
-					"name": "Canal 17",
+					"name": "Canal 16",
 					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
 					"url" : "https://voraciousglove.net/embed/52g8nnqi37bly6",
 			 		"referer": "https://1stream.buzz/",
            				"isHost" : "true"
 				}, {
-					"name": "Canal 18",
+					"name": "Canal 17",
 					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
 					"url" : "https://voraciousglove.net/embed/hsg7m6kb0fse",
 			 		"referer": "https://1stream.buzz/",
            				"isHost" : "true"
 				}, {
-					"name": "Canal 19",
+					"name": "Canal 18",
 					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
 					"url" : "https://voraciousglove.net/embed/gaes7rdnbknd",
 			 		"referer": "https://1stream.buzz/",
            				"isHost" : "true"
 				}, {
-					"name": "Canal 20",
+					"name": "Canal 19",
 					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
 					"url" : "https://voraciousglove.net/embed/brxaybp",
 			 		"referer": "https://1stream.buzz/",
            				"isHost" : "true"
 				}, {
-					"name": "Canal 21",
+					"name": "Canal 20",
 					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
 					"url" : "https://voraciousglove.net/embed/77ta7nageht5ho",
 			 		"referer": "https://1stream.buzz/",
            				"isHost" : "true"
 				}, {
-					"name": "Canal 22",
+					"name": "Canal 21",
 					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
 					"url" : "https://voraciousglove.net/embed/opthng68di66m",
 			 		"referer": "https://1stream.buzz/",
            				"isHost" : "true"
 				}, {
-					"name": "Canal 23",
+					"name": "Canal 22",
 					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
-					"url" : "https://vikistream.com/embed2.php?player=desktop&live=do30",
+					"url" : "https://jewelavid.com/jwembed.php?player=desktop&live=do30",
 			 		"referer": "https://l1l1.to/",
 					 "isHost": "true"
 			  	}, {
-					"name": "Canal 24",
+					"name": "Canal 23",
 					"info": "wecazt",
 					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
 					"url": "https://wecazt.com/badir1/hIER0xdlRlY",
                				"referer" : "https://soccerstream100.co/",
 			 		"isHost": "true"
 			  	}, {
-					   "name": "Canal 25",
-					   "info": "",
+					   "name": "Canal 24",
+					   "info": "php",
 					   "image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
 					   "url": "https://sportskart.click/embed/stream-539.php",
 					   "isHost": "true"
 				}, { 
-                 				"name": "Canal 26",
-						"info": "pyxs8u",
+                 				"name": "Canal 25",
+						"info": "abol-pyxs8 | 1str",
 						"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
-					 	"url": "https://unbiasedsenseevent.com/embed/pyxs8u5a6hp",
-						"referer": "https://l1l1.to/",
+					 	"url": "https://abolishstand.net/embed/pyxs8u5a6hp",
+						"referer": "https://1stream.buzz/",
 					 	"isHost": "true"
 				}, { 
-                 				"name": "Canal 27",
+                 				"name": "Canal 26",
 						"info": "candle | av8q3",
                     				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
                       				"url" :  "https://candlesouth.net/embed/av8q3fwxcb",
 						"referer" : "https://l1l1.to/",
                  				"isHost": "true"
-				}, {
-					"name": "Canal 28",
-					"info": "exer-xfkc2i | strmons",
-					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
-				   	"url" : "https://exerciseexercise.net/embed/xfkc2i",
-					"referer" : "https://streamonsport.ru/",
-					 "isHost": "true"
-			   	}]
+				}]
                       }, {
 						"name": "Premier League",
 						"image": "https://i.ibb.co/bvcpXFG/logo-Premier-League.png",
@@ -1665,11 +1617,11 @@
 							"isHost" : "true"
 						}, {
 							"name": "Canal 2",
-							"info": "null",
+							"info": "tutelehd5",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-							"url":"",
-							"referer" : "",
-							"isHost" : "false"
+							"url": "https://www.player.tutelehd5.xyz/onlinemo.php?a=40286",
+                       					"referer" : "https://l1l1.to/",
+							"isHost" : "true"
 					        }, {
 							"name": "Canal 3",
 							"info": "null",
@@ -1680,7 +1632,7 @@
 						}, {
 							"name": "Canal 4",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-					   		"url": "https://vikistream.com/embed2.php?player=desktop&live=do10",
+					   		"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do10",
 							"referer": "https://1l1l.to/",
 							"isHost": "true"
 						}, {
@@ -1705,19 +1657,19 @@
 						}, {
 							"name": "Canal 8",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-					   		"url": "https://vikistream.com/embed2.php?player=desktop&live=do34",
+					   		"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do34",
 							  "referer": "https://1l1l.to/",
 							 "isHost": "true"
 						}, {
 							"name": "Canal 9",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-					   		"url": "https://vikistream.com/embed2.php?player=desktop&live=do20",
+					   		"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do20",
 							  "referer": "https://1l1l.to/",
 							 "isHost": "true"
 						}, {
 							"name": "Canal 10",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-					   		"url": "https://vikistream.com/embed2.php?player=desktop&live=do35",
+					   		"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do35",
 							  "referer": "https://1l1l.to/",
 							 "isHost": "true"
 						}, {
@@ -1756,7 +1708,7 @@
 						"stations": [{
 							 "name": "Canal 1",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-							"url": "https://vikistream.com/embed2.php?player=desktop&live=do7",
+							"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do7",
 							"referer": "https://l1l1.to/",
 							"isHost" : "true"
 						}, {
@@ -1773,7 +1725,7 @@
 						 }, {
 							"name": "Canal 4",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-						 	"url": "https://vikistream.com/embed2.php?player=desktop&live=do15",
+						 	"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do15",
 							"referer": "https://l1l1.to/",
 							 "isHost": "true"
 						  }, {
@@ -1791,37 +1743,37 @@
 						  }, {
 							"name": "Canal 7",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-							"url": "https://vikistream.com/embed2.php?player=desktop&live=do13",
+							"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do13",
 							"referer" : "https://l1l1.to/",
 							 "isHost": "true"
 						   }, {
 							"name": "Canal 8",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-							"url": "https://vikistream.com/embed2.php?player=desktop&live=do14",
+							"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do14",
 							"referer" : "https://l1l1.to/",
 							 "isHost": "true"
 						}, {
 							"name": "Canal 9",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-							"url": "https://vikistream.com/embed2.php?player=desktop&live=do14",
+							"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do14",
 							"referer" : "https://l1l1.to/",
 							 "isHost": "true"
 						}, {
 							"name": "Canal 10",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-							"url": "https://vikistream.com/embed2.php?player=desktop&live=do16",
+							"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do16",
 							"referer" : "https://l1l1.to/",
 							 "isHost": "true"
 						}, {
 							"name": "Canal 11",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-							"url": "https://vikistream.com/embed2.php?player=desktop&live=do12",
+							"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do12",
 							"referer" : "https://l1l1.to/",
 							 "isHost": "true"
 						}, {
 							"name": "Canal 12",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-							"url": "https://vikistream.com/embed2.php?player=desktop&live=do11",
+							"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do11",
 							"referer" : "https://l1l1.to/",
 							 "isHost": "true"
 						}, {
@@ -1834,7 +1786,7 @@
 						}, {
 							"name": "Canal 14",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-							"url": "https://vikistream.com/embed2.php?player=desktop&live=do17",
+							"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do17",
 							"referer" : "https://l1l1.to/",
 							 "isHost": "true"
 						}, {
@@ -1893,7 +1845,7 @@
 						 }, {
 							"name": "Canal 4",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-					  		"url": "https://vikistream.com/embed2.php?player=desktop&live=do30",
+					  		"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do30",
 							 "referer" : "https://1l1l.to/",
 							 "isHost": "true"
 						}, {
@@ -1923,7 +1875,7 @@
 						   }, {
 							"name": "Canal 9",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-							"url": "https://vikistream.com/embed2.php?player=desktop&live=do2",
+							"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do2",
 							"referer": "https://l1l1.to/",
 							 "isHost": "true"
 						}, {
@@ -1942,7 +1894,7 @@
 	       }, {
 			"name": "Canal 12",
 			"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-			"url": "https://vikistream.com/embed2.php?player=desktop&live=do37",
+			"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do37",
 			 "referer" : "https://1l1l.to/",
              "isHost": "true"
                 }, {
@@ -2035,7 +1987,7 @@
 			}, {
 				 "name": "Canal 28",
 			   "image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-			   "url":"https://vikistream.com/embed2.php?player=desktop&live=do3",
+			   "url":"https://jewelavid.com/jwembed.php?player=desktop&live=do3",
 			   "referer": "https://l1l1.to/",
 			   "isHost" : "true" 
 			}, {
@@ -2047,13 +1999,13 @@
 			}, {
 				 "name": "Canal 30",
 			   "image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-			   "url":"https://vikistream.com/embed2.php?player=desktop&live=do8",
+			   "url":"https://jewelavid.com/jwembed.php?player=desktop&live=do8",
 			   "referer": "https://l1l1.to/",
 			   "isHost" : "true" 
 			}, {
 				 "name": "Canal 31",
 			   "image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-			   "url":"https://vikistream.com/embed2.php?player=desktop&live=do2",
+			   "url":"https://jewelavid.com/jwembed.php?player=desktop&live=do2",
 			   "referer": "https://l1l1.to/",
 			   "isHost" : "true" 
 			}, {
@@ -2082,13 +2034,13 @@
 			}, {
 				"name": "Canal 2",
 				"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-				 "url": "https://vikistream.com/embed2.php?player=desktop&live=do37",
+				 "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do37",
 				"referer": "https://l1l1.to/",
 				 "isHost": "true"
 			}, {
 				"name": "Canal 3",
 				"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-		   		"url": "https://vikistream.com/embed2.php?player=desktop&live=do28",
+		   		"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do28",
 				"referer": "https://l1l1.to/",
 				 "isHost": "true"
 			}, {
@@ -2101,7 +2053,7 @@
 						}, {
 				"name": "Canal 5",
 				"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-				"url": "https://vikistream.com/embed2.php?player=desktop&live=do38",
+				"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do38",
 				"referer": "https://l1l1.to/",
 				 "isHost": "true"
 			}, {
@@ -2113,7 +2065,7 @@
 				 }, {
 				"name": "Canal 7",
 				"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-		   		"url": "https://vikistream.com/embed2.php?player=desktop&live=do22",
+		   		"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do22",
 				"referer": "https://l1l1.to/",
 				 "isHost": "true"
 			}, {
@@ -2132,19 +2084,19 @@
 			}, {
 				"name": "Canal 10",
 				"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-				 "url": "https://vikistream.com/embed2.php?player=desktop&live=do6",
+				 "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do6",
 				"referer": "https://l1l1.to/",
 				 "isHost": "true"
 				 }, {
 				"name": "Canal 11",
 				"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-		   		"url": "https://vikistream.com/embed2.php?player=desktop&live=do7",
+		   		"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do7",
 				"referer": "https://l1l1.to/",
 				 "isHost": "true"
 				}, {
 				"name": "Canal 12",
 				"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-				"url": "https://vikistream.com/embed2.php?player=desktop&live=do38",
+				"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do38",
 				"referer": "https://l1l1.to/",
 				 "isHost": "true"
 			  }, {
@@ -2163,7 +2115,7 @@
 			 }, {
 				 "name": "Canal 15",
 			   	"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-			   	"url":"https://vikistream.com/embed2.php?player=desktop&live=do3",
+			   	"url":"https://jewelavid.com/jwembed.php?player=desktop&live=do3",
 			   	"referer": "https://l1l1.to/",
 			   	"isHost" : "true" 
 			}, {
@@ -2447,7 +2399,7 @@
 								  },{
 								 "name": "Canal 8",
 								"image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
-							  	"url": "https://vikistream.com/embed2.php?player=desktop&live=do22",
+							  	"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do22",
 								"referer": "https://l1l1.to/",
 						 		"isHost": "true"
 						 },{
@@ -2585,7 +2537,7 @@
 							}, {
 								  "name": "Canal 15",
 								  "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-								  "url" : "https://vikistream.com/embed2.php?player=desktop&live=do10",
+								  "url" : "https://jewelavid.com/jwembed.php?player=desktop&live=do10",
 								  "referer": "https://l1l1.to/",
 								  "isHost": "true"
 						   	}, {
@@ -2595,9 +2547,11 @@
 								"userAgent" : ""
 							 }, {
 								"name": "Canal 17",
+								"info": "do10-cdn2",
 								"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-								"url":"http://212.224.84.254:2200/NL/daznf1hd-esp/index.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jne3Jo",
-								"userAgent" : ""
+								"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do10",
+								"referer": "https://s.cdn2.link/",
+             							"isHost": "true"
 							 }, {
 								  "name": "Canal 18",
 								  "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
@@ -2605,9 +2559,9 @@
 								  "isHost": "true"
 							  }, {
 								"name": "Canal 19",
-								"info": "null",
+								"info": "cdn1",
 							  	"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-								"url" : ""
+								"url" : "https://cdn1.link/ch10"
 							  }, {
 								"name": "Canal 20",
 						  		"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
@@ -2676,16 +2630,16 @@
 								"userAgent" : ""
 							  }, {
 								"name": "Canal 31",
-								"info": "cand-jwpz3",
+								"info": "tutelehd5",
 								"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-								"url": "https://candlesouth.net/embed/jwpz3ec0iqz",
+								"url": "https://www.player.tutelehd5.xyz/onlinemo.php?a=40263",
 								"referer": "https://l1l1.to/",
              							"isHost": "true"
 							  }, {
 								"name": "Canal 32",
-								"info": "",
+								"info": "tutelehd5",
 								"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-								"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do10",
+								"url": "https://www.player.tutelehd5.xyz/onlinemo.php?a=40281",
 								"referer": "https://s.cdn2.link/",
              							"isHost": "true"
 							  }, {
@@ -2765,8 +2719,9 @@
 										   "isHost" : "true"
 								}, {
 								  "name": "Canal 10",
+								  "info": "php",
 								  "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
-								  "url": "https://headlines.soccerstreams.football/sat-formula-australian-2023/",
+								  "url": "https://s.cdn2.link/ch26.php",
 								   "isHost":"true"
 							   }, {
 								  "name": "Canal 11",
@@ -2777,7 +2732,7 @@
 							  }, {
 								  "name": "Canal 12",
 								  "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
-								   "url": "https://vikistream.com/embed2.php?player=desktop&live=do26",
+								   "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do26",
 								  "referer": "https://l1l1.to/",
 								   "isHost": "true"
 							  }, {
@@ -2810,7 +2765,7 @@
 							}, {
 								  "name": "Canal 17",
 								  "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
-								   "url": "https://vikistream.com/embed2.php?player=desktop&live=do27",
+								   "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do27",
 								  "referer": "https://l1l1.to/",
 								   "isHost": "true"
 							  }, {
@@ -3526,6 +3481,12 @@
 			"url": "https://pahaplayers.click/ch/pahe044ch.php",
                     	"isHost": "true"
 		}, {
+              		"name": "ESPN Extra",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/750px-ESPN_Extra_Logo_2022.webp.png",
+			"url": "https://abolishstand.net/embed/sc44nn",
+			"referer" : "https://1stream.buzz/",
+                    	"isHost": "true"
+		}, {
 			"name": "Fox Sports 1",
 			"info": "php",
 			"image": "https://i.ibb.co/55GZL1c/logo-fs1.png",
@@ -3545,9 +3506,11 @@
 			"isHost" : "true"
            	}, {
 			"name": "TUDN",
+			"info": "abol-omf3v | 1str",
 			"image": "https://i.ibb.co/XF20w23/logo-TUDN.png",
-			"url":"https://watchtvchh.xyz/channel/ch07006.php",
-	                "isHost": "true"
+			"url" :  "https://abolishstand.net/embed/omf3vn",
+			"referer" : "https://1stream.buzz/",
+			 "isHost":"true"
        	 	}, {
 			"name": "TUDN",
 			"image": "https://i.ibb.co/XF20w23/logo-TUDN.png",
@@ -3939,43 +3902,39 @@
 	   	}, {
 			"name": "Cancha 2",
 			"image": "https://i.ibb.co/934pf1s/Mundial-Basket.jpg",
-			 "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do20",
+			 "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do34",
               		"referer": "https://s2watch.link/",
              		"isHost": "true"
 	   	}, {
 			"name": "Cancha 3",
 			"image": "https://i.ibb.co/934pf1s/Mundial-Basket.jpg",
-			 "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do21",
-              		"referer": "https://s2watch.link/",
-             		"isHost": "true"
+			"url" :  "https://streamamg-court01.akamaized.net/hls/live/2103308/game1/index.m3u8",
+			"userAgent":""
 	   	}, {
 			"name": "Cancha 4",
 			"image": "https://i.ibb.co/934pf1s/Mundial-Basket.jpg",
-			 "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do19",
-              		"referer": "https://s2watch.link/",
-             		"isHost": "true"
+			"url" :  "https://streamamg-court01.akamaized.net/hls/live/2103309/game1/index.m3u8",
+			"userAgent":""
 	   	}, {
 			"name": "Cancha 5",
+			"image": "https://i.ibb.co/934pf1s/Mundial-Basket.jpg",
+			"url" :  "https://streamamg-court01.akamaized.net/hls/live/21033010/game1/index.m3u8",
+			"userAgent":""
+	   	}, {
+			"name": "Cancha 6",
+			"image": "https://i.ibb.co/934pf1s/Mundial-Basket.jpg",
+			"url" :  "https://streamamg-court01.akamaized.net/hls/live/2103311/game1/index.m3u8",
+			"userAgent":""
+	   	}, {
+			"name": "Cancha 7",
 			"image": "https://i.ibb.co/934pf1s/Mundial-Basket.jpg",
 			 "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do28",
               		"referer": "https://s2watch.link/",
              		"isHost": "true"
 	   	}, {
-			"name": "Cancha 6",
-			"image": "https://i.ibb.co/934pf1s/Mundial-Basket.jpg",
-			 "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do34",
-              		"referer": "https://s2watch.link/",
-             		"isHost": "true"
-	   	}, {
-			"name": "Cancha 7",
-			"image": "https://i.ibb.co/934pf1s/Mundial-Basket.jpg",
-			 "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do9",
-              		"referer": "https://s2watch.link/",
-             		"isHost": "true"
-	   	}, {
 			"name": "Cancha 8",
 			"image": "https://i.ibb.co/934pf1s/Mundial-Basket.jpg",
-			 "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do23",
+			 "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do35",
               		"referer": "https://s2watch.link/",
              		"isHost": "true"
 	   	}, {
@@ -4013,7 +3972,7 @@
                      }, {
 		    	"name": "Canal 6",
 			"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-			 "url": "https://vikistream.com/embed2.php?player=desktop&live=do26",
+			 "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do26",
               		"referer": "https://l1l1.to/",
              		"isHost": "true" 
                      }, {
@@ -4086,7 +4045,7 @@
                  }, {
 			"name": "Canal 18",
 			"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-			 "url": "https://vikistream.com/embed2.php?player=desktop&live=do4",
+			 "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do4",
 			  "referer" : "https://l1l1.to/",
              		"isHost": "true"
                  }, {
@@ -4103,7 +4062,7 @@
                  }, {
 			"name": "Canal 21",
 			"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-			 "url": "https://vikistream.com/embed2.php?player=desktop&live=do40",
+			 "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do40",
 			"referer" : "https://l1l1.to/",
              		"isHost": "true"
                  }, {
@@ -4130,7 +4089,7 @@
                  }, {
 			"name": "Canal 26",
 			"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-			 "url": "https://vikistream.com/embed2.php?player=desktop&live=do5",
+			 "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do5",
 			 "referer": "https://l1l1.to/",
              		"isHost": "true"
                  }, {
@@ -4153,7 +4112,7 @@
                  }, {
 			"name": "Canal 30",
 			"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-			 "url": "https://vikistream.com/embed2.php?player=desktop&live=do31",
+			 "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do31",
 			 "referer" : "https://l1l1.to/",
 			 "isHost":"true"
                  }, {
@@ -4178,7 +4137,7 @@
 		}, {
 		    	"name": "Canal 34",
 			"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-			"url": "https://vikistream.com/embed2.php?player=desktop&live=do39",
+			"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do39",
               		"referer": "https://l1l1.to/",
              		"isHost": "true" 
 	     	}, {
@@ -4226,7 +4185,7 @@
                  }, {
 			"name": "Multi 2",
 			"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-			"url": "https://vikistream.com/embed2.php?player=desktop&live=do14",
+			"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do14",
 			"referer" : "https://l1l1.to/",
              		"isHost": "true"
                  }]
@@ -4675,13 +4634,13 @@
 
 									{
             									"name": "⚠️ UFC 290 ⚠️",
-										"info": "⚠️ Volkanovski vs Rodríguez ⚠️",
+										"info": "Volkanovski vs Rodríguez",
             									"image": "https://i.ibb.co/2jskHZg/Volka-vs-Rodri.jpg",
             									"url": "https://vk.com/video739310848_456239059",
 										"embed": "true"
             								}, {
             									"name": "⚠️ UFC 290 ⚠️",
-										"info": "⚠️ Moreno vs Pantoja ⚠️",
+										"info": "Moreno vs Pantoja",
             									"image": "https://i.ibb.co/x62H3Qh/Moreno-vs-Pantoja.webp",
             									"url": "https://vk.com/video739310848_456239058",
 										"embed": "true"
@@ -4729,13 +4688,13 @@
 										"embed": "true"
             								}, {
             									"name": "⚠️ UFC 284 ⚠️",
-										"info": "⚠️ Makhachev vs Volkanovski ⚠️",
+										"info": "Makhachev vs Volkanovski",
             									"image": "https://i.ibb.co/51LsJfL/Makha-Volka284.jpg",
             									"url": "https://vk.com/video739310848_456239020",
 										"embed": "true"
             								}, {
             									"name": "⚠️ UFC 284 ⚠️",
-										"info": "⚠️ Rodríguez vs Emmett ⚠️",
+										"info": "Rodríguez vs Emmett",
             									"image": "https://i.ibb.co/NK0CNN7/Rodri-Emme284.jpg",
             									"url": "https://vk.com/video739310848_456239019",
             									"embed": "true"
