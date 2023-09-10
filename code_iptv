@@ -35,9 +35,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 03/09/2023",
+             "name": "Ultm. versión 10/09/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 03/09/2023",
+            "info": "última versión actualizada el 10/09/2023",
             "stations": []
 	}, 
 	
@@ -603,7 +603,7 @@
 				"name": "Canal 21",
 				"info": "tutelehd5",
 			   	"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-			   	"url": "https://www.player.tutelehd5.xyz/onlinemo.php?a=40281",
+			   	"url": "https://www.player.tutelehd5.xyz/onlinemo.php?a=40263",
                        		"referer" : "https://l1l1.to/",
 				"isHost": "true"
 			}, {
@@ -1189,9 +1189,9 @@
              			"isHost": "true"
                      	}, {
                 		 "name": "Canal 44",
-				"info": "ucplay2",
+				"info": "one-ucplay2",
                     		"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-                		"url": "https://hd.ucplay2.com/dfghdf1gfch",
+                		"url": "https://one.ucplay2.com/hdfhdfh7vgdfhdfgmm",
              			"isHost": "true"
                     	}, { 
                  		"name": "Canal 45",
@@ -2721,7 +2721,7 @@
 								  "name": "Canal 10",
 								  "info": "php",
 								  "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
-								  "url": "https://s.cdn2.link/ch26.php",
+								  "url": "https://s.cdn2.link/ch10.php",
 								   "isHost":"true"
 							   }, {
 								  "name": "Canal 11",
@@ -2732,7 +2732,7 @@
 							  }, {
 								  "name": "Canal 12",
 								  "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
-								   "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do26",
+								   "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do10",
 								  "referer": "https://l1l1.to/",
 								   "isHost": "true"
 							  }, {
@@ -3902,7 +3902,7 @@
 	   	}, {
 			"name": "Cancha 2",
 			"image": "https://i.ibb.co/934pf1s/Mundial-Basket.jpg",
-			 "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do34",
+			 "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do8",
               		"referer": "https://s2watch.link/",
              		"isHost": "true"
 	   	}, {
@@ -3913,13 +3913,14 @@
 	   	}, {
 			"name": "Cancha 4",
 			"image": "https://i.ibb.co/934pf1s/Mundial-Basket.jpg",
-			"url" :  "https://streamamg-court01.akamaized.net/hls/live/2103309/game1/index.m3u8",
+			"url" :  "https://streamamg-court01.akamaized.net/hls/live/2103309/game2/index.m3u8",
 			"userAgent":""
 	   	}, {
 			"name": "Cancha 5",
 			"image": "https://i.ibb.co/934pf1s/Mundial-Basket.jpg",
-			"url" :  "https://streamamg-court01.akamaized.net/hls/live/21033010/game1/index.m3u8",
-			"userAgent":""
+			"url" :  "https://jewelavid.com/jwembed.php?player=desktop&live=do24",
+			"referer" : "https://s2watch.link/",
+			"isHost":"true"
 	   	}, {
 			"name": "Cancha 6",
 			"image": "https://i.ibb.co/934pf1s/Mundial-Basket.jpg",
@@ -3928,13 +3929,13 @@
 	   	}, {
 			"name": "Cancha 7",
 			"image": "https://i.ibb.co/934pf1s/Mundial-Basket.jpg",
-			 "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do28",
+			 "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do24",
               		"referer": "https://s2watch.link/",
              		"isHost": "true"
 	   	}, {
 			"name": "Cancha 8",
 			"image": "https://i.ibb.co/934pf1s/Mundial-Basket.jpg",
-			 "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do35",
+			 "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do6",
               		"referer": "https://s2watch.link/",
              		"isHost": "true"
 	   	}, {
@@ -4390,6 +4391,18 @@
         									"stations": 
         							 		[
 											{
+												"name": "Singapur 2023",
+												"info": "GP Singapur | Carrera",
+												"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+												"url": "",
+												"embed": "false"
+											}, {
+												"name": "Monza 2023",
+												"info": "GP Italia | Carrera",
+												"image": "https://i.ibb.co/80NPcHL/F1-GPMonza-Italy23.jpg",
+												"url": "https://vk.com/video739310848_456239068",
+												"embed": "true"
+											}, {
 												"name": "Zandvoort 2023",
 												"info": "GP Paises Bajos | Carrera",
 												"image": "https://i.ibb.co/p1PNN2K/F1-Holanda23.jpg",
@@ -4505,6 +4518,30 @@
         									"stations": 
 										[
 											{
+												"name": "Misano 2023",
+												"info": "GP San Marino | Carrera",
+												"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+												"url": "",
+												"embed": "false"
+											}, {
+												"name": "Misano 2023",
+												"info": "GP San Marino | Sprint",
+												"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+												"url": "",
+												"embed": "false"
+											}, {
+												"name": "Barcelona 2023",
+												"info": "GP España | Carrera",
+												"image": "https://i.ibb.co/Qk0BBY4/Moto-GP-GPEspa-a-Barcelona23.jpg",
+												"url": "https://vk.com/video739310848_456239070",
+												"embed": "true"
+											}, {
+												"name": "Barcelona 2023",
+												"info": "GP España | Sprint",
+												"image": "https://i.ibb.co/Qk0BBY4/Moto-GP-GPEspa-a-Barcelona23.jpg",
+												"url": "https://vk.com/video739310848_456239069",
+												"embed": "true"
+											}, {
 												"name": "Red Bull Ring 2023",
 												"info": "GP Austria | Carrera",
 												"image": "https://i.ibb.co/dWSHNpK/Moto-GP-GPAustria23.jpg",
