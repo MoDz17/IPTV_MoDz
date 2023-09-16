@@ -79,11 +79,11 @@
 			"userAgent" : ""
 		  }, {
 			"name": "Canal 2",
-			"info": "exer-opth | 1str",
+			"info": "embx | livstr",
 		   	"image": "https://i.ibb.co/HHL04RY/logo-vamos.png",    
-		   	"url": "https://abolishstand.net/embed/opthng68di66m",
-			"referer":"https://1stream.buzz/",
-		   	"isHost":"true"
+		   	"url" : "https://embx205977.apl270.me/player/live.php?id=212160&w=100%&h=100%",
+		 	"referer" : "https://livetvstream.pro/",
+			"isHost":"true"
 		 }, {
 				"name": "Canal 3",
 				"info": "exer-rq4g6 | strmons",
@@ -866,9 +866,9 @@
 		"userAgent" : ""
 	}, {
 		"name": "Canal 6",
-		"info": "ip | 45.90",
+		"info": "ip | 185.188",
 	   	"image": "https://i.ibb.co/Ntcj66Q/logo-es1.webp",
-	   	"url":"http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/90494",
+	   	"url":"http://185.188.188.235/live/eurosport/playlist.m3u8",
 	   	"userAgent" : ""
 	}, {
 		"name": "Canal 1",
@@ -888,10 +888,10 @@
 		"isHost": "true"
 	}, {
 		"name": "Canal 4",
+		"info": "ip | 185.188",
 		"image": "https://i.ibb.co/HLcq8Cj/logo-es2.webp",
-		"url": "https://fractionhostile.net/embed/r7w1p9",
-		"referer": "https://buzztv.futbol/",
-		"isHost": "true"
+	   	"url":"http://185.188.188.235/live/eurosport2/playlist.m3u8",
+	   	"userAgent" : ""
 	}, {
 		"name": "Canal 5",
 		"info": "ip | 45.90",
@@ -1044,11 +1044,11 @@
 			 	"isHost":"true"
 			 }, {
 				"name": "Canal 21",
-				"info": "null",
+				"info": "",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				"url" :  "",
-				"referer" : "",
-			 	"isHost":"false"
+				"url" :  "https://emb.apl270.me//player/live.php?id=210690&w=100%&h=100%",
+				"referer" : "https://livetvstream.pro/",
+			 	"isHost":"true"
 			 }, {
 				"name": "Canal 22",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
@@ -1248,11 +1248,10 @@
                  		"isHost": "true"
 			}, { 
                  		"name": "Canal 54",
-				"info": "null",
+				"info": "ucplay2",
                     		"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-                      		"url": "",
-               			"referer" : "",
-                 		"isHost": "false"
+                      		"url": "https://live.ucplay2.com/fgthdghLfvsdgf",
+                 		"isHost": "true"
 			}, { 
                  		"name": "Canal 55",
                     		"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
@@ -1597,11 +1596,11 @@
 					 	"isHost": "true"
 				}, { 
                  				"name": "Canal 26",
-						"info": "candle | av8q3",
+						"info": "embx | lvstr",
                     				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-                      				"url" :  "https://candlesouth.net/embed/av8q3fwxcb",
-						"referer" : "https://l1l1.to/",
-                 				"isHost": "true"
+                      				"url" : "https://embx205977.apl270.me/player/live.php?id=212160&w=100%&h=100%",
+                                 		"referer" : "https://livetvstream.pro/",
+						"isHost":"true"
 				}]
                       }, {
 						"name": "Premier League",
@@ -2559,9 +2558,11 @@
 								  "isHost": "true"
 							  }, {
 								"name": "Canal 19",
-								"info": "cdn1",
+								"info": "embx",
 							  	"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-								"url" : "https://cdn1.link/ch10"
+								"url": "https://embx213641.apl270.me/player/live.php?id=213641&w=100%&h=100%",
+                         					"referer" : "https://livetvstream.pro/",
+             							"isHost": "true"
 							  }, {
 								"name": "Canal 20",
 						  		"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
@@ -3547,6 +3548,12 @@
 			"url": "https://sportskart.click/embed/stream-746.php",
 			 "isHost" : "true"
                }, {
+			"name": "TyC Sports",
+			"info": "m3u8",
+			"image": "https://i.ibb.co/ZfvKGP2/logo-TyC.png",
+			"url": "https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8",
+			 "userAgent" : ""
+               }, {
 			"name": "TNT Sports",
 			"image": "https://i.ibb.co/b5R24vt/logo-TNT.png",
 			"url": "https://www.tutele.nl/online.php?a=149",
@@ -3566,12 +3573,13 @@
 		 }, {
 			"name": "Win Sports",
 			"image": "https://i.ibb.co/z2vQ9Cd/logo-WS.png",
-			"url":"https://livetvon.click/stream/stream-392.php",
+			"url": "https://abolishstand.net/embed/4hkxq20b10a3u69",
+			"referer" : "https://1stream.buzz/",
 	           	"isHost": "true"    
                }, {
 			"name": "Win Sports",
 			"image": "https://i.ibb.co/z2vQ9Cd/logo-WS.png",
-			"url":"https://watchtvchh.xyz/channel/ch016054.php",
+			"url":"https://sportskart.click/embed/stream-392.php",
 	           	"isHost": "true"
               }, {
 			"name": "Caracol TV",
