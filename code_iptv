@@ -35,9 +35,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 10/09/2023",
+             "name": "Ultm. versión 17/09/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 10/09/2023",
+            "info": "última versión actualizada el 17/09/2023",
             "stations": []
 	}, 
 	
@@ -1596,10 +1596,10 @@
 					 	"isHost": "true"
 				}, { 
                  				"name": "Canal 26",
-						"info": "embx | lvstr",
-                    				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-                      				"url" : "https://embx205977.apl270.me/player/live.php?id=212160&w=100%&h=100%",
-                                 		"referer" : "https://livetvstream.pro/",
+						"info": "do19",
+                    				"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
+                      				"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do19",
+						"referer": "https://l1l1.to/",
 						"isHost":"true"
 				}]
                       }, {
@@ -1777,11 +1777,11 @@
 							 "isHost": "true"
 						}, {
 							"name": "Canal 13",
-							"info": "yggx050",
+							"info": "",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-							"url": "https://new.ucplay2.com/hembedplayer/yggxlive050/3/1536/712",
-							"referer" : "https://1stream.buzz/",
-							 "isHost": "true"
+							"url": "https://abolishstand.net/embed/x3euisb4tt7",
+							"referer": "https://elixx.xyz/",
+							"isHost": "true"
 						}, {
 							"name": "Canal 14",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
@@ -2044,7 +2044,7 @@
 				 "isHost": "true"
 			}, {
 				"name": "Canal 4",
-				"info": "af34f",
+				"info": "40ltf",
 				"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
 				  "url": "https://abolishstand.net/embed/40ltfs8ms26hmy",
 				  "referer" : "https://elixx.xyz/",
@@ -2453,8 +2453,9 @@
 							   	"userAgent" : ""
 							   }, {
 								"name": "Canal 1",
+								"info": "m3u8",
 	   							"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-	   							"url":"http://winscript.xyz/pruebas/gtapp/tv/81.m3u8",
+	   							"url":"https://mcdn.mrgamingstreams.com/mrgamingf1es.m3u8",
 	   							"userAgent" : ""
 	 						}, {
 								"name": "Canal 2",
@@ -2541,8 +2542,9 @@
 								  "isHost": "true"
 						   	}, {
 								"name": "Canal 16",
+								"info": "m3u8",
 								"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-								"url":"https://argusport.live:90/DAZN-F1/video.m3u8",
+								"url":"http://167.114.156.136:25461/live/INFINITV/ZX89NM22/196.m3u8",
 								"userAgent" : ""
 							 }, {
 								"name": "Canal 17",
