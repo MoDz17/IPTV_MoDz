@@ -11,7 +11,7 @@
             "info": "",
             "stations": [
 	    	{
-			"name": "@FutbolAdictosHD",
+			"name": "@FutbolAdictoHD",
 			"info": "Twitter",
 		   	"image": "https://i.ibb.co/8MFrqt3/Twitter-logo.webp",    
 		  	"url" : "https://twitter.com/futboladictohd",
@@ -3904,51 +3904,6 @@
 		   "stations": [
 
 		{
-			"name": "Cancha 1",
-			"image": "https://i.ibb.co/934pf1s/Mundial-Basket.jpg",
-			 "url": "https://abolishstand.net/embed/cj43emy3yok2h6",
-              		"referer": "https://nopay.info/",
-             		"isHost": "true"
-	   	}, {
-			"name": "Cancha 2",
-			"image": "https://i.ibb.co/934pf1s/Mundial-Basket.jpg",
-			 "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do8",
-              		"referer": "https://s2watch.link/",
-             		"isHost": "true"
-	   	}, {
-			"name": "Cancha 3",
-			"image": "https://i.ibb.co/934pf1s/Mundial-Basket.jpg",
-			"url" :  "https://streamamg-court01.akamaized.net/hls/live/2103308/game1/index.m3u8",
-			"userAgent":""
-	   	}, {
-			"name": "Cancha 4",
-			"image": "https://i.ibb.co/934pf1s/Mundial-Basket.jpg",
-			"url" :  "https://streamamg-court01.akamaized.net/hls/live/2103309/game2/index.m3u8",
-			"userAgent":""
-	   	}, {
-			"name": "Cancha 5",
-			"image": "https://i.ibb.co/934pf1s/Mundial-Basket.jpg",
-			"url" :  "https://jewelavid.com/jwembed.php?player=desktop&live=do24",
-			"referer" : "https://s2watch.link/",
-			"isHost":"true"
-	   	}, {
-			"name": "Cancha 6",
-			"image": "https://i.ibb.co/934pf1s/Mundial-Basket.jpg",
-			"url" :  "https://streamamg-court01.akamaized.net/hls/live/2103311/game1/index.m3u8",
-			"userAgent":""
-	   	}, {
-			"name": "Cancha 7",
-			"image": "https://i.ibb.co/934pf1s/Mundial-Basket.jpg",
-			 "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do24",
-              		"referer": "https://s2watch.link/",
-             		"isHost": "true"
-	   	}, {
-			"name": "Cancha 8",
-			"image": "https://i.ibb.co/934pf1s/Mundial-Basket.jpg",
-			 "url": "https://jewelavid.com/jwembed.php?player=desktop&live=do6",
-              		"referer": "https://s2watch.link/",
-             		"isHost": "true"
-	   	}, {
 			"name": "Canal 1",
 			"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
 			 "url": "https://utopianwilderness.com/embed/a2x9fkk75ru",
