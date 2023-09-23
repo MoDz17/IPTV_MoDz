@@ -35,9 +35,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 17/09/2023",
+             "name": "Ultm. versión 23/09/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 17/09/2023",
+            "info": "última versión actualizada el 23/09/2023",
             "stations": []
 	}, 
 	
@@ -86,11 +86,10 @@
 			"isHost":"true"
 		 }, {
 				"name": "Canal 3",
-				"info": "exer-rq4g6 | strmons",
+				"info": "m3u8",
 				"image": "https://i.ibb.co/HHL04RY/logo-vamos.png",
-			   	"url": "https://exerciseexercise.net/embed/rq4g6",
-			 	"referer":"https://streamonsport44.buzz/",
-				"isHost":"true"
+			   	"url": "http://51.222.154.193:80/live/346C0F77EDBDF396B9EF8A379964C00A/337813.m3u8",
+			 	"userAgent" : ""
 				}, {
 				"name": "Canal 4",
 				"image": "https://i.ibb.co/HHL04RY/logo-vamos.png",
@@ -440,10 +439,10 @@
 			   	"userAgent" : ""
 			 }, {
 				"name": "Canal 2",
-				"info": "minafire",
+				"info": "m3u8",
 				"image": "https://i.ibb.co/sVPN8q6/logo-golf.png",
-			  	"url": "http://minafire.com:8080/live/BonIzCKME7/zPHE7oQejS/1116.m3u8",
-            			"isHost": "true"
+			  	"url": "http://51.222.154.193:80/live/346C0F77EDBDF396B9EF8A379964C00A/323627.m3u8",
+            			"userAgent" : ""
 			}, {
 				"name": "Canal 3",
 	   			"image": "https://i.ibb.co/sVPN8q6/logo-golf.png",
@@ -453,7 +452,7 @@
 				"name": "Canal 4",
 				"info": "php",
 				"image": "https://i.ibb.co/sVPN8q6/logo-golf.png",
-				"url" : "https://sportskart.click/embed/stream-749.php",
+				"url" : "https://sportskart.click/embed/stream-528.php",
 				"isHost": "true"
 			 }, {
 				"name": "Canal 5",
@@ -601,9 +600,9 @@
 	 			"isHost": "true"  
  			}, {
 				"name": "Canal 21",
-				"info": "tutelehd5",
+				"info": "do10",
 			   	"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-			   	"url": "https://www.player.tutelehd5.xyz/onlinemo.php?a=40263",
+			   	"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do10",
                        		"referer" : "https://l1l1.to/",
 				"isHost": "true"
 			}, {
@@ -918,17 +917,15 @@
 		[
 			{
 				"name": "Canal 1",
-				"info": "Fijo: M+ | wecazt",
+				"info": "Fijo: M+ | m3u8",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				"url" :  "https://wecazt.com/popy.php?stream=4eLyr2RZq7v",
-				"referer" : "https://livetvstream.pro/",
-			 	"isHost":"true"
+				"url" :  "https://mcdn.mrgamingstreams.com/mrgamingsoccer1.m3u8",
+				"userAgent": ""
 			}, {
 				 "name": "Canal 2",
-				 "info": "Fijo: DAZN | wecazt",
+				 "info": "Fijo: DAZN | ucplay2",
 				 "image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-                      		 "url" :  "https://wecazt.com/popy.php?stream=YJ8krnYwZrR",
-			  	 "referer" : "https://livetvstream.pro/",
+                      		 "url" :  "https://my.ucplay2.com/hjfhj4hngdhj",
                  		 "isHost": "true"
 			 }, {
 				"name": "Canal 3",
@@ -1217,11 +1214,10 @@
 				"userAgent": ""
                      	}, { 
                  		"name": "Canal 49",
-				"info": "null",
+				"info": "m3u8",
                     		"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-                       		"url" :  "",
-				"referer" : "",
-			 	"isHost":"false"
+                       		"url" :  "https://mlb.mrgamingstreams.com/espnd.m3u8",
+				"userAgent": ""
                     	}, { 
                  		"name": "Canal 50",
                     		"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
@@ -1296,11 +1292,10 @@
                  		"isHost": "true"
                     	}, { 
                  		"name": "Canal 63",
-				"info": "null",
+				"info": "",
                     		"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-                      		"url" :  "",
-				"referer" : "",
-                 		"isHost": "false"
+                      		"url": "https://embx202281.apl202.me/player/live.php?id=210570&w=100%&h=100%",
+				"isHost" : "true"
 			}, { 
                  		"name": "Canal 64",
                     		"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
@@ -2357,74 +2352,81 @@
 						"info": "",
 						"stations": [{
 								"name": "Canal 1",
+								"info": "abol-89ftq | 1str",
 								"image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
-							  	"url": "https://watchtvchh.xyz/channel/ch016098.php",
-						 		"isHost": "true"
+							  	"url": "https://abolishstand.net/embed/89ftq8ua1j5lr",
+	        						"referer" : "https://1stream.buzz/",
+                  						"isHost": "true"
 							},{
-								   "name": "Canal 2",
+							   	"name": "Canal 2",
 								"image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
-							"url": "https://unbiasedsenseevent.com/embed/pyxs8u5a6hp",
-						"referer" : "https://1stream.buzz/",
-							  "isHost": "true"
+								"url": "https://abolishstand.net/embed/pyxs8u5a6hp",
+								"referer" : "https://1stream.buzz/",
+							  	"isHost": "true"
 							},{ 
-							 "name": "Canal 3",
+							 	"name": "Canal 3",
 								"image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
-							"url" : "http://xone8.1222908.net:80/live/559912B0380379ED95C397C46957B9DF/337813.m3u8",
-						 "userAgent" : "PlusMediaPlayer/0.0.9"
-								},{ 
-							 "name": "Canal 4",
+								"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do10",
+                       						"referer" : "https://l1l1.to/",
+								"isHost": "true"
+							},{ 
+							 	"name": "Canal 4",
+								"info": "abol-rq4g6 | 1str",
 								"image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
-						   "url" : "https://exerciseexercise.net/embed/rq4g6",
-						"referer" : "https://macron.xyz/",
-						"isHost":"true"
-								 },{
-								 "name": "Canal 5",
+						   		"url" : "https://abolishstand.net/embed/rq4g6",
+								"referer" : "https://1stream.buzz/",
+								"isHost":"true"
+						 	},{
+								"name": "Canal 5",
+								"info": "abol-105qqn | 1str",
 								"image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
-							 	"url": "https://exerciseexercise.net/embed/105qqn",
-							  	"referer" : "https://macron.xyz/",
+							 	"url": "https://abolishstand.net/embed/105qqn",
+							  	"referer" : "https://1stream.buzz/",
 						 		"isHost": "true"
-								  },{
-								 "name": "Canal 6",
+						  	},{
+								"name": "Canal 6",
 								"image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
-							 	"url": "https://sportskart.click/embed/stream-526.php",
+							 	"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do15",
+                       						"referer" : "https://l1l1.to/",
+								"isHost": "true"
+							},{
+								"name": "Canal 7",
+								"info": "",
+								"image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
+								"url": "https://newassia.com/live/livestream/?lang=",
              							"isHost": "true"
-						 		},{
-								 	"name": "Canal 7",
-									"info": "yggx069",
-									"image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
-							 		"url": "https://new.ucplay2.com/hembedplayer/yggxlive069/3/1536/712",
-									"referer" : "https://1stream.buzz/",
-						 			"isHost": "true"
-								  },{
-								 "name": "Canal 8",
+						  	},{
+								"name": "Canal 8",
 								"image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
 							  	"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do22",
 								"referer": "https://l1l1.to/",
 						 		"isHost": "true"
-						 },{
-								 "name": "Canal 9",
-								 "info": "yggx070",
+						 	},{
+								"name": "Canal 9",
+								"info": "abol-dp4ti | 1str",
 								"image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
-							 "url": "https://new.ucplay2.com/hembedplayer/yggxlive070/3/1536/712",
-                  					"referer" : "https://1stream.buzz/",
-						 	"isHost": "true" 
-							  }, {
-								 "name": "Canal 10",
+							 	"url": "https://abolishstand.net/embed/dp4tigbdvjxr4l",
+                  						"referer" : "https://1stream.buzz/",
+			 					"isHost": "true" 
+						  	},{
+								"name": "Canal 10",
+								"info": "abol-dxcfd | 1str",
 								"image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
-							 	"url": "https://assia24.com/live/online-football/?lang=pl",
-						 		"isHost": "true" 
-							  }, {
-								 "name": "Canal 11",
-								 "info": "yggx062",
+							 	"url": "https://abolishstand.net/embed/dxcfd934ttzx",
+                  						"referer" : "https://1stream.buzz/",
+			 					"isHost": "true" 
+						  	},{
+								"name": "Canal 11",
+								"info": "ufeed70",
 								"image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
-							 	"url": "https://new.ucplay2.com/hembedplayer/yggxlive062/3/1536/712",
-								"referer" : "https://1stream.buzz/",
-						 		"isHost": "true" 
-							  }, {
+							 	"url": "https://godzillive.com/footy.php?player=desktop&live=ufeed70",
+                  						"referer" : "https://1rowsportz.info/",
+			 					"isHost": "true" 
+						  	},{
 								 "name": "Canal 12",
-								"image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
-							 	"url": "https://assia24.com/live/sportlive/?lang=",
-						 		"isHost": "true" 
+								"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+							 	"url": "",
+						 		"isHost": "false" 
 							  }]
 						  }, {
 							  "name": "Zona Motor",
@@ -2490,11 +2492,10 @@
 								  "isHost": "true" 	
 								}, {
 								"name": "Canal 7",
-								"info": "exer-r23llp | strmons",
+								"info": "m3u8",
 								  "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-								  "url": "https://exerciseexercise.net/embed/r23llp",
-								  "referer" : "https://streamonsport.ru/",
-								   "isHost":"true"
+								  "url": "https://argusport.live:90/Formula11/tracks-v1a1/mono.m3u8",
+								  "userAgent" : ""
 							   }, {
 								"name": "Canal 8",
 								  "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
@@ -2640,10 +2641,10 @@
              							"isHost": "true"
 							  }, {
 								"name": "Canal 32",
-								"info": "tutelehd5",
+								"info": "do19",
 								"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-								"url": "https://www.player.tutelehd5.xyz/onlinemo.php?a=40281",
-								"referer": "https://s.cdn2.link/",
+								"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do19",
+								"referer": "https://l1l1.to/",
              							"isHost": "true"
 							  }, {
 								  "name": "Canal 1 [F1 inglés]",
