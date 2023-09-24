@@ -4357,6 +4357,12 @@
         									"stations": 
         							 		[
 											{
+												"name": "Suzuka 2023",
+												"info": "GP Japón | Carrera",
+												"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+												"url": "",
+												"embed": "false"
+											}, {
 												"name": "Singapur 2023",
 												"info": "GP Singapur | Carrera",
 												"image": "https://i.ibb.co/jr7VQss/logo-off.png",
@@ -4484,17 +4490,29 @@
         									"stations": 
 										[
 											{
-												"name": "Misano 2023",
-												"info": "GP San Marino | Carrera",
+												"name": "Dankaur 2023",
+												"info": "GP India | Carrera",
+												"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+												"url": "",
+												"embed": "false"
+											}, {
+												"name": "Dankaur 2023",
+												"info": "GP India | Sprint",
 												"image": "https://i.ibb.co/jr7VQss/logo-off.png",
 												"url": "",
 												"embed": "false"
 											}, {
 												"name": "Misano 2023",
+												"info": "GP San Marino | Carrera",
+												"image": "https://i.ibb.co/jGHHftg/Moto-GP-San-Marino23.jpg",
+												"url": "https://vk.com/video739310848_456239072",
+												"embed": "true"
+											}, {
+												"name": "Misano 2023",
 												"info": "GP San Marino | Sprint",
-												"image": "https://i.ibb.co/jr7VQss/logo-off.png",
-												"url": "",
-												"embed": "false"
+												"image": "https://i.ibb.co/jGHHftg/Moto-GP-San-Marino23.jpg",
+												"url": "https://vk.com/video739310848_456239071",
+												"embed": "true"
 											}, {
 												"name": "Barcelona 2023",
 												"info": "GP España | Carrera",
