@@ -35,9 +35,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 23/09/2023",
+             "name": "Ultm. versión 28/09/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 23/09/2023",
+            "info": "última versión actualizada el 28/09/2023",
             "stations": []
 	}, 
 	
@@ -944,23 +944,23 @@
 				"name": "Canal 5",
 				"info": "t7w70x",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				 "url": "https://strayindicate.net/embed/t7w70x7v57",
-				"referer": "https://1rowsportz.info/",
+				 "url": "https://abolishstand.net/embed/t7w70x7v57",
+				"referer": "https://1stream.buzz/",
 				"isHost" : "true"
 				 }, {
 				"name": "Canal 6",
 				"info": "2twhx",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				 "url": "https://strayindicate.net/embed/2twhx",
-				"referer": "https://1rowsportz.info/",
+				 "url": "https://abolishstand.net/embed/2twhx",
+				"referer": "https://1stream.buzz/",
 				"isHost" : "true" 
-					   }, {
+			   	}, {
 				"name": "Canal 7",
 				"info": "fhc0c",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-					"url": "https://utopianwilderness.com/embed/fhc0cutcd",
+				"url": "https://utopianwilderness.com/embed/fhc0cutcd",
 				"referer" : "https://starlive.xyz/",
-						 "isHost": "true"
+				 "isHost": "true"
 					  }, {
 				"name": "Canal 8",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
@@ -4359,15 +4359,15 @@
 											{
 												"name": "Suzuka 2023",
 												"info": "GP Japón | Carrera",
-												"image": "https://i.ibb.co/jr7VQss/logo-off.png",
-												"url": "",
-												"embed": "false"
+												"image": "https://i.ibb.co/2qkHR1Z/F1-Jap-n23.png",
+												"url": "https://vk.com/video739310848_456239074",
+												"embed": "true"
 											}, {
-												"name": "Singapur 2023",
+												"name": "Marina Bay 2023",
 												"info": "GP Singapur | Carrera",
-												"image": "https://i.ibb.co/jr7VQss/logo-off.png",
-												"url": "",
-												"embed": "false"
+												"image": "https://i.ibb.co/svjSKrr/F1-singapur23.png",
+												"url": "https://vk.com/video739310848_456239073",
+												"embed": "true"
 											}, {
 												"name": "Monza 2023",
 												"info": "GP Italia | Carrera",
@@ -4490,17 +4490,29 @@
         									"stations": 
 										[
 											{
-												"name": "Dankaur 2023",
-												"info": "GP India | Carrera",
+												"name": "Motegi 2023",
+												"info": "GP Japón | Carrera",
+												"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+												"url": "",
+												"embed": "false"
+											}, {
+												"name": "Motegi 2023",
+												"info": "GP Japón | Sprint",
 												"image": "https://i.ibb.co/jr7VQss/logo-off.png",
 												"url": "",
 												"embed": "false"
 											}, {
 												"name": "Dankaur 2023",
+												"info": "GP India | Carrera",
+												"image": "https://i.ibb.co/vdHPyRB/Moto-GP-india23.png",
+												"url": "https://vk.com/video739310848_456239077",
+												"embed": "true"
+											}, {
+												"name": "Dankaur 2023",
 												"info": "GP India | Sprint",
-												"image": "https://i.ibb.co/jr7VQss/logo-off.png",
-												"url": "",
-												"embed": "false"
+												"image": "https://i.ibb.co/vdHPyRB/Moto-GP-india23.png",
+												"url": "https://vk.com/video739310848_456239075",
+												"embed": "true"
 											}, {
 												"name": "Misano 2023",
 												"info": "GP San Marino | Carrera",
