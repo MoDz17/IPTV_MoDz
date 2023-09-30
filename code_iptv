@@ -17,9 +17,9 @@
 		  	"url" : "https://twitter.com/futboladictohd",
 		  	"embed": "true"
 		}, {
-			"name": "Grupo Soporte",
-			"info": "Discord",
-		   	"image": "https://i.ibb.co/rc9ds7x/jugones-pic-discord.png",    
+			"name": "Web",
+			"info": "",
+		   	"image": "https://img.freepik.com/free-icon/internet_318-875883.jpg",    
 		  	"url" : "https://linktr.ee/futboladictoshd",
 		  	"embed": "true"
 		}, {
@@ -35,9 +35,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 28/09/2023",
+             "name": "Ultm. versión 30/09/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 28/09/2023",
+            "info": "última versión actualizada el 30/09/2023",
             "stations": []
 	}, 
 	
@@ -917,16 +917,18 @@
 		[
 			{
 				"name": "Canal 1",
-				"info": "Fijo: M+ | m3u8",
-				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				"url" :  "https://mcdn.mrgamingstreams.com/mrgamingsoccer1.m3u8",
-				"userAgent": ""
+				"info": "Fijo: M+ | 6na79",
+				"image": "https://i.ibb.co/6chtYYr/Logo-Movistar-Liga.webp",
+				"url" : "https://abolishstand.net/embed/6na79kddf",
+				"referer": "https://1stream.buzz/",
+				"isHost": "true"
 			}, {
 				 "name": "Canal 2",
-				 "info": "Fijo: DAZN | ucplay2",
-				 "image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-                      		 "url" :  "https://my.ucplay2.com/hjfhj4hngdhj",
-                 		 "isHost": "true"
+				 "info": "Fijo: DAZN | zbz7k",
+				 "image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
+                      		 "url": "https://abolishstand.net/embed/zbz7klq",
+				 "referer" : "https://1stream.buzz/",
+				 "isHost": "true"
 			 }, {
 				"name": "Canal 3",
 				"info": "ktpqv",
@@ -1071,11 +1073,11 @@
 				 "isHost": "true" 
 			}, {
 				"name": "Canal 26",
-				"info": "abol-zbz7k | 1str",
+				"info": "null",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				"url": "https://abolishstand.net/embed/zbz7klq",
-				"referer" : "https://1stream.buzz/",
-				 "isHost": "true"
+				"url": "",
+				"referer" : "",
+				 "isHost": "false"
 			}, {
 				"name": "Canal 27",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
@@ -1148,11 +1150,11 @@
 				   "isHost": "true"
 			 }, {
 				"name": "Canal 38",
-				"info": "abol-6na79 | 1str",
+				"info": "null",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				"url" : "https://abolishstand.net/embed/6na79kddf",
-				"referer": "https://1stream.buzz/",
-				"isHost": "true"
+				"url" : "",
+				"referer": "",
+				"isHost": "false"
 			 }, {
 				   "name": "Canal 39",
 				"info": "abol-tqhqq | 1str",
@@ -1341,11 +1343,11 @@
                  		"isHost": "true"
 			}, { 
                  		"name": "Canal 71",
-				"info": "null",
+				"info": "tutlehd",
                     		"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-                      		"url": "",
-               			"referer" : "",
-                 		"isHost": "false"
+                      		"url": "https://tutlehd.xyz/online.php?id=5967",
+				"referer": "https://latele-envivo.com/",
+                 		"isHost": "true"
 			}, { 
                  		"name": "Canal 72",
 				"info": "candle | ydd4",
@@ -2393,7 +2395,7 @@
 								"name": "Canal 7",
 								"info": "",
 								"image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
-								"url": "https://newassia.com/live/livestream/?lang=",
+								"url": "https://newassia.com/live/mix-sport27/?lang=es",
              							"isHost": "true"
 						  	},{
 								"name": "Canal 8",
@@ -2482,7 +2484,7 @@
 								"name": "Canal 5",
 								"info": "php",
 							  	"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-							 	"url": "https://www.player.tutelehd5.xyz/onlinemo.php?a=40263",
+							 	"url": "https://tutlehd.xyz/onlinemo.php?a=40263",
                    						"referer" : "https://l1l1.to/",
                     						"isHost": "true"  
 							  }, {
@@ -2636,8 +2638,8 @@
 								"name": "Canal 31",
 								"info": "tutelehd5",
 								"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-								"url": "https://www.player.tutelehd5.xyz/onlinemo.php?a=40263",
-								"referer": "https://l1l1.to/",
+								"url": "https://tutlehd.xyz/onlinemo.php?a=40263",
+								"referer": "https://s.cdn2.link/",
              							"isHost": "true"
 							  }, {
 								"name": "Canal 32",
