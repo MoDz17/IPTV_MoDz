@@ -35,9 +35,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 01/10/2023",
+             "name": "Ultm. versión 02/10/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 01/10/2023",
+            "info": "última versión actualizada el 02/10/2023",
             "stations": []
 	}, 
 	
@@ -1252,10 +1252,11 @@
                  		"isHost": "true"
 			}, { 
                  		"name": "Canal 55",
+				"info": "null",
                     		"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-                      		"url": "https://abolishstand.net/embed/g16dv8bwe2pkg",
-               			"referer" : "https://elixx.xyz/",
-                 		"isHost": "true"
+                      		"url": "",
+               			"referer" : "",
+                 		"isHost": "false"
 			}, { 
                  		"name": "Canal 56",
 				"info": "mey8j3",
@@ -1377,66 +1378,29 @@
                  		"isHost": "true"
 			}, { 
                  		"name": "Canal 76",
-				"info": "abol-ydd4 | buzztv",
-				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				"url": "https://abolishstand.net/embed/dvuf5ydd4",
-                  		"referer": "https://buzztv.futbol/",
-				"isHost": "true"
-			}, { 
-                 		"name": "Canal 77",
 				"info": "candle | uu8c1",
                     		"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
                       		"url" : "https://candlesouth.net/embed/uu8c1",
 				"referer" : "https://l1l1.to/",
                  		"isHost": "true"
-			}, { 
-                 		"name": "Canal 78",
-				"info": "",
-                    		"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-                      		"url" :  "https://abolishstand.net/embed/gy67an2ct",
-				"referer" : "https://buzztv.futbol/",
+			}, {
+				"name": "Canal 77",
+				"image": "https://i.ibb.co/VQpLvTb/logo-channels-ESPN.jpg",
+				"url": "https://abolishstand.net/embed/g16dv8bwe2pkg",
+               			"referer" : "https://elixx.xyz/",
                  		"isHost": "true"
-			}, {
-						"name": "Canal 1 [ESPN]",
-						"image": "https://i.ibb.co/VQpLvTb/logo-channels-ESPN.jpg",
-						"url": "https://wecast.to/hls.php?stream=38tSc8hE6z9c",
-						 "referer": "https://bahiadeportes.com/",  
-						"isHost" : "true"
-			 },{
-						"name": "Canal 2 [ESPN2]",
-						"image": "https://i.ibb.co/VQpLvTb/logo-channels-ESPN.jpg",
-						 "url":"https://wecast.to/hls.php?stream=wrK4VGJ4fyST",
-				 		"referer" : "https://bahiadeportes.com/",
-						"isHost" : "true"
-			  },{
-						"name": "Canal 3 [ESPN3]",
-						"image": "https://i.ibb.co/VQpLvTb/logo-channels-ESPN.jpg",
-					   	"url": "https://wecast.to/hls.php?stream=yhzly0qurt9y",
-					 	"referer" : "https://bahiadeportes.com/",
-						 "isHost" : "true"
-			 }, {
-				"name": "Canal 4 [inglés]",
-				"image": "https://i.ibb.co/nwQrbvN/inglesa.webp",
-					   "url": "https://deliriousholistic.net/embed/37g5h7ynae",
-				   "referer" : "https://strims.top/",
-						 "isHost":"true" 
-			   }, {
-				"name": "Canal 1 [inglés]",
-				"image": "https://i.ibb.co/nwQrbvN/inglesa.webp",
-						"url" : "https://www.nolive.me/sd0embed",
-				"referer": "https://embedstream.me/",
-						 "isHost": "true" 
-		   }, {
-				"name": "Canal 2 [inglés]",
-				   "image": "https://i.ibb.co/nwQrbvN/inglesa.webp",
-				   "url":"https://daddy.yurendtv.biz.id/https://ddy6.onlinewebtv.lol:443/ddy6/premium415/tracks-v1a1/mono.m3u8",
-				   "userAgent" : ""
-		}]
-			}, {
-		"name": "Liga Hypermotion",
-		"image": "https://i.ibb.co/zZpZy4S/Liga-Hypermotion.png",
-		"info": "",
-		"stations": [{
+		 	}, {
+				"name": "Canal 78",
+				"image": "https://i.ibb.co/VQpLvTb/logo-channels-ESPN.jpg",
+				"url": "https://abolishstand.net/embed/dvuf5ydd4",
+                  		"referer": "https://buzztv.futbol/",
+				"isHost": "true"
+		  	}]
+		}, {
+				"name": "Liga Hypermotion",
+				"image": "https://i.ibb.co/zZpZy4S/Liga-Hypermotion.png",
+				"info": "",
+				"stations": [{
 					"name": "Canal 1",
 					"info": "abol-opthn | 1str",
 					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
@@ -1827,11 +1791,11 @@
 							"isHost" : "true"
 						}, {
 							"name": "Canal 2",
-							"info": "null",
+							"info": "gy67a",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-							"url":"",
-							"referer" : "",
-							"isHost" : "false"
+							"url" :  "https://abolishstand.net/embed/gy67an2ct",
+							"referer" : "https://buzztv.futbol/",
+                 					"isHost": "true"
 						  }, {
 							"name": "Canal 3",
 							"info": "null",
@@ -1880,8 +1844,8 @@
 			"info": "exer-anirqn | strmons",
 			"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
 			"url": "https://exerciseexercise.net/embed/anirqn",
-			 "referer" : "https://streamonsport.ru/",
-             "isHost": "true"
+			"referer" : "https://streamonsport.ru/",
+             		"isHost": "true"
                 }, {
 			"name": "Canal 11",
 			"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
@@ -4501,13 +4465,13 @@
 											{
 												"name": "Motegi 2023",
 												"info": "GP Japón | Carrera",
-												"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+												"image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
 												"url": "",
 												"embed": "false"
 											}, {
 												"name": "Motegi 2023",
 												"info": "GP Japón | Sprint",
-												"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+												"image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
 												"url": "",
 												"embed": "false"
 											}, {
@@ -4790,136 +4754,122 @@
 									     }
   								]
 						}, {
-								"name": "Streams",
-						   		"image": "https://i.ibb.co/njPF3vb/Stream-Pic-Pro.png",
-						   		"info": "",
-						   		"stations": 
-						   		[
-									{
-										"name": "Acceder",
-										"info": "Telegram",
-										"image": "https://i.ibb.co/dkBqspW/logo-telegram.png",    
-									   	"url" : "http://futbolgratisbymodz.rf.gd/",
-									   	"embed": "true"
-									}
-								]
-				   			}, {
 								"name": "Horarios deportivos",
 								"image": "https://i.ibb.co/xftL7fc/logo-TVguia-D.png",
 								"info": "",
 								"stations": [
-								{
+							{
 								"name": "Movistar",
 								"image": "https://i.ibb.co/Nn2YtQG/logo-category-Movistar.png",
 								"url": "https://www.movistarplus.es/guiamovil",
 								"embed": "true"
-								}, {
+							}, {
 								"name": "DAZN",
 								"image": "https://i.ibb.co/NWLCj63/DAZN-Logo.png",
 								"url": "https://www.dazn.com/es-ES/schedule",
 								"embed": "true"
-								}, {
+							}, {
 								"name": "Champions League",
 								"image": "https://i.ibb.co/gVtsg1f/logo-Champions.jpg",
 								"url": "https://www.futboltv.info/competicion/champions-league",
 								"embed": "true"
-								}, {
+							}, {
 								"name": "Champions League",
 								"info": "Femenina",
 								"image": "https://i.ibb.co/QXw2WyV/Logo-UWCL.jpg",
 								"url": "https://www.futboltv.info/competicion/womens-champions-league",
 								"embed": "true"
-								}, {
+							}, {
 								"name": "Europa League",
 								"image": "https://i.ibb.co/xs04x1m/logo-Europa.jpg",
 								"url": "https://www.futboltv.info/competicion/europa-league",
 								"embed": "true"
-								}, {
+							}, {
 								"name": "Conference League",
 								"image": "https://i.ibb.co/C5tGNvj/logo-Conference-League.webp",
 								"url": "https://www.futboltv.info/competicion/europa-conference-league",
 								"embed": "true"
-								}, {
+							}, {
 								"name": "LaLiga",
 								"image": "https://i.ibb.co/3NCs0m4/LaLigaEA.png",
 								"url": "https://www.futboltv.info/competicion/laliga",
 								"embed": "true"
-								}, {
+							}, {
 								"name": "Liga Hypermotion",
 								"image": "https://i.ibb.co/zZpZy4S/Liga-Hypermotion.png",
 								"url": "https://www.futboltv.info/competicion/laliga2",
 								"embed": "true"
-								}, {
+							}, {
 								"name": "Premier League",
 								"image": "https://i.ibb.co/bvcpXFG/logo-Premier-League.png",
 								"url": "https://www.futbolenlatv.es/competicion/premier-league",
 								"embed": "true"
-								}, {
+							}, {
 								"name": "Bundesliga",
 								"image": "https://i.ibb.co/7yYKf2N/logo-Bundesliga.png",
 								"url": "https://www.futbolenlatv.es/competicion/bundesliga",
 								"embed": "true"
-								}, {
+							}, {
 								"name": "Serie A",
 								"image": "https://i.ibb.co/tZWJz6T/logo-Serie-A.png",
 								"url": "https://www.futbolenlatv.es/competicion/calcio-serie-a",
 								"embed": "true"
-								}, {
+							}, {
 								"name": "Ligue 1",
 								"image": "https://i.ibb.co/SPQCpbZ/Ligue1-logo.png",
 								"url": "https://www.futbolenlatv.es/competicion/ligue-1",
 								"embed": "true"
-								}, {
+							}, {
 								"name": "NBA",
 								"image": "https://i.ibb.co/ysP3vZt/logo-category-NBA.png",
 								"url": "https://www.futbolenlatv.es/deporte/baloncesto/competicion/nba",
 								"embed": "true"
-								}, {
+							}, {
 								"name": "Liga Endesa",
 								"image": "https://i.ibb.co/gyqKGNF/logo-Endesa.jpg",
 								"url": "https://www.futbolenlatv.es/deporte/baloncesto/competicion/liga-endesa",
 								"embed": "true"
-								}, {
+							}, {
 								"name": "F1",
 								"image": "https://i.ibb.co/sWgvCCK/logo-f1-fix.png",
 								"url": "https://www.marca.com/motor/formula1/calendario.html",
 								"embed": "true"
-								}, {
+							}, {
 								"name": "MotoGP",
 								"image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
 								"url": "https://www.marca.com/motor/motogp/calendario.html",
 								"embed": "true"
-								}, {
+							}, {
 								"name": "Tenis",
 								"image": "https://i.ibb.co/2hzzxFG/logo-Tenis.png",
 								"url": "https://www.futbolenlatv.es/deporte/tenis",
 								"embed": "true"
-								}, {
+							}, {
 								"name": "UFC",
 								"image": "https://i.ibb.co/S5NN7p3/logo-ufc.png",
 								"url": "https://www.ufcespanol.com/events",
 								"embed": "true"
-								}, {
+							}, {
 								"name": "Béisbol",
 								"image": "https://i.ibb.co/4Km4DJp/MLB-logo.png",
 								"url": "https://www.futbolenlatv.es/deporte/beisbol/competicion/major-league-baseball",
 								"embed": "true"
-								}, {
+							}, {
 								"name": "Rugby",
 								"image": "https://i.ibb.co/1Ggb57C/logo-NFL.png",
 								"url": "https://www.futbolenlatv.es/deporte/futbol-americano",
 								"embed": "true"
-								}, {
+							}, {
 								"name": "Hockey",
 								"image": "https://i.ibb.co/868xpk5/logo-NHL.png",
 								"url": "https://www.futbolenlatv.es/deporte/hockey/competicion/national-hockey-league",
 								"embed": "true"
-								}, {
+							}, {
 								"name": "Sport•TV",
 								"image": "https://i.ibb.co/gTcYR5b/logo-Sport-TV.png",
 								"url": "https://www.sporttv.pt/guia",
 								"embed": "true"
-								}, {
+							}, {
 								"name": "Toros",
 								"image": "https://i.ibb.co/XLwWNjh/logo-toros.jpg",
 								"url": "https://elmuletazo.com/agenda-de-toros-en-television/",
