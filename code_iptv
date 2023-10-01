@@ -1,13 +1,13 @@
 {
-	"name": "IPT - ADICTOS",
+    "name": "IPT - ADICTOS",
     "author": "MoDz",
-    "image": "https://i.ibb.co/PGL5P2Z/Main-pic-Logo-and-Banner.jpg",
+    "image": "https://i.ibb.co/T0LndcT/Pic-Profile-HW.png",
     "info": "IPTV oficial de FUTBOL-ADICTOS",
     "telegram": "+wIBp4fXctzpjYTU0",
     "url": "https://raw.githubusercontent.com/MoDz17/IPTV_MoDz/main/code_iptv",
     "groups": [{
              "name": "FUTBOL - ADICTOS",
-            "image": "https://i.ibb.co/PGL5P2Z/Main-pic-Logo-and-Banner.jpg",
+            "image": "https://i.ibb.co/T0LndcT/Pic-Profile-HW.png",
             "info": "",
             "stations": [
 	    	{
@@ -35,9 +35,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 30/09/2023",
+             "name": "Ultm. versión 01/10/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 30/09/2023",
+            "info": "última versión actualizada el 01/10/2023",
             "stations": []
 	}, 
 	
@@ -417,7 +417,7 @@
 			"name": "Canal 1",
 			"info": "php",
 			"image": "https://i.ibb.co/3CcWsMq/logo-deportes2.png",
-		 	"url": "https://sportskart.click/embed/stream-438.php",
+		 	"url": "https://emb.apl272.me/player/live.php?id=210722&w=100%&h=100%",
              		"isHost": "true"  
          		}, {
 			"name": "Canal 2",
@@ -1258,6 +1258,7 @@
                  		"isHost": "true"
 			}, { 
                  		"name": "Canal 56",
+				"info": "mey8j3",
                     		"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
                       		"url": "https://abolishstand.net/embed/mey8j3",
                			"referer" : "https://elixx.xyz/",
@@ -1751,7 +1752,7 @@
 						}, {
 							"name": "Canal 9",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-							"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do14",
+							"url": "https://jewelavid.com/jwembed.php?player=desktop&live=do18",
 							"referer" : "https://l1l1.to/",
 							 "isHost": "true"
 						}, {
@@ -2395,7 +2396,7 @@
 								"name": "Canal 7",
 								"info": "",
 								"image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
-								"url": "https://newassia.com/live/mix-sport27/?lang=es",
+								"url": "https://embx211648.apl272.me//player/live.php?id=211648?&w=100%&h=100%",
              							"isHost": "true"
 						  	},{
 								"name": "Canal 8",
@@ -3130,6 +3131,12 @@
 							"name": "Canal 20",
 						   	"image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
 						   	"url":"http://sportsurge.stream/embed/wwe3.php",
+						   	"isHost":"true"
+					 }, {
+							"name": "Canal 21",
+						   	"image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
+						   	"url": "https://candlesouth.net/embed/3d44n21uf8pkocd",
+            						"referer" : "https://l1l1.to/",
 						   	"isHost":"true"
 					 }]
 					   }, {
@@ -3957,7 +3964,7 @@
 					 "url": "https://unbiasedsenseevent.com/embed/ksji2aq4bn72",
              				"referer": "https://sportz.football/",
 					 "isHost": "true"   
-							 }, {
+		 }, {
 				"name": "Canal 9",
 				"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
 			 	"url": "https://emb.apl210.me/player/live.php?id=210385&w=100%&h=100%",
