@@ -4330,6 +4330,18 @@
         									"stations": 
         							 		[
 											{
+												"name": "Lusail 2023",
+												"info": "GP Qatar | Carrera",
+												"image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
+												"url": "",
+												"embed": "false"
+											}, {
+												"name": "Lusail 2023",
+												"info": "GP Qatar | Sprint",
+												"image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
+												"url": "",
+												"embed": "false"
+											}, {
 												"name": "Suzuka 2023",
 												"info": "GP Japón | Carrera",
 												"image": "https://i.ibb.co/2qkHR1Z/F1-Jap-n23.png",
@@ -4465,15 +4477,15 @@
 											{
 												"name": "Motegi 2023",
 												"info": "GP Japón | Carrera",
-												"image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
-												"url": "",
-												"embed": "false"
+												"image": "https://i.ibb.co/fSfyq7b/Moto-GPJapon23.png",
+												"url": "https://vk.com/video739310848_456239079",
+												"embed": "true"
 											}, {
 												"name": "Motegi 2023",
 												"info": "GP Japón | Sprint",
-												"image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
-												"url": "",
-												"embed": "false"
+												"image": "https://i.ibb.co/fSfyq7b/Moto-GPJapon23.png",
+												"url": "https://vk.com/video739310848_456239078",
+												"embed": "true"
 											}, {
 												"name": "Dankaur 2023",
 												"info": "GP India | Carrera",
