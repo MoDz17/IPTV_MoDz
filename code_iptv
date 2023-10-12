@@ -35,9 +35,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 02/10/2023",
+             "name": "Ultm. versión 12/10/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 02/10/2023",
+            "info": "última versión actualizada el 12/10/2023",
             "stations": []
 	}, 
 	
@@ -827,26 +827,17 @@
 	   	"url":"https://embx210976.apl217.me/player/live.php?id=210976?&w=100%&h=100%",
 	   	"isHost": "true"
 	 }, {
-		"name": "Canal 11",
-		"image": "https://i.ibb.co/LQy2rM6/DAZN-4-Logo-Sin-Fondo.png",
-		"url":"https://daddy.yurendtv.biz.id/https://ddy1.onlinewebtv.lol:443/ddy1/premium448/tracks-v1a1/mono.m3u8",
-		"userAgent" : ""
-	}, {
-		"name": "Canal 12",
-		"info": "ip | 45.90",
-	   	"image": "https://i.ibb.co/LQy2rM6/DAZN-4-Logo-Sin-Fondo.png",
-	   	"url":"http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/11778",
-	   	"userAgent" : ""
-	}, {
 		"name": "Canal 1",
 		"image": "https://i.ibb.co/Ntcj66Q/logo-es1.webp",
-	 	"url": "https://sportskart.click/embed/stream-524.php",
+	 	"url": "https://lovesomecommunity.com/deportivo.php?player=desktop&live=3U27L",
+	 	"referer" : "https://www.freeshot.live/",
 		"isHost": "true"
 	}, {
 		"name": "Canal 2",
-		"image": "https://i.ibb.co/Ntcj66Q/logo-es1.webp",
-		"url": "http://109.169.37.140:8000/live/megaott1000/gtSwbCLSSS/77164.m3u8",
-             	"isHost": "true"
+		"info": "ip | 185.188",
+	   	"image": "https://i.ibb.co/Ntcj66Q/logo-es1.webp",
+	   	"url":"http://185.188.188.235/live/eurosport/playlist.m3u8",
+	   	"userAgent" : ""
 	}, {
 		"name": "Canal 3",
 		"image": "https://i.ibb.co/Ntcj66Q/logo-es1.webp",
@@ -854,49 +845,22 @@
 		"referer": "https://macron.xyz",
 		"isHost": "true"
 	}, {
-		"name": "Canal 4",
-		"image": "https://i.ibb.co/Ntcj66Q/logo-es1.webp",
-		"url":"http://37.49.230.42:8080/live/9a7c64ba/faf0c6591c/1160.m3u8",
-		"userAgent" : ""
-	}, {
-		"name": "Canal 5",
-		"image": "https://i.ibb.co/Ntcj66Q/logo-es1.webp",
-		"url":"http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/1160.m3u8",
-		"userAgent" : ""
-	}, {
-		"name": "Canal 6",
-		"info": "ip | 185.188",
-	   	"image": "https://i.ibb.co/Ntcj66Q/logo-es1.webp",
-	   	"url":"http://185.188.188.235/live/eurosport/playlist.m3u8",
-	   	"userAgent" : ""
-	}, {
 		"name": "Canal 1",
 		"image": "https://i.ibb.co/HLcq8Cj/logo-es2.webp",
 		"url" : "https://sportskart.click/embed/stream-525.php",
 		"userAgent": ""
 	}, {
 		"name": "Canal 2",
+		"info": "ip | 185.188",
 		"image": "https://i.ibb.co/HLcq8Cj/logo-es2.webp",
-		 "url": "http://xone8.1222908.net:80/live/559912B0380379ED95C397C46957B9DF/337812.m3u8",
-		 "isHost": "true"
+	   	"url":"http://185.188.188.235/live/eurosport2/playlist.m3u8",
+	   	"userAgent" : ""
 	}, {
 		"name": "Canal 3",
 		"image": "https://i.ibb.co/HLcq8Cj/logo-es2.webp",
 		"url": "https://warnforlese.net/embed/xlzl5is",
 		"referer": "https://macron.xyz",
 		"isHost": "true"
-	}, {
-		"name": "Canal 4",
-		"info": "ip | 185.188",
-		"image": "https://i.ibb.co/HLcq8Cj/logo-es2.webp",
-	   	"url":"http://185.188.188.235/live/eurosport2/playlist.m3u8",
-	   	"userAgent" : ""
-	}, {
-		"name": "Canal 5",
-		"info": "ip | 45.90",
-	   	"image": "https://i.ibb.co/HLcq8Cj/logo-es2.webp",
-	   	"url":"http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/90495",
-	   	"userAgent" : ""
 	}, {
 		"name": "Canal 1",
 		"image": "https://i2.wp.com/ossom.cl/wp-content/uploads/2020/03/red_bull_tv.jpg?fit=610%2C350&ssl=1",
@@ -1073,11 +1037,10 @@
 				 "isHost": "true" 
 			}, {
 				"name": "Canal 26",
-				"info": "null",
+				"info": "php",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				"url": "",
-				"referer" : "",
-				 "isHost": "false"
+				"url": "https://wizospor.monster/livtv/free40.php",
+				"isHost": "true"
 			}, {
 				"name": "Canal 27",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
@@ -1110,11 +1073,11 @@
 				   "isHost": "true"
 			 }, {
 				"name": "Canal 32",
-				"info": "abol-opthn | 1str",
+				"info": "web | socc",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				 "url" : "https://abolishstand.net/embed/opthng68di66m",
-				   "referer": "https://1stream.buzz/",
-				   "isHost": "true"
+				"url" :  "https://wwwstream.pro/badir1/BXaQAanLKPZ",
+                		"referer" : "https://soccerstream100.co/",
+			   	"isHost": "true"
 			 }, {
 				   "name": "Canal 33",
 				"info": "abol-um6tx | 1str",
@@ -1538,9 +1501,9 @@
 					 "isHost": "true"
 			  	}, {
 					"name": "Canal 23",
-					"info": "wecazt",
+					"info": "wwwstream",
 					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
-					"url": "https://wecazt.com/badir1/hIER0xdlRlY",
+					"url": "https://wwwstream.pro/badir1/hIER0xdlRlY",
                				"referer" : "https://soccerstream100.co/",
 			 		"isHost": "true"
 			  	}, {
@@ -1585,11 +1548,11 @@
 							"isHost" : "true"
 					        }, {
 							"name": "Canal 3",
-							"info": "null",
+							"info": "dw4k0",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-							"url":"",
-							"referer" : "",
-							"isHost" : "false"
+							"url": "https://abolishstand.net/embed/dw4k0efjo1w",
+			 				"referer" : "https://elixx.xyz/",
+							"isHost" : "true"
 						}, {
 							"name": "Canal 4",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
@@ -4882,9 +4845,14 @@
 								"url": "https://www.sporttv.pt/guia",
 								"embed": "true"
 							}, {
+								"name": "ESPN Deportes",
+								"image": "https://i.ibb.co/k0PSxsf/logo-ESPNd.png",
+								"url": "https://www.gatotv.com/canal/espn_deportes",
+								"embed": "true"
+							}, {
 								"name": "Toros",
 								"image": "https://i.ibb.co/XLwWNjh/logo-toros.jpg",
-								"url": "https://elmuletazo.com/agenda-de-toros-en-television/",
+								"url": "https://elmuletazo.com/agenda-de-toros-en-television",
 								"embed": "true"
 								}]
 							}
