@@ -4295,15 +4295,15 @@
 											{
 												"name": "Lusail 2023",
 												"info": "GP Qatar | Carrera",
-												"image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
-												"url": "",
-												"embed": "false"
+												"image": "https://i.ibb.co/cwNgNtB/F1-GP-Qatar23.png",
+												"url": "https://vk.com/video739310848_456239081",
+												"embed": "true"
 											}, {
 												"name": "Lusail 2023",
 												"info": "GP Qatar | Sprint",
-												"image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
-												"url": "",
-												"embed": "false"
+												"image": "https://i.ibb.co/cwNgNtB/F1-GP-Qatar23.png",
+												"url": "https://vk.com/video739310848_456239080",
+												"embed": "true"
 											}, {
 												"name": "Suzuka 2023",
 												"info": "GP Japón | Carrera",
@@ -4438,6 +4438,18 @@
         									"stations": 
 										[
 											{
+												"name": "Mandalika 2023",
+												"info": "GP Indonesia | Carrera",
+												"image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
+												"url": "",
+												"embed": "false"
+											}, {
+												"name": "Mandalika 2023",
+												"info": "GP Indonesia | Sprint",
+												"image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
+												"url": "",
+												"embed": "false"
+											}, {
 												"name": "Motegi 2023",
 												"info": "GP Japón | Carrera",
 												"image": "https://i.ibb.co/fSfyq7b/Moto-GPJapon23.png",
