@@ -35,9 +35,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 13/10/2023",
+             "name": "Ultm. versión 21/10/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 13/10/2023",
+            "info": "última versión actualizada el 21/10/2023",
             "stations": []
 	}, 
 	
@@ -415,9 +415,9 @@
 			   	"isHost" : "true"
 			}, {
 			"name": "Canal 1",
-			"info": "php",
+			"info": "embx",
 			"image": "https://i.ibb.co/3CcWsMq/logo-deportes2.png",
-		 	"url": "https://emb.apl272.me/player/live.php?id=210722&w=100%&h=100%",
+		 	"url": "https://embx214504.apl274.me/player/live.php?id=214504&w=100%&h=100%",
              		"isHost": "true"  
          		}, {
 			"name": "Canal 2",
@@ -927,13 +927,13 @@
 				"url": "https://utopianwilderness.com/embed/fhc0cutcd",
 				"referer" : "https://starlive.xyz/",
 				 "isHost": "true"
-					  }, {
-				"name": "Canal 8",
-				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
+				  }, {
+					"name": "Canal 8",
+					"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
 					 "url" : "https://unbiasedsenseevent.com/embed/df7nk3qyxpu1vx",
-						"referer": "https://buzztv.futbol/",
-				"isHost": "true"
-					 }, {
+					 "referer": "https://buzztv.futbol/",
+					"isHost": "true"
+				 }, {
 							"name": "Canal 9",
 							   "image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
 							  "url" : "https://jewelavid.com/jwembed.php?player=desktop&live=do40",
@@ -948,8 +948,9 @@
 							"isHost": "true"
 					}, {
 							"name": "Canal 11",
+							"info": "playuct1",
 							"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-							 "url": "https://sportskart.click/embed/stream-538.php",
+							 "url": "https://my.playuct1.com/erghedh4gdfhg4",
 							 "isHost": "true"
 							 }, {
 							"name": "Canal 12",
@@ -1009,7 +1010,7 @@
 				"name": "Canal 21",
 				"info": "",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				"url" :  "https://emb.apl270.me//player/live.php?id=210690&w=100%&h=100%",
+				"url" :  "https://emb.apl274.me//player/live.php?id=210777&w=100%&h=100%",
 				"referer" : "https://livetvstream.pro/",
 			 	"isHost":"true"
 			 }, {
@@ -2579,7 +2580,8 @@
 							  }, {
 								  "name": "Canal 1 [F1 inglés]",
 								  "image": "https://i.ibb.co/nwQrbvN/inglesa.webp",
-								  "url" : "http://sportsurge.stream/embed/f1.php",
+								  "url" : "https://streamocean.online/sportsurge/f1.php",
+                      						  "referer" : "http://sportsurge.stream/",
 								  "isHost": "true"
 							  }, {
 								  "name": "Canal 2 [F1 inglés]",
@@ -2589,7 +2591,7 @@
 							   }, {
 								  "name": "Canal 3 [F1 inglés]",
 								  "image": "https://i.ibb.co/nwQrbvN/inglesa.webp",
-								  "url" : "https://unbiasedsenseevent.com/embed/gy67an2ct",
+								  "url" : "https://abolishstand.net/embed/wl8gs0z8lq",
 								  "referer": "https://buzztv.futbol/",
 								  "isHost": "true"
 							   }, {
@@ -2977,8 +2979,10 @@
 						 "isHost": "true"
 								},{ 
 							 	"name": "Canal 5",
+								"info": "strOcean - UFC",
 								"image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
-							   	"url": "http://sportsurge.stream/embed/ufc.php",
+							   	"url": "https://streamocean.online/sportsurge/u1.php",
+                     						"referer" : "https://sportsurge.stream/",
 								"isHost" : "true"
 						  },{ 
 							 "name": "Canal 6",
@@ -2992,8 +2996,9 @@
 						 "isHost":"true"  
 					}, { 
 						 	"name": "Canal 8",
+							"info": "streamEast-io",
 							"image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
-						   	"url": "https://m.seast.io/eas/mufc1/strmrdr.m3u8",
+						   	"url": "https://www.thestreameast.to/ufc/ufc-294-makhachev-vs-volkanovski-2/",
              						"userAgent":""  
 					}, { 
 						 	"name": "Canal 9",
@@ -3013,6 +3018,7 @@
              						"isHost":"true"  
 					}, { 
 						 	"name": "Canal 12",
+							"info": "markkystr - UFC",
 							"image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
 						   	"url": "https://markkystreams.com/video/ufc/",
              						"isHost":"true"  
@@ -4293,6 +4299,18 @@
         									"stations": 
         							 		[
 											{
+												"name": "Austin 2023",
+												"info": "GP EEUU | Carrera",
+												"image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
+												"url": "",
+												"embed": "false"
+											}, {
+												"name": "Austin 2023",
+												"info": "GP EEUU | Sprint",
+												"image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
+												"url": "",
+												"embed": "false"
+											}, {
 												"name": "Lusail 2023",
 												"info": "GP Qatar | Carrera",
 												"image": "https://i.ibb.co/cwNgNtB/F1-GP-Qatar23.png",
@@ -4438,6 +4456,18 @@
         									"stations": 
 										[
 											{
+												"name": "Phillip Island 2023",
+												"info": "GP Australia | Carrera",
+												"image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
+												"url": "",
+												"embed": "false"
+											}, {
+												"name": "Phillip Island 2023",
+												"info": "GP Australia | Sprint",
+												"image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
+												"url": "",
+												"embed": "false"
+											}, {
 												"name": "Mandalika 2023",
 												"info": "GP Indonesia | Carrera",
 												"image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
