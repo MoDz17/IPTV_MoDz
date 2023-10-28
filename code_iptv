@@ -35,9 +35,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 21/10/2023",
+             "name": "Ultm. versión 28/10/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 21/10/2023",
+            "info": "última versión actualizada el 28/10/2023",
             "stations": []
 	}, 
 	
@@ -86,15 +86,15 @@
 			"isHost":"true"
 		 }, {
 				"name": "Canal 3",
-				"info": "m3u8",
+				"info": "flbl1",
 				"image": "https://i.ibb.co/HHL04RY/logo-vamos.png",
-			   	"url": "http://51.222.154.193:80/live/346C0F77EDBDF396B9EF8A379964C00A/337813.m3u8",
-			 	"userAgent" : ""
+			   	"url": "http://flbl1.112421.net:8082/337813/mpegts?token=53A52B5776EAB1ED223024E4C3ACF642",
+				"userAgent": "PlusMediaPlayer/0.0.9"
 				}, {
 				"name": "Canal 4",
 				"image": "https://i.ibb.co/HHL04RY/logo-vamos.png",
-				"url" : "https://sportskart.click/embed/stream-521.php",
-				"isHost":"true"
+				"url": "http://s1.pubnow.info:8080/morotvsktpe72772/KhPUdUD2kF2w/125654",
+				"userAgent" : "true"
 				}, {
 					"name": "Canal 5",
 					"info": "abol-rq4g6 | 1str",
@@ -168,7 +168,7 @@
 			}, {
 				"name": "Canal 3",
 				"image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
-				"url": "https://sportskart.click/embed/stream-435.php",
+				"url": "https://embx214386.apl274.me//player/live.php?id=214386&w=100%&h=100%",
 				 "isHost" : "true"
 			 }, {
 				"name": "Canal 4",
@@ -452,8 +452,8 @@
 				"name": "Canal 4",
 				"info": "php",
 				"image": "https://i.ibb.co/sVPN8q6/logo-golf.png",
-				"url" : "https://sportskart.click/embed/stream-528.php",
-				"isHost": "true"
+				"url" : "http://s1.pubnow.info:8080/morotvsktpe72772/KhPUdUD2kF2w/125618",
+				"userAgent": ""
 			 }, {
 				"name": "Canal 5",
 				"image": "https://i.ibb.co/sVPN8q6/logo-golf.png",
@@ -633,7 +633,7 @@
 			   },{ 
 			"name": "Canal 3",
 			   "image": "https://i.ibb.co/vhNCnrq/DAZN-2-Logo-Sin-Fondo.webp",
-			  "url": "https://sportskart.click/embed/stream-446.php",
+			  "url": "https://embx211558.apl282.me//player/live.php?id=211558&w=100%&h=100%",
 			"isHost": "true"
 		  },{ 
 				"name": "Canal 4",
@@ -845,6 +845,11 @@
 		"referer": "https://macron.xyz",
 		"isHost": "true"
 	}, {
+		"name": "Canal 4",
+		"image": "https://i.ibb.co/Ntcj66Q/logo-es1.webp",
+		"url": "http://s1.pubnow.info:8080/morotvsktpe72772/KhPUdUD2kF2w/125613",
+            	"userAgent": ""
+	}, {
 		"name": "Canal 1",
 		"image": "https://i.ibb.co/HLcq8Cj/logo-es2.webp",
 		"url" : "https://sportskart.click/embed/stream-525.php",
@@ -861,6 +866,11 @@
 		"url": "https://warnforlese.net/embed/xlzl5is",
 		"referer": "https://macron.xyz",
 		"isHost": "true"
+	}, {
+		"name": "Canal 4",
+		"image": "https://i.ibb.co/HLcq8Cj/logo-es2.webp",
+		"url": "http://s1.pubnow.info:8080/morotvsktpe72772/KhPUdUD2kF2w/125614",
+            	"userAgent": ""
 	}, {
 		"name": "Canal 1",
 		"image": "https://i2.wp.com/ossom.cl/wp-content/uploads/2020/03/red_bull_tv.jpg?fit=610%2C350&ssl=1",
@@ -1152,9 +1162,9 @@
              			"isHost": "true"
                      	}, {
                 		 "name": "Canal 44",
-				"info": "one-ucplay2",
+				"info": "php",
                     		"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-                		"url": "https://one.ucplay2.com/hdfhdfh7vgdfhdfgmm",
+                		"url": "https://dlhd.sx/tele/stream-445.php",
              			"isHost": "true"
                     	}, { 
                  		"name": "Canal 45",
@@ -1260,9 +1270,9 @@
                  		"isHost": "true"
                     	}, { 
                  		"name": "Canal 63",
-				"info": "",
+				"info": "emb%",
                     		"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-                      		"url": "https://embx202281.apl202.me/player/live.php?id=210570&w=100%&h=100%",
+                      		"url": "https://emb.apl274.me//player/live.php?id=210615&w=100%&h=100%",
 				"isHost" : "true"
 			}, { 
                  		"name": "Canal 64",
@@ -3812,7 +3822,7 @@
 		 			}, {
 							"name": "Canal 7",
 							"image": "https://i.ibb.co/wYk6sYX/logo-Mundo-Toro.png",
-							"url":"http://185.71.64.28:2052/live/belguimm/PT88yuPMSsBt/96431.m3u8",
+							"url":"http://s1.pubnow.info:8080/morotvsktpe72772/KhPUdUD2kF2w/125619",
 							"userAgent" : ""
 		 			}, {
 							"name": "Canal 8",
@@ -4299,6 +4309,12 @@
         									"stations": 
         							 		[
 											{
+												"name": "México City 2023",
+												"info": "GP México | Carrera",
+												"image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
+												"url": "",
+												"embed": "false"
+											}, {
 												"name": "Austin 2023",
 												"info": "GP EEUU | Carrera",
 												"image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
@@ -4456,6 +4472,18 @@
         									"stations": 
 										[
 											{
+												"name": "Buriram 2023",
+												"info": "GP Tailandia | Carrera",
+												"image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
+												"url": "",
+												"embed": "false"
+											}, {
+												"name": "Buriram 2023",
+												"info": "GP Tailandia | Sprint",
+												"image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
+												"url": "",
+												"embed": "false"
+											}, {
 												"name": "Phillip Island 2023",
 												"info": "GP Australia | Carrera",
 												"image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
