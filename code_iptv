@@ -383,7 +383,8 @@
 			}, {
 				"name": "Canal 3",
 				"image": "https://i.ibb.co/4NvkCVR/logo-deportes.png",
-				 "url": "https://emb.apl287.me/player/live.php?id=216539&w=100%&h=100%",
+				"url" :  "https://embx216541.apl288.me/player/live.php?id=216541&w=100%&h=100%",
+                                "referer" : "https://livetvstream.pro/",
 				"isHost": "true"
 			 }, {
 			 	"name": "Canal 4",
@@ -394,8 +395,9 @@
 			 }, {
 				"name": "Canal 5",
 				"image": "https://i.ibb.co/4NvkCVR/logo-deportes.png",
-				"url":"https://daddy.yurendtv.biz.id/https://ddy6.onlinewebtv.lol:443/ddy6/premium436/tracks-v1a1/mono.m3u8",
-				"userAgent" : ""
+				"url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=438",
+              			"referer" : "https://dlhd.sx/",
+			 	"isHost":"true"
 			 }, {
 			   	"name": "Canal 6",
 			   	"info": "php",
@@ -448,6 +450,12 @@
 				"image": "https://i.ibb.co/sVPN8q6/logo-golf.png",
 				"url" : "https://daddy.yurendtv.biz.id/https://ddy6.onlinewebtv.lol:443/ddy6/premium528/tracks-v1a1/mono.m3u8",
 			   	"userAgent" : ""
+			 }, {
+				"name": "Canal 6",
+				"image": "https://i.ibb.co/sVPN8q6/logo-golf.png",
+				"url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=528",
+              			"referer" : "https://dlhd.sx/",
+			 	"isHost":"true"
 			 }, {
 				"name": "[CERRADO]",
 				"image": "https://i.ibb.co/MMd7zpC/logo-toros.png",
@@ -1046,8 +1054,7 @@
 				"name": "Canal 26",
 				"info": "php",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				"url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=84",
-              			"referer" : "https://dlhd.sx/",
+				"url" : "https://pahaplayer.shop/live/pahe084ch.php",
 				"isHost": "true"
 			}, {
 				"name": "Canal 27",
@@ -1421,10 +1428,11 @@
            				"isHost" : "true"
 				}, {
 					"name": "Canal 8",
-					"info": "m3u8",
+					"info": "php",
 	   				"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
-	   				"url": "http://winscript.xyz/pruebas/gtapp/tv/75.m3u8",
-					"userAgent": ""
+	   				"url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=15",
+              				"referer" : "https://dlhd.sx/",
+			 		"isHost":"true"
 				}, {
 					"name": "Canal 9",
 					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
@@ -2573,10 +2581,10 @@
 								"userAgent": ""
 							  }, {
 								"name": "Canal 29",
-								"info": "minafire",
+								"info": "php",
 								"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-								"url":"http://minafire.com:8080/live/BonIzCKME7/zPHE7oQejS/1109.m3u8",
-								"userAgent" : ""
+								"url":"https://ltinversionistas.com/jactv/daznf1.php",
+								"isHost":"true"
 							  }, {
 								"name": "Canal 30",
 								"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
@@ -3572,14 +3580,16 @@
               		"referer" : "https://dlhd.sx/",
 			"isHost": "true" 
 		 }, {
-             		 "name": "Sky Sports Darts",
+             		"name": "Sky Sports Darts",
 			"image": "https://mir-s3-cdn-cf.behance.net/project_modules/fs/390c6d61066503.5a70fb4ebedee.jpg",
-			"url": "https://starlive.xyz/embed.php?id=liveSP1",
-			"isHost": "true"
-			  }, {
+			"url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=36",
+              		"referer" : "https://dlhd.sx/",
+			"isHost":"true"
+	  	}, {
               		"name": "Sky Sports Darts",
 			"image": "https://mir-s3-cdn-cf.behance.net/project_modules/fs/390c6d61066503.5a70fb4ebedee.jpg",
-			"url": "https://starlive.xyz/embed.php?id=liveDazn3",
+			"url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=589",
+              		"referer" : "https://dlhd.sx/",
 			"isHost": "true"
 		 }, {
               		"name": "Sky Sport Arena",
