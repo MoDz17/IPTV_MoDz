@@ -958,8 +958,47 @@
 									"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
 									"url" :  "http://127.0.0.1:6878/ace/getstream?id=d6cdd724a97fcf851e7ef641c28d6beb8663496e",
 						"embed": "true"
-					}
-							] 
+					}, 
+
+			
+				{ 
+                	 		"name": "Liga Fem6",
+					"info": "base-host",
+                    			"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
+                    			"url" :  "acestream://d4627f7b6b237a8556819445b3283d866caceca2",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Liga Fem6",
+					"info": "base-agent",
+                    			"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
+                    			"url" :  "acestream://d4627f7b6b237a8556819445b3283d866caceca2",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Liga Fem6",
+					"info": "base-embed",
+                    			"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
+                    			"url" :  "acestream://d4627f7b6b237a8556819445b3283d866caceca2",
+					"embed": "true"
+				}, { 
+                	 		"name": "Liga Fem6",
+					"info": "get-host",
+                    			"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=d4627f7b6b237a8556819445b3283d866caceca2",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Liga Fem6",
+					"info": "get-agent",
+                    			"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=d4627f7b6b237a8556819445b3283d866caceca2",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Liga Fem6",
+					"info": "get-embed",
+                    			"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=d4627f7b6b237a8556819445b3283d866caceca2",
+					"embed": "true"
+				}
+				    ] 
 					}, {
 								"name":"Canales variados",
 								"image":"https://i.ibb.co/XC8bnHX/logo-soon.png",
@@ -1513,7 +1552,7 @@
 			}, {
 		"name": "Canal 15",
 	   	"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-	   	"url":"https://huffedpleuch.in/player/05d29a6d25119f3a-82c1578f44f99b94fe664dd0eb48eef1",
+	   	"url":"https://tastyturbine.com/player/0bda1fae147b6b8b-29bafe6b6febee6d7b04b919fc5436ea",
 	   	"isHost" : "true"
 	 		}, {
 			"name": "Canal 16",
@@ -3570,8 +3609,8 @@
 							   }, {
 								  "name": "MotoGP Android/iOS",
 								  "image": "https://i.ibb.co/71RQmYh/MJ-MGP.jpg",
-								  "url" : "",
-								  "userAgent": ""
+								  "url":"https://tastyturbine.com/player/0bda1fae147b6b8b-29bafe6b6febee6d7b04b919fc5436ea",
+								  "isHost": "true"
 							   }, {
 								  "name": "Canal 1",
 								  "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
@@ -3716,6 +3755,12 @@
 								"image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
 								"url": "https://candlesouth.net/embed/jwpz3ec0iqz",
 								"referer": "https://l1l1.to/",
+             							"isHost": "true"
+							  }, {
+								"name": "Canal 24",
+								"info": "emb",
+								"image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
+								"url" : "http://emb.apl291.me/live/rer52/",
              							"isHost": "true"
 							  }]
 						  }, 
