@@ -1,13 +1,13 @@
 {
     "name": "IPT - ADICTOS",
     "author": "MoDz",
-    "image": "https://i.ibb.co/PGL5P2Z/Main-pic-Logo-and-Banner.jpg",
+    "image": "https://i.ibb.co/ncqsL9X/Pic-Profile-N.png",
     "info": "IPTV oficial de FUTBOL-ADICTOS",
     "telegram": "+wIBp4fXctzpjYTU0",
     "url": "https://raw.githubusercontent.com/MoDz17/IPTV_MoDz/main/code_iptv",
     "groups": [{
              "name": "FUTBOL - ADICTOS",
-            "image": "https://i.ibb.co/PGL5P2Z/Main-pic-Logo-and-Banner.jpg",
+            "image": "https://i.ibb.co/ncqsL9X/Pic-Profile-N.png",
             "info": "",
             "stations": [
 	    	{
@@ -24,9 +24,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 21/11/2023",
+             "name": "Ultm. versión 03/12/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 21/11/2023",
+            "info": "última versión actualizada el 03/12/2023",
             "stations": []
 	}, 
 	
@@ -56,10 +56,6 @@
 		}, {
 			"name": "",
 		   	"image": "https://i.ibb.co/QXybG24/Disney-Plus.png",    
-		  	"url" : ""
-		}, {
-			"name": "",
-		   	"image": "https://i.ibb.co/S5MFL9M/HBOMax.png",    
 		  	"url" : ""
 		}, {
 			"name": "",
@@ -2716,16 +2712,18 @@
 				   "isHost":"true"
 			 }, {
 				   "name": "Canal 10",
-				   "info": "null",
+				   "info": "wwwstream",
 				   "image": "https://i.ibb.co/HHL04RY/logo-vamos.png",
-				   "url":"",
-				   "userAgent" : ""
+				   "url" :  "https://wwwstream.pro/embed/DNUM74moiV0r",
+				   "referer" : "https://kingstreamz.lol/",
+			 	   "isHost":"true"
 			 }, {
 				   "name": "Canal 11",
-				   "info": "null",
+				   "info": "wwwstream",
 				   "image": "https://i.ibb.co/HHL04RY/logo-vamos.png",
-				   "url":"",
-				   "userAgent" : ""
+				   "url" :  "https://wwwstream.pro/embed/0Jh5TMBIVlm",
+				   "referer" : "https://kingstreamz.lol/",
+			 	   "isHost":"true"
 			 }, {
 				   "name": "Canal 12",
 				   "info": "ucplay2",
@@ -2733,11 +2731,11 @@
 				   "url":"https://hd.ucplay2.com/vgfsdghd4hfhjcit",
 				   "isHost":"true"
 			 }, {
-				   "name": "Canal 1",
-				   "info": "null",
-				   "image": "https://i.ibb.co/ZhwwZZ7/logo-Vamos-Ellas.webp",
-				   "url":"",
-				   "userAgent" : ""
+				   "name": "Canal 13",
+				   "info": "php",
+				   "image": "https://i.ibb.co/HHL04RY/logo-vamos.png",
+				   "url":"https://ltinversionistas.com/jactv/mvamos1.php",
+				   "isHost":"true"
 			 }, {
 				"name": "Canal 1",
 				"info": "php - index",
@@ -2980,10 +2978,10 @@
 				 "isHost" : "true"
 			}, {
 				"name": "Canal 3",
+				"info":"php",
 				"image": "https://i.ibb.co/4NvkCVR/logo-deportes.png",
-				"url" :  "https://embx216541.apl288.me/player/live.php?id=216541&w=100%&h=100%",
-                                "referer" : "https://livetvstream.pro/",
-				"isHost": "true"
+				"url" :  "https://ltinversionistas.com/jactv/mdeportesesp.php",
+			  	"isHost": "true"
 			 }, {
 			 	"name": "Canal 4",
                     		"image": "https://i.ibb.co/4NvkCVR/logo-deportes.png",
@@ -3187,9 +3185,11 @@
                     "isHost" : "true"
 			}, {
 		"name": "Canal 15",
+		"info":"wwwstream",
 	   	"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-	   	"url":"https://tastyturbine.com/player/0bda1fae147b6b8b-29bafe6b6febee6d7b04b919fc5436ea",
-	   	"isHost" : "true"
+	   	"url" :  "https://wwwstream.pro/embed/vImWXZZOANZq",
+		"referer" : "https://kingstreamz.lol/",
+		 "isHost":"true"
 	 		}, {
 			"name": "Canal 16",
 			   "image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
@@ -3209,9 +3209,10 @@
 	 			"isHost": "true"  
  			}, {
 				"name": "Canal 19",
+				"info":"php",
 				"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-				"url":"https://daddy.yurendtv.biz.id/https://ddy5.onlinewebtv.lol:443/ddy5/premium445/tracks-v1a1/mono.m3u8",
-				"userAgent" : ""
+				"url": "https://ltinversionistas.com/jactv/mdazn1.php",
+             			"isHost": "true"
 			}, {
 				"name": "Canal 20",
 				"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
@@ -3510,8 +3511,50 @@
 		"name":"Canal 2",
 		"image":"https://i2.wp.com/ossom.cl/wp-content/uploads/2020/03/red_bull_tv.jpg?fit=610%2C350&ssl=1",
 		"url":"https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8"
-		}]
-	}, 
+	}, {
+		"name": "Canal 1",
+		"info": "abol-1qteg | 1str",
+		"image": "https://i.ibb.co/CtV2jfV/Champions-F.jpg",
+	 	"url": "https://abolishstand.net/embed/1qteg",
+            	"referer" : "https://1stream.buzz/",
+                 "isHost": "true"
+	}, {
+		"name": "Canal 2",
+		"info": "do11",
+		"image": "https://i.ibb.co/CtV2jfV/Champions-F.jpg",
+		"url": "https://vikistream.com/embed2.php?player=desktop&live=do11",
+		"referer": "https://l1l1.to/",
+	 	"isHost":"true"
+	}, {
+		"name": "Canal 3",
+		"info": "abol-g16dv | 1str",
+		"image": "https://i.ibb.co/CtV2jfV/Champions-F.jpg",
+		"url" :  "https://abolishstand.net/embed/g16dv8bwe2pkg",
+		"referer" : "https://elixx.xyz/",
+		"isHost":"true"
+	}, {
+		"name": "Canal 4",
+		"info": "abol-x3eui | 1str",
+		"image": "https://i.ibb.co/CtV2jfV/Champions-F.jpg",
+		"url" :  "https://abolishstand.net/embed/x3euisb4tt7",
+		"referer" : "https://elixx.xyz/",
+		"isHost":"true"
+	}, {
+		"name": "Canal 5",
+		"info": "abol-lhfsv | 1str",
+		"image": "https://i.ibb.co/CtV2jfV/Champions-F.jpg",
+		"url" :  "https://abolishstand.net/embed/lhfsvq5z",
+		"referer" : "https://elixx.xyz/",
+		"isHost":"true"
+	}, {
+		"name": "Canal 6",
+		"info": "abol-j5eg9s | 1str",
+		"image": "https://i.ibb.co/CtV2jfV/Champions-F.jpg",
+		"url" :  "https://abolishstand.net/embed/j5eg9s",
+		"referer" : "https://1stream.buzz/",
+		"isHost":"true"
+	}]
+}, 
 	
 	{
 		"name": "LaLiga",
@@ -3650,7 +3693,7 @@
 				"name": "Canal 21",
 				"info": "",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				"url" :  "https://emb.apl287.me//player/live.php?id=210690&w=100%&h=100%",
+				"url" :  "https://emb.apl296.me//player/live.php?id=210690&w=100%&h=100%",
 				"referer" : "https://livetvstream.pro/",
 			 	"isHost":"true"
 			 }, {
@@ -3673,9 +3716,11 @@
 				 "isHost": "true" 
 			}, {
 				"name": "Canal 25",
+				"info": "php",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				"url" : "https://starlive.xyz/ch/espndeportes.php",
-				 "isHost": "true" 
+				"url" : "https://gameshdlive.net/new/ch4.php",
+                  		"referer" : "https://gameshdlive.net/",
+				"isHost":"true"
 			}, {
 				"name": "Canal 26",
 				"info": "php",
@@ -3691,17 +3736,17 @@
 				"isHost": "true" 
 			}, {
 				"name": "Canal 28",
+				"info": "php",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				"url" : "https://e3mp0v3xclyp2g.trustexploration.com/embed/ed8cxtbybq3x",
-				 "referer": "https://bahiadeportes.com/",
-				 "isHost": "true" 
+				"url": "https://ltinversionistas.com/jactv/mlaliga.php",
+             			"isHost": "true" 
 			}, {
 				"name": "Canal 29",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
 				"url" : "https://emb.apl232.me/player/live.php?id=211608&w=100%&h=100%",
 				 "isHost": "true" 
 			}, {
-				   "name": "Canal 30",
+				"name": "Canal 30",
 				"info": "t7w70x",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
 				 "url" : "https://strayindicate.net/embed/t7w70x7v57",
@@ -3743,10 +3788,10 @@
 				   "isHost": "true"
 			 }, {
 				"name": "Canal 36",
-				"info": "m3u8",
-				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				"url" : "http://181.209.173.10:9000/play/a05v/index.m3u8",
-				"userAgent": ""
+				"info": "wwwstream",
+				"url" : "https://wwwstream.pro/embed/0Jh5TMBIVlm",
+			     	"referer" :  "https://kingstreamz.lol/",
+			 	"isHost":"true"
 			 }, {
 				   "name": "Canal 37",
 				"info": "abol-hsg7m | 1str",
@@ -3756,11 +3801,10 @@
 				   "isHost": "true"
 			 }, {
 				"name": "Canal 38",
-				"info": "null",
+				"info": "emb",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				"url" : "",
-				"referer": "",
-				"isHost": "false"
+				"url" : "http://emb.apl294.me/live/rur52/",
+				"isHost": "true"
 			 }, {
 				   "name": "Canal 39",
 				"info": "abol-tqhqq | 1str",
@@ -3793,11 +3837,12 @@
                   		"referer": "https://buzztv.futbol/",
              			"isHost": "true"
                      	}, {
-                		 "name": "Canal 44",
-				"info": "php",
+                		"name": "Canal 44",
+				"info": "wwwstream",
                     		"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-                		"url": "https://dlhd.sx/tele/stream-445.php",
-             			"isHost": "true"
+                		"url" : "https://wwwstream.pro/embed/F5uhPdQR99xn",
+                  		"referer" : "https://kingstreamz.lol/",
+				"isHost":"true"
                     	}, { 
                  		"name": "Canal 45",
                     		"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
@@ -3816,10 +3861,11 @@
                  		"isHost": "true"
                      	}, { 
                  		"name": "Canal 48",
-				"info": "m3u8",
+				"info": "b4ucast",
                     		"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-                    		"url" :  "http://185.188.188.235/live/novasport4/playlist.m3u8",
-				"userAgent": ""
+                    		"url" : "https://b4ucast.com/dhonka3.php?player=desktop&live=laligatvhd",
+                  		"referer" : "https://b5yucast.com/",
+			 	"isHost":"true"
                      	}, { 
                  		"name": "Canal 49",
 				"info": "php",
@@ -3904,7 +3950,7 @@
                  		"name": "Canal 63",
 				"info": "embx%",
                     		"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-                      		"url": "https://embx216559.apl287.me//player/live.php?id=216559&w=100%&h=100%",
+                      		"url": "https://emb.apl296.me//player/live.php?id=216559&w=100%&h=100%",
 				"referer" : "https://aliezstream1.pro/",
 				"isHost" : "true"
 			}, { 
@@ -4141,9 +4187,8 @@
 				}, {
 					"name": "Canal 22",
 					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
-					"url" : "https://jewelavid.com/jwembed.php?player=desktop&live=do30",
-			 		"referer": "https://l1l1.to/",
-					 "isHost": "true"
+					"url" : "https://embx216101.apl296.me//player/live.php?id=216101",
+					"isHost": "true"
 			  	}, {
 					"name": "Canal 23",
 					"info": "wwwstream",
@@ -4153,10 +4198,11 @@
 			 		"isHost": "true"
 			  	}, {
 					   "name": "Canal 24",
-					   "info": "php",
+					   "info": "wwwstream",
 					   "image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
-					   "url": "https://sportskart.click/embed/stream-539.php",
-					   "isHost": "true"
+					   "url": "https://wwwstream.pro/embed/UqoaakeCQE1a",
+					   "referer" : "https://kingstreamz.lol/",
+			 		   "isHost": "true"
 				}, { 
                  				"name": "Canal 25",
 						"info": "abol-pyxs8 | 1str",
@@ -4264,11 +4310,10 @@
                  					"isHost": "true"
 						}, {
 							"name": "Canal 14",
-							"info": "",
+							"info": "php",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-					   		"url": "https://www.player.tutelehd5.xyz/onlinemo.php?a=40257",
-							"referer": "https://l1l1.to/",
-							 "isHost": "true"
+					   		"url": "https://gameshdlive.net/new/ch5.php",
+             						"isHost": "true"
 						}]
 					}, {
 						"name": "Bundesliga",
@@ -5039,10 +5084,10 @@
 								"isHost":"true"
 							   }, {
 								"name": "Canal 1",
-								"info": "m3u8",
+								"info": "php",
 	   							"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-	   							"url":"https://mcdn.mrgamingstreams.com/mrgamingf1es.m3u8",
-	   							"userAgent" : ""
+	   							"url": "https://ltinversionistas.com/jactv/daznf1.php",
+             							"isHost": "true"
 	 						}, {
 								"name": "Canal 2",
 							  	"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
@@ -5646,7 +5691,7 @@
 						  },{ 
 							 "name": "Canal 6",
 								"image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
-							   "url": "http://sportsurge.stream/embed/boxing.php",
+							   "url": "https://gameshdlive.net/new/ch30.php",
 						 "isHost":"true"  
 						 },{ 
 							 "name": "Canal 7",
@@ -5662,7 +5707,7 @@
 					}, { 
 						 	"name": "Canal 9",
 							"image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
-						   	"url": "http://sportsurge.stream/embed/boxing2.php",
+						   	"url": "https://gameshdlive.net/new/ch31.php",
              						"isHost":"true"  
 					}, {
 						 	"name": "Canal 10",
@@ -5730,8 +5775,14 @@
 						   	"url": "https://candlesouth.net/embed/3d44n21uf8pkocd",
             						"referer" : "https://l1l1.to/",
 						   	"isHost":"true"
-					 }]
-					   }, {
+					 }, { 
+							 	"name": "Canal 22",
+								"info": "gameshd - UFC",
+								"image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
+							   	"url" :  "https://gameshdlive.net/new/ch29.php",
+			 					"isHost":"true"
+					  }]
+				   }, {
 						"name": "Béisbol",
 						"image": "https://i.ibb.co/4Km4DJp/MLB-logo.png",
 						"info": "",
@@ -6104,6 +6155,12 @@
               		"referer" : "https://dlhd.sx/",
 			"isHost":"true"
 		}, {
+			"name": "Fox Sports 1.2",
+			"info": "php",
+			"image": "https://i.ibb.co/55GZL1c/logo-fs1.png",
+                  	"url" : "https://ltinversionistas.com/jactv/foxsp.php",
+			"isHost":"true"
+		}, {
 			"name": "Fox Sports 2",
 			"info": "php - index",
 			"image": "https://i.ibb.co/tqfYrvH/logo-fs2.webp",
@@ -6111,11 +6168,23 @@
               		"referer" : "https://dlhd.sx/",
 			"isHost" : "true"
 		}, {
+			"name": "Fox Sports 2.2",
+			"info": "php",
+			"image": "https://i.ibb.co/tqfYrvH/logo-fs2.webp",
+			"url" : "https://ltinversionistas.com/jactv/foxsp2.php",
+			"isHost" : "true"
+		}, {
 			"name": "Fox Sports 3",
 			"info": "php - index",
 			"image": "https://i.ibb.co/xS4PqcP/logo-fs3.png",
 		 	"url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=789",
               		"referer" : "https://dlhd.sx/",
+			"isHost" : "true"
+           	}, {
+			"name": "Fox Sports 3.2",
+			"info": "php",
+			"image": "https://i.ibb.co/xS4PqcP/logo-fs3.png",
+		 	"url" : "https://ltinversionistas.com/jactv/foxsp3.php",
 			"isHost" : "true"
            	}, {
 			"name": "TUDN",
@@ -6139,27 +6208,24 @@
 		}, {
 			"name": "DirecTV Sports",
 			"image": "https://i.ibb.co/xYZB8br/logo-dtvs.png",
-			"url": "https://www.tutele.nl/online.php?a=8",
-			 "referer" : "https://www.freelive365.net/",
-	           	"isHost": "true"
+			"url": "https://ltinversionistas.com/jactv/directv.php",
+			"isHost" : "true"
 		}, {
-			"name": "DirecTV Sports",
+			"name": "DirecTV Sports+",
 			"image": "https://i.ibb.co/xYZB8br/logo-dtvs.png",
-			"url": "https://coolcast2.com/embed.php?player=desktop&live=directvlive",
-                         "referer" : "https://tucanaldeportivo.com/",
-			 "isHost" : "true"
+			"url": "https://ltinversionistas.com/jactv/directvplus.php",
+	           	"isHost": "true"
               }, {
 			"name": "DirecTV Sports 2",
 			"image": "https://i.ibb.co/5vNqyrJ/logo-dtvs2.png",
-			"url": "https://www.tutele.nl/online.php?a=7",
-			 "referer" : "https://www.freelive365.net/",
+			"url": "https://ltinversionistas.com/jactv/directv2.php",
 	           	"isHost": "true"
                }, {
 			"name": "TyC Sports",
 			"info": "php",
 			"image": "https://i.ibb.co/ZfvKGP2/logo-TyC.png",
-			"url": "https://sportskart.click/embed/stream-746.php",
-			 "isHost" : "true"
+			"url": "https://ltinversionistas.com/jactv/tyc.php",
+			"isHost": "true"
                }, {
 			"name": "TyC Sports",
 			"info": "m3u8",
