@@ -24,9 +24,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 17/12/2023",
+             "name": "Ultm. versión 31/12/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 17/12/2023",
+            "info": "última versión actualizada el 31/12/2023",
             "stations": []
 	}, 
 	
@@ -3656,7 +3656,7 @@
 				"name": "Canal 21",
 				"info": "",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				"url" :  "https://emb.apl299.me/player/live.php?id=207274&w=100%&h=100%",
+				"url" :  "https://emb.apl299.me//player/live.php?id=216559&w=100%&h=100%",
 			 	"isHost":"true"
 			 }, {
 				"name": "Canal 22",
@@ -3961,10 +3961,10 @@
                  		"isHost": "true"
 			}, { 
                  		"name": "Canal 71",
-				"info": "tutlehd",
+				"info": "wwwstream",
                     		"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-                      		"url": "https://tutlehd.xyz/online.php?id=5967",
-				"referer": "https://latele-envivo.com/",
+                      		"url" : "https://wwwstream.pro/embed/KRlwgfAbMLFo",
+                  		"referer" : "https://kingstreamz.lol/",
                  		"isHost": "true"
 			}, { 
                  		"name": "Canal 72",
@@ -4946,7 +4946,7 @@
 		              }]
 			                      }, {
 						"name": "Liga Endesa",
-						"image": "https://i.ibb.co/gyqKGNF/logo-Endesa.jpg",
+						"image": "https://as01.epimg.net/baloncesto/imagenes/2017/07/25/acb/1501004759_569854_1501004993_noticia_normal.jpg",
 						"info": "",
 						"stations": [{
 								"name": "Canal 1",
@@ -5770,7 +5770,7 @@
 					}]
 				   }, {
 						"name": "Béisbol",
-						"image": "https://i.ibb.co/4Km4DJp/MLB-logo.png",
+						"image": "https://logos-marcas.com/wp-content/uploads/2021/09/MLB-Logo.png",
 						"info": "",
 						"stations": 
 			   		[		
@@ -6413,10 +6413,16 @@
 		 "isHost": "true"  
 		  }]
 		}, {
-			"name": "TV España",
-			"image": "https://i.ibb.co/f8KVfs4/bandera-esp.webp",
-			"info": "",
-			"stations": [{
+			"name":"TV España",
+			"image":"https://i.ibb.co/f8KVfs4/bandera-esp.webp",
+			"groups":
+				[
+					{
+							"name":"TDT",
+							"image":"https://i0.wp.com/asturiaslaica.com/wp-content/uploads/2019/04/tv-static.gif?resize=444%2C277&ssl=1",
+							"stations": 
+							 [
+						  {
 							 "name": "La 1",
 							"image": "https://i.ibb.co/GHqBPVz/La1-logo.png",
 							"url":"https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8",
@@ -6427,25 +6433,100 @@
 						   "url":"https://rtvelivestream-clnx.rtve.es/rtvesec/la2/la2_main_dvr_720.m3u8",
 						   "userAgent" : ""
 						 }, {
-							"name": "Telemadrid",
+							"name": "Antena 3",
+							"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1200px-Antena_3_%282017%29.svg.png",
+							"url":"https://www.atresplayer.com/directos/antena3/",
+							"embed": "true"
+						}, {
+							"name": "Cuatro",
+							"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Cuatro_logo.svg/2048px-Cuatro_logo.svg.png",
+							"url":"https://www.mitele.es/directo/cuatro/",
+							"embed": "true"
+						}, {
+						   "name": "Telecinco",
+						   "image": "https://i.ibb.co/Jqn9qfk/logo-telecinco.png",
+						   "url":"https://www.mitele.es/directo/telecinco/",
+						   "embed": "true"
+						 }, {
+							"name": "La sexta",
+							"image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/LaSexta_HD_Logo_2016.png",
+							"url":"https://www.atresplayer.com/directos/lasexta/",
+							"embed": "true"
+						}, {
+						   "name": "Telemadrid",
 						   "image": "https://i.ibb.co/nLx8TJf/telemadrid-logo.png",
-						   "url":"https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/bitrate_1.m3u8",
+						   "url":"https://telemadrid-23.secure2.footprint.net/master.m3u8",
 						   "userAgent" : ""
 						 }, {
 							"name": "La Otra",
-							"image": "https://i.ibb.co/hKbFJvp/logo-la-Otra.png",
-							"url":"https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/bitrate_1.m3u8",
+							"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ87tRmtsd3_y0dHjOhbq7iTlzWF0iiKBRRGYvMGHpOSQ9bnEteT37n5gJ4RVmRM-SUiXEqMZhs5C_UoQHlf3vap698eScl0DEd7zAQ70ur6V-Lysv-a8lBHz5gx0XN8MjOKbmCZWnrSHrh7c0fGF7jknKteToo-2PW52TzV_kPL_JqJzST56dPP7HrfhI/w735-h264/logo_laOtra.png",
+							"url":"https://laotra-1-23.secure2.footprint.net/master.m3u8",
 							"userAgent" : ""
 		 				}, {
-						   "name": "Telecinco",
-						   "image": "https://i.ibb.co/Jqn9qfk/logo-telecinco.png",
-						   "url":"https://www.telecinco.es/endirecto/",
-						   "embed": "true"
-						 }, {
+							"name": "Neox",
+							"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/2560px-Neox.svg.png",
+							"url":"https://www.atresplayer.com/directos/neox/",
+							"embed": "true"
+						}, {
+							"name": "Nova",
+							"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nova.svg/2560px-Nova.svg.png",
+							"url":"https://www.atresplayer.com/directos/nova/",
+							"embed": "true"
+						}, {
+							"name": "Mega",
+							"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/2560px-MEGA.svg.png",
+							"url":"https://www.atresplayer.com/directos/mega/",
+							"embed": "true"
+						}, {
+							"name": "FDF",
+							"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/1200px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png",
+							"url":"https://www.mitele.es/directo/fdf/",
+							"embed": "true"
+						}, {
+							"name": "Energy",
+							"image": "https://album.mediaset.es/file/10002/2017/11/21/energy_circular_500_-1_4048.png",
+							"url":"https://www.mitele.es/directo/energy/",
+							"embed": "true"
+						}, {
+							"name": "Divinity",
+							"image": "https://album.mediaset.es/file/10002/2017/11/17/divinity_circular_500_-1_d687.png",
+							"url":"https://www.mitele.es/directo/divinity/",
+							"embed": "true"
+						}, {
+							"name": "BeMad",
+							"image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Be-Mad.png",
+							"url":"https://www.mitele.es/directo/bemad/",
+							"embed": "true"
+						}, {
+							"name": "MTMAD",
+							"image": "https://album.mediaset.es/parrillas/2022/09/01/eee72e5a3dbf7eb537bf4521323f87961662039808.png",
+							"url":"https://www.mitele.es/directo/mtmad-24h/",
+							"embed": "true"
+						}, {
+							"name": "DMAX",
+							"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DMax_Espa%C3%B1a.svg/1200px-DMax_Espa%C3%B1a.svg.png",
+							"url":"http://gavog.com/es/watch/span/dmaxtv.php",
+							"isHost" : "true"
+						}, {
+							"name": "DKISS",
+							"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/DKISS_2019_logo.svg/1200px-DKISS_2019_logo.svg.png",
+							"url":"http://gavog.com/es/watch/span/DKIISS.php",
+							"isHost" : "true"
+						}, {
+							"name": "Paramount Channel",
+							"image": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/59/Paramount_Channel.svg/1200px-Paramount_Channel.svg.png",
+							"url":"http://gavog.com/es/watch/span/Paramunt.php",
+							"isHost" : "true"
+						}, {
+							"name": "A3 Series",
+							"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png",
+							"url":"https://www.atresplayer.com/directos/atreseries/",
+							"embed": "true"
+						}, {
 							"name": "24h",
-						   "image": "https://i.ibb.co/NncBbd6/24h-logo.webp",
-						   "url":"https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8",
-						   "userAgent" : ""
+						   	"image": "https://i.ibb.co/NncBbd6/24h-logo.webp",
+						   	"url":"https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8",
+						   	"userAgent" : ""
 						 }, {
 							"name": "Teledeporte",
 						   "image": "https://i.ibb.co/7QP3X8W/tdp-logo.webp",
@@ -6462,115 +6543,194 @@
 						   "url":"https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8",
 						   "userAgent" : ""
 						 }, {
-						   "name": "Las Palmas",
-						   "image": "https://i.ibb.co/LgQTx2t/logo-UDLP-TV.png",
-						   "url":"https://cdn318.fractalmedia.es/live319/hls/cudtv/high/index.m3u8",
-						   "userAgent" : ""
-						 }, {
 							"name": "Esport 3",
 						   "image": "https://i.ibb.co/KqswCDN/esport3-logo.png",
 						   "url":"https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master.m3u8",
 						   "userAgent" : ""
-					 }, {
+						 }, {
+							"name": "TV3",
+						   "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_tv3x.png",
+						   "url":"https://directes-tv-cat.ccma.cat/live-content/tv3-hls/master.m3u8",
+						   "userAgent" : ""
+						 }, {
 							"name": "À Punt",
-							"image": "https://i.ibb.co/105c5Rn/logo-a-Punt.png",
+							"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logotip_d%27%C3%80_Punt_%282017-%29.svg/1200px-Logotip_d%27%C3%80_Punt_%282017-%29.svg.png",
 							"url":"https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/profile_0/chunklist_dvr.m3u8",
 							"userAgent" : ""
-		 			}, {
+		 				}, {
 							"name": "ETB 1",
 							"image": "https://i.ibb.co/3MmnC3x/ETB1-logo.png",
 							"url":"https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8",
 							"userAgent" : ""
-		 			}, {
+				 		}, {
 							"name": "ETB 2",
 							"image": "https://i.ibb.co/gw8K3SP/ETB2-logo.png",
 							"url":"https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8",
 							"userAgent" : ""
-		 			}, {
+				 		}, {
 							"name": "ETB Eventos 1",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
 							"url":"https://multimedia.eitb.eus/live-content/oka1hd-hls/master.m3u8",
 							"userAgent" : ""
-		 			}, {
+				 		}, {
 							"name": "ETB Eventos 2",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
 							"url":"https://multimedia.eitb.eus/live-content/oka2hd-hls/master.m3u8",
 							"userAgent" : ""
-		 			}, {
+				 		}, {
 							"name": "Canal 1",
-							"image": "https://i.ibb.co/hyJxtMw/logo-Torole.png",
+							"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRwKZ85ULnCMPnwq5YaoPWOAexE9DRJ9LZjlwZE_px_XXxe-hlnIJ0aDGFU8IwBIlN7r6Cgmm3ZsdBNfpr8CoA41kWFJP3kyqJZrnNE84CKapYnVJ7c1zbQiQcYvih19nxWO2RPMOJcIs1j4aWuKGulcmJtU7jR6iZacApjpWYwy4Ajm_pGKV1r2HlOWdC/w615-h615/logo-Torole.png",
 							"url":"https://media1.ultrik.com/live/torole1.m3u8",
 							"userAgent" : ""
-		 			}, {
+		 				}, {
 							"name": "Canal 2",
-							"image": "https://i.ibb.co/hyJxtMw/logo-Torole.png",
+							"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRwKZ85ULnCMPnwq5YaoPWOAexE9DRJ9LZjlwZE_px_XXxe-hlnIJ0aDGFU8IwBIlN7r6Cgmm3ZsdBNfpr8CoA41kWFJP3kyqJZrnNE84CKapYnVJ7c1zbQiQcYvih19nxWO2RPMOJcIs1j4aWuKGulcmJtU7jR6iZacApjpWYwy4Ajm_pGKV1r2HlOWdC/w615-h615/logo-Torole.png",
 							"url":"https://media1.ultrik.com/live/torole1.m3u8?variant=0",
 							"userAgent" : ""
-		 			}, {
-			 				"name": "Canal 1",
-							"image": "https://i.ibb.co/wYk6sYX/logo-Mundo-Toro.png",
-      							"url": "https://lovesomecommunity.com/embedcr.php?player=desktop&live=MNDT020",
-							"referer": "https://www.freeshot.live/",
-                        				"isHost": "true"
-             				}, {
-			 				"name": "Canal 2",
-							"image": "https://i.ibb.co/wYk6sYX/logo-Mundo-Toro.png",
-      							"url": "http://185.135.157.34:8080/live/Alejanlopez/AdYq4Yvy2t84/372340.m3u8?token=TEcNVUIMRl4SVQdcUAUHA1IFUQcNAARQBQECBFZZAAEHVAYBB1wHB1NBSEZARkVRBQ46C1FGXFIGBQIBBU0TQUQAF2tYAEZeElpTUwsLFRhGFwwPUEZcUR0VQVxRQwsWBVFVBAdGSEZVGxABQVxWWDsHABRcBwNDC1lEWVlNE1tZOgFRXAUKABJZRlURHhVdFxNHWFsRCg0dFVNcQRNQQFJHXxYDVVZQEk9GB1xHWUAWGkdYFyE1Qx0VVE1BBF9HXgoLFgtGCVdFW0ZIEVtEaxYGFhZHAQcMVEUTDxdRExgVCARMbgcLCl4GBxBaXVlHRllHUxdIRAxeWVhBWhNuRF4BRw4TV1VdAlJGGQ==",
-							"userAgent": ""
-             				}, {
-			 				"name": "Canal 3",
-							"image": "https://i.ibb.co/wYk6sYX/logo-Mundo-Toro.png",
-      							"url": "http://185.233.16.88:80/live/ja08203/5224310010/441850.m3u8",
-							"userAgent": ""
-             				}, {
-			 				"name": "Canal 4",
-							"image": "https://i.ibb.co/wYk6sYX/logo-Mundo-Toro.png",
-      							"url": "https://lovesomecommunity.com/embedcr.php?player=desktop&live=702O2ES",
-							"referer": "https://www.freeshot.live/",
-                        				"isHost": "true"
-             				}, {
-							"name": "Canal 5",
-							"info": "",
-							"image": "https://i.ibb.co/wYk6sYX/logo-Mundo-Toro.png",
-							"url": "http://s1.pubnow.info:8080/morotvsktpe72772/KhPUdUD2kF2w/125624",
-							"userAgent": "" 
-				 	}, {
-							"name": "Canal 6",
-							"image": "https://i.ibb.co/wYk6sYX/logo-Mundo-Toro.png",
-							"url":"http://2022spn.net:8080/Nicky/1234/5210",
-							"userAgent" : ""
-		 			}, {
-							"name": "Canal 7",
-							"image": "https://i.ibb.co/wYk6sYX/logo-Mundo-Toro.png",
-							"url": "http://thing500.hopto.org:8080/lbgFIzo6Vw/nOVP8H35Hu/1132",
-           						"userAgent": "damx"
-		 			}, {
-							"name": "Canal 8",
-							"image": "https://i.ibb.co/wYk6sYX/logo-Mundo-Toro.png",
-							"url":"http://185.71.64.28:2052/live/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/96431.m3u8",
-							"userAgent" : ""
-		 			}, {
-							"name": "Canal 9",
-							"image": "https://i.ibb.co/wYk6sYX/logo-Mundo-Toro.png",
-							"url":"http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/298810.m3u8",
-							"userAgent" : ""
-		 			}, {
+		 				}, {
+							"name": "Canal 1",
+						   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WrLEUL5KARQ5KrZe_LMVBkqvD2-cx2zAEfMbKD2mhXX-B2bzYyT2c8iCrUBHqNGkwwRhRUsTuxuieiuHgTZusfQD064g98dqTb8uQb1wDdesbNkd4q-J2zUHiMAUzPIS_g8iJ7b7dAeeZRev-kaP9A_UpwL5WOJo_R2hnNesAmyNKvzzFM2nwKvITC1W/w625-h103/logo-MundoToro.png",
+							"url": "https://lovesomecommunity.com/embedcr.php?player=desktop&live=MNDT020",
+						   "referer": "https://www.freeshot.live/",
+							"isHost": "true"
+						}, {
+							"name": "Canal 2",
+						   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WrLEUL5KARQ5KrZe_LMVBkqvD2-cx2zAEfMbKD2mhXX-B2bzYyT2c8iCrUBHqNGkwwRhRUsTuxuieiuHgTZusfQD064g98dqTb8uQb1wDdesbNkd4q-J2zUHiMAUzPIS_g8iJ7b7dAeeZRev-kaP9A_UpwL5WOJo_R2hnNesAmyNKvzzFM2nwKvITC1W/w625-h103/logo-MundoToro.png",
+							"url": "http://185.135.157.34:8080/live/Alejanlopez/AdYq4Yvy2t84/372340.m3u8?token=TEcNVUIMRl4SVQdcUAUHA1IFUQcNAARQBQECBFZZAAEHVAYBB1wHB1NBSEZARkVRBQ46C1FGXFIGBQIBBU0TQUQAF2tYAEZeElpTUwsLFRhGFwwPUEZcUR0VQVxRQwsWBVFVBAdGSEZVGxABQVxWWDsHABRcBwNDC1lEWVlNE1tZOgFRXAUKABJZRlURHhVdFxNHWFsRCg0dFVNcQRNQQFJHXxYDVVZQEk9GB1xHWUAWGkdYFyE1Qx0VVE1BBF9HXgoLFgtGCVdFW0ZIEVtEaxYGFhZHAQcMVEUTDxdRExgVCARMbgcLCl4GBxBaXVlHRllHUxdIRAxeWVhBWhNuRF4BRw4TV1VdAlJGGQ==",
+						   "userAgent": ""
+						}, {
+							"name": "Canal 3",
+						   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WrLEUL5KARQ5KrZe_LMVBkqvD2-cx2zAEfMbKD2mhXX-B2bzYyT2c8iCrUBHqNGkwwRhRUsTuxuieiuHgTZusfQD064g98dqTb8uQb1wDdesbNkd4q-J2zUHiMAUzPIS_g8iJ7b7dAeeZRev-kaP9A_UpwL5WOJo_R2hnNesAmyNKvzzFM2nwKvITC1W/w625-h103/logo-MundoToro.png",
+							"url": "http://185.233.16.88:80/live/ja08203/5224310010/441850.m3u8",
+						   "userAgent": ""
+						}, {
+							"name": "Canal 4",
+						   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WrLEUL5KARQ5KrZe_LMVBkqvD2-cx2zAEfMbKD2mhXX-B2bzYyT2c8iCrUBHqNGkwwRhRUsTuxuieiuHgTZusfQD064g98dqTb8uQb1wDdesbNkd4q-J2zUHiMAUzPIS_g8iJ7b7dAeeZRev-kaP9A_UpwL5WOJo_R2hnNesAmyNKvzzFM2nwKvITC1W/w625-h103/logo-MundoToro.png",
+							"url": "https://lovesomecommunity.com/embedcr.php?player=desktop&live=702O2ES",
+						   "referer": "https://www.freeshot.live/",
+							"isHost": "true"
+						}, {
+						   "name": "Canal 5",
+						   "info": "",
+						   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WrLEUL5KARQ5KrZe_LMVBkqvD2-cx2zAEfMbKD2mhXX-B2bzYyT2c8iCrUBHqNGkwwRhRUsTuxuieiuHgTZusfQD064g98dqTb8uQb1wDdesbNkd4q-J2zUHiMAUzPIS_g8iJ7b7dAeeZRev-kaP9A_UpwL5WOJo_R2hnNesAmyNKvzzFM2nwKvITC1W/w625-h103/logo-MundoToro.png",
+						   "url": "http://s1.pubnow.info:8080/morotvsktpe72772/KhPUdUD2kF2w/125624",
+						   "userAgent": "" 
+						}, {
+						   "name": "Canal 6",
+						   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WrLEUL5KARQ5KrZe_LMVBkqvD2-cx2zAEfMbKD2mhXX-B2bzYyT2c8iCrUBHqNGkwwRhRUsTuxuieiuHgTZusfQD064g98dqTb8uQb1wDdesbNkd4q-J2zUHiMAUzPIS_g8iJ7b7dAeeZRev-kaP9A_UpwL5WOJo_R2hnNesAmyNKvzzFM2nwKvITC1W/w625-h103/logo-MundoToro.png",
+						   "url":"http://2022spn.net:8080/Nicky/1234/5210",
+						   "userAgent" : ""
+						}, {
+						   "name": "Canal 7",
+						   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WrLEUL5KARQ5KrZe_LMVBkqvD2-cx2zAEfMbKD2mhXX-B2bzYyT2c8iCrUBHqNGkwwRhRUsTuxuieiuHgTZusfQD064g98dqTb8uQb1wDdesbNkd4q-J2zUHiMAUzPIS_g8iJ7b7dAeeZRev-kaP9A_UpwL5WOJo_R2hnNesAmyNKvzzFM2nwKvITC1W/w625-h103/logo-MundoToro.png",
+						   "url": "http://thing500.hopto.org:8080/lbgFIzo6Vw/nOVP8H35Hu/1132",
+							"userAgent": "damx"
+						}, {
+						   "name": "Canal 8",
+						   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WrLEUL5KARQ5KrZe_LMVBkqvD2-cx2zAEfMbKD2mhXX-B2bzYyT2c8iCrUBHqNGkwwRhRUsTuxuieiuHgTZusfQD064g98dqTb8uQb1wDdesbNkd4q-J2zUHiMAUzPIS_g8iJ7b7dAeeZRev-kaP9A_UpwL5WOJo_R2hnNesAmyNKvzzFM2nwKvITC1W/w625-h103/logo-MundoToro.png",
+						   "url":"http://185.71.64.28:2052/live/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/96431.m3u8",
+						   "userAgent" : ""
+						}, {
+						   "name": "Canal 9",
+						   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WrLEUL5KARQ5KrZe_LMVBkqvD2-cx2zAEfMbKD2mhXX-B2bzYyT2c8iCrUBHqNGkwwRhRUsTuxuieiuHgTZusfQD064g98dqTb8uQb1wDdesbNkd4q-J2zUHiMAUzPIS_g8iJ7b7dAeeZRev-kaP9A_UpwL5WOJo_R2hnNesAmyNKvzzFM2nwKvITC1W/w625-h103/logo-MundoToro.png",
+						   "url":"http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/298810.m3u8",
+						   "userAgent" : ""
+						}, {
 			 				"name": "CMM",
-							"image": "https://i.ibb.co/5vFXwzy/logo-CMM.png",
-      							"url": "https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4ycl/protocol/https/format/applehttp/.m3u8",
+							"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/CMMedia.svg/2353px-CMMedia.svg.png",
+							"url": "https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4ycl/protocol/https/format/applehttp/.m3u8",
 							"userAgent": ""
              				}, {
 			 				"name": "Canal Sur",
-							"image": "https://i.ibb.co/dLRFMTF/logo-Canal-Sur.png",
-      							"url": "https://cdnlive.codev8.net/rtvalive/channel1.smil/chunklist_b2200000.m3u8",
+							"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEmi0oElmIrhfqm7_XloSKjtfFeYM4hMSXUYRt3XVh0ac5mzD0K9Bp36zsLSXqYhiH7UlI7VVTLRsYYMrSvd_fZ1kiqYwaafc__i43jFYg701nR2v2jgFoO1mFJw2AL_ceENRYXB35AJL1ZBZnJeUuzGzKTDzZAtT12wPIBGSsTVTho7EUPOOHBwbHzXYC/w587-h634/logo-CanalSur.png",
+							"url": "https://cdnlive.codev8.net/rtvalive/channel1.smil/chunklist_b2200000.m3u8",
+							"userAgent": ""
+             				}, {
+			 				"name": "Canal Extremadura",
+							"image": "https://miguia.tv/channels/big_44@2x.png",
+							"url": "https://cdnapisec.kaltura.com/p/5581662/sp/558166200/playManifest/entryId/1_in8cxw3w/protocol/https/format/applehttp/.m3u8",
 							"userAgent": ""
              				}, {
 			 				"name": "My Pádel TV",
-							"image": "https://i.ibb.co/zVS6WCK/logo-My-PTV.webp",
-      							"url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01970-mypadeldigitals-mypadeltv-samsungspain/playlist.m3u8",
+							"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCZStVEtpRjgAplgIpOkw7tEB1lRdKiGBLxKMZIV_4Oc20HhcBnngp-SkLyVHT-QxHW5TBgP0HqLrEsMhYwckCYZftat7OU_nDv8GbIPry-H1GogZb-jwexslQJ7XVLzuTcJhrdj_MTifjGkidyOg9NvmPb5lKiOAjMRNZXnb6yZ2lR6J5VfyuPniKxu_0/w633-h633/logo-MyPTV.png",
+							"url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01970-mypadeldigitals-mypadeltv-samsungspain/playlist.m3u8",
 							"userAgent": ""
-             				}]
-		}, {
+             				}, {
+							"name": "Clan",
+							"image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png",
+							"url":"https://rtvelivestream-clnx.rtve.es/rtvesec/clan/clan_main_dvr_720.m3u8",
+							"userAgent": ""
+							}, {
+							"name": "Boing",
+							"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Boing_2020.svg/1200px-Boing_2020.svg.png",
+							"url":"https://www.mitele.es/directo/boing/",
+							"embed": "true"
+							}, {
+							"name": "Disney Channel",
+							"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/2560px-Disney_Channel_logo.svg.png",
+							"url":"http://gavog.com/es/watch/span/disneyy-channel.php",
+							"isHost" : "true"
+							}
+							 ] 
+					}, {
+						"name":"Programas",
+						"image":"https://i.ibb.co/XC8bnHX/logo-soon.png",
+						"stations": 
+					[
+
+						{
+							"name": "",
+							"info": "",
+							"image": "https://i.ibb.co/Z1cmqrC/Obras.png",
+							"url": "",
+							"embed": ""
+						}
+					]
+					}, {
+						"name":"Documentales",
+						"image":"https://i.ibb.co/XC8bnHX/logo-soon.png",
+						"stations": 
+					[
+
+						{
+							"name": "",
+							"info": "",
+							"image": "https://i.ibb.co/Z1cmqrC/Obras.png",
+							"url": "",
+							"embed": ""
+						}
+					]
+					}, {
+						"name":"Entretenimiento",
+						"image":"https://i.ibb.co/XC8bnHX/logo-soon.png",
+						"stations": 
+					[
+
+						{
+							"name": "",
+							"info": "",
+							"image": "https://i.ibb.co/Z1cmqrC/Obras.png",
+							"url": "",
+							"embed": ""
+						}
+					]
+					}, {
+						"name":"Animación",
+						"image":"https://i.ibb.co/XC8bnHX/logo-soon.png",
+						"stations": 
+						[
+
+							{
+								"name": "",
+								"info": "",
+								"image": "https://i.ibb.co/Z1cmqrC/Obras.png",
+								"url": "",
+								"embed": ""
+							}
+						]
+					}
+				]
+}, {
 		   "name": "Eventos",
 		   "image": "https://i.ibb.co/s2Kbx9R/calendario-2023.png",
 		   "info": "",
@@ -6839,12 +6999,12 @@
                  }]
    			}, {
     				"name":"En diferido",
-					"image":"https://i.ibb.co/hCsX9VM/logo-diferido.png",
+					"image":"https://seeklogo.com/images/Y/youtube-play-black-logo-E6E4CD69C6-seeklogo.com.png",
 					"groups":
 								[
     								{
     										"name": "               ↑  ↑  ↑",
-										"image": "https://i.ibb.co/xMwGggX/logo-aviso-pc.png",    
+										"image": "https://blogger.googleusercontent.com/img/a/AVvXsEhH3fjZQTgDlqYtb41IShnpLCOjZCm6oBwFJhGv2t3jyT9XRuMyHTaeRMlhT9qFzlRfzbW8NoJ_iT9RAzPmMTYnifRXh2Ef7Wct1PdrYnQdnof_X9IhAQ3XzHSIDUSS0e2vbz8f_4o_ZzTVUTPpjYW0phjdKi2n57oDdDAyJlAbbTaFDRgAg8dQ_GVkiYM-=w645-h364",    
 										"url" : ""
   									}, {
 										"name": "Peticiones",
@@ -6860,33 +7020,41 @@
     								]
   									}, {
         									"name":"Fórmula 1",
-        									"image":"https://i.ibb.co/1bpMSRX/logo-f1-2.png",
+        									"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzL8bUEziWNxRmuNkz6GclrNGyPdDzpq-kzdbD4dLEVW_U4qcBL7QstRTcoKjBgKNnsQLGH3he2nAroG3T7Lgo-QIyySiezlQipXH3pC1_gZEs48LwkXl13_A5XWrSAMAW66bAQ_R4puv7tYvQk6mYoy1r0sdfDuNGCyt8zz12zRTUSFuPj4hGQZ7bJzEZ/w659-h370/logo-f1_2.png",
         									"stations": 
         							 		[
 											{
 												"name": "Yas Marina 2023",
 												"info": "GP Abu Dhabi | Carrera",
-												"image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
-												"url": "",
-												"embed": "false"
+												"image": "https://media.licdn.com/dms/image/C4D22AQGeXhD8a87iNw/feedshare-shrink_800/0/1675346863949?e=1706745600&v=beta&t=_hbUCxe7hfShxbx2-pgAwjvrmcqZkZ9U7qoLqnoQ-qU",
+												"url": "https://www.linkbox.to/f-detail/ZnA0OGo4MDAwbzkz0",
+												"userAgent" : "PlusMediaPlayer/0.0.9",
+                										"isHost":"true",
+                										"online":"true"
 											}, {
 												"name": "Las Vegas 2023",
 												"info": "GP EEUU | Carrera",
-												"image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
-												"url": "",
-												"embed": "false"
+												"image": "https://cdn2.mediotiempo.com/uploads/media/2023/11/13/gp-vegas-horarios-fechas-proxima.jpg",
+												"url": "https://www.linkbox.to/f-detail/ZnA0ODVvMDAycGw40",
+												"userAgent" : "PlusMediaPlayer/0.0.9",
+                										"isHost":"true",
+                										"online":"true"
 											}, {
 												"name": "Sao Paulo 2023",
 												"info": "GP Brasil | Carrera",
-												"image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
-												"url": "",
-												"embed": "false"
+												"image": "https://juandes.com/content/images/2023/11/DALL-E-2023-11-11-11.16.39---Landscape-illustration-of-a-sleek-Formula-1-car-racing-on-a-track-in-Brazil.-The-setting-includes-iconic-Brazilian-landmarks-such-as-the-Christ-the-Re.png",
+												"url": "https://www.linkbox.to/f-detail/ZnA0NnlnMDA5aWgy0",
+												"userAgent" : "PlusMediaPlayer/0.0.9",
+                										"isHost":"true",
+                										"online":"true"
 											}, {
 												"name": "Sao Paulo 2023",
 												"info": "GP Brasil | Sprint",
-												"image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
-												"url": "",
-												"embed": "false"
+												"image": "https://images.squarespace-cdn.com/content/v1/52744b67e4b0782c048b666f/1699531846307-N2VBC1MTQ2O1EM9KOYZG/1+Mercedes.jpg",
+												"url": "https://www.linkbox.to/f-detail/ZnA0NndrMDAwbGlu0",
+												"userAgent" : "PlusMediaPlayer/0.0.9",
+                										"isHost":"true",
+                										"online":"true"
 											}, {
 												"name": "México City 2023",
 												"info": "GP México | Carrera",
@@ -7294,76 +7462,16 @@
 										]
   									}, {
         									"name":"UFC",
-        									"image":"https://i.ibb.co/S5NN7p3/logo-ufc.png",
+        									"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnVqFaYDUDqXGWIgRjCm5_A3LBERIGSQ4rJAsgs0_QGPMDlQVc7P96XwdAHkf7Ggas08GoLAisVy_1iLiRWJXO4M_KVuimVvgnnK1jgSY9qKbDgT4FKcyJ88KFEIJlCZno_VvC-78yMx9wOepccMbgGjMHDL6OsDwVBnUmEmL5ywiEwfFKxPGLTRapzjmo/w664-h226/logo_ufc.png",
         									"stations": 
         								  [
 
 									{
-            									"name": "⚠️ UFC 290 ⚠️",
-										"info": "Volkanovski vs Rodríguez",
-            									"image": "https://i.ibb.co/2jskHZg/Volka-vs-Rodri.jpg",
-            									"url": "https://vk.com/video739310848_456239059",
-										"embed": "true"
-            								}, {
-            									"name": "⚠️ UFC 290 ⚠️",
-										"info": "Moreno vs Pantoja",
-            									"image": "https://i.ibb.co/x62H3Qh/Moreno-vs-Pantoja.webp",
-            									"url": "https://vk.com/video739310848_456239058",
-										"embed": "true"
-            								}, {
-            									"name": "UFC Jacksonville",
-										"info": "Emmett vs Topuria",
-            									"image": "https://i.ibb.co/yptg4Fh/Emmet-vs-Topuria23.jpg",
-            									"url": "https://vk.com/video739310848_456239053",
-										"embed": "true"
-            								}, {
-            									"name": "UFC Jacksonville",
-										"info": "Ribas vs Barber",
-            									"image": "https://i.ibb.co/VJzx0ft/Ribas-vs-Barber.jpg",
-            									"url": "https://vk.com/video739310848_456239052",
-										"embed": "true"
-            								}, {
-            									"name": "UFC 287",
-										"info": "Pereira vs Adesanya",
-            									"image": "https://i.ibb.co/9WBcFnx/Pereira-vs-Adesanya.png",
-            									"url": "https://vk.com/video739310848_456239033",
-										"embed": "true"
-            								}, {
-            									"name": "UFC 287",
-										"info": "Holland vs Ponzinibbio",
-            									"image": "https://i.ibb.co/cTY7MgH/Holland-vs-Ponzi.jpg",
-            									"url": "https://vk.com/video739310848_456239032",
-										"embed": "true"
-            								}, {
-            									"name": "UFC 287",
-										"info": "Rosas vs Rodríguez",
-            									"image": "https://i.ibb.co/XLPwqbp/Rosas-vs-Rodriguez.jpg",
-            									"url": "https://vk.com/video739310848_456239031",
-										"embed": "true"
-            								}, {
-            									"name": "UFC 287",
-										"info": "Meerschaert vs Pyfer",
-            									"image": "https://i.ibb.co/tztkZjX/Meers-vs-Pyfer.jpg",
-            									"url": "https://vk.com/video739310848_456239030",
-										"embed": "true"
-            								}, {
-            									"name": "UFC 287",
-										"info": "Nuerdanbieke vs García",
-            									"image": "https://i.ibb.co/P43N2PQ/Nuer-vs-Garcia.jpg",
-            									"url": "https://vk.com/video739310848_456239029",
-										"embed": "true"
-            								}, {
-            									"name": "⚠️ UFC 284 ⚠️",
-										"info": "Makhachev vs Volkanovski",
-            									"image": "https://i.ibb.co/51LsJfL/Makha-Volka284.jpg",
-            									"url": "https://vk.com/video739310848_456239020",
-										"embed": "true"
-            								}, {
-            									"name": "⚠️ UFC 284 ⚠️",
-										"info": "Rodríguez vs Emmett",
-            									"image": "https://i.ibb.co/NK0CNN7/Rodri-Emme284.jpg",
-            									"url": "https://vk.com/video739310848_456239019",
-            									"embed": "true"
+            									"name": "",
+										"info": "",
+            									"image": "https://i.ibb.co/Z1cmqrC/Obras.png",
+            									"url": "",
+										"embed": "false"
             								}]
     									}, {
 											"name": "San Fermín 2023",
@@ -7415,7 +7523,7 @@
   								]
 						}, {
 								"name": "Horarios deportivos",
-								"image": "https://i.ibb.co/xftL7fc/logo-TVguia-D.png",
+								"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgitz_TK0IfqklZ4SJjmCN7fercRNPwt8r3rhx3s1iAFfX_euYk4xzPtocbUxm1oETsmaLwZ9A15E4eBWRWYqZ19Ug4M-QgcjOyoc4w_-bHLqMg5uByeiFsfnwDalRMmuyvYDv6v-oXeWjbmAUo2KfKz6it9O1hR-YOgzFKgFvkLrVo7xnqWr2Wvm4VIl0S/w483-h483/logo-TVguia.png",
 								"info": "",
 								"stations": [
 							{
@@ -7430,7 +7538,7 @@
 								"embed": "true"
 							}, {
 								"name": "Champions League",
-								"image": "https://i.ibb.co/gVtsg1f/logo-Champions.jpg",
+								"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTZ1xlIjCHXkMYFRD8AHD1xxk-y6dylFMR2_lD0wuNsmqhUzFE2SgOnFrcDJbAcU_Z9aDM64zyo1vQ3Zrdsa8I8yoz9Vwg0_s-9SNqXo76-HezJzRX3EXzGqykbGH5dCKN-S8LG_3tV0BdmhUU59RROfDIeECOMCi4eDvjZJ6F_oDrZes9kJ693dgcpv3H/w655-h368/logo-Champions.png",
 								"url": "https://www.futboltv.info/competicion/champions-league",
 								"embed": "true"
 							}, {
@@ -7441,7 +7549,7 @@
 								"embed": "true"
 							}, {
 								"name": "Europa League",
-								"image": "https://i.ibb.co/xs04x1m/logo-Europa.jpg",
+								"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXlGSmC0a-TYiwryz5v5PD0MvbJQXttRq37v4Z90-LWQ4z_hID8XurcHS229S-imaZ-uothf200JPGvKYBMEMmwr4VrP1XaZKREZ0H0CrM97kb4TkDlg9kg3HVSRtwRTSEcEUkNgvhF4bPGtSiDvoeQEBwelWtABlWJbn28-WfC-wkEQaxJjyaB-zTiyhf/w651-h433/logo-Europa.png",
 								"url": "https://www.futboltv.info/competicion/europa-league",
 								"embed": "true"
 							}, {
@@ -7486,7 +7594,7 @@
 								"embed": "true"
 							}, {
 								"name": "Liga Endesa",
-								"image": "https://i.ibb.co/gyqKGNF/logo-Endesa.jpg",
+								"image": "https://as01.epimg.net/baloncesto/imagenes/2017/07/25/acb/1501004759_569854_1501004993_noticia_normal.jpg",
 								"url": "https://www.futbolenlatv.es/deporte/baloncesto/competicion/liga-endesa",
 								"embed": "true"
 							}, {
@@ -7506,12 +7614,12 @@
 								"embed": "true"
 							}, {
 								"name": "UFC",
-								"image": "https://i.ibb.co/S5NN7p3/logo-ufc.png",
+								"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnVqFaYDUDqXGWIgRjCm5_A3LBERIGSQ4rJAsgs0_QGPMDlQVc7P96XwdAHkf7Ggas08GoLAisVy_1iLiRWJXO4M_KVuimVvgnnK1jgSY9qKbDgT4FKcyJ88KFEIJlCZno_VvC-78yMx9wOepccMbgGjMHDL6OsDwVBnUmEmL5ywiEwfFKxPGLTRapzjmo/w664-h226/logo_ufc.png",
 								"url": "https://www.ufcespanol.com/events",
 								"embed": "true"
 							}, {
 								"name": "Béisbol",
-								"image": "https://i.ibb.co/4Km4DJp/MLB-logo.png",
+								"image": "https://logos-marcas.com/wp-content/uploads/2021/09/MLB-Logo.png",
 								"url": "https://www.futbolenlatv.es/deporte/beisbol/competicion/major-league-baseball",
 								"embed": "true"
 							}, {
@@ -7536,7 +7644,7 @@
 								"embed": "true"
 							}, {
 								"name": "Toros",
-								"image": "https://i.ibb.co/XLwWNjh/logo-toros.jpg",
+								"image": "https://www.mundotoro.com/wp-content/uploads/2023/12/image00023.jpeg",
 								"url": "https://elmuletazo.com/agenda-de-toros-en-television",
 								"embed": "true"
 								}]
