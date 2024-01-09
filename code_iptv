@@ -1,13 +1,13 @@
 {
     "name": "IPT - ADICTOS",
     "author": "MoDz",
-    "image": "https://i.ibb.co/ncqsL9X/Pic-Profile-N.png",
+    "image": "https://i.ibb.co/PGL5P2Z/Main-pic-Logo-and-Banner.jpg",
     "info": "IPTV oficial de FUTBOL-ADICTOS",
     "telegram": "+wIBp4fXctzpjYTU0",
     "url": "https://raw.githubusercontent.com/MoDz17/IPTV_MoDz/main/code_iptv",
     "groups": [{
              "name": "FUTBOL - ADICTOS",
-            "image": "https://i.ibb.co/ncqsL9X/Pic-Profile-N.png",
+            "image": "https://i.ibb.co/PGL5P2Z/Main-pic-Logo-and-Banner.jpg",
             "info": "",
             "stations": [
 	    	{
