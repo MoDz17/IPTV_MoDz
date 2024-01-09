@@ -18,15 +18,15 @@
 		  	"embed": "true"
 		}, {
 			"name": "              By MoDz",
-		   	"image": "https://i.ibb.co/64mjMcF/MoDz.jpg",    
+		   	"image": "https://blogger.googleusercontent.com/img/a/AVvXsEjqGaQgYNb-0Baua9YTaHXQGD-FRdwWm9V7GUINNadAYHvDJIYETkw1kbSGEJfgX-qKqgzmJpebxFYcAQUL7da-WuZQ_6JtPwdH8I1XK7T9T0duI4_edT_RQExLHtcvZMhpyGEZaXcWr2fOIsjMkKnRJo63hlyG4t8S5159h0399VnF0Fq8dxa6uKAIyq0L=w522-h653",    
 		  	"url" : ""
 		}]
 	}, 
 	
 	{
-             "name": "Ultm. versión 31/12/2023",
+             "name": "Ultm. versión 09/01/2024",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 31/12/2023",
+            "info": "última versión actualizada el 09/01/2024",
             "stations": []
 	}, 
 	
@@ -43,7 +43,7 @@
 		 	"embed": "true"
    		}, {
 	   		"name": "              By MoDz",
-		  	"image": "https://i.ibb.co/64mjMcF/MoDz.jpg",    
+		  	"image": "https://blogger.googleusercontent.com/img/a/AVvXsEjqGaQgYNb-0Baua9YTaHXQGD-FRdwWm9V7GUINNadAYHvDJIYETkw1kbSGEJfgX-qKqgzmJpebxFYcAQUL7da-WuZQ_6JtPwdH8I1XK7T9T0duI4_edT_RQExLHtcvZMhpyGEZaXcWr2fOIsjMkKnRJo63hlyG4t8S5159h0399VnF0Fq8dxa6uKAIyq0L=w522-h653",    
 		 	"url" : ""
    		}, {
 			"name": "",
@@ -133,37 +133,37 @@
 				}, { 
                 	 		"name": "Vamos 1080p",
 					"info": "base-host",
-                    			"image": "https://i.ibb.co/HHL04RY/logo-vamos.png",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhC_ZrjTAL_zi61ZUD-aRw18x_XEiKBS-sH5X1EihR_oZ43LsvApOPfWnvjAXfkxh2h_i8W7RNDfU4t42vQskD-fBjP25sBpJKo1fLEAkT4hliVrOVA3HQewEBFLGb3ntMTj2KTu63u4yzFBJUj92xyBfh9Ka9vQPMsZJaAtrJfWS8Nzr34pf9QtJj7CyY/w589-h212/logo_vamos.png",
                     			"url" :  "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122",
 					"isHost": "true"
 				}, { 
                 	 		"name": "Vamos 1080p",
 					"info": "base-agent",
-                    			"image": "https://i.ibb.co/HHL04RY/logo-vamos.png",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhC_ZrjTAL_zi61ZUD-aRw18x_XEiKBS-sH5X1EihR_oZ43LsvApOPfWnvjAXfkxh2h_i8W7RNDfU4t42vQskD-fBjP25sBpJKo1fLEAkT4hliVrOVA3HQewEBFLGb3ntMTj2KTu63u4yzFBJUj92xyBfh9Ka9vQPMsZJaAtrJfWS8Nzr34pf9QtJj7CyY/w589-h212/logo_vamos.png",
                     			"url" :  "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "Vamos 1080p",
 					"info": "base-embed",
-                    			"image": "https://i.ibb.co/HHL04RY/logo-vamos.png",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhC_ZrjTAL_zi61ZUD-aRw18x_XEiKBS-sH5X1EihR_oZ43LsvApOPfWnvjAXfkxh2h_i8W7RNDfU4t42vQskD-fBjP25sBpJKo1fLEAkT4hliVrOVA3HQewEBFLGb3ntMTj2KTu63u4yzFBJUj92xyBfh9Ka9vQPMsZJaAtrJfWS8Nzr34pf9QtJj7CyY/w589-h212/logo_vamos.png",
                     			"url" :  "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122",
 					"embed": "true"
 				}, { 
                 	 		"name": "Vamos 1080p",
 					"info": "get-host",
-                    			"image": "https://i.ibb.co/HHL04RY/logo-vamos.png",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhC_ZrjTAL_zi61ZUD-aRw18x_XEiKBS-sH5X1EihR_oZ43LsvApOPfWnvjAXfkxh2h_i8W7RNDfU4t42vQskD-fBjP25sBpJKo1fLEAkT4hliVrOVA3HQewEBFLGb3ntMTj2KTu63u4yzFBJUj92xyBfh9Ka9vQPMsZJaAtrJfWS8Nzr34pf9QtJj7CyY/w589-h212/logo_vamos.png",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122",
 					"isHost": "true"
 				}, { 
                 	 		"name": "Vamos 1080p",
 					"info": "get-agent",
-                    			"image": "https://i.ibb.co/HHL04RY/logo-vamos.png",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhC_ZrjTAL_zi61ZUD-aRw18x_XEiKBS-sH5X1EihR_oZ43LsvApOPfWnvjAXfkxh2h_i8W7RNDfU4t42vQskD-fBjP25sBpJKo1fLEAkT4hliVrOVA3HQewEBFLGb3ntMTj2KTu63u4yzFBJUj92xyBfh9Ka9vQPMsZJaAtrJfWS8Nzr34pf9QtJj7CyY/w589-h212/logo_vamos.png",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "Vamos 1080p",
 					"info": "get-embed",
-                    			"image": "https://i.ibb.co/HHL04RY/logo-vamos.png",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhC_ZrjTAL_zi61ZUD-aRw18x_XEiKBS-sH5X1EihR_oZ43LsvApOPfWnvjAXfkxh2h_i8W7RNDfU4t42vQskD-fBjP25sBpJKo1fLEAkT4hliVrOVA3HQewEBFLGb3ntMTj2KTu63u4yzFBJUj92xyBfh9Ka9vQPMsZJaAtrJfWS8Nzr34pf9QtJj7CyY/w589-h212/logo_vamos.png",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122",
 					"embed": "true"
 				}, 
@@ -172,37 +172,37 @@
 				{ 
                 	 		"name": "Vamos 720p",
 					"info": "base-host",
-                    			"image": "https://i.ibb.co/HHL04RY/logo-vamos.png",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhC_ZrjTAL_zi61ZUD-aRw18x_XEiKBS-sH5X1EihR_oZ43LsvApOPfWnvjAXfkxh2h_i8W7RNDfU4t42vQskD-fBjP25sBpJKo1fLEAkT4hliVrOVA3HQewEBFLGb3ntMTj2KTu63u4yzFBJUj92xyBfh9Ka9vQPMsZJaAtrJfWS8Nzr34pf9QtJj7CyY/w589-h212/logo_vamos.png",
                     			"url" :  "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0",
 					"isHost": "true"
 				}, { 
                 	 		"name": "Vamos 720p",
 					"info": "base-agent",
-                    			"image": "https://i.ibb.co/HHL04RY/logo-vamos.png",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhC_ZrjTAL_zi61ZUD-aRw18x_XEiKBS-sH5X1EihR_oZ43LsvApOPfWnvjAXfkxh2h_i8W7RNDfU4t42vQskD-fBjP25sBpJKo1fLEAkT4hliVrOVA3HQewEBFLGb3ntMTj2KTu63u4yzFBJUj92xyBfh9Ka9vQPMsZJaAtrJfWS8Nzr34pf9QtJj7CyY/w589-h212/logo_vamos.png",
                     			"url" :  "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "Vamos 720p",
 					"info": "base-embed",
-                    			"image": "https://i.ibb.co/HHL04RY/logo-vamos.png",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhC_ZrjTAL_zi61ZUD-aRw18x_XEiKBS-sH5X1EihR_oZ43LsvApOPfWnvjAXfkxh2h_i8W7RNDfU4t42vQskD-fBjP25sBpJKo1fLEAkT4hliVrOVA3HQewEBFLGb3ntMTj2KTu63u4yzFBJUj92xyBfh9Ka9vQPMsZJaAtrJfWS8Nzr34pf9QtJj7CyY/w589-h212/logo_vamos.png",
                     			"url" :  "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0",
 					"embed": "true"
 				}, { 
                 	 		"name": "Vamos 720p",
 					"info": "get-host",
-                    			"image": "https://i.ibb.co/HHL04RY/logo-vamos.png",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhC_ZrjTAL_zi61ZUD-aRw18x_XEiKBS-sH5X1EihR_oZ43LsvApOPfWnvjAXfkxh2h_i8W7RNDfU4t42vQskD-fBjP25sBpJKo1fLEAkT4hliVrOVA3HQewEBFLGb3ntMTj2KTu63u4yzFBJUj92xyBfh9Ka9vQPMsZJaAtrJfWS8Nzr34pf9QtJj7CyY/w589-h212/logo_vamos.png",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=3bba7c95857c2502c7e03ced1a6a9b00eb567fa0",
 					"isHost": "true"
 				}, { 
                 	 		"name": "Vamos 720p",
 					"info": "get-agent",
-                    			"image": "https://i.ibb.co/HHL04RY/logo-vamos.png",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhC_ZrjTAL_zi61ZUD-aRw18x_XEiKBS-sH5X1EihR_oZ43LsvApOPfWnvjAXfkxh2h_i8W7RNDfU4t42vQskD-fBjP25sBpJKo1fLEAkT4hliVrOVA3HQewEBFLGb3ntMTj2KTu63u4yzFBJUj92xyBfh9Ka9vQPMsZJaAtrJfWS8Nzr34pf9QtJj7CyY/w589-h212/logo_vamos.png",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=3bba7c95857c2502c7e03ced1a6a9b00eb567fa0",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "Vamos 720p",
 					"info": "get-embed",
-                    			"image": "https://i.ibb.co/HHL04RY/logo-vamos.png",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhC_ZrjTAL_zi61ZUD-aRw18x_XEiKBS-sH5X1EihR_oZ43LsvApOPfWnvjAXfkxh2h_i8W7RNDfU4t42vQskD-fBjP25sBpJKo1fLEAkT4hliVrOVA3HQewEBFLGb3ntMTj2KTu63u4yzFBJUj92xyBfh9Ka9vQPMsZJaAtrJfWS8Nzr34pf9QtJj7CyY/w589-h212/logo_vamos.png",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=3bba7c95857c2502c7e03ced1a6a9b00eb567fa0",
 					"embed": "true"
 				},
@@ -2631,83 +2631,83 @@
 		"stations": [{
 		  	"name": "Canal 1",
 			"info": "xone8",
-		   	"image": "https://i.ibb.co/HHL04RY/logo-vamos.png",
+		   	"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhC_ZrjTAL_zi61ZUD-aRw18x_XEiKBS-sH5X1EihR_oZ43LsvApOPfWnvjAXfkxh2h_i8W7RNDfU4t42vQskD-fBjP25sBpJKo1fLEAkT4hliVrOVA3HQewEBFLGb3ntMTj2KTu63u4yzFBJUj92xyBfh9Ka9vQPMsZJaAtrJfWS8Nzr34pf9QtJj7CyY/w589-h212/logo_vamos.png",
 			"url" : "http://xone8.1222908.net/live/346C0F77EDBDF396B9EF8A379964C00A/337813.m3u8",
 			"userAgent" : ""
 		  }, {
 			"name": "Canal 2",
 			"info": "embx | livstr",
-		   	"image": "https://i.ibb.co/HHL04RY/logo-vamos.png",    
+		   	"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhC_ZrjTAL_zi61ZUD-aRw18x_XEiKBS-sH5X1EihR_oZ43LsvApOPfWnvjAXfkxh2h_i8W7RNDfU4t42vQskD-fBjP25sBpJKo1fLEAkT4hliVrOVA3HQewEBFLGb3ntMTj2KTu63u4yzFBJUj92xyBfh9Ka9vQPMsZJaAtrJfWS8Nzr34pf9QtJj7CyY/w589-h212/logo_vamos.png",    
 		   	"url" : "https://embx205977.apl270.me/player/live.php?id=212160&w=100%&h=100%",
 		 	"referer" : "https://livetvstream.pro/",
 			"isHost":"true"
 		 }, {
 				"name": "Canal 3",
 				"info": "flbl1",
-				"image": "https://i.ibb.co/HHL04RY/logo-vamos.png",
+				"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhC_ZrjTAL_zi61ZUD-aRw18x_XEiKBS-sH5X1EihR_oZ43LsvApOPfWnvjAXfkxh2h_i8W7RNDfU4t42vQskD-fBjP25sBpJKo1fLEAkT4hliVrOVA3HQewEBFLGb3ntMTj2KTu63u4yzFBJUj92xyBfh9Ka9vQPMsZJaAtrJfWS8Nzr34pf9QtJj7CyY/w589-h212/logo_vamos.png",
 			   	"url": "http://flbl1.112421.net:8082/337813/mpegts?token=53A52B5776EAB1ED223024E4C3ACF642",
 				"userAgent": "PlusMediaPlayer/0.0.9"
 				}, {
 				"name": "Canal 4",
-				"image": "https://i.ibb.co/HHL04RY/logo-vamos.png",
+				"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhC_ZrjTAL_zi61ZUD-aRw18x_XEiKBS-sH5X1EihR_oZ43LsvApOPfWnvjAXfkxh2h_i8W7RNDfU4t42vQskD-fBjP25sBpJKo1fLEAkT4hliVrOVA3HQewEBFLGb3ntMTj2KTu63u4yzFBJUj92xyBfh9Ka9vQPMsZJaAtrJfWS8Nzr34pf9QtJj7CyY/w589-h212/logo_vamos.png",
 				"url": "http://s1.pubnow.info:8080/morotvsktpe72772/KhPUdUD2kF2w/125654",
 				"userAgent" : "true"
 				}, {
 					"name": "Canal 5",
 					"info": "abol-rq4g6 | 1str",
-				   	"image": "https://i.ibb.co/HHL04RY/logo-vamos.png",
+				   	"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhC_ZrjTAL_zi61ZUD-aRw18x_XEiKBS-sH5X1EihR_oZ43LsvApOPfWnvjAXfkxh2h_i8W7RNDfU4t42vQskD-fBjP25sBpJKo1fLEAkT4hliVrOVA3HQewEBFLGb3ntMTj2KTu63u4yzFBJUj92xyBfh9Ka9vQPMsZJaAtrJfWS8Nzr34pf9QtJj7CyY/w589-h212/logo_vamos.png",
 					"url": "https://abolishstand.net/embed/rq4g6",
 				 	"referer" : "https://1stream.buzz/",
 				   	"isHost":"true"
 			   }, {
 				   "name": "Canal 6",
-				   "image": "https://i.ibb.co/HHL04RY/logo-vamos.png",
+				   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhC_ZrjTAL_zi61ZUD-aRw18x_XEiKBS-sH5X1EihR_oZ43LsvApOPfWnvjAXfkxh2h_i8W7RNDfU4t42vQskD-fBjP25sBpJKo1fLEAkT4hliVrOVA3HQewEBFLGb3ntMTj2KTu63u4yzFBJUj92xyBfh9Ka9vQPMsZJaAtrJfWS8Nzr34pf9QtJj7CyY/w589-h212/logo_vamos.png",
 				   "url" : "https://utopianwilderness.com/embed/bfrdpjjztqnm67m",
 				   "referer" : "https://starlive.xyz/",
 				   "isHost":"true"
 			   }, {
 				   "name": "Canal 7",
-				   "image": "https://i.ibb.co/HHL04RY/logo-vamos.png",
+				   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhC_ZrjTAL_zi61ZUD-aRw18x_XEiKBS-sH5X1EihR_oZ43LsvApOPfWnvjAXfkxh2h_i8W7RNDfU4t42vQskD-fBjP25sBpJKo1fLEAkT4hliVrOVA3HQewEBFLGb3ntMTj2KTu63u4yzFBJUj92xyBfh9Ka9vQPMsZJaAtrJfWS8Nzr34pf9QtJj7CyY/w589-h212/logo_vamos.png",
 				   "url" :  "https://candlesouth.net/embed/jwpz3ec0iqz",
 				   "referer" : "https://l1l1.to/",
 			 	   "isHost":"true"
 			   }, {
 				   "name": "Canal 8",
 				   "info": "php - index",
-				   "image": "https://i.ibb.co/HHL04RY/logo-vamos.png",
+				   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhC_ZrjTAL_zi61ZUD-aRw18x_XEiKBS-sH5X1EihR_oZ43LsvApOPfWnvjAXfkxh2h_i8W7RNDfU4t42vQskD-fBjP25sBpJKo1fLEAkT4hliVrOVA3HQewEBFLGb3ntMTj2KTu63u4yzFBJUj92xyBfh9Ka9vQPMsZJaAtrJfWS8Nzr34pf9QtJj7CyY/w589-h212/logo_vamos.png",
 				   "url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=521",
 				   "referer" : "https://dlhd.sx/",
 			 	   "isHost":"true"
 			   }, {
 				   "name": "Canal 9",
 				   "info": "php",
-				   "image": "https://i.ibb.co/HHL04RY/logo-vamos.png",
+				   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhC_ZrjTAL_zi61ZUD-aRw18x_XEiKBS-sH5X1EihR_oZ43LsvApOPfWnvjAXfkxh2h_i8W7RNDfU4t42vQskD-fBjP25sBpJKo1fLEAkT4hliVrOVA3HQewEBFLGb3ntMTj2KTu63u4yzFBJUj92xyBfh9Ka9vQPMsZJaAtrJfWS8Nzr34pf9QtJj7CyY/w589-h212/logo_vamos.png",
 				   "url":"https://sportskart.click/embed/stream-521.php",
 				   "isHost":"true"
 			 }, {
 				   "name": "Canal 10",
 				   "info": "wwwstream",
-				   "image": "https://i.ibb.co/HHL04RY/logo-vamos.png",
+				   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhC_ZrjTAL_zi61ZUD-aRw18x_XEiKBS-sH5X1EihR_oZ43LsvApOPfWnvjAXfkxh2h_i8W7RNDfU4t42vQskD-fBjP25sBpJKo1fLEAkT4hliVrOVA3HQewEBFLGb3ntMTj2KTu63u4yzFBJUj92xyBfh9Ka9vQPMsZJaAtrJfWS8Nzr34pf9QtJj7CyY/w589-h212/logo_vamos.png",
 				   "url" :  "https://wwwstream.pro/embed/DNUM74moiV0r",
 				   "referer" : "https://kingstreamz.lol/",
 			 	   "isHost":"true"
 			 }, {
 				   "name": "Canal 11",
 				   "info": "wwwstream",
-				   "image": "https://i.ibb.co/HHL04RY/logo-vamos.png",
+				   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhC_ZrjTAL_zi61ZUD-aRw18x_XEiKBS-sH5X1EihR_oZ43LsvApOPfWnvjAXfkxh2h_i8W7RNDfU4t42vQskD-fBjP25sBpJKo1fLEAkT4hliVrOVA3HQewEBFLGb3ntMTj2KTu63u4yzFBJUj92xyBfh9Ka9vQPMsZJaAtrJfWS8Nzr34pf9QtJj7CyY/w589-h212/logo_vamos.png",
 				   "url" :  "https://wwwstream.pro/embed/0Jh5TMBIVlm",
 				   "referer" : "https://kingstreamz.lol/",
 			 	   "isHost":"true"
 			 }, {
 				   "name": "Canal 12",
 				   "info": "ucplay2",
-				   "image": "https://i.ibb.co/HHL04RY/logo-vamos.png",
+				   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhC_ZrjTAL_zi61ZUD-aRw18x_XEiKBS-sH5X1EihR_oZ43LsvApOPfWnvjAXfkxh2h_i8W7RNDfU4t42vQskD-fBjP25sBpJKo1fLEAkT4hliVrOVA3HQewEBFLGb3ntMTj2KTu63u4yzFBJUj92xyBfh9Ka9vQPMsZJaAtrJfWS8Nzr34pf9QtJj7CyY/w589-h212/logo_vamos.png",
 				   "url":"https://hd.ucplay2.com/vgfsdghd4hfhjcit",
 				   "isHost":"true"
 			 }, {
 				   "name": "Canal 13",
 				   "info": "php",
-				   "image": "https://i.ibb.co/HHL04RY/logo-vamos.png",
+				   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhC_ZrjTAL_zi61ZUD-aRw18x_XEiKBS-sH5X1EihR_oZ43LsvApOPfWnvjAXfkxh2h_i8W7RNDfU4t42vQskD-fBjP25sBpJKo1fLEAkT4hliVrOVA3HQewEBFLGb3ntMTj2KTu63u4yzFBJUj92xyBfh9Ka9vQPMsZJaAtrJfWS8Nzr34pf9QtJj7CyY/w589-h212/logo_vamos.png",
 				   "url":"https://ltinversionistas.com/jactv/mvamos1.php",
 				   "isHost":"true"
 			 }, {
@@ -6053,28 +6053,28 @@
 			"userAgent" : ""
 		 }, {
 			"name": "BT Sport 1",
-			"image": "https://i.ibb.co/w6gRYRm/BTS1.png",
+			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8gBblkfxfuJyOISQDeJ3k5BVpL1NIP_9hy4RGehZVDlfhtjLLFiiebpoQKPK63AK0xq-PznVAQoG4lF_h-v_-g3QsiS1-doGyCjcbIq24dTyzXrF150hZKMY7NdzNbPzZYQoxoch7NjGuWgY7ViOKotFHsVxdU8Qe5BKqRTkrkXzFBtj0Z0osBtAT47u7/w608-h131/BTS1.png",
 			"url": "https://unbiasedsenseevent.com/embed/m5a6zzm8yc2",
 			"referer": "https://nopay.info/",
 			 "isHost": "true"
 		 }, {
 			"name": "BT Sport 2",
-			"image": "https://i.ibb.co/ChrQRMv/BTS2.png",
+			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfLDvbLnMnSFiCK3UPa5_Mg_nNG-Nva5hlEj1e3Zxyo3naskkUSXHWEVeHJXzAK2fjfhUN6ca8DK1wQGtRGX_QhBbIz7xeVLpr6tjNjB3agIkdBmUuGOesYbEAeF6GChJaJpXEzplpSL-LOVZLsXDGZ5ZQxbGwk-gmgWllRvAgSB5s4rXanfsqrpAjsqz3/w611-h130/BTS2.png",
 			"url":"https://daddy.yurendtv.biz.id/https://ddy1.onlinewebtv.lol:443/ddy1/premium32/tracks-v1a1/mono.m3u8",
 			"userAgent" : ""
 		 }, {
 			"name": "BT Sport 3",
-			"image": "https://i.ibb.co/SRy0SHs/BTS3.png",
+			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOdniO-VYzlp7Do-GyQunG5KRnubufthV2WOWqe_ibicBvbOPozgIpeLrJfWfOfUEm-zGKq3I6pw3ImH0Z7f9o8VSLuphV9HlVpiMSTSzXhiqfWIyyiIm3e1EWvNDp7lg0D3hzmhTc2C09WDAhbrjWQOBV8aQV13FGORgKT-vaPR31PAtd67mK5KRcVz8e/w619-h131/BTS3.png",
 			"url":"http://163.172.221.223:90/bt3/index.m3u8",
 			"userAgent" : ""
 		 }, {
 			"name": "Eleven 1",
-			"image": "https://i.ibb.co/ZSp0GsT/logo-Eleven-Sports.png",
+			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpeobtW6p6QBsv4bqV8XFgnQKkRhFqU_C5hrXPLvySJHwxAhLoXujTIKuoiV0DQy6FBQe4WRlGLUlLZsMa4QCx2SLBCsNmTFrZe7a6ND1NM4JhWtFYEhq4KFVGJTEiH3tpsCqxEHh9vqGcRU1qy-8qrt1harNG6OhGXVywOnRPW7mUfjywK2c80QGho02a/w581-h225/logo-ElevenSports.png",
 			"url":"http://213.13.16.138/shls/LIVE%24Eleven_Sports_1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END",
 			"userAgent" : ""
 		 }, {
 			"name": "Eleven 2",
-			"image": "https://i.ibb.co/ZSp0GsT/logo-Eleven-Sports.png",
+			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpeobtW6p6QBsv4bqV8XFgnQKkRhFqU_C5hrXPLvySJHwxAhLoXujTIKuoiV0DQy6FBQe4WRlGLUlLZsMa4QCx2SLBCsNmTFrZe7a6ND1NM4JhWtFYEhq4KFVGJTEiH3tpsCqxEHh9vqGcRU1qy-8qrt1harNG6OhGXVywOnRPW7mUfjywK2c80QGho02a/w581-h225/logo-ElevenSports.png",
 			"url":"http://213.13.16.138/shls/LIVE%24Eleven_Sports_2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END",
 			"userAgent" : ""
 		 }, {
@@ -6085,46 +6085,46 @@
              		"isHost": "true"
                 }, {
                     	"name": "ESPN",
-                    	"image": "https://i.ibb.co/rFNKx28/logo-ESPN.png",
+                    	"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFoCgAwvY3pqWo-gTfR1ztkB9Qdf8KTJOQ0J32bfi1s3i3-Fc_oyZOnJVbCOW4Dw7qJ2Es5Y15C3Nksg777ccGUeUf2we7Wi0v-NZrq3gWo-wivlXy6Vk8TCDxy1EhFfHRF_PWoZUDBECPnjcXkYz75-ER0uTsTNT3og97FtqTajlZQDlAyLF7pDvq4S6U/w545-h327/logo-ESPN.png",
                 	"url": "https://abolishstand.net/embed/nw0opp4",
                      	"referer": "https://1stream.buzz/",  
 			"isHost":"true"
                     },{
                     "name": "ESPN",
 			"info": "php - index",
-                    "image": "https://i.ibb.co/rFNKx28/logo-ESPN.png",
+                    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFoCgAwvY3pqWo-gTfR1ztkB9Qdf8KTJOQ0J32bfi1s3i3-Fc_oyZOnJVbCOW4Dw7qJ2Es5Y15C3Nksg777ccGUeUf2we7Wi0v-NZrq3gWo-wivlXy6Vk8TCDxy1EhFfHRF_PWoZUDBECPnjcXkYz75-ER0uTsTNT3og97FtqTajlZQDlAyLF7pDvq4S6U/w545-h327/logo-ESPN.png",
 		    "url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=149",
               		"referer" : "https://dlhd.sx/",
 			 "isHost":"true"
                   },{
                     	"name": "ESPN2",
 			"info": "php - index",
-                    	"image": "https://i.ibb.co/XLzx4Rp/logo-ESPN2.png",
+                    	"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJTIdLe_W2pLAwmwO087heMSKLjFZBEjpttLnLvBKh6nEoUOOKyZGp8_IFgyfkjUOi7qI1c6HHRlTIq4lSq3ELEIapYFCxX9V6h6CTwz9XAtO0bsus_WbHQxpEsVYdrQGobWN-LnDvARmM_QydmASnjZDKXRr3wisuYGBaZodpq66cduudD6ZBJSLR4nJL/w619-h118/logo-ESPN2.png",
                      	"url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=150",
               		"referer" : "https://dlhd.sx/",
 		 	"isHost": "true"
                  },{
                     "name": "ESPN2",
-                    "image": "https://i.ibb.co/XLzx4Rp/logo-ESPN2.png",
+                    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJTIdLe_W2pLAwmwO087heMSKLjFZBEjpttLnLvBKh6nEoUOOKyZGp8_IFgyfkjUOi7qI1c6HHRlTIq4lSq3ELEIapYFCxX9V6h6CTwz9XAtO0bsus_WbHQxpEsVYdrQGobWN-LnDvARmM_QydmASnjZDKXRr3wisuYGBaZodpq66cduudD6ZBJSLR4nJL/w619-h118/logo-ESPN2.png",
                      "url":"https://kepa.pw/abed.php?file=espn2argentinabahia",
 		     "referer" : "https://bahiadeportes.com/",
             		"isHost" : "true"
 	    	},{
                     "name": "ESPN3",
-                    "image": "https://i.ibb.co/NNqX2Nj/logo-ESPN3.png",
+                    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFbUXDxdnBL_-bzHyQ4de57zyIdAHO_D7_xqRLxjPA11rS1oV8SsCvOZ-gkXqI6Q1-iMvAQCpkNsbGywm-QZ8nHbL1PpZtf5CjMw25oyCD9VxUQvR5-P7dHXv0siIE-_wAopjZCboU_nwXqLjVd2V3-zpU668Hm1wtLGIiU4yb03imy-bX52yKQ2Tcluub/w568-h117/logo-ESPN3.png",
 		    "url": "https://kepa.pw/abed.php?file=espn3argentinabahia",
                     "referer" : "https://bahiadeportes.com/",
                      "isHost" : "true"
                   },{
                      "name": "ESPN3",
 		     "info": "php - index",
-                     "image": "https://i.ibb.co/NNqX2Nj/logo-ESPN3.png",
+                     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFbUXDxdnBL_-bzHyQ4de57zyIdAHO_D7_xqRLxjPA11rS1oV8SsCvOZ-gkXqI6Q1-iMvAQCpkNsbGywm-QZ8nHbL1PpZtf5CjMw25oyCD9VxUQvR5-P7dHXv0siIE-_wAopjZCboU_nwXqLjVd2V3-zpU668Hm1wtLGIiU4yb03imy-bX52yKQ2Tcluub/w568-h117/logo-ESPN3.png",
                      "url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=375",
               	     "referer" : "https://dlhd.sx/",
 		     "isHost":"true"
 		}, {
               		"name": "ESPN U",
-			"image": "https://i.ibb.co/HGZw6rY/logo-ESPNU.png",
+			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIjdyT6UYpZOxvSBgJsZPDjflj9ESy5zGGcP16B_qRlF_LwEyoA5I3X7sbzQp4-hBJg7DjIwlnMpJZsFlcfp6gsctS-c1lO2K7P7Sa6NS6YUK1WqqvzDqtJGBiSmqILGlyDmCQOY0tDtXDDBzm7b9AY8dr5OnfH-soHmGUbNDit1iXERXdoLKS7RGofB49/w433-h433/logo-ESPNU.png",
 			"url": "https://pahaplayers.click/ch/pahe044ch.php",
                     	"isHost": "true"
 		}, {
@@ -6136,122 +6136,122 @@
 		}, {
 			"name": "Fox Sports 1",
 			"info": "php - index",
-			"image": "https://i.ibb.co/55GZL1c/logo-fs1.png",
+			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_NwEsRH6BbHnxgq92HLGBlh95ppszS0fsxdMYWFhrC0xdyoXiuC7gZ2AFJUJ3hV2IkSFwmuGmFcNK4Pm1HjirJNhpjYuFNxC3OvYzU52Uy84kdbjhGIYN9lUhVcRXW3dHubHg0DHJsbm_fs_L-_Pwon1lZTJ1-9w8vaZg7rnoaz6m2CL5HiuYFTk4wZtm/w520-h234/logo-fs1.png",
                   	"url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=767",
               		"referer" : "https://dlhd.sx/",
 			"isHost":"true"
 		}, {
 			"name": "Fox Sports 1.2",
 			"info": "php",
-			"image": "https://i.ibb.co/55GZL1c/logo-fs1.png",
+			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_NwEsRH6BbHnxgq92HLGBlh95ppszS0fsxdMYWFhrC0xdyoXiuC7gZ2AFJUJ3hV2IkSFwmuGmFcNK4Pm1HjirJNhpjYuFNxC3OvYzU52Uy84kdbjhGIYN9lUhVcRXW3dHubHg0DHJsbm_fs_L-_Pwon1lZTJ1-9w8vaZg7rnoaz6m2CL5HiuYFTk4wZtm/w520-h234/logo-fs1.png",
                   	"url" : "https://ltinversionistas.com/jactv/foxsp.php",
 			"isHost":"true"
 		}, {
 			"name": "Fox Sports 2",
 			"info": "php - index",
-			"image": "https://i.ibb.co/tqfYrvH/logo-fs2.webp",
+			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4120TyOG4BIwd3SLGVvw2GEEy61ExiAu0aVA5AXStwEhHKx4h37jttMBT0uOJ3X4kOnjh2VO6Dn6MbyX0rdmr0pvQ2lFU_zauBqsQJn2PT-F3YHBjM_87TEQaW3W0rjrJSOUAjSVGVE8F3Yq8jthXhFG-U0M2rkJ75N7pKjfbYmHyEGEFwCsp4Nsuu9Oz/w559-h251/logo-fs2.png",
 			"url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=788",
               		"referer" : "https://dlhd.sx/",
 			"isHost" : "true"
 		}, {
 			"name": "Fox Sports 2.2",
 			"info": "php",
-			"image": "https://i.ibb.co/tqfYrvH/logo-fs2.webp",
+			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4120TyOG4BIwd3SLGVvw2GEEy61ExiAu0aVA5AXStwEhHKx4h37jttMBT0uOJ3X4kOnjh2VO6Dn6MbyX0rdmr0pvQ2lFU_zauBqsQJn2PT-F3YHBjM_87TEQaW3W0rjrJSOUAjSVGVE8F3Yq8jthXhFG-U0M2rkJ75N7pKjfbYmHyEGEFwCsp4Nsuu9Oz/w559-h251/logo-fs2.png",
 			"url" : "https://ltinversionistas.com/jactv/foxsp2.php",
 			"isHost" : "true"
 		}, {
 			"name": "Fox Sports 3",
 			"info": "php - index",
-			"image": "https://i.ibb.co/xS4PqcP/logo-fs3.png",
+			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-G7Lncg_gzP3-h5IanMhVNLvcJovfFy6Ilem92op8N7ViL4CHPB_GRtlLcY22QVKchKjkoqSCrQoqJf4ToVshtCs5qP6pcqf5-9sdnyfJsXsQ5BmDcwUhvTuGJqlYVnr2a-ZErLkS89CeS7cEYXOez4uL6_S4oz7fLnCURO4mxqNOu66tizdV3JW3sb3M/w559-h252/logo-fs3.png",
 		 	"url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=789",
               		"referer" : "https://dlhd.sx/",
 			"isHost" : "true"
            	}, {
 			"name": "Fox Sports 3.2",
 			"info": "php",
-			"image": "https://i.ibb.co/xS4PqcP/logo-fs3.png",
+			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-G7Lncg_gzP3-h5IanMhVNLvcJovfFy6Ilem92op8N7ViL4CHPB_GRtlLcY22QVKchKjkoqSCrQoqJf4ToVshtCs5qP6pcqf5-9sdnyfJsXsQ5BmDcwUhvTuGJqlYVnr2a-ZErLkS89CeS7cEYXOez4uL6_S4oz7fLnCURO4mxqNOu66tizdV3JW3sb3M/w559-h252/logo-fs3.png",
 		 	"url" : "https://ltinversionistas.com/jactv/foxsp3.php",
 			"isHost" : "true"
            	}, {
 			"name": "TUDN",
 			"info": "abol-omf3v | 1str",
-			"image": "https://i.ibb.co/XF20w23/logo-TUDN.png",
+			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCjmWSWbYJIVsFeo1ipw58yFgi80OrnltyZUucnYzhAP-71KYvOW7QeCyO8ITgyfcMzyXVM5Lr3e0ceWoFDNz7o0w_uh0iRuQOA2XzAYK3LT0H9CP2D6AvTlzUFpEcMBVqC0HbmiT7OOErVE0VlVQsEh_-KMjMzIn4UxjZvbxCjkdBqUCS-JZ7CudoV4wz/w590-h129/logo-TUDN.png",
 			"url" :  "https://abolishstand.net/embed/omf3vn",
 			"referer" : "https://1stream.buzz/",
 			 "isHost":"true"
        	 	}, {
 			"name": "TUDN",
-			"image": "https://i.ibb.co/XF20w23/logo-TUDN.png",
+			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCjmWSWbYJIVsFeo1ipw58yFgi80OrnltyZUucnYzhAP-71KYvOW7QeCyO8ITgyfcMzyXVM5Lr3e0ceWoFDNz7o0w_uh0iRuQOA2XzAYK3LT0H9CP2D6AvTlzUFpEcMBVqC0HbmiT7OOErVE0VlVQsEh_-KMjMzIn4UxjZvbxCjkdBqUCS-JZ7CudoV4wz/w590-h129/logo-TUDN.png",
 			"url":"https://linear-357.frequency.stream/dist/vix/357/hls/master/playlist_1024x576.m3u8",
 			"userAgent" : ""
 		}, {
 			"name": "TUDN",
 			"info": "php - index",
-			"image": "https://i.ibb.co/XF20w23/logo-TUDN.png",
+			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCjmWSWbYJIVsFeo1ipw58yFgi80OrnltyZUucnYzhAP-71KYvOW7QeCyO8ITgyfcMzyXVM5Lr3e0ceWoFDNz7o0w_uh0iRuQOA2XzAYK3LT0H9CP2D6AvTlzUFpEcMBVqC0HbmiT7OOErVE0VlVQsEh_-KMjMzIn4UxjZvbxCjkdBqUCS-JZ7CudoV4wz/w590-h129/logo-TUDN.png",
 			"url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=66",
               		"referer" : "https://dlhd.sx/",
 	                "isHost": "true"
 		}, {
 			"name": "DirecTV Sports",
-			"image": "https://i.ibb.co/xYZB8br/logo-dtvs.png",
+			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTUlMGu9lKtgggYYMRmBqUUtM0F1j1SQvTm8mYxxmpUlyUQKf0eD1RI3r3Y6oLUS-Hv4jHhwQmCu8oRuiZcb6JmBxZIIZXohkMlghwWwdro3bBK0QnzSVxHcz73ql_z61g0hBrywOZfK9sKHriamd5GUZHYo83OP0PPFM3QuCALa0RFYdsL7ZO3QZ6wCDt/w589-h244/logo-dtvs.png",
 			"url": "https://ltinversionistas.com/jactv/directv.php",
 			"isHost" : "true"
 		}, {
 			"name": "DirecTV Sports+",
-			"image": "https://i.ibb.co/xYZB8br/logo-dtvs.png",
+			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTUlMGu9lKtgggYYMRmBqUUtM0F1j1SQvTm8mYxxmpUlyUQKf0eD1RI3r3Y6oLUS-Hv4jHhwQmCu8oRuiZcb6JmBxZIIZXohkMlghwWwdro3bBK0QnzSVxHcz73ql_z61g0hBrywOZfK9sKHriamd5GUZHYo83OP0PPFM3QuCALa0RFYdsL7ZO3QZ6wCDt/w589-h244/logo-dtvs.png",
 			"url": "https://ltinversionistas.com/jactv/directvplus.php",
 	           	"isHost": "true"
               }, {
 			"name": "DirecTV Sports 2",
-			"image": "https://i.ibb.co/5vNqyrJ/logo-dtvs2.png",
+			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDQ8OdPENazGgA30w5nWmmUmeg7kwV6ra3VnLf2pEBeNs7GZVtOdM-DNAxAcrvVMzcvKbqii4cO80utajamoU1GOx0N1IUtvfgXkZXCoMRAsqILOwMJePzYbUDUaUf96msWdG1MlWK2ST5E9fRoyIHhO3rZHmnOcpnciJhCHNNN_lEy4vCYu8PXiUXoVCm/w504-h283/logo-dtvs2.png",
 			"url": "https://ltinversionistas.com/jactv/directv2.php",
 	           	"isHost": "true"
                }, {
 			"name": "TyC Sports",
 			"info": "php",
-			"image": "https://i.ibb.co/ZfvKGP2/logo-TyC.png",
+			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfJwHcUZK-6338mtQ-ggMRMFOwlBbAyfk4eANq8zZqtT5B-E9zXsyeBEVWWx2PjbfbyBR-zuLgCDLp1YEzhIfcoVZk72yOtRl_4PLCOZBaVQPW1g40ZCFj6kBYrRqyxZpVOpylLUufKf8hVT0YqmxxNHp2dd_17Gqtp_aXBgq9uv-ExVyVHMTMJ1xWEX7T/w590-h123/logo-TyC.png",
 			"url": "https://ltinversionistas.com/jactv/tyc.php",
 			"isHost": "true"
                }, {
 			"name": "TyC Sports",
 			"info": "m3u8",
-			"image": "https://i.ibb.co/ZfvKGP2/logo-TyC.png",
+			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfJwHcUZK-6338mtQ-ggMRMFOwlBbAyfk4eANq8zZqtT5B-E9zXsyeBEVWWx2PjbfbyBR-zuLgCDLp1YEzhIfcoVZk72yOtRl_4PLCOZBaVQPW1g40ZCFj6kBYrRqyxZpVOpylLUufKf8hVT0YqmxxNHp2dd_17Gqtp_aXBgq9uv-ExVyVHMTMJ1xWEX7T/w590-h123/logo-TyC.png",
 			"url": "https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8",
 			 "userAgent" : ""
                }, {
 			"name": "TNT Sports",
-			"image": "https://i.ibb.co/b5R24vt/logo-TNT.png",
+			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1nu9bsvioJK4evfm4QfMbGd3rVeN-ZwRybEiCzwVUZqSeeqYGRsU1e7mIGqeeY2EEWrVSNomOUgZJtI_bare-ScI4_wfZxdHuOqwciWR4URkJBnZjEQ3Q82EsFmnKMu_oPBFaLP9OoS84kjpvGYolsSr7sxS0uaQ_zsbT5AT2twQWLcQ8nsAKzH8kkPR4/w553-h176/logo-TNT.png",
 			"url": "https://www.tutele.nl/online.php?a=149",
              		"referer" : "https://www.freelive365.net/",
 	           	"isHost": "true"
               }, {
 			"name": "TNT Sports",
 			"info": "php - index",
-			"image": "https://i.ibb.co/b5R24vt/logo-TNT.png",
+			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1nu9bsvioJK4evfm4QfMbGd3rVeN-ZwRybEiCzwVUZqSeeqYGRsU1e7mIGqeeY2EEWrVSNomOUgZJtI_bare-ScI4_wfZxdHuOqwciWR4URkJBnZjEQ3Q82EsFmnKMu_oPBFaLP9OoS84kjpvGYolsSr7sxS0uaQ_zsbT5AT2twQWLcQ8nsAKzH8kkPR4/w553-h176/logo-TNT.png",
 			"url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=388",
               		"referer" : "https://dlhd.sx/",
 	           	"isHost": "true"
 		 }, {
 			"name": "TNT Sports",
-			"image": "https://i.ibb.co/b5R24vt/logo-TNT.png",
+			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1nu9bsvioJK4evfm4QfMbGd3rVeN-ZwRybEiCzwVUZqSeeqYGRsU1e7mIGqeeY2EEWrVSNomOUgZJtI_bare-ScI4_wfZxdHuOqwciWR4URkJBnZjEQ3Q82EsFmnKMu_oPBFaLP9OoS84kjpvGYolsSr7sxS0uaQ_zsbT5AT2twQWLcQ8nsAKzH8kkPR4/w553-h176/logo-TNT.png",
 			"url":"https://embx205608.apl232.me/player/live.php?id=205608&w=100%&h=100%",
 	           	"isHost": "true"
 		 }, {
 			"name": "Win Sports",
-			"image": "https://i.ibb.co/z2vQ9Cd/logo-WS.png",
+			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgANgt1BwSbQiMPhZ9Q0FmfBBK_RBkAx6CS3533vjvJsseBWE6oCJpYPLir09aIhfokconXkQ-ez7LL4nTwleCrXG_w4wvNTgsihYiIPGawIOPJzjbyHrh2gBg-NV0peWG3bu_AYYs_QCI7pMQjE7he69Xi34P09Gf8jNB-m_x0JT9nIaXTWpzk3VEEex4_/w498-h256/logo-WS.png",
 			"url": "https://abolishstand.net/embed/4hkxq20b10a3u69",
 			"referer" : "https://1stream.buzz/",
 	           	"isHost": "true"    
                }, {
 			"name": "Win Sports",
 			"info": "php - index",
-			"image": "https://i.ibb.co/z2vQ9Cd/logo-WS.png",
+			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgANgt1BwSbQiMPhZ9Q0FmfBBK_RBkAx6CS3533vjvJsseBWE6oCJpYPLir09aIhfokconXkQ-ez7LL4nTwleCrXG_w4wvNTgsihYiIPGawIOPJzjbyHrh2gBg-NV0peWG3bu_AYYs_QCI7pMQjE7he69Xi34P09Gf8jNB-m_x0JT9nIaXTWpzk3VEEex4_/w498-h256/logo-WS.png",
 			"url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=392",
               		"referer" : "https://dlhd.sx/",
 	           	"isHost": "true"
               }, {
 			"name": "Caracol TV",
-			"image": "https://i.ibb.co/Cz6VDPZ/logo-caracol.webp",
+			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2vFjSWb-A_hQ75nMuNSIPBw8QO_cphu-LqNw_AJwXz4tdsnJ2OgEMdE4rwDoE6r788r5uh5SbQfq2BJqJipZHmGl2h3zpzb3ew395xcUPjJXTcQ3KrdBiGAqSD9ZK0xI0XMx2BV2lWjyrMFwtddL8AVQBPzA9TEKeTnnGK7C6ICiS5OZZ5Ubzq7POSjMy/w473-h475/logo-caracol.png",
 			"url" : "https://s01.castamp.com/live/c1dawfawer/chunklist.m3u8?h=rG-pC_s-awBtrT8rkYJS6Q&e=1673662304&u=4674ceaffbd1dd0a5db1ebc16a85ac05&d=37_11_141_29",
 			"userAgent": ""
              }, {
@@ -6326,7 +6326,7 @@
 			"userAgent" : ""
 		 }, {
               		"name": "Fox NFL",
-			"image": "https://i.ibb.co/4gFncw9/logo-FNFL.png",
+			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOtuN0gcwQHIxmG5Yi9nsb9xsqnKi8q_Jqzptz_tnloHaah8oxWmsHJp19FgI0akA4AzgHI8aYx1mRnbKoMDU3kekzOr6S3nczPIflUXjt3QsFfRragAayYxW8wsPXFZV-WEybuk_ZhJ7P95NvKdRStSKp2QWLANbVbeLwvpYTsb6vYj8e87fmXMBVtik-/w358-h465/logo-FNFL.png",
 			"url": "https://ragnaru.net/embed.php?player=desktop&live=do19",
                     "referer": "https://em.bedsport.live/",
                     "isHost": "true"      
@@ -7024,193 +7024,11 @@
         									"stations": 
         							 		[
 											{
-												"name": "Yas Marina 2023",
-												"info": "GP Abu Dhabi | Carrera",
-												"image": "https://media.licdn.com/dms/image/C4D22AQGeXhD8a87iNw/feedshare-shrink_800/0/1675346863949?e=1706745600&v=beta&t=_hbUCxe7hfShxbx2-pgAwjvrmcqZkZ9U7qoLqnoQ-qU",
-												"url": "https://www.linkbox.to/f-detail/ZnA0OGo4MDAwbzkz0",
-												"userAgent" : "PlusMediaPlayer/0.0.9",
-                										"isHost":"true",
-                										"online":"true"
-											}, {
-												"name": "Las Vegas 2023",
-												"info": "GP EEUU | Carrera",
-												"image": "https://cdn2.mediotiempo.com/uploads/media/2023/11/13/gp-vegas-horarios-fechas-proxima.jpg",
-												"url": "https://www.linkbox.to/f-detail/ZnA0ODVvMDAycGw40",
-												"userAgent" : "PlusMediaPlayer/0.0.9",
-                										"isHost":"true",
-                										"online":"true"
-											}, {
-												"name": "Sao Paulo 2023",
-												"info": "GP Brasil | Carrera",
-												"image": "https://juandes.com/content/images/2023/11/DALL-E-2023-11-11-11.16.39---Landscape-illustration-of-a-sleek-Formula-1-car-racing-on-a-track-in-Brazil.-The-setting-includes-iconic-Brazilian-landmarks-such-as-the-Christ-the-Re.png",
-												"url": "https://www.linkbox.to/f-detail/ZnA0NnlnMDA5aWgy0",
-												"userAgent" : "PlusMediaPlayer/0.0.9",
-                										"isHost":"true",
-                										"online":"true"
-											}, {
-												"name": "Sao Paulo 2023",
-												"info": "GP Brasil | Sprint",
-												"image": "https://images.squarespace-cdn.com/content/v1/52744b67e4b0782c048b666f/1699531846307-N2VBC1MTQ2O1EM9KOYZG/1+Mercedes.jpg",
-												"url": "https://www.linkbox.to/f-detail/ZnA0NndrMDAwbGlu0",
-												"userAgent" : "PlusMediaPlayer/0.0.9",
-                										"isHost":"true",
-                										"online":"true"
-											}, {
-												"name": "México City 2023",
-												"info": "GP México | Carrera",
-												"image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
-												"url": "",
+            											"name": "",
+												"info": "",
+            											"image": "https://i.ibb.co/Z1cmqrC/Obras.png",
+            											"url": "",
 												"embed": "false"
-											}, {
-												"name": "Austin 2023",
-												"info": "GP EEUU | Carrera",
-												"image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
-												"url": "",
-												"embed": "false"
-											}, {
-												"name": "Austin 2023",
-												"info": "GP EEUU | Sprint",
-												"image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
-												"url": "",
-												"embed": "false"
-											}, {
-												"name": "Lusail 2023",
-												"info": "GP Qatar | Carrera",
-												"image": "https://i.ibb.co/cwNgNtB/F1-GP-Qatar23.png",
-												"url": "https://vk.com/video739310848_456239081",
-												"embed": "true"
-											}, {
-												"name": "Lusail 2023",
-												"info": "GP Qatar | Sprint",
-												"image": "https://i.ibb.co/cwNgNtB/F1-GP-Qatar23.png",
-												"url": "https://vk.com/video739310848_456239080",
-												"embed": "true"
-											}, {
-												"name": "Suzuka 2023",
-												"info": "GP Japón | Carrera",
-												"image": "https://i.ibb.co/2qkHR1Z/F1-Jap-n23.png",
-												"url": "https://vk.com/video739310848_456239074",
-												"embed": "true"
-											}, {
-												"name": "Marina Bay 2023",
-												"info": "GP Singapur | Carrera",
-												"image": "https://i.ibb.co/svjSKrr/F1-singapur23.png",
-												"url": "https://vk.com/video739310848_456239073",
-												"embed": "true"
-											}, {
-												"name": "Monza 2023",
-												"info": "GP Italia | Carrera",
-												"image": "https://i.ibb.co/80NPcHL/F1-GPMonza-Italy23.jpg",
-												"url": "https://vk.com/video739310848_456239068",
-												"embed": "true"
-											}, {
-												"name": "Zandvoort 2023",
-												"info": "GP Paises Bajos | Carrera",
-												"image": "https://i.ibb.co/p1PNN2K/F1-Holanda23.jpg",
-												"url": "https://vk.com/video739310848_456239067",
-												"embed": "true"
-											}, {
-												"name": "Spa 2023",
-												"info": "GP Bélgica | Carrera",
-												"image": "https://i.ibb.co/DVXTGTK/F1-GP-B-lgica23.jpg",
-												"url": "https://vk.com/video739310848_456239062",
-												"embed": "true"
-											}, {
-												"name": "Spa 2023",
-												"info": "GP Bélgica | Sprint",
-												"image": "https://i.ibb.co/DVXTGTK/F1-GP-B-lgica23.jpg",
-												"url": "https://vk.com/video739310848_456239061",
-												"embed": "true"
-											}, {
-												"name": "Budapest 2023",
-												"info": "GP Hungría | Carrera",
-												"image": "https://i.ibb.co/D7gwcVQ/f1-gp-hungria23.jpg",
-												"url": "https://vk.com/video739310848_456239060",
-												"embed": "true"
-											}, {
-												"name": "Silverstone 2023",
-												"info": "GP Gran Bretaña | Carrera",
-												"image": "https://i.ibb.co/zr7481g/F1-GPGB23.jpg",
-												"url": "https://vk.com/video739310848_456239057",
-												"embed": "true"
-											}, {
-												"name": "Spielberg 2023",
-												"info": "GP Austria | Carrera",
-												"image": "https://i.ibb.co/4TrbJ3L/F1-GPAustria23.jpg",
-												"url": "https://vk.com/video739310848_456239055",
-												"embed": "true"
-											}, {
-												"name": "Spielberg 2023",
-												"info": "GP Austria | Sprint",
-												"image": "https://i.ibb.co/4TrbJ3L/F1-GPAustria23.jpg",
-												"url": "https://vk.com/video739310848_456239054",
-												"embed": "true"
-											}, {
-												"name": "Montreal 2023",
-												"info": "GP Canadá | Carrera",
-												"image": "https://i.ibb.co/7jB41ps/F1-GPCanada23.jpg",
-												"url": "https://vk.com/video739310848_456239047",
-												"embed": "true"
-											}, {
-												"name": "Barcelona 2023",
-												"info": "GP España | Carrera",
-												"image": "https://i.ibb.co/8KvgC7c/F1-GPEspa-a23.jpg",
-												"url": "https://vk.com/video739310848_456239044",
-												"embed": "true"
-											}, {
-												"name": "Montecarlo 2023",
-												"info": "GP Mónaco | Carrera",
-												"image": "https://i.ibb.co/n3vPp80/F1-GPM-naco23.jpg",
-												"url": "https://vk.com/video739310848_456239043",
-												"embed": "true"
-											}, {
-												"name": "Miami 2023",
-												"info": "GP EE.UU | Carrera",
-												"image": "https://i.ibb.co/R0XJmqR/GP-Miami23.jpg",
-												"url": "https://vk.com/video739310848_456239040",
-												"embed": "true"
-											}, {
-												"name": "Bakú 2023",
-												"info": "GP Azerbaiyán | Carrera",
-												"image": "https://i.ibb.co/yyStYjS/F1-GPAzer23.jpg",
-												"url": "https://vk.com/video739310848_456239039",
-												"embed": "true"
-											}, {
-												"name": "Bakú 2023",
-												"info": "GP Azerbaiyán | Sprint",
-												"image": "https://i.ibb.co/yyStYjS/F1-GPAzer23.jpg",
-												"url": "https://vk.com/video739310848_456239038",
-												"embed": "true"
-											}, {
-												"name": "Melbourne 2023",
-												"info": "GP Australia | Carrera",
-            											"image": "https://i.ibb.co/frx3Bjm/F1-GPA23.jpg",
-            											"url": "https://vk.com/video739310848_456239024",
-            											"embed": "true"
-            										}, {
-												"name": "Jeddah 2023",
-												"info": "GP Arabia Saudí | Carrera",
-            											"image": "https://i.ibb.co/19C1h23/miniatura-GPAS23.jpg",
-            											"url": "https://vk.com/video739310848_456239023",
-            											"embed": "true"
-            										}, {
-												"name": "Sakhir 2023",
-												"info": "GP Bahrein | Carrera",
-            											"image": "https://i.ibb.co/2FFYTy4/GP-Bahrein23.jpg",
-            											"url": "https://vk.com/video739310848_456239022",
-            											"embed": "true"
-            										}, {
-            											"name": "Silverstone 2022",
-												"info": "GP Gran Bretaña | Carrera",
-            											"image": "https://i.ibb.co/PxWNBH2/miniatura-GB22.jpg",
-            											"url": "https://vk.com/video739310848_456239018",
-            											"embed": "true"
-            										}, {
-            											"name": "Montecarlo 2022",
-												"info": "GP Mónaco | Carrera",
-            											"image": "https://i.ibb.co/C9F6qDj/GP-Monaco.jpg",
-												"url": "https://vk.com/video739310848_456239021",
-            											"embed": "true"
             										}
 										] 
     								        }, {
@@ -7219,246 +7037,12 @@
         									"stations": 
 										[
 											{
-												"name": "Valencia 2023",
-												"info": "GP España | Carrera",
-												"image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
-												"url": "",
+            											"name": "",
+												"info": "",
+            											"image": "https://i.ibb.co/Z1cmqrC/Obras.png",
+            											"url": "",
 												"embed": "false"
-											}, {
-												"name": "Valencia 2023",
-												"info": "GP España | Sprint",
-												"image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
-												"url": "",
-												"embed": "false"
-											}, {
-												"name": "Lusail 2023",
-												"info": "GP Qatar | Carrera",
-												"image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
-												"url": "",
-												"embed": "false"
-											}, {
-												"name": "Lusail 2023",
-												"info": "GP Qatar | Sprint",
-												"image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
-												"url": "",
-												"embed": "false"
-											}, {
-												"name": "Sepang 2023",
-												"info": "GP Malasia | Carrera",
-												"image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
-												"url": "",
-												"embed": "false"
-											}, {
-												"name": "Sepang 2023",
-												"info": "GP Malasia | Sprint",
-												"image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
-												"url": "",
-												"embed": "false"
-											}, {
-												"name": "Buriram 2023",
-												"info": "GP Tailandia | Carrera",
-												"image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
-												"url": "",
-												"embed": "false"
-											}, {
-												"name": "Buriram 2023",
-												"info": "GP Tailandia | Sprint",
-												"image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
-												"url": "",
-												"embed": "false"
-											}, {
-												"name": "Phillip Island 2023",
-												"info": "GP Australia | Carrera",
-												"image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
-												"url": "",
-												"embed": "false"
-											}, {
-												"name": "Phillip Island 2023",
-												"info": "GP Australia | Sprint",
-												"image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
-												"url": "",
-												"embed": "false"
-											}, {
-												"name": "Mandalika 2023",
-												"info": "GP Indonesia | Carrera",
-												"image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
-												"url": "",
-												"embed": "false"
-											}, {
-												"name": "Mandalika 2023",
-												"info": "GP Indonesia | Sprint",
-												"image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
-												"url": "",
-												"embed": "false"
-											}, {
-												"name": "Motegi 2023",
-												"info": "GP Japón | Carrera",
-												"image": "https://i.ibb.co/fSfyq7b/Moto-GPJapon23.png",
-												"url": "https://vk.com/video739310848_456239079",
-												"embed": "true"
-											}, {
-												"name": "Motegi 2023",
-												"info": "GP Japón | Sprint",
-												"image": "https://i.ibb.co/fSfyq7b/Moto-GPJapon23.png",
-												"url": "https://vk.com/video739310848_456239078",
-												"embed": "true"
-											}, {
-												"name": "Dankaur 2023",
-												"info": "GP India | Carrera",
-												"image": "https://i.ibb.co/vdHPyRB/Moto-GP-india23.png",
-												"url": "https://vk.com/video739310848_456239077",
-												"embed": "true"
-											}, {
-												"name": "Dankaur 2023",
-												"info": "GP India | Sprint",
-												"image": "https://i.ibb.co/vdHPyRB/Moto-GP-india23.png",
-												"url": "https://vk.com/video739310848_456239075",
-												"embed": "true"
-											}, {
-												"name": "Misano 2023",
-												"info": "GP San Marino | Carrera",
-												"image": "https://i.ibb.co/jGHHftg/Moto-GP-San-Marino23.jpg",
-												"url": "https://vk.com/video739310848_456239072",
-												"embed": "true"
-											}, {
-												"name": "Misano 2023",
-												"info": "GP San Marino | Sprint",
-												"image": "https://i.ibb.co/jGHHftg/Moto-GP-San-Marino23.jpg",
-												"url": "https://vk.com/video739310848_456239071",
-												"embed": "true"
-											}, {
-												"name": "Barcelona 2023",
-												"info": "GP España | Carrera",
-												"image": "https://i.ibb.co/Qk0BBY4/Moto-GP-GPEspa-a-Barcelona23.jpg",
-												"url": "https://vk.com/video739310848_456239070",
-												"embed": "true"
-											}, {
-												"name": "Barcelona 2023",
-												"info": "GP España | Sprint",
-												"image": "https://i.ibb.co/Qk0BBY4/Moto-GP-GPEspa-a-Barcelona23.jpg",
-												"url": "https://vk.com/video739310848_456239069",
-												"embed": "true"
-											}, {
-												"name": "Red Bull Ring 2023",
-												"info": "GP Austria | Carrera",
-												"image": "https://i.ibb.co/dWSHNpK/Moto-GP-GPAustria23.jpg",
-												"url": "https://vk.com/video739310848_456239066",
-												"embed": "true"
-											}, {
-												"name": "Red Bull Ring 2023",
-												"info": "GP Austria | Sprint",
-												"image": "https://i.ibb.co/dWSHNpK/Moto-GP-GPAustria23.jpg",
-												"url": "https://vk.com/video739310848_456239065",
-												"embed": "true"
-											}, {
-												"name": "Silverstone 2023",
-												"info": "GP Gran Bretaña | Carrera",
-												"image": "https://i.ibb.co/hB3T12x/Mot-GP-GP-Gran-Bre23.jpg",
-												"url": "https://vk.com/video739310848_456239064",
-												"embed": "true"
-											}, {
-												"name": "Silverstone 2023",
-												"info": "GP Gran Bretaña | Sprint",
-												"image": "https://i.ibb.co/hB3T12x/Mot-GP-GP-Gran-Bre23.jpg",
-												"url": "https://vk.com/video739310848_456239063",
-												"embed": "true"
-											}, {
-												"name": "Assen 2023",
-												"info": "GP Países Bajos | Carrera",
-												"image": "https://i.ibb.co/F6wMgWy/moto-GP-Paises-Bajos23.jpg",
-												"url": "https://vk.com/video739310848_456239051",
-												"embed": "true"
-											}, {
-												"name": "Assen 2023",
-												"info": "GP Países Bajos | Sprint",
-												"image": "https://i.ibb.co/F6wMgWy/moto-GP-Paises-Bajos23.jpg",
-												"url": "https://vk.com/video739310848_456239050",
-												"embed": "true"
-											}, {
-												"name": "Sachsenring 2023",
-												"info": "GP Alemania | Carrera",
-												"image": "https://i.ibb.co/Xt2BNz7/Moto-GP-GPAlemania-23.jpg",
-												"url": "https://vk.com/video739310848_456239049",
-												"embed": "true"
-											}, {
-												"name": "Sachsenring 2023",
-												"info": "GP Alemania | Sprint",
-												"image": "https://i.ibb.co/Xt2BNz7/Moto-GP-GPAlemania-23.jpg",
-												"url": "https://vk.com/video739310848_456239048",
-												"embed": "true"
-											}, {
-												"name": "Mugello 2023",
-												"info": "GP Italia | Carrera",
-												"image": "https://i.ibb.co/9VP3v4y/GP-Italia-Moto-GP23.jpg",
-												"url": "https://vk.com/video739310848_456239046",
-												"embed": "true"
-											}, {
-												"name": "Mugello 2023",
-												"info": "GP Italia | Sprint",
-												"image": "https://i.ibb.co/9VP3v4y/GP-Italia-Moto-GP23.jpg",
-												"url": "https://vk.com/video739310848_456239045",
-												"embed": "true"
-											}, {
-												"name": "Le Mans 2023",
-												"info": "GP Francia | Carrera",
-												"image": "https://i.ibb.co/g7bnK4v/MGP-Lemans23.jpg",
-												"url": "https://vk.com/video739310848_456239042",
-												"embed": "true"
-											}, {
-												"name": "Le Mans 2023",
-												"info": "GP Francia | Sprint",
-												"image": "https://i.ibb.co/g7bnK4v/MGP-Lemans23.jpg",
-												"url": "https://vk.com/video739310848_456239041",
-												"embed": "true"
-											}, {
-												"name": "Jerez 2023",
-												"info": "GP España | Carrera",
-												"image": "https://i.ibb.co/v3YTYFV/Moto-GP-Jerez23.jpg",
-												"url": "https://vk.com/video739310848_456239037",
-												"embed": "true"
-											}, {
-												"name": "Jerez 2023",
-												"info": "GP España | Sprint",
-												"image": "https://i.ibb.co/v3YTYFV/Moto-GP-Jerez23.jpg",
-												"url": "https://vk.com/video739310848_456239036",
-												"embed": "true"
-											}, {
-												"name": "Austin 2023",
-												"info": "GP EE.UU | Carrera",
-												"image": "https://i.ibb.co/qrr6ZxK/Moto-GP-Austin23.jpg",
-												"url": "https://vk.com/video739310848_456239035",
-												"embed": "true"
-											}, {
-												"name": "Austin 2023",
-												"info": "GP EE.UU | Sprint",
-												"image": "https://i.ibb.co/qrr6ZxK/Moto-GP-Austin23.jpg",
-												"url": "https://vk.com/video739310848_456239034",
-												"embed": "true"
-											}, {
-												"name": "Termas de Río Hondo 2023",
-												"info": "GP Argentina | Carrera",
-												"image": "https://i.ibb.co/RCzcL77/MGP-GPA23.jpg",
-												"url": "https://vk.com/video739310848_456239028",
-												"embed": "true"
-											}, {
-												"name": "Termas de Río Hondo 2023",
-												"info": "GP Argentina | Sprint",
-												"image": "https://i.ibb.co/RCzcL77/MGP-GPA23.jpg",
-												"url": "https://vk.com/video739310848_456239027",
-												"embed": "true"
-											}, {
-												"name": "Do Algarve 2023",
-												"info": "GP Portugal | Carrera",
-												"image": "https://i.ibb.co/KsTzs7v/MGP-GPP23.jpg",
-												"url": "https://vk.com/video739310848_456239026",
-												"embed": "true"
-											}, {
-												"name": "Do Algarve 2023",
-												"info": "GP Portugal | Sprint",
-												"image": "https://i.ibb.co/KsTzs7v/MGP-GPP23.jpg",
-												"url": "https://vk.com/video739310848_456239025",
-												"embed": "true"
-											}
+            										}
 										]
   									}, {
         									"name":"UFC",
@@ -7466,13 +7050,14 @@
         									"stations": 
         								  [
 
-									{
-            									"name": "",
-										"info": "",
-            									"image": "https://i.ibb.co/Z1cmqrC/Obras.png",
-            									"url": "",
-										"embed": "false"
-            								}]
+										{
+            										"name": "",
+											"info": "",
+            										"image": "https://i.ibb.co/Z1cmqrC/Obras.png",
+            										"url": "",
+											"embed": "false"
+            									}
+									]
     									}, {
 											"name": "San Fermín 2023",
 											"image": "https://i.ibb.co/Lv0YRVG/San-Fermin23.jpg",    
@@ -7558,14 +7143,44 @@
 								"url": "https://www.futboltv.info/competicion/europa-conference-league",
 								"embed": "true"
 							}, {
+								"name": "Supercopa de España",
+								"image": "https://upload.wikimedia.org/wikipedia/en/f/fa/Supercopa-de-Espa%C3%B1a-RFEF.svg",
+								"url": "https://www.futbolenlatv.es/competicion/supercopa-espana",
+								"embed": "true"
+							}, {
+								"name": "Supercopa de España F",
+								"image": "https://upload.wikimedia.org/wikipedia/en/f/fe/Supercopa-de-Espa%C3%B1a-Femenina-RFEF.svg",
+								"url": "https://www.futbolenlatv.es/competicion/supercopa-espana-femenina",
+								"embed": "true"
+							}, {
+								"name": "Copa del Rey",
+								"image": "https://img2.rtve.es/i/?w=1600&i=1704452073904.jpg",
+								"url": "https://www.futbolenlatv.es/competicion/copa-del-rey",
+								"embed": "true"
+							}, {
+								"name": "Copa de la reina",
+								"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/02/03/16754225903937.jpg",
+								"url": "https://www.futbolenlatv.es/competicion/copa-de-la-reina",
+								"embed": "true"
+							}, {
 								"name": "LaLiga",
 								"image": "https://i.ibb.co/3NCs0m4/LaLigaEA.png",
 								"url": "https://www.futboltv.info/competicion/laliga",
 								"embed": "true"
 							}, {
+								"name": "Liga F",
+								"image": "https://seeklogo.com/images/L/liga-f-logo-4C3DE0839C-seeklogo.com.png",
+								"url": "https://www.futbolenlatv.es/competicion/superliga-femenina",
+								"embed": "true"
+							}, {
 								"name": "Liga Hypermotion",
 								"image": "https://i.ibb.co/zZpZy4S/Liga-Hypermotion.png",
 								"url": "https://www.futboltv.info/competicion/laliga2",
+								"embed": "true"
+							}, {
+								"name": "EFL Cup",
+								"image": "https://images.daznservices.com/di/library/DAZN_News/25/28/efl-cup-2023_1naan5p0e7zrs16r0nhv3e1199.png?t=-2084012116",
+								"url": "https://www.futbolenlatv.es/competicion/football-league-cup",
 								"embed": "true"
 							}, {
 								"name": "Premier League",
@@ -7576,6 +7191,16 @@
 								"name": "Bundesliga",
 								"image": "https://i.ibb.co/7yYKf2N/logo-Bundesliga.png",
 								"url": "https://www.futbolenlatv.es/competicion/bundesliga",
+								"embed": "true"
+							}, {
+								"name": "Supercoppa Italia",
+								"image": "https://media-assets.wired.it/photos/63c7f3d05e4f0f08fb7ac208/16:9/w_2560%2Cc_limit/1457058625",
+								"url": "https://www.futbolenlatv.es/competicion/supercopa-italia",
+								"embed": "true"
+							}, {
+								"name": "Coppa Italia",
+								"image": "https://cdn1-production-images-kly.akamaized.net/hZqYuMG1xn5lWdwE_dRVNF80QKQ=/1x177:1080x785/1200x675/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4673701/original/012652800_1701689515-Ilustrasi_Coppa_Italia_-_Bola.com_Salsa_Dwi_Novita.jpg",
+								"url": "https://www.futbolenlatv.es/competicion/copa-de-italia",
 								"embed": "true"
 							}, {
 								"name": "Serie A",
