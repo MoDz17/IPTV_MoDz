@@ -24,9 +24,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 09/01/2024",
+             "name": "Ultm. versión 11/01/2024",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 09/01/2024",
+            "info": "última versión actualizada el 11/01/2024",
             "stations": []
 	}, 
 	
@@ -95,6 +95,42 @@
 									"image": "https://i.ibb.co/Nn2YtQG/logo-category-Movistar.png",    
 									  "stations": 
 			[       { 
+                	 		"name": "M+ Supercopa",
+					"info": "base-host",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Movistar_Plus%2B_Supercopa_de_Espa%C3%B1a_logo_2023.png",
+                    			"url" :  "acestream://8ba764f6a3bce6eae87ec71208fad1aa3a20528d",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Supercopa",
+					"info": "base-agent",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Movistar_Plus%2B_Supercopa_de_Espa%C3%B1a_logo_2023.png",
+                    			"url" :  "acestream://8ba764f6a3bce6eae87ec71208fad1aa3a20528d",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Supercopa",
+					"info": "base-embed",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Movistar_Plus%2B_Supercopa_de_Espa%C3%B1a_logo_2023.png",
+                    			"url" :  "acestream://8ba764f6a3bce6eae87ec71208fad1aa3a20528d",
+					"embed": "true"
+				}, { 
+                	 		"name": "M+ Supercopa",
+					"info": "get-host",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Movistar_Plus%2B_Supercopa_de_Espa%C3%B1a_logo_2023.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=8ba764f6a3bce6eae87ec71208fad1aa3a20528d",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Supercopa",
+					"info": "get-agent",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Movistar_Plus%2B_Supercopa_de_Espa%C3%B1a_logo_2023.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=8ba764f6a3bce6eae87ec71208fad1aa3a20528d",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Supercopa",
+					"info": "get-embed",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Movistar_Plus%2B_Supercopa_de_Espa%C3%B1a_logo_2023.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=8ba764f6a3bce6eae87ec71208fad1aa3a20528d",
+					"embed": "true"
+				}, { 
                 	 		"name": "Movistar+",
 					"info": "base-host",
                     			"image": "https://i.ibb.co/w0rs9nN/LogoM.webp",
@@ -7144,12 +7180,12 @@
 								"embed": "true"
 							}, {
 								"name": "Supercopa de España",
-								"image": "https://upload.wikimedia.org/wikipedia/en/f/fa/Supercopa-de-Espa%C3%B1a-RFEF.svg",
+								"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7uoFnPOMbyQARdAflh-6LyFyr5U8Y2DtIB51z8ZaQjxI1UIY19YI7q_hfd2IPOjmpgWXmARusL82NY4YI3pWfNH4ZpAx9IIzJvx-kehqhgoIM1vOXDsv763DTzTjRHJ-oPN4AAv2sVKDBjZgp4I6bzFzn6hhLBYcxWMkWrBWDsXCxemVmg5Yg5CKsJLYl/w375-h466/SupercopaEspa%C3%B1aM-Logo.png",
 								"url": "https://www.futbolenlatv.es/competicion/supercopa-espana",
 								"embed": "true"
 							}, {
 								"name": "Supercopa de España F",
-								"image": "https://upload.wikimedia.org/wikipedia/en/f/fe/Supercopa-de-Espa%C3%B1a-Femenina-RFEF.svg",
+								"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2STZcnf0V__djIxp_hNp1O-gb89O5_FiqI6QEIGMCkWKqAepk0hvpjd7vCM-xTQp1cc6Ak_UAQKwJMPIh8KLkqGInq8I3ZS0qzNiME5P3j3f5iCEsEa90wrKxtqdCmI7B49xMvNWst_uu_C0ILPmEaFEUfDhrLbP6DgXFffozfvlfjbpKP019-oOFYWTC/w387-h473/SupercopaEspa%C3%B1aF-Logo.png",
 								"url": "https://www.futbolenlatv.es/competicion/supercopa-espana-femenina",
 								"embed": "true"
 							}, {
