@@ -24,9 +24,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 11/01/2024",
+             "name": "Ultm. versión 21/01/2024",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 11/01/2024",
+            "info": "última versión actualizada el 21/01/2024",
             "stations": []
 	}, 
 	
@@ -2646,14 +2646,704 @@
 				    ] 
 					}, {
 								"name":"Canales variados",
-								"image":"https://i.ibb.co/XC8bnHX/logo-soon.png",
+								"image":"https://i.ibb.co/Brj5qrX/logo-variados.png",
 								"stations": 
 							[
-								{
-									"name": "",
-									"image": "https://i.ibb.co/Z1cmqrC/Obras.png",    
-									"url" : ""
-							  }
+				{ 
+                	 		"name": "NBA TV",
+					"info": "base-host",
+                    			"image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png",
+                    			"url" :  "acestream://e72d03fb9694164317260f684470be9ab781ed95",
+					"isHost": "true"
+				}, { 
+                	 		"name": "NBA TV",
+					"info": "base-agent",
+                    			"image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png",
+                    			"url" :  "acestream://e72d03fb9694164317260f684470be9ab781ed95",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "NBA TV",
+					"info": "base-embed",
+                    			"image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png",
+                    			"url" :  "acestream://e72d03fb9694164317260f684470be9ab781ed95",
+					"embed": "true"
+				}, { 
+                	 		"name": "NBA TV",
+					"info": "get-host",
+                    			"image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95",
+					"isHost": "true"
+				}, { 
+                	 		"name": "NBA TV",
+					"info": "get-agent",
+                    			"image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "NBA TV",
+					"info": "get-embed",
+                    			"image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95",
+					"embed": "true"
+				},
+
+
+				{ 
+                	 		"name": "Sport TV-1",
+					"info": "base-host",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Sport_TV1_%282023%29.svg",
+                    			"url" :  "acestream://ce235921dac95e1da2dd5e54673c2fecb9e806de",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Sport TV-1",
+					"info": "base-agent",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Sport_TV1_%282023%29.svg",
+                    			"url" :  "acestream://ce235921dac95e1da2dd5e54673c2fecb9e806de",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Sport TV-1",
+					"info": "base-embed",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Sport_TV1_%282023%29.svg",
+                    			"url" :  "acestream://ce235921dac95e1da2dd5e54673c2fecb9e806de",
+					"embed": "true"
+				}, { 
+                	 		"name": "Sport TV-1",
+					"info": "get-host",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Sport_TV1_%282023%29.svg",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=ce235921dac95e1da2dd5e54673c2fecb9e806de",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Sport TV-1",
+					"info": "get-agent",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Sport_TV1_%282023%29.svg",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=ce235921dac95e1da2dd5e54673c2fecb9e806de",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Sport TV-1",
+					"info": "get-embed",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Sport_TV1_%282023%29.svg",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=ce235921dac95e1da2dd5e54673c2fecb9e806de",
+					"embed": "true"
+				},
+
+
+				{ 
+                	 		"name": "ESPN USA",
+					"info": "base-host",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ESPN_America.svg/1200px-ESPN_America.svg.png",
+                    			"url" :  "acestream://4b4907de51ec11087d4bed5876f2a0c68264f442",
+					"isHost": "true"
+				}, { 
+                	 		"name": "ESPN USA",
+					"info": "base-agent",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ESPN_America.svg/1200px-ESPN_America.svg.png",
+                    			"url" :  "acestream://4b4907de51ec11087d4bed5876f2a0c68264f442",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "ESPN USA",
+					"info": "base-embed",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ESPN_America.svg/1200px-ESPN_America.svg.png",
+                    			"url" :  "acestream://4b4907de51ec11087d4bed5876f2a0c68264f442",
+					"embed": "true"
+				}, { 
+                	 		"name": "ESPN USA",
+					"info": "get-host",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ESPN_America.svg/1200px-ESPN_America.svg.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=4b4907de51ec11087d4bed5876f2a0c68264f442",
+					"isHost": "true"
+				}, { 
+                	 		"name": "ESPN USA",
+					"info": "get-agent",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ESPN_America.svg/1200px-ESPN_America.svg.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=4b4907de51ec11087d4bed5876f2a0c68264f442",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "ESPN USA",
+					"info": "get-embed",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ESPN_America.svg/1200px-ESPN_America.svg.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=4b4907de51ec11087d4bed5876f2a0c68264f442",
+					"embed": "true"
+				},
+
+
+				{ 
+                	 		"name": "ESPN2 USA",
+					"info": "base-host",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ESPN_America.svg/1200px-ESPN_America.svg.png",
+                    			"url" :  "acestream://664eb5fe460b96941aed633959a845b185cd8394",
+					"isHost": "true"
+				}, { 
+                	 		"name": "ESPN2 USA",
+					"info": "base-agent",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ESPN_America.svg/1200px-ESPN_America.svg.png",
+                    			"url" :  "acestream://664eb5fe460b96941aed633959a845b185cd8394",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "ESPN2 USA",
+					"info": "base-embed",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ESPN_America.svg/1200px-ESPN_America.svg.png",
+                    			"url" :  "acestream://664eb5fe460b96941aed633959a845b185cd8394",
+					"embed": "true"
+				}, { 
+                	 		"name": "ESPN2 USA",
+					"info": "get-host",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ESPN_America.svg/1200px-ESPN_America.svg.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=664eb5fe460b96941aed633959a845b185cd8394",
+					"isHost": "true"
+				}, { 
+                	 		"name": "ESPN2 USA",
+					"info": "get-agent",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ESPN_America.svg/1200px-ESPN_America.svg.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=664eb5fe460b96941aed633959a845b185cd8394",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "ESPN2 USA",
+					"info": "get-embed",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ESPN_America.svg/1200px-ESPN_America.svg.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=664eb5fe460b96941aed633959a845b185cd8394",
+					"embed": "true"
+				},
+
+
+				{ 
+                	 		"name": "Fox Sports 1 USA",
+					"info": "base-host",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_NwEsRH6BbHnxgq92HLGBlh95ppszS0fsxdMYWFhrC0xdyoXiuC7gZ2AFJUJ3hV2IkSFwmuGmFcNK4Pm1HjirJNhpjYuFNxC3OvYzU52Uy84kdbjhGIYN9lUhVcRXW3dHubHg0DHJsbm_fs_L-_Pwon1lZTJ1-9w8vaZg7rnoaz6m2CL5HiuYFTk4wZtm/w520-h234/logo-fs1.png",
+                    			"url" :  "acestream://c9c062941fbecb16ce29437f346ea7177d720898",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Fox Sports 1 USA",
+					"info": "base-agent",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_NwEsRH6BbHnxgq92HLGBlh95ppszS0fsxdMYWFhrC0xdyoXiuC7gZ2AFJUJ3hV2IkSFwmuGmFcNK4Pm1HjirJNhpjYuFNxC3OvYzU52Uy84kdbjhGIYN9lUhVcRXW3dHubHg0DHJsbm_fs_L-_Pwon1lZTJ1-9w8vaZg7rnoaz6m2CL5HiuYFTk4wZtm/w520-h234/logo-fs1.png",
+                    			"url" :  "acestream://c9c062941fbecb16ce29437f346ea7177d720898",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Fox Sports 1 USA",
+					"info": "base-embed",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_NwEsRH6BbHnxgq92HLGBlh95ppszS0fsxdMYWFhrC0xdyoXiuC7gZ2AFJUJ3hV2IkSFwmuGmFcNK4Pm1HjirJNhpjYuFNxC3OvYzU52Uy84kdbjhGIYN9lUhVcRXW3dHubHg0DHJsbm_fs_L-_Pwon1lZTJ1-9w8vaZg7rnoaz6m2CL5HiuYFTk4wZtm/w520-h234/logo-fs1.png",
+                    			"url" :  "acestream://c9c062941fbecb16ce29437f346ea7177d720898",
+					"embed": "true"
+				}, { 
+                	 		"name": "Fox Sports 1 USA",
+					"info": "get-host",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_NwEsRH6BbHnxgq92HLGBlh95ppszS0fsxdMYWFhrC0xdyoXiuC7gZ2AFJUJ3hV2IkSFwmuGmFcNK4Pm1HjirJNhpjYuFNxC3OvYzU52Uy84kdbjhGIYN9lUhVcRXW3dHubHg0DHJsbm_fs_L-_Pwon1lZTJ1-9w8vaZg7rnoaz6m2CL5HiuYFTk4wZtm/w520-h234/logo-fs1.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=c9c062941fbecb16ce29437f346ea7177d720898",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Fox Sports 1 USA",
+					"info": "get-agent",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_NwEsRH6BbHnxgq92HLGBlh95ppszS0fsxdMYWFhrC0xdyoXiuC7gZ2AFJUJ3hV2IkSFwmuGmFcNK4Pm1HjirJNhpjYuFNxC3OvYzU52Uy84kdbjhGIYN9lUhVcRXW3dHubHg0DHJsbm_fs_L-_Pwon1lZTJ1-9w8vaZg7rnoaz6m2CL5HiuYFTk4wZtm/w520-h234/logo-fs1.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=c9c062941fbecb16ce29437f346ea7177d720898",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Fox Sports 1 USA",
+					"info": "get-embed",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_NwEsRH6BbHnxgq92HLGBlh95ppszS0fsxdMYWFhrC0xdyoXiuC7gZ2AFJUJ3hV2IkSFwmuGmFcNK4Pm1HjirJNhpjYuFNxC3OvYzU52Uy84kdbjhGIYN9lUhVcRXW3dHubHg0DHJsbm_fs_L-_Pwon1lZTJ1-9w8vaZg7rnoaz6m2CL5HiuYFTk4wZtm/w520-h234/logo-fs1.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=c9c062941fbecb16ce29437f346ea7177d720898",
+					"embed": "true"
+				},
+
+
+				{ 
+                	 		"name": "Fox Sports 2 USA",
+					"info": "base-host",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4120TyOG4BIwd3SLGVvw2GEEy61ExiAu0aVA5AXStwEhHKx4h37jttMBT0uOJ3X4kOnjh2VO6Dn6MbyX0rdmr0pvQ2lFU_zauBqsQJn2PT-F3YHBjM_87TEQaW3W0rjrJSOUAjSVGVE8F3Yq8jthXhFG-U0M2rkJ75N7pKjfbYmHyEGEFwCsp4Nsuu9Oz/w559-h251/logo-fs2.png",
+                    			"url" :  "acestream://cba8d369eac629b577750edb90370cd1c5fb03b7",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Fox Sports 2 USA",
+					"info": "base-agent",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4120TyOG4BIwd3SLGVvw2GEEy61ExiAu0aVA5AXStwEhHKx4h37jttMBT0uOJ3X4kOnjh2VO6Dn6MbyX0rdmr0pvQ2lFU_zauBqsQJn2PT-F3YHBjM_87TEQaW3W0rjrJSOUAjSVGVE8F3Yq8jthXhFG-U0M2rkJ75N7pKjfbYmHyEGEFwCsp4Nsuu9Oz/w559-h251/logo-fs2.png",
+                    			"url" :  "acestream://cba8d369eac629b577750edb90370cd1c5fb03b7",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Fox Sports 2 USA",
+					"info": "base-embed",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4120TyOG4BIwd3SLGVvw2GEEy61ExiAu0aVA5AXStwEhHKx4h37jttMBT0uOJ3X4kOnjh2VO6Dn6MbyX0rdmr0pvQ2lFU_zauBqsQJn2PT-F3YHBjM_87TEQaW3W0rjrJSOUAjSVGVE8F3Yq8jthXhFG-U0M2rkJ75N7pKjfbYmHyEGEFwCsp4Nsuu9Oz/w559-h251/logo-fs2.png",
+                    			"url" :  "acestream://cba8d369eac629b577750edb90370cd1c5fb03b7",
+					"embed": "true"
+				}, { 
+                	 		"name": "Fox Sports 2 USA",
+					"info": "get-host",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4120TyOG4BIwd3SLGVvw2GEEy61ExiAu0aVA5AXStwEhHKx4h37jttMBT0uOJ3X4kOnjh2VO6Dn6MbyX0rdmr0pvQ2lFU_zauBqsQJn2PT-F3YHBjM_87TEQaW3W0rjrJSOUAjSVGVE8F3Yq8jthXhFG-U0M2rkJ75N7pKjfbYmHyEGEFwCsp4Nsuu9Oz/w559-h251/logo-fs2.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=cba8d369eac629b577750edb90370cd1c5fb03b7",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Fox Sports 2 USA",
+					"info": "get-agent",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4120TyOG4BIwd3SLGVvw2GEEy61ExiAu0aVA5AXStwEhHKx4h37jttMBT0uOJ3X4kOnjh2VO6Dn6MbyX0rdmr0pvQ2lFU_zauBqsQJn2PT-F3YHBjM_87TEQaW3W0rjrJSOUAjSVGVE8F3Yq8jthXhFG-U0M2rkJ75N7pKjfbYmHyEGEFwCsp4Nsuu9Oz/w559-h251/logo-fs2.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=cba8d369eac629b577750edb90370cd1c5fb03b7",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Fox Sports 2 USA",
+					"info": "get-embed",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4120TyOG4BIwd3SLGVvw2GEEy61ExiAu0aVA5AXStwEhHKx4h37jttMBT0uOJ3X4kOnjh2VO6Dn6MbyX0rdmr0pvQ2lFU_zauBqsQJn2PT-F3YHBjM_87TEQaW3W0rjrJSOUAjSVGVE8F3Yq8jthXhFG-U0M2rkJ75N7pKjfbYmHyEGEFwCsp4Nsuu9Oz/w559-h251/logo-fs2.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=cba8d369eac629b577750edb90370cd1c5fb03b7",
+					"embed": "true"
+				},
+
+
+				{ 
+                	 		"name": "Sky Sports Arena UK",
+					"info": "base-host",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-arena-uk.svg",
+                    			"url" :  "acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Sky Sports Arena UK",
+					"info": "base-agent",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-arena-uk.svg",
+                    			"url" :  "acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Sky Sports Arena UK",
+					"info": "base-embed",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-arena-uk.svg",
+                    			"url" :  "acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c",
+					"embed": "true"
+				}, { 
+                	 		"name": "Sky Sports Arena UK",
+					"info": "get-host",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-arena-uk.svg",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Sky Sports Arena UK",
+					"info": "get-agent",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-arena-uk.svg",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Sky Sports Arena UK",
+					"info": "get-embed",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-arena-uk.svg",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c",
+					"embed": "true"
+				},
+
+
+				{ 
+                	 		"name": "Sky Sports Football UK",
+					"info": "base-host",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-football-uk.svg",
+                    			"url" :  "acestream://8dbe2d515e9131fa311353537736f8c94be9b26d",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Sky Sports Football UK",
+					"info": "base-agent",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-football-uk.svg",
+                    			"url" :  "acestream://8dbe2d515e9131fa311353537736f8c94be9b26d",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Sky Sports Football UK",
+					"info": "base-embed",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-football-uk.svg",
+                    			"url" :  "acestream://8dbe2d515e9131fa311353537736f8c94be9b26d",
+					"embed": "true"
+				}, { 
+                	 		"name": "Sky Sports Football UK",
+					"info": "get-host",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-football-uk.svg",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Sky Sports Football UK",
+					"info": "get-agent",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-football-uk.svg",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Sky Sports Football UK",
+					"info": "get-embed",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-football-uk.svg",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d",
+					"embed": "true"
+				},
+
+
+				{ 
+                	 		"name": "Sky Sports Main Event UK",
+					"info": "base-host",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-main-event-uk.svg",
+                    			"url" :  "acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Sky Sports Main Event UK",
+					"info": "base-agent",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-main-event-uk.svg",
+                    			"url" :  "acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Sky Sports Main Event UK",
+					"info": "base-embed",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-main-event-uk.svg",
+                    			"url" :  "acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e",
+					"embed": "true"
+				}, { 
+                	 		"name": "Sky Sports Main Event UK",
+					"info": "get-host",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-main-event-uk.svg",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Sky Sports Main Event UK",
+					"info": "get-agent",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-main-event-uk.svg",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Sky Sports Main Event UK",
+					"info": "get-embed",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-main-event-uk.svg",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e",
+					"embed": "true"
+				},
+
+
+				{ 
+                	 		"name": "Sky Sports Plus UK",
+					"info": "base-host",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Sky_Sport_Plus_-_Logo_2015.svg/2560px-Sky_Sport_Plus_-_Logo_2015.svg.png",
+                    			"url" :  "acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Sky Sports Plus UK",
+					"info": "base-agent",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Sky_Sport_Plus_-_Logo_2015.svg/2560px-Sky_Sport_Plus_-_Logo_2015.svg.png",
+                    			"url" :  "acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Sky Sports Plus UK",
+					"info": "base-embed",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Sky_Sport_Plus_-_Logo_2015.svg/2560px-Sky_Sport_Plus_-_Logo_2015.svg.png",
+                    			"url" :  "acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e",
+					"embed": "true"
+				}, { 
+                	 		"name": "Sky Sports Plus UK",
+					"info": "get-host",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Sky_Sport_Plus_-_Logo_2015.svg/2560px-Sky_Sport_Plus_-_Logo_2015.svg.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Sky Sports Plus UK",
+					"info": "get-agent",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Sky_Sport_Plus_-_Logo_2015.svg/2560px-Sky_Sport_Plus_-_Logo_2015.svg.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Sky Sports Plus UK",
+					"info": "get-embed",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Sky_Sport_Plus_-_Logo_2015.svg/2560px-Sky_Sport_Plus_-_Logo_2015.svg.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e",
+					"embed": "true"
+				},
+
+
+				{ 
+                	 		"name": "Premier Sports 1 UK",
+					"info": "base-host",
+                    			"image": "https://static.wikia.nocookie.net/logopedia/images/a/a7/Premier_Sports_1_II.svg/revision/latest?cb=20230516195441",
+                    			"url" :  "acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Premier Sports 1 UK",
+					"info": "base-agent",
+                    			"image": "https://static.wikia.nocookie.net/logopedia/images/a/a7/Premier_Sports_1_II.svg/revision/latest?cb=20230516195441",
+                    			"url" :  "acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Premier Sports 1 UK",
+					"info": "base-embed",
+                    			"image": "https://static.wikia.nocookie.net/logopedia/images/a/a7/Premier_Sports_1_II.svg/revision/latest?cb=20230516195441",
+                    			"url" :  "acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565",
+					"embed": "true"
+				}, { 
+                	 		"name": "Premier Sports 1 UK",
+					"info": "get-host",
+                    			"image": "https://static.wikia.nocookie.net/logopedia/images/a/a7/Premier_Sports_1_II.svg/revision/latest?cb=20230516195441",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Premier Sports 1 UK",
+					"info": "get-agent",
+                    			"image": "https://static.wikia.nocookie.net/logopedia/images/a/a7/Premier_Sports_1_II.svg/revision/latest?cb=20230516195441",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Premier Sports 1 UK",
+					"info": "get-embed",
+                    			"image": "https://static.wikia.nocookie.net/logopedia/images/a/a7/Premier_Sports_1_II.svg/revision/latest?cb=20230516195441",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565",
+					"embed": "true"
+				},
+				
+
+				{ 
+                	 		"name": "Premier Sports 2 UK",
+					"info": "base-host",
+                    			"image": "https://static.wikia.nocookie.net/logopedia/images/f/fc/Premier_Sports_2_II.svg/revision/latest?cb=20230516195653",
+                    			"url" :  "acestream://4903ca695edb64bc72ae29eb85a5333ba0139537",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Premier Sports 2 UK",
+					"info": "base-agent",
+                    			"image": "https://static.wikia.nocookie.net/logopedia/images/f/fc/Premier_Sports_2_II.svg/revision/latest?cb=20230516195653",
+                    			"url" :  "acestream://4903ca695edb64bc72ae29eb85a5333ba0139537",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Premier Sports 2 UK",
+					"info": "base-embed",
+                    			"image": "https://static.wikia.nocookie.net/logopedia/images/f/fc/Premier_Sports_2_II.svg/revision/latest?cb=20230516195653",
+                    			"url" :  "acestream://4903ca695edb64bc72ae29eb85a5333ba0139537",
+					"embed": "true"
+				}, { 
+                	 		"name": "Premier Sports 2 UK",
+					"info": "get-host",
+                    			"image": "https://static.wikia.nocookie.net/logopedia/images/f/fc/Premier_Sports_2_II.svg/revision/latest?cb=20230516195653",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=4903ca695edb64bc72ae29eb85a5333ba0139537",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Premier Sports 2 UK",
+					"info": "get-agent",
+                    			"image": "https://static.wikia.nocookie.net/logopedia/images/f/fc/Premier_Sports_2_II.svg/revision/latest?cb=20230516195653",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=4903ca695edb64bc72ae29eb85a5333ba0139537",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Premier Sports 2 UK",
+					"info": "get-embed",
+                    			"image": "https://static.wikia.nocookie.net/logopedia/images/f/fc/Premier_Sports_2_II.svg/revision/latest?cb=20230516195653",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=4903ca695edb64bc72ae29eb85a5333ba0139537",
+					"embed": "true"
+				},
+
+
+				{ 
+                	 		"name": "Eleven Sports 1",
+					"info": "base-host",
+                    			"image": "https://www.mm-eu.tv/wordpress/wp-content/uploads/2019/10/ELEVEN_Channel_1.jpg",
+                    			"url" :  "acestream://36cad67fed5a739757a9db844a551aa845a8d51b",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Eleven Sports 1",
+					"info": "base-agent",
+                    			"image": "https://www.mm-eu.tv/wordpress/wp-content/uploads/2019/10/ELEVEN_Channel_1.jpg",
+                    			"url" :  "acestream://36cad67fed5a739757a9db844a551aa845a8d51b",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Eleven Sports 1",
+					"info": "base-embed",
+                    			"image": "https://www.mm-eu.tv/wordpress/wp-content/uploads/2019/10/ELEVEN_Channel_1.jpg",
+                    			"url" :  "acestream://36cad67fed5a739757a9db844a551aa845a8d51b",
+					"embed": "true"
+				}, { 
+                	 		"name": "Eleven Sports 1",
+					"info": "get-host",
+                    			"image": "https://www.mm-eu.tv/wordpress/wp-content/uploads/2019/10/ELEVEN_Channel_1.jpg",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Eleven Sports 1",
+					"info": "get-agent",
+                    			"image": "https://www.mm-eu.tv/wordpress/wp-content/uploads/2019/10/ELEVEN_Channel_1.jpg",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Eleven Sports 1",
+					"info": "get-embed",
+                    			"image": "https://www.mm-eu.tv/wordpress/wp-content/uploads/2019/10/ELEVEN_Channel_1.jpg",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b",
+					"embed": "true"
+				},
+
+				{ 
+                	 		"name": "Eleven Sports 2",
+					"info": "base-host",
+                    			"image": "https://www.mm-eu.tv/wordpress/wp-content/uploads/2019/10/ELEVEN_Channel_2.jpg",
+                    			"url" :  "acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Eleven Sports 2",
+					"info": "base-agent",
+                    			"image": "https://www.mm-eu.tv/wordpress/wp-content/uploads/2019/10/ELEVEN_Channel_2.jpg",
+                    			"url" :  "acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Eleven Sports 2",
+					"info": "base-embed",
+                    			"image": "https://www.mm-eu.tv/wordpress/wp-content/uploads/2019/10/ELEVEN_Channel_2.jpg",
+                    			"url" :  "acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce",
+					"embed": "true"
+				}, { 
+                	 		"name": "Eleven Sports 2",
+					"info": "get-host",
+                    			"image": "https://www.mm-eu.tv/wordpress/wp-content/uploads/2019/10/ELEVEN_Channel_2.jpg",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Eleven Sports 2",
+					"info": "get-agent",
+                    			"image": "https://www.mm-eu.tv/wordpress/wp-content/uploads/2019/10/ELEVEN_Channel_2.jpg",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Eleven Sports 2",
+					"info": "get-embed",
+                    			"image": "https://www.mm-eu.tv/wordpress/wp-content/uploads/2019/10/ELEVEN_Channel_2.jpg",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce",
+					"embed": "true"
+				},
+
+				{ 
+                	 		"name": "Eleven Sports 3",
+					"info": "base-host",
+                    			"image": "https://www.mm-eu.tv/wordpress/wp-content/uploads/2019/10/ELEVEN_Channel_3.jpg",
+                    			"url" :  "acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Eleven Sports 3",
+					"info": "base-agent",
+                    			"image": "https://www.mm-eu.tv/wordpress/wp-content/uploads/2019/10/ELEVEN_Channel_3.jpg",
+                    			"url" :  "acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Eleven Sports 3",
+					"info": "base-embed",
+                    			"image": "https://www.mm-eu.tv/wordpress/wp-content/uploads/2019/10/ELEVEN_Channel_3.jpg",
+                    			"url" :  "acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e",
+					"embed": "true"
+				}, { 
+                	 		"name": "Eleven Sports 3",
+					"info": "get-host",
+                    			"image": "https://www.mm-eu.tv/wordpress/wp-content/uploads/2019/10/ELEVEN_Channel_3.jpg",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Eleven Sports 3",
+					"info": "get-agent",
+                    			"image": "https://www.mm-eu.tv/wordpress/wp-content/uploads/2019/10/ELEVEN_Channel_3.jpg",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Eleven Sports 3",
+					"info": "get-embed",
+                    			"image": "https://www.mm-eu.tv/wordpress/wp-content/uploads/2019/10/ELEVEN_Channel_3.jpg",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e",
+					"embed": "true"
+				},
+
+				{ 
+                	 		"name": "Eleven Sports 4",
+					"info": "base-host",
+                    			"image": "https://s1.vcdn.biz/static/f/5452506631/image.jpg",
+                    			"url" :  "acestream://0f32c0131a2d9444996410801f4e18b04384db98",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Eleven Sports 4",
+					"info": "base-agent",
+                    			"image": "https://s1.vcdn.biz/static/f/5452506631/image.jpg",
+                    			"url" :  "acestream://0f32c0131a2d9444996410801f4e18b04384db98",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Eleven Sports 4",
+					"info": "base-embed",
+                    			"image": "https://s1.vcdn.biz/static/f/5452506631/image.jpg",
+                    			"url" :  "acestream://0f32c0131a2d9444996410801f4e18b04384db98",
+					"embed": "true"
+				}, { 
+                	 		"name": "Eleven Sports 4",
+					"info": "get-host",
+                    			"image": "https://s1.vcdn.biz/static/f/5452506631/image.jpg",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Eleven Sports 4",
+					"info": "get-agent",
+                    			"image": "https://s1.vcdn.biz/static/f/5452506631/image.jpg",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Eleven Sports 4",
+					"info": "get-embed",
+                    			"image": "https://s1.vcdn.biz/static/f/5452506631/image.jpg",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98",
+					"embed": "true"
+				},
+
+				{ 
+                	 		"name": "Eleven Sports 5",
+					"info": "base-host",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpeobtW6p6QBsv4bqV8XFgnQKkRhFqU_C5hrXPLvySJHwxAhLoXujTIKuoiV0DQy6FBQe4WRlGLUlLZsMa4QCx2SLBCsNmTFrZe7a6ND1NM4JhWtFYEhq4KFVGJTEiH3tpsCqxEHh9vqGcRU1qy-8qrt1harNG6OhGXVywOnRPW7mUfjywK2c80QGho02a/w581-h225/logo-ElevenSports.png",
+                    			"url" :  "acestream://4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Eleven Sports 5",
+					"info": "base-agent",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpeobtW6p6QBsv4bqV8XFgnQKkRhFqU_C5hrXPLvySJHwxAhLoXujTIKuoiV0DQy6FBQe4WRlGLUlLZsMa4QCx2SLBCsNmTFrZe7a6ND1NM4JhWtFYEhq4KFVGJTEiH3tpsCqxEHh9vqGcRU1qy-8qrt1harNG6OhGXVywOnRPW7mUfjywK2c80QGho02a/w581-h225/logo-ElevenSports.png",
+                    			"url" :  "acestream://4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Eleven Sports 5",
+					"info": "base-embed",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpeobtW6p6QBsv4bqV8XFgnQKkRhFqU_C5hrXPLvySJHwxAhLoXujTIKuoiV0DQy6FBQe4WRlGLUlLZsMa4QCx2SLBCsNmTFrZe7a6ND1NM4JhWtFYEhq4KFVGJTEiH3tpsCqxEHh9vqGcRU1qy-8qrt1harNG6OhGXVywOnRPW7mUfjywK2c80QGho02a/w581-h225/logo-ElevenSports.png",
+                    			"url" :  "acestream://4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a",
+					"embed": "true"
+				}, { 
+                	 		"name": "Eleven Sports 5",
+					"info": "get-host",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpeobtW6p6QBsv4bqV8XFgnQKkRhFqU_C5hrXPLvySJHwxAhLoXujTIKuoiV0DQy6FBQe4WRlGLUlLZsMa4QCx2SLBCsNmTFrZe7a6ND1NM4JhWtFYEhq4KFVGJTEiH3tpsCqxEHh9vqGcRU1qy-8qrt1harNG6OhGXVywOnRPW7mUfjywK2c80QGho02a/w581-h225/logo-ElevenSports.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Eleven Sports 5",
+					"info": "get-agent",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpeobtW6p6QBsv4bqV8XFgnQKkRhFqU_C5hrXPLvySJHwxAhLoXujTIKuoiV0DQy6FBQe4WRlGLUlLZsMa4QCx2SLBCsNmTFrZe7a6ND1NM4JhWtFYEhq4KFVGJTEiH3tpsCqxEHh9vqGcRU1qy-8qrt1harNG6OhGXVywOnRPW7mUfjywK2c80QGho02a/w581-h225/logo-ElevenSports.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Eleven Sports 5",
+					"info": "get-embed",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpeobtW6p6QBsv4bqV8XFgnQKkRhFqU_C5hrXPLvySJHwxAhLoXujTIKuoiV0DQy6FBQe4WRlGLUlLZsMa4QCx2SLBCsNmTFrZe7a6ND1NM4JhWtFYEhq4KFVGJTEiH3tpsCqxEHh9vqGcRU1qy-8qrt1harNG6OhGXVywOnRPW7mUfjywK2c80QGho02a/w581-h225/logo-ElevenSports.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a",
+					"embed": "true"
+				},
+
+				{ 
+                	 		"name": "Eleven Sports 6",
+					"info": "base-host",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpeobtW6p6QBsv4bqV8XFgnQKkRhFqU_C5hrXPLvySJHwxAhLoXujTIKuoiV0DQy6FBQe4WRlGLUlLZsMa4QCx2SLBCsNmTFrZe7a6ND1NM4JhWtFYEhq4KFVGJTEiH3tpsCqxEHh9vqGcRU1qy-8qrt1harNG6OhGXVywOnRPW7mUfjywK2c80QGho02a/w581-h225/logo-ElevenSports.png",
+                    			"url" :  "acestream://50b6d2b5fd59fefb9f4fd2176994d418f2b94a80",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Eleven Sports 6",
+					"info": "base-agent",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpeobtW6p6QBsv4bqV8XFgnQKkRhFqU_C5hrXPLvySJHwxAhLoXujTIKuoiV0DQy6FBQe4WRlGLUlLZsMa4QCx2SLBCsNmTFrZe7a6ND1NM4JhWtFYEhq4KFVGJTEiH3tpsCqxEHh9vqGcRU1qy-8qrt1harNG6OhGXVywOnRPW7mUfjywK2c80QGho02a/w581-h225/logo-ElevenSports.png",
+                    			"url" :  "acestream://50b6d2b5fd59fefb9f4fd2176994d418f2b94a80",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Eleven Sports 6",
+					"info": "base-embed",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpeobtW6p6QBsv4bqV8XFgnQKkRhFqU_C5hrXPLvySJHwxAhLoXujTIKuoiV0DQy6FBQe4WRlGLUlLZsMa4QCx2SLBCsNmTFrZe7a6ND1NM4JhWtFYEhq4KFVGJTEiH3tpsCqxEHh9vqGcRU1qy-8qrt1harNG6OhGXVywOnRPW7mUfjywK2c80QGho02a/w581-h225/logo-ElevenSports.png",
+                    			"url" :  "acestream://50b6d2b5fd59fefb9f4fd2176994d418f2b94a80",
+					"embed": "true"
+				}, { 
+                	 		"name": "Eleven Sports 6",
+					"info": "get-host",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpeobtW6p6QBsv4bqV8XFgnQKkRhFqU_C5hrXPLvySJHwxAhLoXujTIKuoiV0DQy6FBQe4WRlGLUlLZsMa4QCx2SLBCsNmTFrZe7a6ND1NM4JhWtFYEhq4KFVGJTEiH3tpsCqxEHh9vqGcRU1qy-8qrt1harNG6OhGXVywOnRPW7mUfjywK2c80QGho02a/w581-h225/logo-ElevenSports.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Eleven Sports 6",
+					"info": "get-agent",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpeobtW6p6QBsv4bqV8XFgnQKkRhFqU_C5hrXPLvySJHwxAhLoXujTIKuoiV0DQy6FBQe4WRlGLUlLZsMa4QCx2SLBCsNmTFrZe7a6ND1NM4JhWtFYEhq4KFVGJTEiH3tpsCqxEHh9vqGcRU1qy-8qrt1harNG6OhGXVywOnRPW7mUfjywK2c80QGho02a/w581-h225/logo-ElevenSports.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Eleven Sports 6",
+					"info": "get-embed",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpeobtW6p6QBsv4bqV8XFgnQKkRhFqU_C5hrXPLvySJHwxAhLoXujTIKuoiV0DQy6FBQe4WRlGLUlLZsMa4QCx2SLBCsNmTFrZe7a6ND1NM4JhWtFYEhq4KFVGJTEiH3tpsCqxEHh9vqGcRU1qy-8qrt1harNG6OhGXVywOnRPW7mUfjywK2c80QGho02a/w581-h225/logo-ElevenSports.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80",
+					"embed": "true"
+				}
 							]
 						}
 				]
@@ -2729,10 +3419,9 @@
 			 	   "isHost":"true"
 			 }, {
 				   "name": "Canal 11",
-				   "info": "wwwstream",
+				   "info": "embx",
 				   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhC_ZrjTAL_zi61ZUD-aRw18x_XEiKBS-sH5X1EihR_oZ43LsvApOPfWnvjAXfkxh2h_i8W7RNDfU4t42vQskD-fBjP25sBpJKo1fLEAkT4hliVrOVA3HQewEBFLGb3ntMTj2KTu63u4yzFBJUj92xyBfh9Ka9vQPMsZJaAtrJfWS8Nzr34pf9QtJj7CyY/w589-h212/logo_vamos.png",
-				   "url" :  "https://wwwstream.pro/embed/0Jh5TMBIVlm",
-				   "referer" : "https://kingstreamz.lol/",
+				   "url" :  "https://embx218066.apl306.me/player/live.php?id=218066&w=100%&h=100%",
 			 	   "isHost":"true"
 			 }, {
 				   "name": "Canal 12",
@@ -2974,19 +3663,18 @@
 				   "url": "https://abolishstand.net/embed/lbr3etluqsw",
 				   "referer": "https://leet365.cc/",
              			   "isHost": "true"
-				 }, {
+		 	}, {
 				"name": "Canal 1",
 				"image": "https://i.ibb.co/4NvkCVR/logo-deportes.png",
-				 "url": "https://unbiasedsenseevent.com/embed/yjicnctevw6jymj",
-            			"referer": "https://l1l1.to/",
-             			"isHost": "true"
-				  }, {  
+				"url": "http://flbl1.112421.net:8082/323634/mpegts?token=0C0313859D21980E031584CA319B8B57",
+             			"userAgent":""
+		  	}, {  
 				"name": "Canal 2",
 				"info": "abol-89ftq | 1str",
 				"image": "https://i.ibb.co/4NvkCVR/logo-deportes.png",
-				 "url": "https://abolishstand.net/embed/89ftq8ua1j5lr",
-				 "referer" : "https://1stream.buzz/",
-				 "isHost" : "true"
+				"url": "https://abolishstand.net/embed/89ftq8ua1j5lr",
+				"referer" : "https://1stream.buzz/",
+				"isHost" : "true"
 			}, {
 				"name": "Canal 3",
 				"info":"php",
@@ -3069,9 +3757,9 @@
 	   			"userAgent" : ""
 			}, {
 				"name": "Canal 4",
-				"info": "php",
+				"info": "flbl1",
 				"image": "https://i.ibb.co/sVPN8q6/logo-golf.png",
-				"url" : "http://s1.pubnow.info:8080/morotvsktpe72772/KhPUdUD2kF2w/125618",
+				"url" : "http://flbl1.112421.net:8082/323627/mpegts?token=0C0313859D21980E031584CA319B8B57",
 				"userAgent": ""
 			 }, {
 				"name": "Canal 5",
@@ -3455,7 +4143,7 @@
 	 }, {
 		"name": "Canal 1",
 		"image": "https://i.ibb.co/Ntcj66Q/logo-es1.webp",
-	 	"url": "https://lovesomecommunity.com/deportivo.php?player=desktop&live=3U27L",
+	 	"url": "https://lovesomecommunity.com/embedcr.php?player=desktop&live=3U27L",
 	 	"referer" : "https://www.freeshot.live/",
 		"isHost": "true"
 	}, {
@@ -3577,39 +4265,36 @@
 				 "isHost": "true"
 			 }, {
 				"name": "Canal 3",
-				"info": "ktpqv",
+				"info": "i1d46q",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				"url" : "https://utopianwilderness.com/embed/ktpqv1iq2",
-				 "referer": "https://starlive.xyz/",
+				"url" :  "https://linenstandard.net/embed/i1d46q",
+				"referer" : "https://buzztv.futbol/",
 				 "isHost": "true"  
 			 }, {
 				"name": "Canal 4",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				"url": "https://unbiasedsenseevent.com/embed/df7nk3qyxpu1vx",
-				"referer": "https://elixx.xyz/",
+				"url": "https://emb.apl306.me//player/live.php?id=218943&w=100%&h=100%",
 				"isHost": "true"
-						}, {
+			}, {
 				"name": "Canal 5",
-				"info": "t7w70x",
+				"info": "playuct1",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				 "url": "https://abolishstand.net/embed/t7w70x7v57",
-				"referer": "https://1stream.buzz/",
+				"url": "https://tv.playuct1.com/erghedh4gdfhg4",
 				"isHost" : "true"
-				 }, {
+			 }, {
 				"name": "Canal 6",
-				"info": "2twhx",
+				"info": "flbl1",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				 "url": "https://abolishstand.net/embed/2twhx",
-				"referer": "https://1stream.buzz/",
-				"isHost" : "true" 
-			   	}, {
+				"url": "http://flbl1.112421.net:8082/3575728/mpegts?token=0C0313859D21980E031584CA319B8B57",
+				"userAgent":"" 
+			}, {
 				"name": "Canal 7",
 				"info": "fhc0c",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
 				"url": "https://utopianwilderness.com/embed/fhc0cutcd",
 				"referer" : "https://starlive.xyz/",
 				 "isHost": "true"
-				  }, {
+			  }, {
 					"name": "Canal 8",
 					"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
 					 "url" : "https://unbiasedsenseevent.com/embed/df7nk3qyxpu1vx",
@@ -3714,10 +4399,9 @@
 				 "isHost": "true" 
 			}, {
 				"name": "Canal 25",
-				"info": "php",
+				"info": "emb",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				"url" : "https://gameshdlive.net/new/ch4.php",
-                  		"referer" : "https://gameshdlive.net/",
+				"url" : "https://emb.apl301.me//player/live.php?id=216101&w=100%&h=100%",
 				"isHost":"true"
 			}, {
 				"name": "Canal 26",
@@ -3800,9 +4484,9 @@
 				   "isHost": "true"
 			 }, {
 				"name": "Canal 38",
-				"info": "embx",
+				"info": "player.mycraft",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				"url" : "https://embx210690.apl299.me//player/live.php?id=210690&w=100%&h=100%",
+				"url" : "https://player.mycraft.click/b/1705767282/788692eb0a965ab4eb34f0cb9b15898b/c1bde49a93ee51dc894f125bc9c95196",
 				"isHost": "true"
 			 }, {
 				   "name": "Canal 39",
@@ -3949,7 +4633,7 @@
                  		"name": "Canal 63",
 				"info": "embx%",
                     		"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-                      		"url": "https://emb.apl296.me//player/live.php?id=216559&w=100%&h=100%",
+                      		"url": "https://emb.apl301.me//player/live.php?id=216559&w=100%&h=100%",
 				"referer" : "https://aliezstream1.pro/",
 				"isHost" : "true"
 			}, { 
@@ -4186,7 +4870,7 @@
 				}, {
 					"name": "Canal 22",
 					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
-					"url" : "https://emb.apl299.me//player/live.php?id=210690&w=100%&h=100%",
+					"url" : "https://embx218772.apl306.me//player/live.php?id=218772&w=100%&h=100%",
 					"isHost": "true"
 			  	}, {
 					"name": "Canal 23",
@@ -5092,8 +5776,9 @@
 								"name": "Canal 1",
 								"info": "php",
 	   							"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-	   							"url": "https://ltinversionistas.com/jactv/daznf1.php",
-             							"isHost": "true"
+	   							"url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=537",
+              							"referer" : "https://dlhd.sx/",
+			 					"isHost":"true" 
 	 						}, {
 								"name": "Canal 2",
 							  	"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
@@ -6170,6 +6855,12 @@
 			"referer" : "https://1stream.buzz/",
                     	"isHost": "true"
 		}, {
+              		"name": "Telemundo",
+			"image": "https://i.pinimg.com/originals/c3/b4/1a/c3b41a754ec9d2976d295ff12ac66dec.png",
+			"url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=131",
+              		"referer" : "https://dlhd.sx/",
+			"isHost":"true" 
+		}, {
 			"name": "Fox Sports 1",
 			"info": "php - index",
 			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_NwEsRH6BbHnxgq92HLGBlh95ppszS0fsxdMYWFhrC0xdyoXiuC7gZ2AFJUJ3hV2IkSFwmuGmFcNK4Pm1HjirJNhpjYuFNxC3OvYzU52Uy84kdbjhGIYN9lUhVcRXW3dHubHg0DHJsbm_fs_L-_Pwon1lZTJ1-9w8vaZg7rnoaz6m2CL5HiuYFTk4wZtm/w520-h234/logo-fs1.png",
@@ -7094,6 +7785,34 @@
 											"embed": "false"
             									}
 									]
+    									}, {
+        									"name":"Fútbol",
+        									"image":"https://www.dodmagazine.es/wp-content/uploads/2022/11/ver-futbol-online-gratis.jpg",
+        									"stations": 
+        								  	[
+											{
+                										"name": "Real Madrid - Barcelona",
+                										"info":"Supercopa España 2024",
+                										"image": "https://imgresizer.eurosport.com/unsafe/1200x0/filters:format(jpeg)/origin-imgresizer.eurosport.com/2023/01/14/3525704-71861248-2560-1440.jpg",
+                										"url":"https://filemoon.sx/d/hzindiudis1m/Supercopa_Espa_a_Partido_Real_Madrid_VS_Barcelona_Multi_140124.mp4",
+                										"isHost":"true",
+                										"online":"true"
+                									}, {
+                										"name": "Real Madrid - Atlético Madrid",
+                										"info":"Supercopa España 2024",
+                										"image": "https://i.postimg.cc/jSYZZQs4/rVsa.jpg",
+                										"url":"https://filemoon.sx/d/hzqu4c6uvet4",
+                										"isHost":"true",
+                										"online":"true"
+                									}, {
+                										"name": "Barcelona - Osasuna",
+                										"info":"Supercopa España 2024",
+                										"image": "https://i.postimg.cc/KjvspgBb/bavsosa.jpg",
+                										"url":"https://filemoon.sx/d/r6gfh411yjc7",
+                										"isHost":"true",
+                										"online":"true"
+                									}
+										]
     									}, {
 											"name": "San Fermín 2023",
 											"image": "https://i.ibb.co/Lv0YRVG/San-Fermin23.jpg",    
