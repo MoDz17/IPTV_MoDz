@@ -24,9 +24,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 21/01/2024",
+             "name": "Ultm. versión 28/01/2024",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 21/01/2024",
+            "info": "última versión actualizada el 28/01/2024",
             "stations": []
 	}, 
 	
@@ -2691,37 +2691,37 @@
 				{ 
                 	 		"name": "Sport TV-1",
 					"info": "base-host",
-                    			"image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Sport_TV1_%282023%29.svg",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrL8b9tijeRaKvGXKaefN1NCr_aA0wRmQxyQZ2DsBGzc1v1PnJa5TmhqtVZNB5_vAVflq7NjGK9vh60nkGRXJ4VajF6OL1m_JSWfBaLfE5qv21BmYi_S6mVX-6NzCvdwb60GmgNCxjkImgEw2W_3O57Deuy4e933kdwjiQHLzW6kKplfws36pwfhIus_dF/w489-h93/Sport-TV1.PNG",
                     			"url" :  "acestream://ce235921dac95e1da2dd5e54673c2fecb9e806de",
 					"isHost": "true"
 				}, { 
                 	 		"name": "Sport TV-1",
 					"info": "base-agent",
-                    			"image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Sport_TV1_%282023%29.svg",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrL8b9tijeRaKvGXKaefN1NCr_aA0wRmQxyQZ2DsBGzc1v1PnJa5TmhqtVZNB5_vAVflq7NjGK9vh60nkGRXJ4VajF6OL1m_JSWfBaLfE5qv21BmYi_S6mVX-6NzCvdwb60GmgNCxjkImgEw2W_3O57Deuy4e933kdwjiQHLzW6kKplfws36pwfhIus_dF/w489-h93/Sport-TV1.PNG",
                     			"url" :  "acestream://ce235921dac95e1da2dd5e54673c2fecb9e806de",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "Sport TV-1",
 					"info": "base-embed",
-                    			"image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Sport_TV1_%282023%29.svg",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrL8b9tijeRaKvGXKaefN1NCr_aA0wRmQxyQZ2DsBGzc1v1PnJa5TmhqtVZNB5_vAVflq7NjGK9vh60nkGRXJ4VajF6OL1m_JSWfBaLfE5qv21BmYi_S6mVX-6NzCvdwb60GmgNCxjkImgEw2W_3O57Deuy4e933kdwjiQHLzW6kKplfws36pwfhIus_dF/w489-h93/Sport-TV1.PNG",
                     			"url" :  "acestream://ce235921dac95e1da2dd5e54673c2fecb9e806de",
 					"embed": "true"
 				}, { 
                 	 		"name": "Sport TV-1",
 					"info": "get-host",
-                    			"image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Sport_TV1_%282023%29.svg",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrL8b9tijeRaKvGXKaefN1NCr_aA0wRmQxyQZ2DsBGzc1v1PnJa5TmhqtVZNB5_vAVflq7NjGK9vh60nkGRXJ4VajF6OL1m_JSWfBaLfE5qv21BmYi_S6mVX-6NzCvdwb60GmgNCxjkImgEw2W_3O57Deuy4e933kdwjiQHLzW6kKplfws36pwfhIus_dF/w489-h93/Sport-TV1.PNG",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=ce235921dac95e1da2dd5e54673c2fecb9e806de",
 					"isHost": "true"
 				}, { 
                 	 		"name": "Sport TV-1",
 					"info": "get-agent",
-                    			"image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Sport_TV1_%282023%29.svg",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrL8b9tijeRaKvGXKaefN1NCr_aA0wRmQxyQZ2DsBGzc1v1PnJa5TmhqtVZNB5_vAVflq7NjGK9vh60nkGRXJ4VajF6OL1m_JSWfBaLfE5qv21BmYi_S6mVX-6NzCvdwb60GmgNCxjkImgEw2W_3O57Deuy4e933kdwjiQHLzW6kKplfws36pwfhIus_dF/w489-h93/Sport-TV1.PNG",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=ce235921dac95e1da2dd5e54673c2fecb9e806de",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "Sport TV-1",
 					"info": "get-embed",
-                    			"image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Sport_TV1_%282023%29.svg",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrL8b9tijeRaKvGXKaefN1NCr_aA0wRmQxyQZ2DsBGzc1v1PnJa5TmhqtVZNB5_vAVflq7NjGK9vh60nkGRXJ4VajF6OL1m_JSWfBaLfE5qv21BmYi_S6mVX-6NzCvdwb60GmgNCxjkImgEw2W_3O57Deuy4e933kdwjiQHLzW6kKplfws36pwfhIus_dF/w489-h93/Sport-TV1.PNG",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=ce235921dac95e1da2dd5e54673c2fecb9e806de",
 					"embed": "true"
 				},
@@ -2886,37 +2886,37 @@
 				{ 
                 	 		"name": "Sky Sports Arena UK",
 					"info": "base-host",
-                    			"image": "https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-arena-uk.svg",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi5DUuJX-RCMPH3g2n6E2oXtR5Vzb0kNZLeC4nwvABs9tlN3mN7W91zh6FwID_RO8zdP9uuZcY4-B4jjUyzPAlOYaKbeG86ZCHbKR6x2TVCGN7cHO-jCkzK3nU9aKBcUEVauky5HeK5kKD_A7n_CcKrcvhkapt049w1lTAVe8tP8EYu16PPVLniUlYQTh8/w470-h202/Sky-Sports-Arena-UK.PNG",
                     			"url" :  "acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c",
 					"isHost": "true"
 				}, { 
                 	 		"name": "Sky Sports Arena UK",
 					"info": "base-agent",
-                    			"image": "https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-arena-uk.svg",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi5DUuJX-RCMPH3g2n6E2oXtR5Vzb0kNZLeC4nwvABs9tlN3mN7W91zh6FwID_RO8zdP9uuZcY4-B4jjUyzPAlOYaKbeG86ZCHbKR6x2TVCGN7cHO-jCkzK3nU9aKBcUEVauky5HeK5kKD_A7n_CcKrcvhkapt049w1lTAVe8tP8EYu16PPVLniUlYQTh8/w470-h202/Sky-Sports-Arena-UK.PNG",
                     			"url" :  "acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "Sky Sports Arena UK",
 					"info": "base-embed",
-                    			"image": "https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-arena-uk.svg",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi5DUuJX-RCMPH3g2n6E2oXtR5Vzb0kNZLeC4nwvABs9tlN3mN7W91zh6FwID_RO8zdP9uuZcY4-B4jjUyzPAlOYaKbeG86ZCHbKR6x2TVCGN7cHO-jCkzK3nU9aKBcUEVauky5HeK5kKD_A7n_CcKrcvhkapt049w1lTAVe8tP8EYu16PPVLniUlYQTh8/w470-h202/Sky-Sports-Arena-UK.PNG",
                     			"url" :  "acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c",
 					"embed": "true"
 				}, { 
                 	 		"name": "Sky Sports Arena UK",
 					"info": "get-host",
-                    			"image": "https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-arena-uk.svg",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi5DUuJX-RCMPH3g2n6E2oXtR5Vzb0kNZLeC4nwvABs9tlN3mN7W91zh6FwID_RO8zdP9uuZcY4-B4jjUyzPAlOYaKbeG86ZCHbKR6x2TVCGN7cHO-jCkzK3nU9aKBcUEVauky5HeK5kKD_A7n_CcKrcvhkapt049w1lTAVe8tP8EYu16PPVLniUlYQTh8/w470-h202/Sky-Sports-Arena-UK.PNG",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c",
 					"isHost": "true"
 				}, { 
                 	 		"name": "Sky Sports Arena UK",
 					"info": "get-agent",
-                    			"image": "https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-arena-uk.svg",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi5DUuJX-RCMPH3g2n6E2oXtR5Vzb0kNZLeC4nwvABs9tlN3mN7W91zh6FwID_RO8zdP9uuZcY4-B4jjUyzPAlOYaKbeG86ZCHbKR6x2TVCGN7cHO-jCkzK3nU9aKBcUEVauky5HeK5kKD_A7n_CcKrcvhkapt049w1lTAVe8tP8EYu16PPVLniUlYQTh8/w470-h202/Sky-Sports-Arena-UK.PNG",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "Sky Sports Arena UK",
 					"info": "get-embed",
-                    			"image": "https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-arena-uk.svg",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi5DUuJX-RCMPH3g2n6E2oXtR5Vzb0kNZLeC4nwvABs9tlN3mN7W91zh6FwID_RO8zdP9uuZcY4-B4jjUyzPAlOYaKbeG86ZCHbKR6x2TVCGN7cHO-jCkzK3nU9aKBcUEVauky5HeK5kKD_A7n_CcKrcvhkapt049w1lTAVe8tP8EYu16PPVLniUlYQTh8/w470-h202/Sky-Sports-Arena-UK.PNG",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c",
 					"embed": "true"
 				},
@@ -2925,37 +2925,37 @@
 				{ 
                 	 		"name": "Sky Sports Football UK",
 					"info": "base-host",
-                    			"image": "https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-football-uk.svg",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYeFUM9tjZGkOyd3X_hzCd4yoArACpB0ptuMgWb8iTkoT-Cutp1rjJDI_rFT-NrdtHG3TTobq0QNIq8JHmRq4sZkbpVm3oIm_FzLTi532Td8STxVEKSptk5pC1SKIdYNDF87uF1k9C7Fgwo_VuDQQR5xkKVh03wuIh0L6HTGsLBeHjY4bIM8KbcupBHjA6/w474-h202/Sky-Sports-Football.PNG",
                     			"url" :  "acestream://8dbe2d515e9131fa311353537736f8c94be9b26d",
 					"isHost": "true"
 				}, { 
                 	 		"name": "Sky Sports Football UK",
 					"info": "base-agent",
-                    			"image": "https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-football-uk.svg",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYeFUM9tjZGkOyd3X_hzCd4yoArACpB0ptuMgWb8iTkoT-Cutp1rjJDI_rFT-NrdtHG3TTobq0QNIq8JHmRq4sZkbpVm3oIm_FzLTi532Td8STxVEKSptk5pC1SKIdYNDF87uF1k9C7Fgwo_VuDQQR5xkKVh03wuIh0L6HTGsLBeHjY4bIM8KbcupBHjA6/w474-h202/Sky-Sports-Football.PNG",
                     			"url" :  "acestream://8dbe2d515e9131fa311353537736f8c94be9b26d",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "Sky Sports Football UK",
 					"info": "base-embed",
-                    			"image": "https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-football-uk.svg",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYeFUM9tjZGkOyd3X_hzCd4yoArACpB0ptuMgWb8iTkoT-Cutp1rjJDI_rFT-NrdtHG3TTobq0QNIq8JHmRq4sZkbpVm3oIm_FzLTi532Td8STxVEKSptk5pC1SKIdYNDF87uF1k9C7Fgwo_VuDQQR5xkKVh03wuIh0L6HTGsLBeHjY4bIM8KbcupBHjA6/w474-h202/Sky-Sports-Football.PNG",
                     			"url" :  "acestream://8dbe2d515e9131fa311353537736f8c94be9b26d",
 					"embed": "true"
 				}, { 
                 	 		"name": "Sky Sports Football UK",
 					"info": "get-host",
-                    			"image": "https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-football-uk.svg",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYeFUM9tjZGkOyd3X_hzCd4yoArACpB0ptuMgWb8iTkoT-Cutp1rjJDI_rFT-NrdtHG3TTobq0QNIq8JHmRq4sZkbpVm3oIm_FzLTi532Td8STxVEKSptk5pC1SKIdYNDF87uF1k9C7Fgwo_VuDQQR5xkKVh03wuIh0L6HTGsLBeHjY4bIM8KbcupBHjA6/w474-h202/Sky-Sports-Football.PNG",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d",
 					"isHost": "true"
 				}, { 
                 	 		"name": "Sky Sports Football UK",
 					"info": "get-agent",
-                    			"image": "https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-football-uk.svg",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYeFUM9tjZGkOyd3X_hzCd4yoArACpB0ptuMgWb8iTkoT-Cutp1rjJDI_rFT-NrdtHG3TTobq0QNIq8JHmRq4sZkbpVm3oIm_FzLTi532Td8STxVEKSptk5pC1SKIdYNDF87uF1k9C7Fgwo_VuDQQR5xkKVh03wuIh0L6HTGsLBeHjY4bIM8KbcupBHjA6/w474-h202/Sky-Sports-Football.PNG",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "Sky Sports Football UK",
 					"info": "get-embed",
-                    			"image": "https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-football-uk.svg",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYeFUM9tjZGkOyd3X_hzCd4yoArACpB0ptuMgWb8iTkoT-Cutp1rjJDI_rFT-NrdtHG3TTobq0QNIq8JHmRq4sZkbpVm3oIm_FzLTi532Td8STxVEKSptk5pC1SKIdYNDF87uF1k9C7Fgwo_VuDQQR5xkKVh03wuIh0L6HTGsLBeHjY4bIM8KbcupBHjA6/w474-h202/Sky-Sports-Football.PNG",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d",
 					"embed": "true"
 				},
@@ -2964,37 +2964,37 @@
 				{ 
                 	 		"name": "Sky Sports Main Event UK",
 					"info": "base-host",
-                    			"image": "https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-main-event-uk.svg",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9lOpfSyCJAxjiACXsvpJWmOfxAyL_Lh7Jrp1J3oCKGay_s-k8HHLIrCfOZhmdJtGnGBd_qvoWED3EzlD8U2B1fv1OO6nI_fOkx_SSK269TSZpFJ38LgaFduibfNxhUj7CgeoO1sytsDjV6oxWhl71A1oO-r0ZJ1oeByfVr8lgHb43Kdttfl7_snBppemk/w477-h204/Sky-Sports-MainEvent.PNG",
                     			"url" :  "acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e",
 					"isHost": "true"
 				}, { 
                 	 		"name": "Sky Sports Main Event UK",
 					"info": "base-agent",
-                    			"image": "https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-main-event-uk.svg",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9lOpfSyCJAxjiACXsvpJWmOfxAyL_Lh7Jrp1J3oCKGay_s-k8HHLIrCfOZhmdJtGnGBd_qvoWED3EzlD8U2B1fv1OO6nI_fOkx_SSK269TSZpFJ38LgaFduibfNxhUj7CgeoO1sytsDjV6oxWhl71A1oO-r0ZJ1oeByfVr8lgHb43Kdttfl7_snBppemk/w477-h204/Sky-Sports-MainEvent.PNG",
                     			"url" :  "acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "Sky Sports Main Event UK",
 					"info": "base-embed",
-                    			"image": "https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-main-event-uk.svg",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9lOpfSyCJAxjiACXsvpJWmOfxAyL_Lh7Jrp1J3oCKGay_s-k8HHLIrCfOZhmdJtGnGBd_qvoWED3EzlD8U2B1fv1OO6nI_fOkx_SSK269TSZpFJ38LgaFduibfNxhUj7CgeoO1sytsDjV6oxWhl71A1oO-r0ZJ1oeByfVr8lgHb43Kdttfl7_snBppemk/w477-h204/Sky-Sports-MainEvent.PNG",
                     			"url" :  "acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e",
 					"embed": "true"
 				}, { 
                 	 		"name": "Sky Sports Main Event UK",
 					"info": "get-host",
-                    			"image": "https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-main-event-uk.svg",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9lOpfSyCJAxjiACXsvpJWmOfxAyL_Lh7Jrp1J3oCKGay_s-k8HHLIrCfOZhmdJtGnGBd_qvoWED3EzlD8U2B1fv1OO6nI_fOkx_SSK269TSZpFJ38LgaFduibfNxhUj7CgeoO1sytsDjV6oxWhl71A1oO-r0ZJ1oeByfVr8lgHb43Kdttfl7_snBppemk/w477-h204/Sky-Sports-MainEvent.PNG",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e",
 					"isHost": "true"
 				}, { 
                 	 		"name": "Sky Sports Main Event UK",
 					"info": "get-agent",
-                    			"image": "https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-main-event-uk.svg",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9lOpfSyCJAxjiACXsvpJWmOfxAyL_Lh7Jrp1J3oCKGay_s-k8HHLIrCfOZhmdJtGnGBd_qvoWED3EzlD8U2B1fv1OO6nI_fOkx_SSK269TSZpFJ38LgaFduibfNxhUj7CgeoO1sytsDjV6oxWhl71A1oO-r0ZJ1oeByfVr8lgHb43Kdttfl7_snBppemk/w477-h204/Sky-Sports-MainEvent.PNG",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "Sky Sports Main Event UK",
 					"info": "get-embed",
-                    			"image": "https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-main-event-uk.svg",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9lOpfSyCJAxjiACXsvpJWmOfxAyL_Lh7Jrp1J3oCKGay_s-k8HHLIrCfOZhmdJtGnGBd_qvoWED3EzlD8U2B1fv1OO6nI_fOkx_SSK269TSZpFJ38LgaFduibfNxhUj7CgeoO1sytsDjV6oxWhl71A1oO-r0ZJ1oeByfVr8lgHb43Kdttfl7_snBppemk/w477-h204/Sky-Sports-MainEvent.PNG",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e",
 					"embed": "true"
 				},
@@ -3042,37 +3042,37 @@
 				{ 
                 	 		"name": "Premier Sports 1 UK",
 					"info": "base-host",
-                    			"image": "https://static.wikia.nocookie.net/logopedia/images/a/a7/Premier_Sports_1_II.svg/revision/latest?cb=20230516195441",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnu0GOMNZxmSzj4QB6rPnnOT0fhL64H3La4XhN2XDd6fFDQ6U2Qj2_SmMH2F0ueYbN4I3uK9syMVyyowhkkMDusxCvfs31JBH8MMpGnko9BzswHMVunwlIhSq1wln2lvO1PmaiZgLc3P8vryBTwlA8rbW-dXW_PiUE1ii8cwUhASv9fPXFqGtvHPxd9XqX/w466-h157/Premier-Sports1.PNG",
                     			"url" :  "acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565",
 					"isHost": "true"
 				}, { 
                 	 		"name": "Premier Sports 1 UK",
 					"info": "base-agent",
-                    			"image": "https://static.wikia.nocookie.net/logopedia/images/a/a7/Premier_Sports_1_II.svg/revision/latest?cb=20230516195441",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnu0GOMNZxmSzj4QB6rPnnOT0fhL64H3La4XhN2XDd6fFDQ6U2Qj2_SmMH2F0ueYbN4I3uK9syMVyyowhkkMDusxCvfs31JBH8MMpGnko9BzswHMVunwlIhSq1wln2lvO1PmaiZgLc3P8vryBTwlA8rbW-dXW_PiUE1ii8cwUhASv9fPXFqGtvHPxd9XqX/w466-h157/Premier-Sports1.PNG",
                     			"url" :  "acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "Premier Sports 1 UK",
 					"info": "base-embed",
-                    			"image": "https://static.wikia.nocookie.net/logopedia/images/a/a7/Premier_Sports_1_II.svg/revision/latest?cb=20230516195441",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnu0GOMNZxmSzj4QB6rPnnOT0fhL64H3La4XhN2XDd6fFDQ6U2Qj2_SmMH2F0ueYbN4I3uK9syMVyyowhkkMDusxCvfs31JBH8MMpGnko9BzswHMVunwlIhSq1wln2lvO1PmaiZgLc3P8vryBTwlA8rbW-dXW_PiUE1ii8cwUhASv9fPXFqGtvHPxd9XqX/w466-h157/Premier-Sports1.PNG",
                     			"url" :  "acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565",
 					"embed": "true"
 				}, { 
                 	 		"name": "Premier Sports 1 UK",
 					"info": "get-host",
-                    			"image": "https://static.wikia.nocookie.net/logopedia/images/a/a7/Premier_Sports_1_II.svg/revision/latest?cb=20230516195441",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnu0GOMNZxmSzj4QB6rPnnOT0fhL64H3La4XhN2XDd6fFDQ6U2Qj2_SmMH2F0ueYbN4I3uK9syMVyyowhkkMDusxCvfs31JBH8MMpGnko9BzswHMVunwlIhSq1wln2lvO1PmaiZgLc3P8vryBTwlA8rbW-dXW_PiUE1ii8cwUhASv9fPXFqGtvHPxd9XqX/w466-h157/Premier-Sports1.PNG",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565",
 					"isHost": "true"
 				}, { 
                 	 		"name": "Premier Sports 1 UK",
 					"info": "get-agent",
-                    			"image": "https://static.wikia.nocookie.net/logopedia/images/a/a7/Premier_Sports_1_II.svg/revision/latest?cb=20230516195441",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnu0GOMNZxmSzj4QB6rPnnOT0fhL64H3La4XhN2XDd6fFDQ6U2Qj2_SmMH2F0ueYbN4I3uK9syMVyyowhkkMDusxCvfs31JBH8MMpGnko9BzswHMVunwlIhSq1wln2lvO1PmaiZgLc3P8vryBTwlA8rbW-dXW_PiUE1ii8cwUhASv9fPXFqGtvHPxd9XqX/w466-h157/Premier-Sports1.PNG",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "Premier Sports 1 UK",
 					"info": "get-embed",
-                    			"image": "https://static.wikia.nocookie.net/logopedia/images/a/a7/Premier_Sports_1_II.svg/revision/latest?cb=20230516195441",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnu0GOMNZxmSzj4QB6rPnnOT0fhL64H3La4XhN2XDd6fFDQ6U2Qj2_SmMH2F0ueYbN4I3uK9syMVyyowhkkMDusxCvfs31JBH8MMpGnko9BzswHMVunwlIhSq1wln2lvO1PmaiZgLc3P8vryBTwlA8rbW-dXW_PiUE1ii8cwUhASv9fPXFqGtvHPxd9XqX/w466-h157/Premier-Sports1.PNG",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565",
 					"embed": "true"
 				},
@@ -3081,37 +3081,37 @@
 				{ 
                 	 		"name": "Premier Sports 2 UK",
 					"info": "base-host",
-                    			"image": "https://static.wikia.nocookie.net/logopedia/images/f/fc/Premier_Sports_2_II.svg/revision/latest?cb=20230516195653",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeqfvcdF2hajdZJRNFlsOvBmdOEJcyzDADbsibKqLpTkMg7_oRg_Rx6hsov1CGGFanBdafjNsaEg5Ufsg1sjfoS5fKwZ4IJG5MDH7Aj92SxTlZjrj3l_lDLJbGrwIjt3tJPOEHWx_312M7whvITBOOTL-hqdAIIq0lR0AYIXfV9VXPfIx52Oc6lYE_lM7X/w467-h167/Premier-Sports2.PNG",
                     			"url" :  "acestream://4903ca695edb64bc72ae29eb85a5333ba0139537",
 					"isHost": "true"
 				}, { 
                 	 		"name": "Premier Sports 2 UK",
 					"info": "base-agent",
-                    			"image": "https://static.wikia.nocookie.net/logopedia/images/f/fc/Premier_Sports_2_II.svg/revision/latest?cb=20230516195653",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeqfvcdF2hajdZJRNFlsOvBmdOEJcyzDADbsibKqLpTkMg7_oRg_Rx6hsov1CGGFanBdafjNsaEg5Ufsg1sjfoS5fKwZ4IJG5MDH7Aj92SxTlZjrj3l_lDLJbGrwIjt3tJPOEHWx_312M7whvITBOOTL-hqdAIIq0lR0AYIXfV9VXPfIx52Oc6lYE_lM7X/w467-h167/Premier-Sports2.PNG",
                     			"url" :  "acestream://4903ca695edb64bc72ae29eb85a5333ba0139537",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "Premier Sports 2 UK",
 					"info": "base-embed",
-                    			"image": "https://static.wikia.nocookie.net/logopedia/images/f/fc/Premier_Sports_2_II.svg/revision/latest?cb=20230516195653",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeqfvcdF2hajdZJRNFlsOvBmdOEJcyzDADbsibKqLpTkMg7_oRg_Rx6hsov1CGGFanBdafjNsaEg5Ufsg1sjfoS5fKwZ4IJG5MDH7Aj92SxTlZjrj3l_lDLJbGrwIjt3tJPOEHWx_312M7whvITBOOTL-hqdAIIq0lR0AYIXfV9VXPfIx52Oc6lYE_lM7X/w467-h167/Premier-Sports2.PNG",
                     			"url" :  "acestream://4903ca695edb64bc72ae29eb85a5333ba0139537",
 					"embed": "true"
 				}, { 
                 	 		"name": "Premier Sports 2 UK",
 					"info": "get-host",
-                    			"image": "https://static.wikia.nocookie.net/logopedia/images/f/fc/Premier_Sports_2_II.svg/revision/latest?cb=20230516195653",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeqfvcdF2hajdZJRNFlsOvBmdOEJcyzDADbsibKqLpTkMg7_oRg_Rx6hsov1CGGFanBdafjNsaEg5Ufsg1sjfoS5fKwZ4IJG5MDH7Aj92SxTlZjrj3l_lDLJbGrwIjt3tJPOEHWx_312M7whvITBOOTL-hqdAIIq0lR0AYIXfV9VXPfIx52Oc6lYE_lM7X/w467-h167/Premier-Sports2.PNG",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=4903ca695edb64bc72ae29eb85a5333ba0139537",
 					"isHost": "true"
 				}, { 
                 	 		"name": "Premier Sports 2 UK",
 					"info": "get-agent",
-                    			"image": "https://static.wikia.nocookie.net/logopedia/images/f/fc/Premier_Sports_2_II.svg/revision/latest?cb=20230516195653",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeqfvcdF2hajdZJRNFlsOvBmdOEJcyzDADbsibKqLpTkMg7_oRg_Rx6hsov1CGGFanBdafjNsaEg5Ufsg1sjfoS5fKwZ4IJG5MDH7Aj92SxTlZjrj3l_lDLJbGrwIjt3tJPOEHWx_312M7whvITBOOTL-hqdAIIq0lR0AYIXfV9VXPfIx52Oc6lYE_lM7X/w467-h167/Premier-Sports2.PNG",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=4903ca695edb64bc72ae29eb85a5333ba0139537",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "Premier Sports 2 UK",
 					"info": "get-embed",
-                    			"image": "https://static.wikia.nocookie.net/logopedia/images/f/fc/Premier_Sports_2_II.svg/revision/latest?cb=20230516195653",
+                    			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeqfvcdF2hajdZJRNFlsOvBmdOEJcyzDADbsibKqLpTkMg7_oRg_Rx6hsov1CGGFanBdafjNsaEg5Ufsg1sjfoS5fKwZ4IJG5MDH7Aj92SxTlZjrj3l_lDLJbGrwIjt3tJPOEHWx_312M7whvITBOOTL-hqdAIIq0lR0AYIXfV9VXPfIx52Oc6lYE_lM7X/w467-h167/Premier-Sports2.PNG",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=4903ca695edb64bc72ae29eb85a5333ba0139537",
 					"embed": "true"
 				},
@@ -3586,10 +3586,10 @@
 						 "isHost": "true"  
 						   }, {
 							"name": "Canal 24",
-							"info": "exer-105qqn | strmons",
+							"info": "line-dvuf5 | 1str",
 							"image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
-							"url": "https://exerciseexercise.net/embed/105qqn",
-							"referer": "https://streamonsport44.buzz/",
+							"url": "https://linenstandard.net/embed/dvuf5ydd4",
+							"referer": "https://1stream.buzz/",
 							 "isHost": "true"  
 						  }, {
 							"name": "Canal 25",
