@@ -24,9 +24,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 28/01/2024",
+             "name": "Ultm. versión 18/02/2024",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 28/01/2024",
+            "info": "última versión actualizada el 18/02/2024",
             "stations": []
 	}, 
 	
@@ -3451,9 +3451,11 @@
 				"isHost": "true"
 			}, {
 				"name": "Canal 3",
+				"info": "php - index",
 				"image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
-				"url": "https://embx214386.apl274.me//player/live.php?id=214386&w=100%&h=100%",
-				 "isHost" : "true"
+				"url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=150",
+              			"referer" : "https://dlhd.sx/",
+				"isHost":"true"
 			 }, {
 				"name": "Canal 4",
 				"info": "exer-lbr3 | leet365",
@@ -4277,9 +4279,9 @@
 				"isHost": "true"
 			}, {
 				"name": "Canal 5",
-				"info": "playuct1",
+				"info": "pinkhorses",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				"url": "https://tv.playuct1.com/erghedh4gdfhg4",
+				"url": "https://pinkhorses.xyz/player/0bda1fae147b6b8b-29bafe6b6febee6d7b04b919fc5436ea",
 				"isHost" : "true"
 			 }, {
 				"name": "Canal 6",
@@ -4297,8 +4299,7 @@
 			  }, {
 					"name": "Canal 8",
 					"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-					 "url" : "https://unbiasedsenseevent.com/embed/df7nk3qyxpu1vx",
-					 "referer": "https://buzztv.futbol/",
+					 "url" : "https://streamocean.online/sportsurge/foot6.php",
 					"isHost": "true"
 				 }, {
 							"name": "Canal 9",
@@ -4484,9 +4485,9 @@
 				   "isHost": "true"
 			 }, {
 				"name": "Canal 38",
-				"info": "player.mycraft",
+				"info": "star1",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				"url" : "https://player.mycraft.click/b/1705767282/788692eb0a965ab4eb34f0cb9b15898b/c1bde49a93ee51dc894f125bc9c95196",
+				"url" : "https://new.star1.live/fgvsg556hcfgnh",
 				"isHost": "true"
 			 }, {
 				   "name": "Canal 39",
@@ -4504,9 +4505,11 @@
 				   "isHost": "true"
 			 }, {
 				   "name": "Canal 41",
+				"info": "tutvlive",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				 "url" : "https://fractionhostile.net/embed/ybgsrf",
-				   "isHost": "true"
+				 "url" : "https://ntv.tutvlive.site/canaltv.php?ch=https://tvfutbol.info/player/2/80",
+			     "referer" :  "https://www.tarjetarojatv.site/",
+			 	"isHost":"true"
 			 }, {
 				"name": "Canal 42",
 				"info": "ucplay2",
@@ -4759,9 +4762,9 @@
            				"isHost" : "true"
 					   }, {
 					"name": "Canal 4",
+					"info": "star1",
 					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
-					"url": "https://unbiasedsenseevent.com/embed/h0tx31t",
-					"referer": "https://l1l1.to/",
+					"url": "https://new.star1.live/gdfhdghfgj8hndgh",
 					"isHost": "true"
 						}, {
 					"name": "Canal 5",
@@ -6349,22 +6352,21 @@
 						   "userAgent" : ""
 						 }, {
 							"name": "Canal 1",
-							"image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
-						   "url": "https://unbiasedsenseevent.com/embed/ypzz73m5m",
-						"referer": "https://l1l1.to/",
-						 "isHost": "true"
+							"info": "ANDROID",
+							"image": "https://phantom-marca.unidadeditorial.es/e38d8039ed57694708f83cd3e6a0c053/resize/828/f/jpg/assets/multimedia/imagenes/2023/11/23/17007759687702.jpg",
+						   	"url": "https://vkvsd171.mycdn.me/hls/5991018596890.m3u8/sig/GlQ3QOTCtjg/srcIp/37.14.45.69/urls/45.136.22.22/expires/1708667463303/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/6903417940762/id/5991018596890/5991018596890_fullhd/index.m3u8",
+						 	"userAgent": ""
 								},{
 							 "name": "Canal 2",
-							 "info": "6y5l8u",
-							"image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
-							  "url" :  "https://unbiasedsenseevent.com/embed/6y5l8ujvxr",
-							"referer" : "https://buzztv.futbol/",
-						 "isHost":"true"
-								},{
-							 "name": "Canal 3",
-							"image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
+							"image": "https://phantom-marca.unidadeditorial.es/e38d8039ed57694708f83cd3e6a0c053/resize/828/f/jpg/assets/multimedia/imagenes/2023/11/23/17007759687702.jpg",
 						   	"url": "https://markkystreams.com/video/mma/",
 						 	"isHost": "true"
+								},{
+							 "name": "Canal 3",
+							"info": "iOS",
+							"image": "https://phantom-marca.unidadeditorial.es/e38d8039ed57694708f83cd3e6a0c053/resize/828/f/jpg/assets/multimedia/imagenes/2023/11/23/17007759687702.jpg",
+						   	"url": "https://vkvsd171.mycdn.me/hls/5991018596890.m3u8/sig/cQ70Fv_IxxE/srcIp/37.14.45.69/urls/45.136.22.22/expires/1708667617912/clientType/14/srcAg/SAFARI_IPHONE_OTHER/fromCache/1/mid/6903417940762/id/5991018596890/5991018596890_fullhd/index.m3u8",
+						 	"userAgent": ""
 							},{ 
 							 "name": "Canal 4",
 							 "info": "ilxvi5",
@@ -6415,7 +6417,7 @@
 					}, { 
 						 	"name": "Canal 12",
 							"info": "markkystr - UFC",
-							"image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
+							"image": "https://phantom-marca.unidadeditorial.es/e38d8039ed57694708f83cd3e6a0c053/resize/828/f/jpg/assets/multimedia/imagenes/2023/11/23/17007759687702.jpg",
 						   	"url": "https://markkystreams.com/video/ufc/",
              						"isHost":"true"  
 					}, { 
@@ -6478,7 +6480,7 @@
 					  }, { 
 						 	"name": "Canal 23",
 							"info": "markkystr - boxing1",
-							"image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
+							"image": "https://phantom-marca.unidadeditorial.es/e38d8039ed57694708f83cd3e6a0c053/resize/828/f/jpg/assets/multimedia/imagenes/2023/11/23/17007759687702.jpg",
 						   	"url": "https://markkystreams.com/video/boxing-1/",
              						"isHost":"true"  
 					}, { 
@@ -6488,7 +6490,34 @@
 						   	"url" :  "https://abolishstand.net/embed/dw4k0efjo1w",
                          				"referer" : "https://buzztv.futbol/",
 			 				"isHost":"true"  
-					}]
+					}, { 
+							 	"name": "Canal 25",
+								"info": "abol-sc44nn | 1str",
+								"image": "https://phantom-marca.unidadeditorial.es/e38d8039ed57694708f83cd3e6a0c053/resize/828/f/jpg/assets/multimedia/imagenes/2023/11/23/17007759687702.jpg",
+							   	"url" :  "https://abolishstand.net/embed/sc44nn",
+								"referer" : "https://1stream.buzz/",
+			 					"isHost":"true"
+				  	}, { 
+							 	"name": "Canal 26",
+								"info": "linenstandard",
+								"image": "https://phantom-marca.unidadeditorial.es/e38d8039ed57694708f83cd3e6a0c053/resize/828/f/jpg/assets/multimedia/imagenes/2023/11/23/17007759687702.jpg",
+							   	"url": "https://linenstandard.net/embed/fyg9m",
+               							"referer" : "https://buzztv.futbol/",
+			 					"isHost":"true"
+				  	}, { 
+							 	"name": "Canal 27",
+								"info": "linenstandard",
+								"image": "https://phantom-marca.unidadeditorial.es/e38d8039ed57694708f83cd3e6a0c053/resize/828/f/jpg/assets/multimedia/imagenes/2023/11/23/17007759687702.jpg",
+							   	"url": "https://linenstandard.net/embed/60qh7fce",
+               							"referer" : "https://buzztv.futbol/",
+			 					"isHost":"true"
+				  	}, { 
+							 	"name": "Canal 28",
+								"info": "php",
+								"image": "https://phantom-marca.unidadeditorial.es/e38d8039ed57694708f83cd3e6a0c053/resize/828/f/jpg/assets/multimedia/imagenes/2023/11/23/17007759687702.jpg",
+							   	"url": "https://sportsurge.stream/embed/ufc.php",
+			 					"isHost":"true"
+				  	}]
 				   }, {
 						"name": "Béisbol",
 						"image": "https://logos-marcas.com/wp-content/uploads/2021/09/MLB-Logo.png",
@@ -7691,20 +7720,27 @@
              		"isHost": "true" 
 	     	}, {
 		    	"name": "Canal 38",
+			"info": "fyg9m",
+			"image": "https://media.ambito.com/p/8c558170ccdeba54e6e181312feb2cbc/adjuntos/239/imagenes/040/757/0040757757/inter-miami-logo.jpg",
+			"url": "https://linenstandard.net/embed/fyg9m",
+               		"referer" : "https://buzztv.futbol/",
+             		"isHost": "true" 
+	     	}, {
+		    	"name": "Canal 39",
 			"info": "eoq4q",
 			"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
 			"url": "https://candlesouth.net/embed/eoq4qqpn",
 			"referer": "https://l1l1.to/",
              		"isHost": "true" 
 	     	}, {
-		    	"name": "Canal 39",
+		    	"name": "Canal 40",
 			"info": "99df7",
 			"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
 			"url": "https://candlesouth.net/embed/99df7g4",
 			"referer": "https://l1l1.to/",
              		"isHost": "true" 
 	     	}, {
-		    	"name": "Canal 40",
+		    	"name": "Canal 41",
 			"info": "2ld5i",
 			"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
 			"url" : "https://abolishstand.net/embed/2ld5i6w",
