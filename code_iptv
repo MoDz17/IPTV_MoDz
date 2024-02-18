@@ -24,9 +24,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 18/02/2024",
+             "name": "Ultm. versión 18.2/02/2024",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 18/02/2024",
+            "info": "última versión actualizada el 18.2/02/2024",
             "stations": []
 	}, 
 	
@@ -6353,18 +6353,18 @@
 						 }, {
 							"name": "Canal 1",
 							"info": "ANDROID",
-							"image": "https://phantom-marca.unidadeditorial.es/e38d8039ed57694708f83cd3e6a0c053/resize/828/f/jpg/assets/multimedia/imagenes/2023/11/23/17007759687702.jpg",
+							"image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
 						   	"url": "https://vkvsd171.mycdn.me/hls/5991018596890.m3u8/sig/GlQ3QOTCtjg/srcIp/37.14.45.69/urls/45.136.22.22/expires/1708667463303/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/6903417940762/id/5991018596890/5991018596890_fullhd/index.m3u8",
 						 	"userAgent": ""
 								},{
 							 "name": "Canal 2",
-							"image": "https://phantom-marca.unidadeditorial.es/e38d8039ed57694708f83cd3e6a0c053/resize/828/f/jpg/assets/multimedia/imagenes/2023/11/23/17007759687702.jpg",
+							"image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
 						   	"url": "https://markkystreams.com/video/mma/",
 						 	"isHost": "true"
 								},{
 							 "name": "Canal 3",
 							"info": "iOS",
-							"image": "https://phantom-marca.unidadeditorial.es/e38d8039ed57694708f83cd3e6a0c053/resize/828/f/jpg/assets/multimedia/imagenes/2023/11/23/17007759687702.jpg",
+							"image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
 						   	"url": "https://vkvsd171.mycdn.me/hls/5991018596890.m3u8/sig/cQ70Fv_IxxE/srcIp/37.14.45.69/urls/45.136.22.22/expires/1708667617912/clientType/14/srcAg/SAFARI_IPHONE_OTHER/fromCache/1/mid/6903417940762/id/5991018596890/5991018596890_fullhd/index.m3u8",
 						 	"userAgent": ""
 							},{ 
@@ -6417,7 +6417,7 @@
 					}, { 
 						 	"name": "Canal 12",
 							"info": "markkystr - UFC",
-							"image": "https://phantom-marca.unidadeditorial.es/e38d8039ed57694708f83cd3e6a0c053/resize/828/f/jpg/assets/multimedia/imagenes/2023/11/23/17007759687702.jpg",
+							"image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
 						   	"url": "https://markkystreams.com/video/ufc/",
              						"isHost":"true"  
 					}, { 
@@ -6480,7 +6480,7 @@
 					  }, { 
 						 	"name": "Canal 23",
 							"info": "markkystr - boxing1",
-							"image": "https://phantom-marca.unidadeditorial.es/e38d8039ed57694708f83cd3e6a0c053/resize/828/f/jpg/assets/multimedia/imagenes/2023/11/23/17007759687702.jpg",
+							"image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
 						   	"url": "https://markkystreams.com/video/boxing-1/",
              						"isHost":"true"  
 					}, { 
@@ -6493,28 +6493,28 @@
 					}, { 
 							 	"name": "Canal 25",
 								"info": "abol-sc44nn | 1str",
-								"image": "https://phantom-marca.unidadeditorial.es/e38d8039ed57694708f83cd3e6a0c053/resize/828/f/jpg/assets/multimedia/imagenes/2023/11/23/17007759687702.jpg",
+								"image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
 							   	"url" :  "https://abolishstand.net/embed/sc44nn",
 								"referer" : "https://1stream.buzz/",
 			 					"isHost":"true"
 				  	}, { 
 							 	"name": "Canal 26",
 								"info": "linenstandard",
-								"image": "https://phantom-marca.unidadeditorial.es/e38d8039ed57694708f83cd3e6a0c053/resize/828/f/jpg/assets/multimedia/imagenes/2023/11/23/17007759687702.jpg",
+								"image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
 							   	"url": "https://linenstandard.net/embed/fyg9m",
                							"referer" : "https://buzztv.futbol/",
 			 					"isHost":"true"
 				  	}, { 
 							 	"name": "Canal 27",
 								"info": "linenstandard",
-								"image": "https://phantom-marca.unidadeditorial.es/e38d8039ed57694708f83cd3e6a0c053/resize/828/f/jpg/assets/multimedia/imagenes/2023/11/23/17007759687702.jpg",
+								"image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
 							   	"url": "https://linenstandard.net/embed/60qh7fce",
                							"referer" : "https://buzztv.futbol/",
 			 					"isHost":"true"
 				  	}, { 
 							 	"name": "Canal 28",
 								"info": "php",
-								"image": "https://phantom-marca.unidadeditorial.es/e38d8039ed57694708f83cd3e6a0c053/resize/828/f/jpg/assets/multimedia/imagenes/2023/11/23/17007759687702.jpg",
+								"image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
 							   	"url": "https://sportsurge.stream/embed/ufc.php",
 			 					"isHost":"true"
 				  	}]
@@ -7812,14 +7812,14 @@
         									"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnVqFaYDUDqXGWIgRjCm5_A3LBERIGSQ4rJAsgs0_QGPMDlQVc7P96XwdAHkf7Ggas08GoLAisVy_1iLiRWJXO4M_KVuimVvgnnK1jgSY9qKbDgT4FKcyJ88KFEIJlCZno_VvC-78yMx9wOepccMbgGjMHDL6OsDwVBnUmEmL5ywiEwfFKxPGLTRapzjmo/w664-h226/logo_ufc.png",
         									"stations": 
         								  [
-
 										{
-            										"name": "",
-											"info": "",
-            										"image": "https://i.ibb.co/Z1cmqrC/Obras.png",
-            										"url": "",
-											"embed": "false"
-            									}
+                									"name": "UFC298",
+                									"info":"Estelares󠁧󠁢󠁥",
+                									"image": "https://i.postimg.cc/5N5tqS1T/2024-02-18-Topuria-VS-Volkanoski.png",
+											"url":"https://filemoon.sx/d/evy9b4g9h8vh/VOLKANOVSKI___TOPURIA_-_MAINCARD.mp4",
+                									"isHost":"true",
+                									"online":"true"
+                								}
 									]
     									}, {
         									"name":"Fútbol",
