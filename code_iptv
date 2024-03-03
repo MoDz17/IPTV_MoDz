@@ -24,9 +24,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 18.2/02/2024",
+             "name": "Ultm. versión 03/03/2024",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 18.2/02/2024",
+            "info": "última versión actualizada el 03/03/2024",
             "stations": []
 	}, 
 	
@@ -4378,7 +4378,7 @@
 				"name": "Canal 21",
 				"info": "",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				"url" :  "https://emb.apl299.me//player/live.php?id=216559&w=100%&h=100%",
+				"url" :  "https://embx216559.apl320.me//player/live.php?id=216559&w=100%&h=100%",
 			 	"isHost":"true"
 			 }, {
 				"name": "Canal 22",
@@ -4430,11 +4430,10 @@
 				 "isHost": "true" 
 			}, {
 				"name": "Canal 30",
-				"info": "t7w70x",
-				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				 "url" : "https://strayindicate.net/embed/t7w70x7v57",
-				   "referer": "https://1stream.buzz/",
-				   "isHost": "true"
+				"info": "godzcast",
+				"url" : "https://godzcast.com/embed.php?player=desktop&live=do40",
+		        	"referer": "https://zvision.link/",
+			   	"isHost": "true"
 			 }, {
 				"name": "Canal 31",
 				"info": "abol-l7cjw | 1str",
@@ -4512,9 +4511,9 @@
 			 	"isHost":"true"
 			 }, {
 				"name": "Canal 42",
-				"info": "ucplay2",
+				"info": "s2watch",
 			   	"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-			   	"url": "https://hd.ucplay2.com/fgvsg556hcfgnh",
+			   	"url": "https://s2watch.link/ch40",
 				"isHost": "true"
 			}, {
 	             		"name": "Canal 43",
@@ -4873,7 +4872,7 @@
 				}, {
 					"name": "Canal 22",
 					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
-					"url" : "https://embx218772.apl306.me//player/live.php?id=218772&w=100%&h=100%",
+					"url" : "https://embx220582.apl320.me//player/live.php?id=220582&w=100%&h=100%",
 					"isHost": "true"
 			  	}, {
 					"name": "Canal 23",
@@ -5026,10 +5025,11 @@
 							"isHost" : "true"
 						  }, {
 							"name": "Canal 3",
-							"info": "m3u8",
+							"info": "hocast4",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-							"url": "http://15.235.15.232:8081/SPAIN%7CLIGADECAMPR/SPAIN%7CLIGADECAMPR/playlist.m3u8",
-							"userAgent" : ""
+							"url": "https://hocast4.com/footy.php?player=desktop&live=ufeed64",
+							"referer": "https://1stream.buzz/",
+             						"isHost": "true"
 						 }, {
 							"name": "Canal 4",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
@@ -5334,10 +5334,10 @@
 			"image": "https://i.ibb.co/SPQCpbZ/Ligue1-logo.png",
 			"info": "",
 			"stations": [{
-				 "name": "Canal 1",
+				"name": "Canal 1",
+				"info": "coolrea",
 				"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-				"url": "https://utopianwilderness.com/embed/vwtuk5h",
-              			"referer" : "https://starlive.xyz/",
+				"url": "https://coolrea.link/flash26",
 				"isHost":"true"
 			}, {
 				"name": "Canal 2",
@@ -5355,8 +5355,8 @@
 				"name": "Canal 4",
 				"info": "40ltf",
 				"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-				  "url": "https://abolishstand.net/embed/40ltfs8ms26hmy",
-				  "referer" : "https://elixx.xyz/",
+				"url": "https://abolishstand.net/embed/40ltfs8ms26hmy",
+				"referer" : "https://elixx.xyz/",
 				"isHost":"true"
 						}, {
 				"name": "Canal 5",
@@ -5785,8 +5785,7 @@
 	 						}, {
 								"name": "Canal 2",
 							  	"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-								"url": "https://utopianwilderness.com/embed/d9g5w8sf900",
-							   	"referer": "https://starlive.xyz/",
+								"url": "https://pinkhorses.xyz/player/0bda1fae147b6b8b-29bafe6b6febee6d7b04b919fc5436ea",
 								"isHost": "true"
 							   }, {
 								"name": "Canal 3",
@@ -5813,30 +5812,31 @@
 								  "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
 								"url" : "https://www.freeshot.live/live-tv/dazn-f1/241",
 								  "isHost": "true" 	
-								}, {
+							}, {
 								"name": "Canal 7",
-								"info": "m3u8",
-								  "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-								  "url": "https://argusport.live:90/Formula11/tracks-v1a1/mono.m3u8",
-								  "userAgent" : ""
+								"info": "star1",
+								"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+								"url": "https://new.star1.live/fgvsg556hcfgnh",
+			 					"isHost":"true"
 							   }, {
-								"name": "Canal 8",
+								  "name": "Canal 8",
+								  "info": "gocast",
 								  "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-								  "url": "https://tvhd.capshd.xyz/online/daznf1.php",
-								  "referer" : "https://www.daddylive.pro/",
-								   "isHost":"true"	 
-								  }, {   
+								  "url": "https://gocast.pro/aliez.php?stream=RdKfpotjL5g",
+                               					  "referer" : "https://aliezstream.pro/",
+								  "isHost":"true"	 
+						  	}, {   
 								  "name": "Canal 9",
 								  "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
 								  "url": "https://castmax.live/embed/daznf1.html",
 								  "referer" : "https://bahiadeportes.com/",
 								   "isHost":"true"
-									 }, {   
+							 }, {   
 								  "name": "Canal 10",
 								  "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
 								  "url": "https://starlive.xyz/embed.php?id=liveDaznF1_ES", 
 								   "isHost":"true"  
-									}, {
+							}, {
 									"name": "Canal 11",
 								  	"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
 									"url": "https://utopianwilderness.com/embed/yyae8b9smh4vpe",
@@ -6352,9 +6352,9 @@
 						   "userAgent" : ""
 						 }, {
 							"name": "Canal 1",
-							"info": "ANDROID",
+							"info": "ANDROID/iOS",
 							"image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
-						   	"url": "https://vkvsd171.mycdn.me/hls/5991018596890.m3u8/sig/GlQ3QOTCtjg/srcIp/37.14.45.69/urls/45.136.22.22/expires/1708667463303/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/6903417940762/id/5991018596890/5991018596890_fullhd/index.m3u8",
+						   	"url": "",
 						 	"userAgent": ""
 								},{
 							 "name": "Canal 2",
@@ -6363,9 +6363,9 @@
 						 	"isHost": "true"
 								},{
 							 "name": "Canal 3",
-							"info": "iOS",
+							"info": "",
 							"image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
-						   	"url": "https://vkvsd171.mycdn.me/hls/5991018596890.m3u8/sig/cQ70Fv_IxxE/srcIp/37.14.45.69/urls/45.136.22.22/expires/1708667617912/clientType/14/srcAg/SAFARI_IPHONE_OTHER/fromCache/1/mid/6903417940762/id/5991018596890/5991018596890_fullhd/index.m3u8",
+						   	"url": "",
 						 	"userAgent": ""
 							},{ 
 							 "name": "Canal 4",
@@ -6400,7 +6400,7 @@
 					}, { 
 						 	"name": "Canal 9",
 							"image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
-						   	"url": "https://gameshdlive.net/new/ch31.php",
+						   	"url": "https://gameshdlive.net/new/ch12.php",
              						"isHost":"true"  
 					}, {
 						 	"name": "Canal 10",
@@ -7345,10 +7345,9 @@
 							"userAgent" : ""
 		 				}, {
 							"name": "Canal 1",
-						   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WrLEUL5KARQ5KrZe_LMVBkqvD2-cx2zAEfMbKD2mhXX-B2bzYyT2c8iCrUBHqNGkwwRhRUsTuxuieiuHgTZusfQD064g98dqTb8uQb1wDdesbNkd4q-J2zUHiMAUzPIS_g8iJ7b7dAeeZRev-kaP9A_UpwL5WOJo_R2hnNesAmyNKvzzFM2nwKvITC1W/w625-h103/logo-MundoToro.png",
-							"url": "https://lovesomecommunity.com/embedcr.php?player=desktop&live=MNDT020",
-						   "referer": "https://www.freeshot.live/",
-							"isHost": "true"
+						   	"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WrLEUL5KARQ5KrZe_LMVBkqvD2-cx2zAEfMbKD2mhXX-B2bzYyT2c8iCrUBHqNGkwwRhRUsTuxuieiuHgTZusfQD064g98dqTb8uQb1wDdesbNkd4q-J2zUHiMAUzPIS_g8iJ7b7dAeeZRev-kaP9A_UpwL5WOJo_R2hnNesAmyNKvzzFM2nwKvITC1W/w625-h103/logo-MundoToro.png",
+							"url": "https://love2live.wideiptv.top/OneToro/tracks-v1a1/mono.m3u8",
+                        				"userAgent": ""
 						}, {
 							"name": "Canal 2",
 						   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WrLEUL5KARQ5KrZe_LMVBkqvD2-cx2zAEfMbKD2mhXX-B2bzYyT2c8iCrUBHqNGkwwRhRUsTuxuieiuHgTZusfQD064g98dqTb8uQb1wDdesbNkd4q-J2zUHiMAUzPIS_g8iJ7b7dAeeZRev-kaP9A_UpwL5WOJo_R2hnNesAmyNKvzzFM2nwKvITC1W/w625-h103/logo-MundoToro.png",
@@ -7787,11 +7786,19 @@
         									"stations": 
         							 		[
 											{
-            											"name": "",
-												"info": "",
-            											"image": "https://i.ibb.co/Z1cmqrC/Obras.png",
-            											"url": "",
-												"embed": "false"
+            											"name": "GP Bahrein 2024",
+												"info": "Carrera | DAZN F1",
+            											"image": "https://phantom-marca.unidadeditorial.es/b9785dcabac6a1fddb8896c6937dc295/crop/0x0/1979x1319/resize/828/f/jpg/assets/multimedia/imagenes/2024/02/29/17091905342587.jpg",
+            											"url": "https://filemoon.sx/d/65cslvykuks5",
+												"isHost":"true",
+                										"online":"true"
+            										}, {
+            											"name": "GP Bahrein 2024",
+												"info": "Qualy | DAZN F1",
+            											"image": "https://phantom-marca.unidadeditorial.es/b9785dcabac6a1fddb8896c6937dc295/crop/0x0/1979x1319/resize/828/f/jpg/assets/multimedia/imagenes/2024/02/29/17091905342587.jpg",
+            											"url": "https://filemoon.sx/d/5ae8etxskq61",
+												"isHost":"true",
+                										"online":"true"
             										}
 										] 
     								        }, {
