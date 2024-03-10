@@ -24,9 +24,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 03/03/2024",
+             "name": "Ultm. versión 10/03/2024",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 03/03/2024",
+            "info": "última versión actualizada el 10/03/2024",
             "stations": []
 	}, 
 	
@@ -4408,7 +4408,8 @@
 				"name": "Canal 26",
 				"info": "php",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				"url" : "https://pahaplayer.shop/live/pahe084ch.php",
+				"url" : "https://tvhd.tutvlive.site/stream.php?ch=https://tvfutbol.info/player/3/60",
+				"referer" : "https://pirlotvenvivo.me/",
 				"isHost": "true"
 			}, {
 				"name": "Canal 27",
@@ -4431,6 +4432,7 @@
 			}, {
 				"name": "Canal 30",
 				"info": "godzcast",
+				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
 				"url" : "https://godzcast.com/embed.php?player=desktop&live=do40",
 		        	"referer": "https://zvision.link/",
 			   	"isHost": "true"
@@ -4503,17 +4505,16 @@
 				   "referer": "https://1stream.buzz/",
 				   "isHost": "true"
 			 }, {
-				   "name": "Canal 41",
+			   	"name": "Canal 41",
 				"info": "tutvlive",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				 "url" : "https://ntv.tutvlive.site/canaltv.php?ch=https://tvfutbol.info/player/2/80",
-			     "referer" :  "https://www.tarjetarojatv.site/",
+				 "url" : "https://tvhd.tutvlive.site/stream.php?ch=https://pirlotvenvivo.me/iframe/daznligao2.php",
 			 	"isHost":"true"
 			 }, {
 				"name": "Canal 42",
-				"info": "s2watch",
+				"info": "coolrea",
 			   	"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-			   	"url": "https://s2watch.link/ch40",
+			   	"url": "https://coolrea.link/ch40",
 				"isHost": "true"
 			}, {
 	             		"name": "Canal 43",
@@ -5337,7 +5338,7 @@
 				"name": "Canal 1",
 				"info": "coolrea",
 				"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-				"url": "https://coolrea.link/flash26",
+				"url": "https://coolrea.link/flash30",
 				"isHost":"true"
 			}, {
 				"name": "Canal 2",
@@ -5987,6 +5988,16 @@
 								  "referer": "https://buzztv.futbol/",
 								  "isHost": "true"
 							   }, {
+								  "name": "Canal 4 [F1 inglés]",
+								  "image": "https://i.ibb.co/nwQrbvN/inglesa.webp",
+								  "url" : "https://v.markkystreams.com/video/f1/",
+								  "isHost": "true"
+							   }, {
+								  "name": "Canal 5 [F1 inglés]",
+								  "image": "https://i.ibb.co/nwQrbvN/inglesa.webp",
+								  "url" : "https://sportsurge.stream/embed/f1.php",
+								  "isHost": "true"
+							   }, {
 								  "name": "MotoGP Android/iOS",
 								  "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
 								  "url":"https://tastyturbine.com/player/0bda1fae147b6b8b-29bafe6b6febee6d7b04b919fc5436ea",
@@ -6141,6 +6152,13 @@
 								"info": "emb",
 								"image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
 								"url" : "http://emb.apl291.me/live/rer52/",
+             							"isHost": "true"
+							  }, {
+								"name": "Canal 25",
+								"info": "dw4k0",
+								"image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
+								"url": "https://abolishstand.net/embed/dw4k0efjo1w",
+                         					"referer" : "https://elixx.xyz/",
              							"isHost": "true"
 							  }]
 						  }, 
@@ -7373,13 +7391,13 @@
 						}, {
 						   "name": "Canal 6",
 						   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WrLEUL5KARQ5KrZe_LMVBkqvD2-cx2zAEfMbKD2mhXX-B2bzYyT2c8iCrUBHqNGkwwRhRUsTuxuieiuHgTZusfQD064g98dqTb8uQb1wDdesbNkd4q-J2zUHiMAUzPIS_g8iJ7b7dAeeZRev-kaP9A_UpwL5WOJo_R2hnNesAmyNKvzzFM2nwKvITC1W/w625-h103/logo-MundoToro.png",
-						   "url":"http://2022spn.net:8080/Nicky/1234/5210",
+						   "url":"https://love2live.wideiptv.top/OneToroES/tracks-v1a1/mono.m3u8",
 						   "userAgent" : ""
 						}, {
 						   "name": "Canal 7",
 						   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WrLEUL5KARQ5KrZe_LMVBkqvD2-cx2zAEfMbKD2mhXX-B2bzYyT2c8iCrUBHqNGkwwRhRUsTuxuieiuHgTZusfQD064g98dqTb8uQb1wDdesbNkd4q-J2zUHiMAUzPIS_g8iJ7b7dAeeZRev-kaP9A_UpwL5WOJo_R2hnNesAmyNKvzzFM2nwKvITC1W/w625-h103/logo-MundoToro.png",
 						   "url": "http://thing500.hopto.org:8080/lbgFIzo6Vw/nOVP8H35Hu/1132",
-							"userAgent": "damx"
+						   "userAgent": "damx"
 						}, {
 						   "name": "Canal 8",
 						   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WrLEUL5KARQ5KrZe_LMVBkqvD2-cx2zAEfMbKD2mhXX-B2bzYyT2c8iCrUBHqNGkwwRhRUsTuxuieiuHgTZusfQD064g98dqTb8uQb1wDdesbNkd4q-J2zUHiMAUzPIS_g8iJ7b7dAeeZRev-kaP9A_UpwL5WOJo_R2hnNesAmyNKvzzFM2nwKvITC1W/w625-h103/logo-MundoToro.png",
@@ -7388,7 +7406,7 @@
 						}, {
 						   "name": "Canal 9",
 						   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WrLEUL5KARQ5KrZe_LMVBkqvD2-cx2zAEfMbKD2mhXX-B2bzYyT2c8iCrUBHqNGkwwRhRUsTuxuieiuHgTZusfQD064g98dqTb8uQb1wDdesbNkd4q-J2zUHiMAUzPIS_g8iJ7b7dAeeZRev-kaP9A_UpwL5WOJo_R2hnNesAmyNKvzzFM2nwKvITC1W/w625-h103/logo-MundoToro.png",
-						   "url":"http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/298810.m3u8",
+						   "url":"https://love2live.wideiptv.top/OneToroES/index.m3u8",
 						   "userAgent" : ""
 						}, {
 			 				"name": "CMM",
@@ -7486,8 +7504,8 @@
 					}
 				]
 }, {
-		   "name": "Eventos",
-		   "image": "https://i.ibb.co/s2Kbx9R/calendario-2023.png",
+		   "name": "Eventos 2024",
+		   "image": "https://images.emojiterra.com/google/noto-emoji/unicode-15/color/512px/1f5d3.png",
 		   "info": "",
 		   "stations": [
 
@@ -7786,6 +7804,22 @@
         									"stations": 
         							 		[
 											{
+            											"name": "GP Arabia Saudí 2024",
+												"info": "Carrera | DAZN F1",
+            											"image": "https://phantom-marca.unidadeditorial.es/6d551fc1f147679c30e20443f07e5e6d/resize/828/f/jpg/assets/multimedia/imagenes/2024/03/04/17095488622069.jpg",
+            											"url": "https://embedmoon.xyz/d/qsb34mw0av4q",
+												"userAgent" : "PlusMediaPlayer/0.0.9",
+												"isHost":"true",
+                										"online":"true"
+            										}, {
+            											"name": "GP Arabia Saudí 2024",
+												"info": "Qualy | DAZN F1",
+            											"image": "https://phantom-marca.unidadeditorial.es/6d551fc1f147679c30e20443f07e5e6d/resize/828/f/jpg/assets/multimedia/imagenes/2024/03/04/17095488622069.jpg",
+            											"url":"https://embedmoon.xyz/d/82xj0wm4i4bx",
+												"userAgent" : "PlusMediaPlayer/0.0.9",
+												"isHost":"true",
+                										"online":"true"
+            										}, {
             											"name": "GP Bahrein 2024",
 												"info": "Carrera | DAZN F1",
             											"image": "https://phantom-marca.unidadeditorial.es/b9785dcabac6a1fddb8896c6937dc295/crop/0x0/1979x1319/resize/828/f/jpg/assets/multimedia/imagenes/2024/02/29/17091905342587.jpg",
