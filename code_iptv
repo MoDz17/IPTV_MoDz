@@ -24,9 +24,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 14/03/2024",
+             "name": "Ultm. versión 26/03/2024",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 14/03/2024",
+            "info": "última versión actualizada el 26/03/2024",
             "stations": []
 	}, 
 	
@@ -3897,7 +3897,8 @@
 				"name": "Canal 19",
 				"info":"php",
 				"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-				"url": "https://ltinversionistas.com/jactv/mdazn1.php",
+				"url": "https://hd.superhit.xyz/hembedplayer/bff3gbgfff/4/500/400",
+                      		"referer" : "https://new.superhit.xyz/",
              			"isHost": "true"
 			}, {
 				"name": "Canal 20",
@@ -4403,10 +4404,10 @@
 				"isHost":"true"
 			}, {
 				"name": "Canal 26",
-				"info": "php",
+				"info": "superhit",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				"url" : "https://tvhd.tutvlive.site/stream.php?ch=https://tvfutbol.info/player/3/60",
-				"referer" : "https://pirlotvenvivo.me/",
+				"url" : "https://hd.superhit.xyz/hembedplayer/fgvsg556hcfgnh/4/500/400",
+			 	"referer" : "https://hd.superhit.xyz/fgvsg556hcfgnh",
 				"isHost": "true"
 			}, {
 				"name": "Canal 27",
@@ -4509,9 +4510,9 @@
 			 	"isHost":"true"
 			 }, {
 				"name": "Canal 42",
-				"info": "coolrea",
+				"info": "superhit",
 			   	"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-			   	"url": "https://coolrea.link/ch40",
+			   	"url": "https://hd.superhit.xyz/fgvsg556hcfgnh",
 				"isHost": "true"
 			}, {
 	             		"name": "Canal 43",
@@ -4870,8 +4871,9 @@
 				}, {
 					"name": "Canal 22",
 					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
-					"url" : "https://embx220582.apl320.me//player/live.php?id=220582&w=100%&h=100%",
-					"isHost": "true"
+					"url": "https://mylivestream.pro/aliez.php?stream=4eLyr2RZq7v",
+                           		"referer" : "https://aliezstream.pro/", 
+                          		"isHost": "true"
 			  	}, {
 					"name": "Canal 23",
 					"info": "wwwstream",
@@ -7802,6 +7804,22 @@
         									"stations": 
         							 		[
 											{
+            											"name": "GP Australia 2024",
+												"info": "Carrera | DAZN F1",
+            											"image": "https://phantom-marca.unidadeditorial.es/3facc21a05267f1e28e4adb0a169d753/resize/828/f/jpg/assets/multimedia/imagenes/2024/03/17/17106683359873.jpg",
+            											"url": "https://filemoon.sx/d/5p1y6arz643k",
+												"userAgent" : "PlusMediaPlayer/0.0.9",
+												"isHost":"true",
+                										"online":"true"
+            										}, {
+            											"name": "GP Australia 2024",
+												"info": "Qualy | DAZN F1",
+            											"image": "https://phantom-marca.unidadeditorial.es/3facc21a05267f1e28e4adb0a169d753/resize/828/f/jpg/assets/multimedia/imagenes/2024/03/17/17106683359873.jpg",
+            											"url": "https://filemoon.sx/d/gve9qltu50kp",
+												"userAgent" : "PlusMediaPlayer/0.0.9",
+												"isHost":"true",
+                										"online":"true"
+            										}, {
             											"name": "GP Arabia Saudí 2024",
 												"info": "Carrera | DAZN F1",
             											"image": "https://phantom-marca.unidadeditorial.es/6d551fc1f147679c30e20443f07e5e6d/resize/828/f/jpg/assets/multimedia/imagenes/2024/03/04/17095488622069.jpg",
@@ -7839,6 +7857,20 @@
         									"stations": 
 										[
 											{
+												"name": "GP Portugal 2024",
+												"info":"Carrera | DAZN",
+												"image": "https://phantom-marca.unidadeditorial.es/22c5438e30ef90b41a6276b804c10f4f/resize/828/f/jpg/assets/multimedia/imagenes/2024/03/22/17111054357636.jpg",
+												"url": "https://filemoon.sx/d/vfgt2hd6gnnn",
+												"isHost":"true",
+												"online":"true"
+											}, {
+												"name": "GP Portugal 2024",
+												"info":"Sprint | DAZN",
+												"image": "https://phantom-marca.unidadeditorial.es/22c5438e30ef90b41a6276b804c10f4f/resize/828/f/jpg/assets/multimedia/imagenes/2024/03/22/17111054357636.jpg",
+												"url": "https://filemoon.sx/d/d3142jocckd5/02_1_Sprint_MotoGP_Algarve__Portugal__2024_ES_.mp4",
+												"isHost":"true",
+												"online":"true"
+											}, {
 												"name": "GP Qatar 2024",
 												"info":"Carrera | DAZN",
 												"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/03/04/17095511117077.jpg",
@@ -7860,6 +7892,20 @@
         									"stations": 
         								  [
 										{
+                									"name": "UFC Fight Night",
+                									"info":"ESPN",
+                									"image": "https://i.postimg.cc/Kv15RCM8/UFC-Fight-Night-Ribas-vs-Namajunas.png",
+                									"url":"https://filemoon.sx/d/wluzloqlnue6",
+                									"isHost":"true",
+                									"online":"true"
+                								}, {
+                									"name": "UFC Fight Night",
+                									"info":"ESPN",
+                									"image": "https://i.postimg.cc/1zJmCWpY/tuivasa-Vs-Tybura.png",
+                									"url":"https://fmembed.cc/d/chgsmilu683b",
+                									"isHost":"true",
+                									"online":"true"
+                								}, {
                 									"name": "UFC299",
                 									"info":"Estelares󠁧󠁢󠁥 | ESPN-ST☆R",
                 									"image": "https://i.postimg.cc/ZY2gKKzc/1280x720-20240309202411.jpg",
