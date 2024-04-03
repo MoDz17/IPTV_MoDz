@@ -24,9 +24,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 01/04/2024",
+             "name": "Ultm. versión 03/04/2024",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 01/04/2024",
+            "info": "última versión actualizada el 03/04/2024",
             "stations": []
 	}, 
 	
@@ -4444,11 +4444,11 @@
 				"isHost":"true"
 			}, {
 				"name": "Canal 26",
-				"info": "superhit",
+				"info": "hocast4",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				"url" : "https://hd.superhit.xyz/hembedplayer/fgvsg556hcfgnh/4/500/400",
-			 	"referer" : "https://hd.superhit.xyz/fgvsg556hcfgnh",
-				"isHost": "true"
+				"url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed60",
+                   		"referer" : "https://primefoot.ru/",
+			 	"isHost":"true"
 			}, {
 				"name": "Canal 27",
 				"info": "php",
@@ -7448,8 +7448,9 @@
 						   "userAgent" : ""
 						}, {
 						   "name": "Canal 9",
+						   "info": "l2l",
 						   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WrLEUL5KARQ5KrZe_LMVBkqvD2-cx2zAEfMbKD2mhXX-B2bzYyT2c8iCrUBHqNGkwwRhRUsTuxuieiuHgTZusfQD064g98dqTb8uQb1wDdesbNkd4q-J2zUHiMAUzPIS_g8iJ7b7dAeeZRev-kaP9A_UpwL5WOJo_R2hnNesAmyNKvzzFM2nwKvITC1W/w625-h103/logo-MundoToro.png",
-						   "url": "https://love2live.wideiptv.top/OneToro/index.fmp4.m3u8?token=1556310816ec7094764b5794c1b716a0f8e4a85e-7cf63dee24780f8e497989739b54eaf5-1711927031-1711916231",
+						   "url": "https://love2live.wideiptv.top/OneToro/tracks-v1/index.fmp4.m3u8?token=b0d618f996409d51c5a1ba6f650a7b3b44a2f185-c8c5a9788307a5e7da34bb6eb7607ce7-1712005006-1711994206",
 						   "userAgent":""
 						}, {
 			 				"name": "CMM",
@@ -7967,11 +7968,11 @@
         								  [
 										{
                 									"name": "UFC Fight Night",
-                									"info":"---",
-                									"image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
-                									"url":"",
-                									"isHost":"false",
-                									"online":"false"
+                									"info":"ESPN",
+                									"image": "https://i.postimg.cc/52d3y3gq/ufc.png",
+                									"url":"https://bembed.net/v/rabVOQQp2GGOKdW",
+                									"isHost":"true",
+                									"online":"true"
                 								}, {
                 									"name": "UFC Fight Night",
                 									"info":"ESPN",
