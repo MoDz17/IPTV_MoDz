@@ -24,9 +24,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 03/04/2024",
+             "name": "Ultm. versión 05/04/2024",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 03/04/2024",
+            "info": "última versión actualizada el 05/04/2024",
             "stations": []
 	}, 
 	
@@ -3867,10 +3867,11 @@
 	 "isHost": "true"
   }, {
 	"name": "Canal 8",
+	"info": "clap-81 | prf",
 	"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-	"url": "https://utopianwilderness.com/embed/ytwuivbbmevp6d",
-	  "referer": "https://starlive.xyz/",
-	 "isHost": "true"
+	"url": "https://claplivehdplay.ru/embedlc.php?id=81",
+	"referer": "https://primefoot.ru/",
+	"isHost": "true"
   }, {
 	"name": "Canal 9",
 	"info": "exer-h5m4g | strmons",
@@ -4010,10 +4011,11 @@
 			 "isHost": "true"
 		  }, {
 			"name": "Canal 8",
+			"info": "clap-82 | prf",
 			"image": "https://i.ibb.co/vhNCnrq/DAZN-2-Logo-Sin-Fondo.webp",
-			  "url": "https://utopianwilderness.com/embed/g359w0ew",
-			"referer": "https://starlive.xyz/",
-			 "isHost": "true"
+			"url": "https://claplivehdplay.ru/embedlc.php?id=82",
+			"referer": "https://primefoot.ru/",
+			"isHost": "true"
 			}, {
 			"name": "Canal 9",
 			"info": "exer-xmr0x | leet365",
@@ -4099,10 +4101,12 @@
 	   			"url":"http://51.178.36.235:49214/DAZN_3/hls/playlist.m3u8",
 	   			"userAgent" : ""
 	 			}, {
-			"name": "Canal 10",
-			   "image": "https://i.ibb.co/p1Ry56w/DAZN-3-Logo-Sin-Fondo.png",
-			   "url":"http://51.158.36.81:18000/DAZN_3/hls/playlist.m3u8",
-			   "userAgent" : ""
+				"name": "Canal 10",
+				"info": "clap-83 | prf",
+			   	"image": "https://i.ibb.co/p1Ry56w/DAZN-3-Logo-Sin-Fondo.png",
+			   	"url" : "https://claplivehdplay.ru/embedlc.php?id=83",
+                     		"referer" : "https://primefoot.ru/",
+			 	"isHost":"true"
 		 		}, {
 			   		"name": "Canal 11",
 			   		"image": "https://i.ibb.co/p1Ry56w/DAZN-3-Logo-Sin-Fondo.png",
@@ -4153,9 +4157,10 @@
 	 "isHost": "true"
 	   }, {
 	"name": "Canal 6",
+	"info": "clap-84 | prf",
 	"image": "https://i.ibb.co/LQy2rM6/DAZN-4-Logo-Sin-Fondo.png",
-	 "url": "https://utopianwilderness.com/embed/8jqf49em",
-	"referer": "https://starlive.xyz/",
+	"url": "https://claplivehdplay.ru/embedlc.php?id=84",
+	"referer": "https://primefoot.ru/",
 	 "isHost": "true"  
 	 }, {
 	"name": "Canal 7",
@@ -4771,6 +4776,12 @@
 				"image": "https://i.ibb.co/VQpLvTb/logo-channels-ESPN.jpg",
 				"url": "https://abolishstand.net/embed/dvuf5ydd4",
                   		"referer": "https://buzztv.futbol/",
+				"isHost": "true"
+		  	}, {
+				"name": "Canal 79",
+				"image": "https://i.ibb.co/VQpLvTb/logo-channels-ESPN.jpg",
+				"url": "https://windroses.live/man/gen.php?playerid=004",
+                  		"referer": "https://fastreams.com/",
 				"isHost": "true"
 		  	}]
 		}, {
@@ -5836,10 +5847,11 @@
 								"isHost": "true"
 							 }, {
 								"name": "Canal 4",
-								  "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-								"url": "https://utopianwilderness.com/embed/yyae8b9smh4vpe",
-								"referer": "https://starlive.xyz/",
-								   "isHost": "true"
+								"info": "hcst4 | prf",
+								"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+								"url": "https://hocast4.com/footy.php?player=desktop&live=ufeed89",
+								"referer": "https://primefoot.ru/",
+								"isHost": "true"
 							   }, {
 								"name": "Canal 5",
 								"info": "php",
