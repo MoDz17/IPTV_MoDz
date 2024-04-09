@@ -24,9 +24,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 05/04/2024",
+             "name": "Ultm. versión 09/04/2024",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 05/04/2024",
+            "info": "última versión actualizada el 09/04/2024",
             "stations": []
 	}, 
 	
@@ -66,8 +66,176 @@
 		   	"image": "https://i.ibb.co/qphYWXg/To-Fix-Only.jpg",    
 		  	"url" : ""
 		}]
-	},
-
+	}, 
+    
+    {
+        "name": "Horarios deportivos",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgitz_TK0IfqklZ4SJjmCN7fercRNPwt8r3rhx3s1iAFfX_euYk4xzPtocbUxm1oETsmaLwZ9A15E4eBWRWYqZ19Ug4M-QgcjOyoc4w_-bHLqMg5uByeiFsfnwDalRMmuyvYDv6v-oXeWjbmAUo2KfKz6it9O1hR-YOgzFKgFvkLrVo7xnqWr2Wvm4VIl0S/w483-h483/logo-TVguia.png",
+        "info": "",
+        "stations": [
+    {
+        "name": "Movistar",
+        "image": "https://i.ibb.co/Nn2YtQG/logo-category-Movistar.png",
+        "url": "https://www.movistarplus.es/guiamovil",
+        "embed": "true"
+    }, {
+        "name": "DAZN",
+        "image": "https://i.ibb.co/NWLCj63/DAZN-Logo.png",
+        "url": "https://www.dazn.com/es-ES/schedule",
+        "embed": "true"
+    }, {
+        "name": "Champions League",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTZ1xlIjCHXkMYFRD8AHD1xxk-y6dylFMR2_lD0wuNsmqhUzFE2SgOnFrcDJbAcU_Z9aDM64zyo1vQ3Zrdsa8I8yoz9Vwg0_s-9SNqXo76-HezJzRX3EXzGqykbGH5dCKN-S8LG_3tV0BdmhUU59RROfDIeECOMCi4eDvjZJ6F_oDrZes9kJ693dgcpv3H/w655-h368/logo-Champions.png",
+        "url": "https://www.futboltv.info/competicion/champions-league",
+        "embed": "true"
+    }, {
+        "name": "Champions League",
+        "info": "Femenina",
+        "image": "https://i.ibb.co/QXw2WyV/Logo-UWCL.jpg",
+        "url": "https://www.futboltv.info/competicion/womens-champions-league",
+        "embed": "true"
+    }, {
+        "name": "Europa League",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXlGSmC0a-TYiwryz5v5PD0MvbJQXttRq37v4Z90-LWQ4z_hID8XurcHS229S-imaZ-uothf200JPGvKYBMEMmwr4VrP1XaZKREZ0H0CrM97kb4TkDlg9kg3HVSRtwRTSEcEUkNgvhF4bPGtSiDvoeQEBwelWtABlWJbn28-WfC-wkEQaxJjyaB-zTiyhf/w651-h433/logo-Europa.png",
+        "url": "https://www.futboltv.info/competicion/europa-league",
+        "embed": "true"
+    }, {
+        "name": "Conference League",
+        "image": "https://i.ibb.co/C5tGNvj/logo-Conference-League.webp",
+        "url": "https://www.futboltv.info/competicion/europa-conference-league",
+        "embed": "true"
+    }, {
+        "name": "Supercopa de España",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7uoFnPOMbyQARdAflh-6LyFyr5U8Y2DtIB51z8ZaQjxI1UIY19YI7q_hfd2IPOjmpgWXmARusL82NY4YI3pWfNH4ZpAx9IIzJvx-kehqhgoIM1vOXDsv763DTzTjRHJ-oPN4AAv2sVKDBjZgp4I6bzFzn6hhLBYcxWMkWrBWDsXCxemVmg5Yg5CKsJLYl/w375-h466/SupercopaEspa%C3%B1aM-Logo.png",
+        "url": "https://www.futbolenlatv.es/competicion/supercopa-espana",
+        "embed": "true"
+    }, {
+        "name": "Supercopa de España F",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2STZcnf0V__djIxp_hNp1O-gb89O5_FiqI6QEIGMCkWKqAepk0hvpjd7vCM-xTQp1cc6Ak_UAQKwJMPIh8KLkqGInq8I3ZS0qzNiME5P3j3f5iCEsEa90wrKxtqdCmI7B49xMvNWst_uu_C0ILPmEaFEUfDhrLbP6DgXFffozfvlfjbpKP019-oOFYWTC/w387-h473/SupercopaEspa%C3%B1aF-Logo.png",
+        "url": "https://www.futbolenlatv.es/competicion/supercopa-espana-femenina",
+        "embed": "true"
+    }, {
+        "name": "Copa del Rey",
+        "image": "https://img2.rtve.es/i/?w=1600&i=1704452073904.jpg",
+        "url": "https://www.futbolenlatv.es/competicion/copa-del-rey",
+        "embed": "true"
+    }, {
+        "name": "Copa de la reina",
+        "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/02/03/16754225903937.jpg",
+        "url": "https://www.futbolenlatv.es/competicion/copa-de-la-reina",
+        "embed": "true"
+    }, {
+        "name": "LaLiga",
+        "image": "https://i.ibb.co/3NCs0m4/LaLigaEA.png",
+        "url": "https://www.futboltv.info/competicion/laliga",
+        "embed": "true"
+    }, {
+        "name": "Liga F",
+        "image": "https://seeklogo.com/images/L/liga-f-logo-4C3DE0839C-seeklogo.com.png",
+        "url": "https://www.futbolenlatv.es/competicion/superliga-femenina",
+        "embed": "true"
+    }, {
+        "name": "Liga Hypermotion",
+        "image": "https://i.ibb.co/zZpZy4S/Liga-Hypermotion.png",
+        "url": "https://www.futboltv.info/competicion/laliga2",
+        "embed": "true"
+    }, {
+        "name": "EFL Cup",
+        "image": "https://images.daznservices.com/di/library/DAZN_News/25/28/efl-cup-2023_1naan5p0e7zrs16r0nhv3e1199.png?t=-2084012116",
+        "url": "https://www.futbolenlatv.es/competicion/football-league-cup",
+        "embed": "true"
+    }, {
+        "name": "Premier League",
+        "image": "https://i.ibb.co/bvcpXFG/logo-Premier-League.png",
+        "url": "https://www.futbolenlatv.es/competicion/premier-league",
+        "embed": "true"
+    }, {
+        "name": "Bundesliga",
+        "image": "https://i.ibb.co/7yYKf2N/logo-Bundesliga.png",
+        "url": "https://www.futbolenlatv.es/competicion/bundesliga",
+        "embed": "true"
+    }, {
+        "name": "Supercoppa Italia",
+        "image": "https://media-assets.wired.it/photos/63c7f3d05e4f0f08fb7ac208/16:9/w_2560%2Cc_limit/1457058625",
+        "url": "https://www.futbolenlatv.es/competicion/supercopa-italia",
+        "embed": "true"
+    }, {
+        "name": "Coppa Italia",
+        "image": "https://cdn1-production-images-kly.akamaized.net/hZqYuMG1xn5lWdwE_dRVNF80QKQ=/1x177:1080x785/1200x675/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4673701/original/012652800_1701689515-Ilustrasi_Coppa_Italia_-_Bola.com_Salsa_Dwi_Novita.jpg",
+        "url": "https://www.futbolenlatv.es/competicion/copa-de-italia",
+        "embed": "true"
+    }, {
+        "name": "Serie A",
+        "image": "https://i.ibb.co/tZWJz6T/logo-Serie-A.png",
+        "url": "https://www.futbolenlatv.es/competicion/calcio-serie-a",
+        "embed": "true"
+    }, {
+        "name": "Ligue 1",
+        "image": "https://i.ibb.co/SPQCpbZ/Ligue1-logo.png",
+        "url": "https://www.futbolenlatv.es/competicion/ligue-1",
+        "embed": "true"
+    }, {
+        "name": "NBA",
+        "image": "https://i.ibb.co/ysP3vZt/logo-category-NBA.png",
+        "url": "https://www.futbolenlatv.es/deporte/baloncesto/competicion/nba",
+        "embed": "true"
+    }, {
+        "name": "Liga Endesa",
+        "image": "https://as01.epimg.net/baloncesto/imagenes/2017/07/25/acb/1501004759_569854_1501004993_noticia_normal.jpg",
+        "url": "https://www.futbolenlatv.es/deporte/baloncesto/competicion/liga-endesa",
+        "embed": "true"
+    }, {
+        "name": "F1",
+        "image": "https://i.ibb.co/sWgvCCK/logo-f1-fix.png",
+        "url": "https://www.marca.com/motor/formula1/calendario.html",
+        "embed": "true"
+    }, {
+        "name": "MotoGP",
+        "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
+        "url": "https://www.marca.com/motor/motogp/calendario.html",
+        "embed": "true"
+    }, {
+        "name": "Tenis",
+        "image": "https://i.ibb.co/2hzzxFG/logo-Tenis.png",
+        "url": "https://www.futbolenlatv.es/deporte/tenis",
+        "embed": "true"
+    }, {
+        "name": "UFC",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnVqFaYDUDqXGWIgRjCm5_A3LBERIGSQ4rJAsgs0_QGPMDlQVc7P96XwdAHkf7Ggas08GoLAisVy_1iLiRWJXO4M_KVuimVvgnnK1jgSY9qKbDgT4FKcyJ88KFEIJlCZno_VvC-78yMx9wOepccMbgGjMHDL6OsDwVBnUmEmL5ywiEwfFKxPGLTRapzjmo/w664-h226/logo_ufc.png",
+        "url": "https://www.ufcespanol.com/events",
+        "embed": "true"
+    }, {
+        "name": "Béisbol",
+        "image": "https://logos-marcas.com/wp-content/uploads/2021/09/MLB-Logo.png",
+        "url": "https://www.futbolenlatv.es/deporte/beisbol/competicion/major-league-baseball",
+        "embed": "true"
+    }, {
+        "name": "Rugby",
+        "image": "https://i.ibb.co/1Ggb57C/logo-NFL.png",
+        "url": "https://www.futbolenlatv.es/deporte/futbol-americano",
+        "embed": "true"
+    }, {
+        "name": "Hockey",
+        "image": "https://i.ibb.co/868xpk5/logo-NHL.png",
+        "url": "https://www.futbolenlatv.es/deporte/hockey/competicion/national-hockey-league",
+        "embed": "true"
+    }, {
+        "name": "Sport•TV",
+        "image": "https://i.ibb.co/gTcYR5b/logo-Sport-TV.png",
+        "url": "https://www.sporttv.pt/guia",
+        "embed": "true"
+    }, {
+        "name": "ESPN Deportes",
+        "image": "https://i.ibb.co/k0PSxsf/logo-ESPNd.png",
+        "url": "https://www.gatotv.com/canal/espn_deportes",
+        "embed": "true"
+    }, {
+        "name": "Toros",
+        "image": "https://www.mundotoro.com/wp-content/uploads/2023/12/image00023.jpeg",
+        "url": "https://elmuletazo.com/agenda-de-toros-en-television",
+        "embed": "true"
+        }]
+    },
 
 	{
 		"name": "Zona Ace",
@@ -3424,9 +3592,10 @@
 				   	"isHost":"true"
 			   }, {
 				   "name": "Canal 6",
+				   "info": "clap-71 | tvf",
 				   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhC_ZrjTAL_zi61ZUD-aRw18x_XEiKBS-sH5X1EihR_oZ43LsvApOPfWnvjAXfkxh2h_i8W7RNDfU4t42vQskD-fBjP25sBpJKo1fLEAkT4hliVrOVA3HQewEBFLGb3ntMTj2KTu63u4yzFBJUj92xyBfh9Ka9vQPMsZJaAtrJfWS8Nzr34pf9QtJj7CyY/w589-h212/logo_vamos.png",
-				   "url" : "https://utopianwilderness.com/embed/bfrdpjjztqnm67m",
-				   "referer" : "https://starlive.xyz/",
+				   "url" : "https://claplivehdplay.ru/embedlc.php?id=71",
+				   "referer" : "https://tvfutbol.info/",
 				   "isHost":"true"
 			   }, {
 				   "name": "Canal 7",
@@ -3495,43 +3664,44 @@
 				"isHost":"true"
 			 }, {
 				"name": "Canal 4",
-				"info": "exer-lbr3 | leet365",
+				"info": "embx",
 				"image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
-				"url": "https://exerciseexercise.net/embed/lbr3etluqsw",
-				"referer": "https://leet365.cc/",
-				 "isHost": "true"
+				"url" : "https://embx220637.apl323.me//player/live.php?id=220637&w=100%&h=100%",  
+			 	"isHost":"true"
 			}, {
 				"name": "Canal 5",
-				"info": "datzi6",
+				"info": "clap-64 | tvf",
 				"image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
-				"url": "https://utopianwilderness.com/embed/datzi6",
-				  "referer" : "https://starlive.xyz/",
+				"url" : "https://claplivehdplay.ru/embedlc.php?id=64",
+              			"referer" : "https://tvfutbol.info/",
 				"isHost" : "true"
 				 }, {
 				"name": "Canal 6",
-				"info": "exer-lbr3 | macron",
+				"info": "godzcast",
 				"image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
-				"url": "https://exerciseexercise.net/embed/lbr3etluqsw",
-				"referer": "https://macron.xyz/",
-				 "isHost": "true"
+				"url" : "https://godzcast.com/embed.php?player=desktop&live=do64",
+		        	"referer": "https://zvision.link/",
+				"isHost": "true"
 			}, {
 				"name": "Canal 7",
+				"info": "godzcast",
 				"image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
-				 "url": "https://kepa.pw/abed.php?file=ligadecampeonesbahia",
-				"referer": "https://bahiadeportes.com/",
+				"url" : "https://godzcast.com/embed.php?player=desktop&live=do65",
+		        	"referer": "https://zvision.link/",
 				"isHost" : "true"
 			 }, {
 				"name": "Canal 8",
-				"info": "exer-lbr3 | leet365",
+				"info": "clap-81 | prf",
 				"image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
-				"url": "https://exerciseexercise.net/embed/lbr3etluqsw",
-				"referer": "https://leet365.cc/",
-				 "isHost": "true"
+				"url" : "https://claplivehdplay.ru/embedlc.php?id=65",
+                     		"referer" : "https://primefoot.ru/",
+				"isHost": "true"
 			}, {
 				"name": "Canal 9",
+				"info": "clap-66 | prf",
 				"image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
-				 "url": "https://utopianwilderness.com/embed/ktpqv1iq2",
-				  "referer" : "https://starlive.xyz/",
+				"url" : "https://claplivehdplay.ru/embedlc.php?id=66",
+                     		"referer" : "https://primefoot.ru/",
 				"isHost" : "true"
 						}, {
 				"name": "Canal 10",
@@ -3644,9 +3814,11 @@
 							 "isHost": "true"  
 			  			}, {
 							"name": "Canal 27",
+							"info": "hd6-php",
 							"image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
-							"url":"https://daddy.yurendtv.biz.id/https://ddy6.onlinewebtv.lol:443/ddy6/premium435/tracks-v1a1/mono.m3u8",
-							"userAgent" : ""
+							"url" :  "https://sportsonline.sx/channels/hd/hd6.php",
+							"referer" : "https://channels-1op.pages.dev/",
+			 				"isHost":"true"
 		 				}, {
 							"name": "Canal 28",
 							"image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
@@ -3705,7 +3877,8 @@
 		 	}, {
 				"name": "Canal 1",
 				"image": "https://i.ibb.co/4NvkCVR/logo-deportes.png",
-				"url": "https://mylivestream.pro/aliez.php?stream=PKwNPB3pqX3C",
+				"url" :  "https://mylivestream.pro/aliez.php?stream=PKwNPB3pqX3C",
+             			"referer" : "https://aliezstream.pro/",
                 		"isHost":"true"
 		  	}, {  
 				"name": "Canal 2",
@@ -3734,9 +3907,17 @@
 			 	"isHost":"true"
 			 }, {
 			   	"name": "Canal 6",
-			   	"info": "php",
+			   	"info": "",
 			   	"image": "https://i.ibb.co/4NvkCVR/logo-deportes.png",
-			   	"url":"https://sportskart.click/embed/stream-436.php",
+			   	"url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed67",
+		        	"referer": "https://primefoot.ru/",
+			   	"isHost" : "true"
+			}, {
+			   	"name": "Canal 7",
+			   	"info": "clap-67 | tvf",
+			   	"image": "https://i.ibb.co/4NvkCVR/logo-deportes.png",
+			   	"url" : "https://claplivehdplay.ru/embedlc.php?id=67",
+				"referer" : "https://tvfutbol.info/",
 			   	"isHost" : "true"
 			}, {
 			"name": "Canal 1",
@@ -3776,6 +3957,34 @@
 				"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar_Deportes_2.svg/2070px-Movistar_Deportes_2.svg.png",
 				"url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=527",
               			"referer" : "https://dlhd.sx/",
+				"isHost":"true"
+			 }, {
+				"name": "Canal 7",
+				"info": "clap-68 | tvf",
+				"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar_Deportes_2.svg/2070px-Movistar_Deportes_2.svg.png",
+				"url" : "https://claplivehdplay.ru/embedlc.php?id=68",
+              			"referer" : "https://tvfutbol.info/",
+				"isHost":"true"
+			 }, {
+				"name": "Canal 8",
+				"info": "clap-69 | tvf",
+				"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar_Deportes_2.svg/2070px-Movistar_Deportes_2.svg.png",
+				"url" : "https://claplivehdplay.ru/embedlc.php?id=69",
+              			"referer" : "https://tvfutbol.info/",
+				"isHost":"true"
+			 }, {
+				"name": "Canal 9",
+				"info": "clap-70 | tvf",
+				"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar_Deportes_2.svg/2070px-Movistar_Deportes_2.svg.png",
+				"url" : "https://claplivehdplay.ru/embedlc.php?id=70",
+              			"referer" : "https://tvfutbol.info/",
+				"isHost":"true"
+			 }, {
+				"name": "Canal 10",
+				"info": "hocast4",
+				"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar_Deportes_2.svg/2070px-Movistar_Deportes_2.svg.png",
+				"url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed69",
+		        	"referer": "https://primefoot.ru/",
 				"isHost":"true"
 			 }, {
 				"name": "Canal 1",
@@ -4011,10 +4220,10 @@
 			 "isHost": "true"
 		  }, {
 			"name": "Canal 8",
-			"info": "clap-82 | prf",
+			"info": "clap-82 | tvf",
 			"image": "https://i.ibb.co/vhNCnrq/DAZN-2-Logo-Sin-Fondo.webp",
 			"url": "https://claplivehdplay.ru/embedlc.php?id=82",
-			"referer": "https://primefoot.ru/",
+			"referer": "https://tvfutbol.info/",
 			"isHost": "true"
 			}, {
 			"name": "Canal 9",
@@ -4188,9 +4397,8 @@
 	 }, {
 		"name": "Canal 1",
 		"image": "https://i.ibb.co/Ntcj66Q/logo-es1.webp",
-	 	"url": "https://lovesomecommunity.com/embedcr.php?player=desktop&live=3U27L",
-	 	"referer" : "https://www.freeshot.live/",
-		"isHost": "true"
+	 	"url" : "https://love2live.wideiptv.top/EURO1ES/index.fmp4.m3u8?token=430c460fe4b6b5489ca5f5e62f04668b4f2a1400-b294dd53be2eed6b2adb4cbedc510d02-1712612562-1712601762",
+	 	"userAgent":""
 	}, {
 		"name": "Canal 2",
 		"info": "ip | 185.188",
@@ -4217,10 +4425,10 @@
 		"userAgent": ""
 	}, {
 		"name": "Canal 2",
-		"info": "ip | 185.188",
+		"info": "",
 		"image": "https://i.ibb.co/HLcq8Cj/logo-es2.webp",
-	   	"url":"http://185.188.188.235/live/eurosport2/playlist.m3u8",
-	   	"userAgent" : ""
+	   	"url" : "https://love2live.wideiptv.top/EURO2ES/index.fmp4.m3u8?token=5c88715c709aa28ae0ff017e6066d620f2505720-2eaf1faff0f50bc98e037488343c8995-1712612562-1712601762",
+		"userAgent":""
 	}, {
 		"name": "Canal 3",
 		"image": "https://i.ibb.co/HLcq8Cj/logo-es2.webp",
@@ -4322,9 +4530,10 @@
 				"isHost": "true"
 			}, {
 				"name": "Canal 5",
-				"info": "pinkhorses",
+				"info": "clap-80 | tvf",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				"url": "https://pinkhorses.xyz/player/0bda1fae147b6b8b-29bafe6b6febee6d7b04b919fc5436ea",
+				"url" : "https://claplivehdplay.ru/embedlc.php?id=80",
+                     		"referer" : "https://tvfutbol.info/",
 				"isHost" : "true"
 			 }, {
 				"name": "Canal 6",
@@ -4334,11 +4543,11 @@
 				"userAgent":"" 
 			}, {
 				"name": "Canal 7",
-				"info": "fhc0c",
+				"info": "clap-81 | tvf",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				"url": "https://utopianwilderness.com/embed/fhc0cutcd",
-				"referer" : "https://starlive.xyz/",
-				 "isHost": "true"
+				"url" : "https://claplivehdplay.ru/embedlc.php?id=81",
+              			"referer" : "https://tvfutbol.info/",
+				"isHost": "true"
 			  }, {
 					"name": "Canal 8",
 					"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
@@ -4449,11 +4658,11 @@
 				"isHost":"true"
 			}, {
 				"name": "Canal 26",
-				"info": "hocast4",
+				"info": "clap-60 | tvf",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				"url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed60",
-                   		"referer" : "https://primefoot.ru/",
-			 	"isHost":"true"
+				"url" : "https://claplivehdplay.ru/embedlc.php?id=60",
+                     		"referer" : "https://tvfutbol.info/",
+				"isHost":"true"
 			}, {
 				"name": "Canal 27",
 				"info": "php",
@@ -4783,6 +4992,12 @@
 				"url": "https://windroses.live/man/gen.php?playerid=004",
                   		"referer": "https://fastreams.com/",
 				"isHost": "true"
+		  	}, {
+				"name": "Canal 80",
+				"image": "https://i.ibb.co/VQpLvTb/logo-channels-ESPN.jpg",
+				"url" :  "https://windroses.live/man/gen.php?playerid=004",
+				"referer" : "https://fastreams.com/",
+			 	"isHost":"true"
 		  	}]
 		}, {
 				"name": "Liga Hypermotion",
@@ -4811,15 +5026,17 @@
            				"isHost" : "true"
 					   }, {
 					"name": "Canal 4",
-					"info": "star1",
+					"info": "clap-61 | tvf",
 					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
-					"url": "https://new.star1.live/gdfhdghfgj8hndgh",
+					"url" : "https://claplivehdplay.ru/embedlc.php?id=61",
+              				"referer" : "https://tvfutbol.info/",
 					"isHost": "true"
 						}, {
 					"name": "Canal 5",
+					"info": "clap-62 | tvf",
 					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
-					"url" : "https://vikistream.com/embed/p7uf4et6n5s8o0",
-			 		"referer": "https://l1l1.to/",
+					"url" : "https://claplivehdplay.ru/embedlc.php?id=62",
+              				"referer" : "https://tvfutbol.info/",
 					 "isHost": "true"
 					  }, {
 					"name": "Canal 6",
@@ -4855,7 +5072,7 @@
 				}, {
 					"name": "Canal 11",
 					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
-					"url" : "https://godzcast.com/embed.php?player=desktop&live=do21",
+					"url" : "https://godzcast.com/embed.php?player=desktop&live=do22",
               				"referer": "https://zvision.link/",
            				"isHost" : "true"
 				}, {
@@ -4962,6 +5179,133 @@
 						"isHost":"true"
 				}]
                       }, {
+                        "name": "1ª RFEF",
+                       "image": "https://www.estadiodeportivo.com/imagenes/5568c439-195a-42bc-8f03-b5224f8e89b3_1200x680.png",
+                       "info": "",
+                   "stations": [
+            
+                    {
+                        "name": "Canal 1",
+                        "info": "Android",
+                        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWH7FWc8lx9fQwWC5DA6VV9B0wcXs4QCWDnk6iXbWyRhD0uyDkMj9eQAoAwetyj4_pmGvIdg98zTtdd5CRKwscbq2mq6l70Cw_6jiklGjqUkQ4ZzxeoThTFkU6KcFNdFiP-bEbrbLGzInCZ4VxZLq3WdMFHyuEda_64c0UgQ10vHoXEZzfJZxvRQTCeuqD/w663-h322/logo_FEFTV.png",
+                        "url":"http://42124376401595391.of1030ok.xyz:80/play/vi97535/gnJryy3U9t/595391.ts",
+                        "userAgent" : ""
+                     }, {
+                        "name": "Canal 2",
+                        "info": "Android",
+                           "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWH7FWc8lx9fQwWC5DA6VV9B0wcXs4QCWDnk6iXbWyRhD0uyDkMj9eQAoAwetyj4_pmGvIdg98zTtdd5CRKwscbq2mq6l70Cw_6jiklGjqUkQ4ZzxeoThTFkU6KcFNdFiP-bEbrbLGzInCZ4VxZLq3WdMFHyuEda_64c0UgQ10vHoXEZzfJZxvRQTCeuqD/w663-h322/logo_FEFTV.png",
+                        "url":"http://42124376401595392.of1030ok.xyz:80/play/vi97535/gnJryy3U9t/595392.ts",
+                           "userAgent" : ""
+                     }, {
+                        "name": "Canal 3",
+                        "info": "Android",
+                           "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWH7FWc8lx9fQwWC5DA6VV9B0wcXs4QCWDnk6iXbWyRhD0uyDkMj9eQAoAwetyj4_pmGvIdg98zTtdd5CRKwscbq2mq6l70Cw_6jiklGjqUkQ4ZzxeoThTFkU6KcFNdFiP-bEbrbLGzInCZ4VxZLq3WdMFHyuEda_64c0UgQ10vHoXEZzfJZxvRQTCeuqD/w663-h322/logo_FEFTV.png",
+                        "url":"http://42124376401595393.of1030ok.xyz:80/play/vi97535/gnJryy3U9t/595393.ts",
+                           "userAgent" : ""
+                     }, {
+                        "name": "Canal 4",
+                        "info": "Android",
+                           "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWH7FWc8lx9fQwWC5DA6VV9B0wcXs4QCWDnk6iXbWyRhD0uyDkMj9eQAoAwetyj4_pmGvIdg98zTtdd5CRKwscbq2mq6l70Cw_6jiklGjqUkQ4ZzxeoThTFkU6KcFNdFiP-bEbrbLGzInCZ4VxZLq3WdMFHyuEda_64c0UgQ10vHoXEZzfJZxvRQTCeuqD/w663-h322/logo_FEFTV.png",
+                        "url":"http://42124376401595394.of1030ok.xyz:80/play/vi97535/gnJryy3U9t/595394.ts",
+                           "userAgent" : ""
+                     }, {
+                        "name": "Canal 5",
+                        "info": "Android",
+                           "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWH7FWc8lx9fQwWC5DA6VV9B0wcXs4QCWDnk6iXbWyRhD0uyDkMj9eQAoAwetyj4_pmGvIdg98zTtdd5CRKwscbq2mq6l70Cw_6jiklGjqUkQ4ZzxeoThTFkU6KcFNdFiP-bEbrbLGzInCZ4VxZLq3WdMFHyuEda_64c0UgQ10vHoXEZzfJZxvRQTCeuqD/w663-h322/logo_FEFTV.png",
+                        "url":"http://42124376401595395.of1030ok.xyz:80/play/vi97535/gnJryy3U9t/595395.ts",
+                           "userAgent" : ""
+                     }, {
+                        "name": "Canal 6",
+                        "info": "Android",
+                        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWH7FWc8lx9fQwWC5DA6VV9B0wcXs4QCWDnk6iXbWyRhD0uyDkMj9eQAoAwetyj4_pmGvIdg98zTtdd5CRKwscbq2mq6l70Cw_6jiklGjqUkQ4ZzxeoThTFkU6KcFNdFiP-bEbrbLGzInCZ4VxZLq3WdMFHyuEda_64c0UgQ10vHoXEZzfJZxvRQTCeuqD/w663-h322/logo_FEFTV.png",
+                        "url":"http://42124376401595396.of1030ok.xyz:80/play/vi97535/gnJryy3U9t/595396.ts",
+                        "userAgent" : ""
+                     }, {
+                        "name": "Canal 7",
+                        "info": "Android",
+                        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWH7FWc8lx9fQwWC5DA6VV9B0wcXs4QCWDnk6iXbWyRhD0uyDkMj9eQAoAwetyj4_pmGvIdg98zTtdd5CRKwscbq2mq6l70Cw_6jiklGjqUkQ4ZzxeoThTFkU6KcFNdFiP-bEbrbLGzInCZ4VxZLq3WdMFHyuEda_64c0UgQ10vHoXEZzfJZxvRQTCeuqD/w663-h322/logo_FEFTV.png",
+                        "url":"http://42124376401595397.of1030ok.xyz:80/play/vi97535/gnJryy3U9t/595397.ts",
+                        "userAgent" : ""
+                     }, {
+                        "name": "Canal 8",
+                        "info": "Android",
+                        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWH7FWc8lx9fQwWC5DA6VV9B0wcXs4QCWDnk6iXbWyRhD0uyDkMj9eQAoAwetyj4_pmGvIdg98zTtdd5CRKwscbq2mq6l70Cw_6jiklGjqUkQ4ZzxeoThTFkU6KcFNdFiP-bEbrbLGzInCZ4VxZLq3WdMFHyuEda_64c0UgQ10vHoXEZzfJZxvRQTCeuqD/w663-h322/logo_FEFTV.png",
+                        "url":"http://42124376401595398.of1030ok.xyz:80/play/vi97535/gnJryy3U9t/595398.ts",
+                        "userAgent" : ""
+                     }, {
+                        "name": "Canal 9",
+                        "info": "Android",
+                        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWH7FWc8lx9fQwWC5DA6VV9B0wcXs4QCWDnk6iXbWyRhD0uyDkMj9eQAoAwetyj4_pmGvIdg98zTtdd5CRKwscbq2mq6l70Cw_6jiklGjqUkQ4ZzxeoThTFkU6KcFNdFiP-bEbrbLGzInCZ4VxZLq3WdMFHyuEda_64c0UgQ10vHoXEZzfJZxvRQTCeuqD/w663-h322/logo_FEFTV.png",
+                        "url":"http://42124376401595399.of1030ok.xyz:80/play/vi97535/gnJryy3U9t/595399.ts",
+                        "userAgent" : ""
+                     }, {
+                        "name": "Canal 10",
+                        "info": "Android",
+                        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWH7FWc8lx9fQwWC5DA6VV9B0wcXs4QCWDnk6iXbWyRhD0uyDkMj9eQAoAwetyj4_pmGvIdg98zTtdd5CRKwscbq2mq6l70Cw_6jiklGjqUkQ4ZzxeoThTFkU6KcFNdFiP-bEbrbLGzInCZ4VxZLq3WdMFHyuEda_64c0UgQ10vHoXEZzfJZxvRQTCeuqD/w663-h322/logo_FEFTV.png",
+                        "url":"http://42124376401595400.of1030ok.xyz:80/play/vi97535/gnJryy3U9t/595400.ts",
+                        "userAgent" : ""
+                     }, {
+                        "name": "Canal 11",
+                        "info": "Android",
+                        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWH7FWc8lx9fQwWC5DA6VV9B0wcXs4QCWDnk6iXbWyRhD0uyDkMj9eQAoAwetyj4_pmGvIdg98zTtdd5CRKwscbq2mq6l70Cw_6jiklGjqUkQ4ZzxeoThTFkU6KcFNdFiP-bEbrbLGzInCZ4VxZLq3WdMFHyuEda_64c0UgQ10vHoXEZzfJZxvRQTCeuqD/w663-h322/logo_FEFTV.png",
+                        "url":"http://42124376401595401.of1030ok.xyz:80/play/vi97535/gnJryy3U9t/595401.ts",
+                        "userAgent" : ""
+                     }, {
+                        "name": "Canal 12",
+                        "info": "Android",
+                        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWH7FWc8lx9fQwWC5DA6VV9B0wcXs4QCWDnk6iXbWyRhD0uyDkMj9eQAoAwetyj4_pmGvIdg98zTtdd5CRKwscbq2mq6l70Cw_6jiklGjqUkQ4ZzxeoThTFkU6KcFNdFiP-bEbrbLGzInCZ4VxZLq3WdMFHyuEda_64c0UgQ10vHoXEZzfJZxvRQTCeuqD/w663-h322/logo_FEFTV.png",
+                        "url":"http://42124376401595402.of1030ok.xyz:80/play/vi97535/gnJryy3U9t/595402.ts",
+                        "userAgent" : ""
+                     }, {
+                        "name": "Canal 13",
+                        "info": "Android",
+                        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWH7FWc8lx9fQwWC5DA6VV9B0wcXs4QCWDnk6iXbWyRhD0uyDkMj9eQAoAwetyj4_pmGvIdg98zTtdd5CRKwscbq2mq6l70Cw_6jiklGjqUkQ4ZzxeoThTFkU6KcFNdFiP-bEbrbLGzInCZ4VxZLq3WdMFHyuEda_64c0UgQ10vHoXEZzfJZxvRQTCeuqD/w663-h322/logo_FEFTV.png",
+                        "url":"http://42124376401595403.of1030ok.xyz:80/play/vi97535/gnJryy3U9t/595403.ts",
+                        "userAgent" : ""
+                     }, {
+                        "name": "Canal 14",
+                        "info": "Android",
+                        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWH7FWc8lx9fQwWC5DA6VV9B0wcXs4QCWDnk6iXbWyRhD0uyDkMj9eQAoAwetyj4_pmGvIdg98zTtdd5CRKwscbq2mq6l70Cw_6jiklGjqUkQ4ZzxeoThTFkU6KcFNdFiP-bEbrbLGzInCZ4VxZLq3WdMFHyuEda_64c0UgQ10vHoXEZzfJZxvRQTCeuqD/w663-h322/logo_FEFTV.png",
+                        "url":"http://42124376401595404.of1030ok.xyz:80/play/vi97535/gnJryy3U9t/595404.ts",
+                        "userAgent" : ""
+                     }, {
+                        "name": "Canal 15",
+                        "info": "Android",
+                        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWH7FWc8lx9fQwWC5DA6VV9B0wcXs4QCWDnk6iXbWyRhD0uyDkMj9eQAoAwetyj4_pmGvIdg98zTtdd5CRKwscbq2mq6l70Cw_6jiklGjqUkQ4ZzxeoThTFkU6KcFNdFiP-bEbrbLGzInCZ4VxZLq3WdMFHyuEda_64c0UgQ10vHoXEZzfJZxvRQTCeuqD/w663-h322/logo_FEFTV.png",
+                        "url":"http://42124376401595405.of1030ok.xyz:80/play/vi97535/gnJryy3U9t/595405.ts",
+                        "userAgent" : ""
+                     }, {
+                        "name": "Canal 16",
+                        "info": "Android",
+                        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWH7FWc8lx9fQwWC5DA6VV9B0wcXs4QCWDnk6iXbWyRhD0uyDkMj9eQAoAwetyj4_pmGvIdg98zTtdd5CRKwscbq2mq6l70Cw_6jiklGjqUkQ4ZzxeoThTFkU6KcFNdFiP-bEbrbLGzInCZ4VxZLq3WdMFHyuEda_64c0UgQ10vHoXEZzfJZxvRQTCeuqD/w663-h322/logo_FEFTV.png",
+                        "url":"http://42124376401595406.of1030ok.xyz:80/play/vi97535/gnJryy3U9t/595406.ts",
+                        "userAgent" : ""
+                     }, {
+                        "name": "Canal 17",
+                        "info": "Android",
+                        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWH7FWc8lx9fQwWC5DA6VV9B0wcXs4QCWDnk6iXbWyRhD0uyDkMj9eQAoAwetyj4_pmGvIdg98zTtdd5CRKwscbq2mq6l70Cw_6jiklGjqUkQ4ZzxeoThTFkU6KcFNdFiP-bEbrbLGzInCZ4VxZLq3WdMFHyuEda_64c0UgQ10vHoXEZzfJZxvRQTCeuqD/w663-h322/logo_FEFTV.png",
+                        "url":"http://42124376401595407.of1030ok.xyz:80/play/vi97535/gnJryy3U9t/595407.ts",
+                        "userAgent" : ""
+                     }, {
+                        "name": "Canal 18",
+                        "info": "Android",
+                        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWH7FWc8lx9fQwWC5DA6VV9B0wcXs4QCWDnk6iXbWyRhD0uyDkMj9eQAoAwetyj4_pmGvIdg98zTtdd5CRKwscbq2mq6l70Cw_6jiklGjqUkQ4ZzxeoThTFkU6KcFNdFiP-bEbrbLGzInCZ4VxZLq3WdMFHyuEda_64c0UgQ10vHoXEZzfJZxvRQTCeuqD/w663-h322/logo_FEFTV.png",
+                        "url":"http://42124376401595408.of1030ok.xyz:80/play/vi97535/gnJryy3U9t/595408.ts",
+                        "userAgent" : ""
+                     }, {
+                        "name": "Canal 19",
+                        "info": "Android",
+                        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWH7FWc8lx9fQwWC5DA6VV9B0wcXs4QCWDnk6iXbWyRhD0uyDkMj9eQAoAwetyj4_pmGvIdg98zTtdd5CRKwscbq2mq6l70Cw_6jiklGjqUkQ4ZzxeoThTFkU6KcFNdFiP-bEbrbLGzInCZ4VxZLq3WdMFHyuEda_64c0UgQ10vHoXEZzfJZxvRQTCeuqD/w663-h322/logo_FEFTV.png",
+                        "url":"http://42124376401595409.of1030ok.xyz:80/play/vi97535/gnJryy3U9t/595409.ts",
+                        "userAgent" : ""
+                     }, {
+                        "name": "Canal 20",
+                        "info": "Android",
+                        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWH7FWc8lx9fQwWC5DA6VV9B0wcXs4QCWDnk6iXbWyRhD0uyDkMj9eQAoAwetyj4_pmGvIdg98zTtdd5CRKwscbq2mq6l70Cw_6jiklGjqUkQ4ZzxeoThTFkU6KcFNdFiP-bEbrbLGzInCZ4VxZLq3WdMFHyuEda_64c0UgQ10vHoXEZzfJZxvRQTCeuqD/w663-h322/logo_FEFTV.png",
+                        "url":"http://42124376401595410.of1030ok.xyz:80/play/vi97535/gnJryy3U9t/595410.ts",
+                        "userAgent" : ""
+                     }]
+               }, {
 						"name": "Premier League",
 						"image": "https://i.ibb.co/bvcpXFG/logo-Premier-League.png",
 						"info": "",
@@ -5196,11 +5540,10 @@
                  					"isHost": "true"
 						  }, {
 							"name": "Canal 3",
-							"info": "null",
+							"info": "php",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-							"url":"",
-							"referer" : "",
-							"isHost" : "false"
+							"url":"https://sportsurge.stream/embed/footy7.php",
+							"isHost" : "true"
 						 }, {
 							"name": "Canal 4",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
@@ -5209,21 +5552,23 @@
 							 "isHost": "true"
 						}, {
 							"name": "Canal 5",
+							"info": "clap-02 | tvf",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-							 "url": "https://unbiasedsenseevent.com/embed/kd6w2ucd5c",
-							 "referer" : "https://elixx.xyz/",
+							"url" : "https://claplivehdplay.ru/embedlc.php?id=2",
+              						"referer" : "https://tvfutbol.info/",
 							 "isHost": "true"
 							}, {
 							"name": "Canal 6",
+							"info": "php",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-							"url": "https://unbiasedsenseevent.com/embed/ez3sjcbvjr4",
-							"referer": "https://buzztv.futbol/",
+							"url": "https://sportsurge.stream/embed/footy6.php",
 							 "isHost": "true"
 								}, {
 							"name": "Canal 7",
+							"info": "clap-03 | tvf",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-							"url": "https://unbiasedsenseevent.com/embed/kd6w2ucd5c",
-			 				"referer" : "https://elixx.xyz/",
+							"url" : "https://claplivehdplay.ru/embedlc.php?id=3",
+              						"referer" : "https://tvfutbol.info/",
 							 "isHost": "true"
 							 }, {
 							"name": "Canal 8",
@@ -5498,12 +5843,12 @@
 				"referer": "https://zvision.link/",
 			   	"isHost" : "true" 
 			}, {
-				 "name": "Canal 19",
-				 "info": "null",
+				"name": "Canal 19",
+				"info": "clap-101 | prf",
 			   	"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-			   	"url":"",
-			   	"referer": "",
-			   	"isHost" : "false" 
+			   	"url" : "https://claplivehdplay.ru/embedlc.php?id=101",
+                     		"referer" : "https://primefoot.ru/",
+			   	"isHost" : "true" 
 			}, {
 				"name": "Canal 20",
 				"info": "ouitt",
@@ -5566,6 +5911,12 @@
 			   	"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
 			   	"url": "https://abolishstand.net/embed/7xze4da",
 				"referer": "https://elixx.xyz/",
+			   	"isHost" : "true" 
+			}, {
+				"name": "Canal 29",
+				"info": "php",
+			   	"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
+			   	"url": "https://sportsurge.stream/embed/footy8.php",
 			   	"isHost" : "true" 
 			}]
 		}, {
@@ -5835,8 +6186,10 @@
 			 					"isHost":"true" 
 	 						}, {
 								"name": "Canal 2",
+								"info": "clap-89 | tvf",
 							  	"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-								"url": "https://pinkhorses.xyz/player/0bda1fae147b6b8b-29bafe6b6febee6d7b04b919fc5436ea",
+								"url" : "https://claplivehdplay.ru/embedlc.php?id=89",
+                     						"referer" : "https://primefoot.ru/",
 								"isHost": "true"
 							   }, {
 								"name": "Canal 3",
@@ -6211,6 +6564,12 @@
 								"url": "https://abolishstand.net/embed/dw4k0efjo1w",
                          					"referer" : "https://elixx.xyz/",
              							"isHost": "true"
+							  }, {
+								"name": "Canal 26",
+								"info": "php",
+								"image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
+								"url": "https://sportsurge.stream/embed/motogp.php",
+                         					"isHost": "true"
 							  }]
 						  }, 
 						  
@@ -6953,6 +7312,13 @@
 			"referer" : "https://1stream.buzz/",
                     	"isHost": "true"
 		}, {
+              		"name": "ESPN Extra",
+			"info": "clap-110 | tvf",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/750px-ESPN_Extra_Logo_2022.webp.png",
+			"url" : "https://claplivehdplay.ru/embedlc.php?id=110",
+              		"referer" : "https://tvfutbol.info/",
+                    	"isHost": "true"
+		}, {
               		"name": "Telemundo",
 			"image": "https://i.pinimg.com/originals/c3/b4/1a/c3b41a754ec9d2976d295ff12ac66dec.png",
 			"url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=131",
@@ -7006,9 +7372,11 @@
 			 "isHost":"true"
        	 	}, {
 			"name": "TUDN",
+			"info": "clap-100 | tvf",
 			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCjmWSWbYJIVsFeo1ipw58yFgi80OrnltyZUucnYzhAP-71KYvOW7QeCyO8ITgyfcMzyXVM5Lr3e0ceWoFDNz7o0w_uh0iRuQOA2XzAYK3LT0H9CP2D6AvTlzUFpEcMBVqC0HbmiT7OOErVE0VlVQsEh_-KMjMzIn4UxjZvbxCjkdBqUCS-JZ7CudoV4wz/w590-h129/logo-TUDN.png",
-			"url":"https://linear-357.frequency.stream/dist/vix/357/hls/master/playlist_1024x576.m3u8",
-			"userAgent" : ""
+			"url" : "https://claplivehdplay.ru/embedlc.php?id=100",
+              		"referer" : "https://tvfutbol.info/",
+			"isHost":"true"
 		}, {
 			"name": "TUDN",
 			"info": "php - index",
@@ -7113,30 +7481,60 @@
 			"url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=36",
               		"referer" : "https://dlhd.sx/",
 			"isHost": "true"	 
-              }, {
+              	}, {
               		"name": "Sport TV-1",
 			"image": "https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png",
 		 	"url" :  "https://abolishstand.net/embed/d9xskrhxh8g",
 			"referer" : "https://buzztv.futbol/",
 			 "isHost":"true"
 		}, {
+              		"name": "Sport TV-1",
+			"image": "https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png",
+		 	"url" :  "https://sportsonline.sx/channels/pt/sporttv1.php",
+			"referer" : "https://channels-1op.pages.dev/",
+			"isHost":"true"
+		}, {
              		"name": "Sport TV-2",
 			"image": "https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png",
 			 "url" :  "https://abolishstand.net/embed/hx9ejf",
 			"referer" : "https://buzztv.futbol/",
 			 "isHost":"true"
-          }, {
+          	}, {
+              		"name": "Sport TV-2",
+			"image": "https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png",
+		 	"url" :  "https://sportsonline.sx/channels/pt/sporttv2.php",
+			"referer" : "https://channels-1op.pages.dev/",
+			"isHost":"true"
+		}, {
              		"name": "Sport TV-3",
 			"image": "https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png",
 			 "url" :  "https://abolishstand.net/embed/cii4kw916f3t",
 			"referer" : "https://buzztv.futbol/",
 			 "isHost":"true"
-          }, {
+          	}, {
+              		"name": "Sport TV-3",
+			"image": "https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png",
+		 	"url" :  "https://sportsonline.sx/channels/pt/sporttv3.php",
+			"referer" : "https://channels-1op.pages.dev/",
+			"isHost":"true"
+		}, {
               		"name": "Sport TV-4",
 			"image": "https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png",
-			  "url" :  "https://abolishstand.net/embed/ern2bja2uygn",
+			"url" :  "https://abolishstand.net/embed/ern2bja2uygn",
 			"referer" : "https://buzztv.futbol/",
-			 "isHost":"true"
+			"isHost":"true"
+                }, {
+              		"name": "Sport TV-4",
+			"image": "https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png",
+		 	"url" :  "https://sportsonline.sx/channels/pt/sporttv4.php",
+			"referer" : "https://channels-1op.pages.dev/",
+			"isHost":"true"
+		}, {
+              		"name": "Sport TV-4",
+			"image": "https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png",
+			"url" :  "https://sportsonline.sx/channels/hd/hd10.php",
+			"referer" : "https://channels-1op.pages.dev/",
+			"isHost":"true"
                 }, {
               		"name": "Sport TV-5",
 			"image": "https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png",
@@ -7144,11 +7542,18 @@
 			"referer" : "https://buzztv.futbol/",
 			 "isHost":"true"
                 }, {
-			"name": "Sport TV-6",
-			"info": "Fuera de servicio",
+              		"name": "Sport TV-5",
 			"image": "https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png",
-			"url":"",
-			"userAgent" : ""
+		 	"url" :  "https://sportsonline.sx/channels/pt/sporttv5.php",
+			"referer" : "https://channels-1op.pages.dev/",
+			"isHost":"true"
+		}, {
+			"name": "Sport TV-6",
+			"info": "php",
+			"image": "https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png",
+			"url" :  "https://sportsonline.sx/channels/pt/sporttv6.php",
+			"referer" : "https://channels-1op.pages.dev/",
+			"isHost":"true"
 		 }, {
               		"name": "Fox NFL",
 			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOtuN0gcwQHIxmG5Yi9nsb9xsqnKi8q_Jqzptz_tnloHaah8oxWmsHJp19FgI0akA4AzgHI8aYx1mRnbKoMDU3kekzOr6S3nczPIflUXjt3QsFfRragAayYxW8wsPXFZV-WEybuk_ZhJ7P95NvKdRStSKp2QWLANbVbeLwvpYTsb6vYj8e87fmXMBVtik-/w358-h465/logo-FNFL.png",
@@ -7161,7 +7566,14 @@
 		        "url": "https://abolishstand.net/embed/onfsmh",
                      	"referer": "https://1stream.buzz/",  
 			"isHost":"true"
-				  }, {
+		  }, {
+			"name": "Bein Sport Ñ",
+			"info": "clap-101 | tvf",
+	 		"image": "https://static.wikia.nocookie.net/logosfake/images/3/3a/BeIN_Sports_en_Espa%C3%B1ol.png/revision/latest/scale-to-width-down/2953?cb=20180913094220",
+		        "url" : "https://claplivehdplay.ru/embedlc.php?id=101",
+              		"referer" : "https://tvfutbol.info/",  
+			"isHost":"true"
+		  }, {
 					   "name": "Canal 1",
 				 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/1200px-Logo_bein_sports_1.png",
 			"url": "https://pahaplayers.click/ch/pahe091ch.php",
@@ -7280,7 +7692,7 @@
 						}, {
 						   "name": "Telemadrid",
 						   "image": "https://i.ibb.co/nLx8TJf/telemadrid-logo.png",
-						   "url":"https://telemadrid-23.secure2.footprint.net/master.m3u8",
+						   "url":"https://telemadrid-23-secure2.akamaized.net/master.m3u8",
 						   "userAgent" : ""
 						 }, {
 							"name": "La Otra",
@@ -7462,7 +7874,7 @@
 						   "name": "Canal 9",
 						   "info": "l2l",
 						   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WrLEUL5KARQ5KrZe_LMVBkqvD2-cx2zAEfMbKD2mhXX-B2bzYyT2c8iCrUBHqNGkwwRhRUsTuxuieiuHgTZusfQD064g98dqTb8uQb1wDdesbNkd4q-J2zUHiMAUzPIS_g8iJ7b7dAeeZRev-kaP9A_UpwL5WOJo_R2hnNesAmyNKvzzFM2nwKvITC1W/w625-h103/logo-MundoToro.png",
-						   "url": "https://love2live.wideiptv.top/OneToro/tracks-v1/index.fmp4.m3u8?token=b0d618f996409d51c5a1ba6f650a7b3b44a2f185-c8c5a9788307a5e7da34bb6eb7607ce7-1712005006-1711994206",
+						   "url": "https://love2live.wideiptv.top/OneToro/index.fmp4.m3u8?token=6870b410b4776a1967ecbae5388cc4143dbdd164-45fb522f067a6ba6246e8cef9b86d8f0-1712612537-1712601737",
 						   "userAgent":""
 						}, {
 			 				"name": "CMM",
@@ -7891,6 +8303,22 @@
         									"stations": 
         							 		[
 											{
+            											"name": "GP Japón 2024",
+												"info": "Carrera | DAZN F1",
+            											"image": "https://phantom-marca.unidadeditorial.es/6bd3c98697a5850605a4cee255e8c7a1/resize/828/f/jpg/assets/multimedia/imagenes/2024/04/01/17119538871910.jpg",
+            											"url": "https://bembed.net/v/pVa4E8MpKLyOkzM",
+												"userAgent" : "PlusMediaPlayer/0.0.9",
+												"isHost":"true",
+                										"online":"true"
+            										}, {
+            											"name": "GP Japón 2024",
+												"info": "Qualy | DAZN F1",
+            											"image": "https://phantom-marca.unidadeditorial.es/6bd3c98697a5850605a4cee255e8c7a1/resize/828/f/jpg/assets/multimedia/imagenes/2024/04/01/17119538871910.jpg",
+            											"url": "https://bembed.net/v/LQm9OXNPeDex1lg",
+												"userAgent" : "PlusMediaPlayer/0.0.9",
+												"isHost":"true",
+                										"online":"true"
+            										}, {
             											"name": "GP Australia 2024",
 												"info": "Carrera | DAZN F1",
             											"image": "https://phantom-marca.unidadeditorial.es/3facc21a05267f1e28e4adb0a169d753/resize/828/f/jpg/assets/multimedia/imagenes/2024/03/17/17106683359873.jpg",
@@ -7979,6 +8407,13 @@
         									"stations": 
         								  [
 										{
+                									"name": "UFC Fight Night",
+                									"info":"ESPN",
+                									"image": "https://i.postimg.cc/13ZBVybH/allenvscurtis.png",
+                									"url":"https://bembed.net/v/7QWN5ey083l59oR",
+                									"isHost":"true",
+                									"online":"true"
+                								}, {
                 									"name": "UFC Fight Night",
                 									"info":"ESPN",
                 									"image": "https://i.postimg.cc/52d3y3gq/ufc.png",
@@ -8109,173 +8544,6 @@
 											}]
 									     }
   								]
-						}, {
-								"name": "Horarios deportivos",
-								"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgitz_TK0IfqklZ4SJjmCN7fercRNPwt8r3rhx3s1iAFfX_euYk4xzPtocbUxm1oETsmaLwZ9A15E4eBWRWYqZ19Ug4M-QgcjOyoc4w_-bHLqMg5uByeiFsfnwDalRMmuyvYDv6v-oXeWjbmAUo2KfKz6it9O1hR-YOgzFKgFvkLrVo7xnqWr2Wvm4VIl0S/w483-h483/logo-TVguia.png",
-								"info": "",
-								"stations": [
-							{
-								"name": "Movistar",
-								"image": "https://i.ibb.co/Nn2YtQG/logo-category-Movistar.png",
-								"url": "https://www.movistarplus.es/guiamovil",
-								"embed": "true"
-							}, {
-								"name": "DAZN",
-								"image": "https://i.ibb.co/NWLCj63/DAZN-Logo.png",
-								"url": "https://www.dazn.com/es-ES/schedule",
-								"embed": "true"
-							}, {
-								"name": "Champions League",
-								"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTZ1xlIjCHXkMYFRD8AHD1xxk-y6dylFMR2_lD0wuNsmqhUzFE2SgOnFrcDJbAcU_Z9aDM64zyo1vQ3Zrdsa8I8yoz9Vwg0_s-9SNqXo76-HezJzRX3EXzGqykbGH5dCKN-S8LG_3tV0BdmhUU59RROfDIeECOMCi4eDvjZJ6F_oDrZes9kJ693dgcpv3H/w655-h368/logo-Champions.png",
-								"url": "https://www.futboltv.info/competicion/champions-league",
-								"embed": "true"
-							}, {
-								"name": "Champions League",
-								"info": "Femenina",
-								"image": "https://i.ibb.co/QXw2WyV/Logo-UWCL.jpg",
-								"url": "https://www.futboltv.info/competicion/womens-champions-league",
-								"embed": "true"
-							}, {
-								"name": "Europa League",
-								"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXlGSmC0a-TYiwryz5v5PD0MvbJQXttRq37v4Z90-LWQ4z_hID8XurcHS229S-imaZ-uothf200JPGvKYBMEMmwr4VrP1XaZKREZ0H0CrM97kb4TkDlg9kg3HVSRtwRTSEcEUkNgvhF4bPGtSiDvoeQEBwelWtABlWJbn28-WfC-wkEQaxJjyaB-zTiyhf/w651-h433/logo-Europa.png",
-								"url": "https://www.futboltv.info/competicion/europa-league",
-								"embed": "true"
-							}, {
-								"name": "Conference League",
-								"image": "https://i.ibb.co/C5tGNvj/logo-Conference-League.webp",
-								"url": "https://www.futboltv.info/competicion/europa-conference-league",
-								"embed": "true"
-							}, {
-								"name": "Supercopa de España",
-								"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7uoFnPOMbyQARdAflh-6LyFyr5U8Y2DtIB51z8ZaQjxI1UIY19YI7q_hfd2IPOjmpgWXmARusL82NY4YI3pWfNH4ZpAx9IIzJvx-kehqhgoIM1vOXDsv763DTzTjRHJ-oPN4AAv2sVKDBjZgp4I6bzFzn6hhLBYcxWMkWrBWDsXCxemVmg5Yg5CKsJLYl/w375-h466/SupercopaEspa%C3%B1aM-Logo.png",
-								"url": "https://www.futbolenlatv.es/competicion/supercopa-espana",
-								"embed": "true"
-							}, {
-								"name": "Supercopa de España F",
-								"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2STZcnf0V__djIxp_hNp1O-gb89O5_FiqI6QEIGMCkWKqAepk0hvpjd7vCM-xTQp1cc6Ak_UAQKwJMPIh8KLkqGInq8I3ZS0qzNiME5P3j3f5iCEsEa90wrKxtqdCmI7B49xMvNWst_uu_C0ILPmEaFEUfDhrLbP6DgXFffozfvlfjbpKP019-oOFYWTC/w387-h473/SupercopaEspa%C3%B1aF-Logo.png",
-								"url": "https://www.futbolenlatv.es/competicion/supercopa-espana-femenina",
-								"embed": "true"
-							}, {
-								"name": "Copa del Rey",
-								"image": "https://img2.rtve.es/i/?w=1600&i=1704452073904.jpg",
-								"url": "https://www.futbolenlatv.es/competicion/copa-del-rey",
-								"embed": "true"
-							}, {
-								"name": "Copa de la reina",
-								"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/02/03/16754225903937.jpg",
-								"url": "https://www.futbolenlatv.es/competicion/copa-de-la-reina",
-								"embed": "true"
-							}, {
-								"name": "LaLiga",
-								"image": "https://i.ibb.co/3NCs0m4/LaLigaEA.png",
-								"url": "https://www.futboltv.info/competicion/laliga",
-								"embed": "true"
-							}, {
-								"name": "Liga F",
-								"image": "https://seeklogo.com/images/L/liga-f-logo-4C3DE0839C-seeklogo.com.png",
-								"url": "https://www.futbolenlatv.es/competicion/superliga-femenina",
-								"embed": "true"
-							}, {
-								"name": "Liga Hypermotion",
-								"image": "https://i.ibb.co/zZpZy4S/Liga-Hypermotion.png",
-								"url": "https://www.futboltv.info/competicion/laliga2",
-								"embed": "true"
-							}, {
-								"name": "EFL Cup",
-								"image": "https://images.daznservices.com/di/library/DAZN_News/25/28/efl-cup-2023_1naan5p0e7zrs16r0nhv3e1199.png?t=-2084012116",
-								"url": "https://www.futbolenlatv.es/competicion/football-league-cup",
-								"embed": "true"
-							}, {
-								"name": "Premier League",
-								"image": "https://i.ibb.co/bvcpXFG/logo-Premier-League.png",
-								"url": "https://www.futbolenlatv.es/competicion/premier-league",
-								"embed": "true"
-							}, {
-								"name": "Bundesliga",
-								"image": "https://i.ibb.co/7yYKf2N/logo-Bundesliga.png",
-								"url": "https://www.futbolenlatv.es/competicion/bundesliga",
-								"embed": "true"
-							}, {
-								"name": "Supercoppa Italia",
-								"image": "https://media-assets.wired.it/photos/63c7f3d05e4f0f08fb7ac208/16:9/w_2560%2Cc_limit/1457058625",
-								"url": "https://www.futbolenlatv.es/competicion/supercopa-italia",
-								"embed": "true"
-							}, {
-								"name": "Coppa Italia",
-								"image": "https://cdn1-production-images-kly.akamaized.net/hZqYuMG1xn5lWdwE_dRVNF80QKQ=/1x177:1080x785/1200x675/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4673701/original/012652800_1701689515-Ilustrasi_Coppa_Italia_-_Bola.com_Salsa_Dwi_Novita.jpg",
-								"url": "https://www.futbolenlatv.es/competicion/copa-de-italia",
-								"embed": "true"
-							}, {
-								"name": "Serie A",
-								"image": "https://i.ibb.co/tZWJz6T/logo-Serie-A.png",
-								"url": "https://www.futbolenlatv.es/competicion/calcio-serie-a",
-								"embed": "true"
-							}, {
-								"name": "Ligue 1",
-								"image": "https://i.ibb.co/SPQCpbZ/Ligue1-logo.png",
-								"url": "https://www.futbolenlatv.es/competicion/ligue-1",
-								"embed": "true"
-							}, {
-								"name": "NBA",
-								"image": "https://i.ibb.co/ysP3vZt/logo-category-NBA.png",
-								"url": "https://www.futbolenlatv.es/deporte/baloncesto/competicion/nba",
-								"embed": "true"
-							}, {
-								"name": "Liga Endesa",
-								"image": "https://as01.epimg.net/baloncesto/imagenes/2017/07/25/acb/1501004759_569854_1501004993_noticia_normal.jpg",
-								"url": "https://www.futbolenlatv.es/deporte/baloncesto/competicion/liga-endesa",
-								"embed": "true"
-							}, {
-								"name": "F1",
-								"image": "https://i.ibb.co/sWgvCCK/logo-f1-fix.png",
-								"url": "https://www.marca.com/motor/formula1/calendario.html",
-								"embed": "true"
-							}, {
-								"name": "MotoGP",
-								"image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
-								"url": "https://www.marca.com/motor/motogp/calendario.html",
-								"embed": "true"
-							}, {
-								"name": "Tenis",
-								"image": "https://i.ibb.co/2hzzxFG/logo-Tenis.png",
-								"url": "https://www.futbolenlatv.es/deporte/tenis",
-								"embed": "true"
-							}, {
-								"name": "UFC",
-								"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnVqFaYDUDqXGWIgRjCm5_A3LBERIGSQ4rJAsgs0_QGPMDlQVc7P96XwdAHkf7Ggas08GoLAisVy_1iLiRWJXO4M_KVuimVvgnnK1jgSY9qKbDgT4FKcyJ88KFEIJlCZno_VvC-78yMx9wOepccMbgGjMHDL6OsDwVBnUmEmL5ywiEwfFKxPGLTRapzjmo/w664-h226/logo_ufc.png",
-								"url": "https://www.ufcespanol.com/events",
-								"embed": "true"
-							}, {
-								"name": "Béisbol",
-								"image": "https://logos-marcas.com/wp-content/uploads/2021/09/MLB-Logo.png",
-								"url": "https://www.futbolenlatv.es/deporte/beisbol/competicion/major-league-baseball",
-								"embed": "true"
-							}, {
-								"name": "Rugby",
-								"image": "https://i.ibb.co/1Ggb57C/logo-NFL.png",
-								"url": "https://www.futbolenlatv.es/deporte/futbol-americano",
-								"embed": "true"
-							}, {
-								"name": "Hockey",
-								"image": "https://i.ibb.co/868xpk5/logo-NHL.png",
-								"url": "https://www.futbolenlatv.es/deporte/hockey/competicion/national-hockey-league",
-								"embed": "true"
-							}, {
-								"name": "Sport•TV",
-								"image": "https://i.ibb.co/gTcYR5b/logo-Sport-TV.png",
-								"url": "https://www.sporttv.pt/guia",
-								"embed": "true"
-							}, {
-								"name": "ESPN Deportes",
-								"image": "https://i.ibb.co/k0PSxsf/logo-ESPNd.png",
-								"url": "https://www.gatotv.com/canal/espn_deportes",
-								"embed": "true"
-							}, {
-								"name": "Toros",
-								"image": "https://www.mundotoro.com/wp-content/uploads/2023/12/image00023.jpeg",
-								"url": "https://elmuletazo.com/agenda-de-toros-en-television",
-								"embed": "true"
-								}]
-							}
+						}
 	]
 }
