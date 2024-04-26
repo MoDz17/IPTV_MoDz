@@ -24,9 +24,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 19/04/2024",
+             "name": "Ultm. versión 26/04/2024",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 19/04/2024",
+            "info": "última versión actualizada el 26/04/2024",
             "stations": []
 	}, 
 	
@@ -243,7 +243,13 @@
 		   "info": "",
 		   "groups": [
 
-			{
+			 {
+				"name": "NECESARIA",
+				"image": "https://i.blogs.es/f1febf/vpn/1366_2000.jpg"
+			 }, {
+				"name": "NECESARIA",
+				"image": "https://i.blogs.es/f1febf/vpn/1366_2000.jpg"
+			 }, {
 				"name": "Wiseplay - Android",
 				"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieGS61EUyAb3jmph20TXbUwj9O8O7i1AKtFdcGpK_TfYSNNQcRPAKD_FJZT7OJLV2B_15NrrShW93Z_eKVTNSFmphRRKLU5PjkSbQM9c9AdnCw-dU_NH1-U95pdS5kui48sMAwbqcrMGpnjdJ4c-iigSL-kpjHkmNol5TxKFt70RPvg8SUK0RyqRP1FfW0/w666-h333/logo_wiseplay.png"
 			 }, {
@@ -4088,7 +4094,7 @@
 			 }, {
 				"name": "Canal 5",
 				"image": "https://i.ibb.co/sVPN8q6/logo-golf.png",
-				"url" : "https://love2live.wideiptv.top/MOVISTARGOLFES/tracks-v1/index.fmp4.m3u8?token=35588a25bd21ef492a1b63e2968ec94c16d76322-5a02849fcf149179693bc7e5ee4ff21e-1713474829-1713464029",
+				"url" : "https://love2live.wideiptv.top/MOVISTARGOLFES/tracks-v1/index.fmp4.m3u8?token=20c1b08058667c8d1227e6c70cf4ca27a276394a-af12e28ec027f56e121851293184cd32-1713703254-1713692454",
 			   	"userAgent" : ""
 			 }, {
 				"name": "Canal 6",
@@ -4473,8 +4479,8 @@
 	 }, {
 		"name": "Canal 1",
 		"image": "https://i.ibb.co/Ntcj66Q/logo-es1.webp",
-	 	"url" : "https://love2live.wideiptv.top/EURO1ES/tracks-v1/index.fmp4.m3u8?token=ea53c2d66dedec86e581a8c8d189b8c4ce85eed3-079042b75d6f362ad0a1b15bbfa8e30b-1713475056-1713464256",
-	 	"userAgent":""
+	 	"url" : "https://jepsikuydo.foroactivo.com/h2-canales?id=EUROSPORT_1_ES",
+	 	"isHost":"true"
 	}, {
 		"name": "Canal 2",
 		"info": "ip | 185.188",
@@ -4497,8 +4503,8 @@
 	}, {
 		"name": "Canal 1",
 		"image": "https://i.ibb.co/HLcq8Cj/logo-es2.webp",
-		"url" : "https://love2live.wideiptv.top/EURO2ES/tracks-v1/index.fmp4.m3u8?token=7b67409cdedbfa6c569d40ac20c8ea11a07efb3d-3966f6d9c99f42e60c35183e2db0971b-1713475120-1713464320",
-		"userAgent": ""
+		"url" : "https://jepsikuydo.foroactivo.com/h2-canales?id=EUROSPORT_2_ES",
+		"isHost":"true"
 	}, {
 		"name": "Canal 2",
 		"info": "",
@@ -7861,70 +7867,6 @@
 							"url":"http://31.42.185.216:8000/live/LIRestream/C18FXWEJBF/126210.m3u8",
 							"userAgent" : ""
 		 				}, {
-							"name": "Canal 1",
-							"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRwKZ85ULnCMPnwq5YaoPWOAexE9DRJ9LZjlwZE_px_XXxe-hlnIJ0aDGFU8IwBIlN7r6Cgmm3ZsdBNfpr8CoA41kWFJP3kyqJZrnNE84CKapYnVJ7c1zbQiQcYvih19nxWO2RPMOJcIs1j4aWuKGulcmJtU7jR6iZacApjpWYwy4Ajm_pGKV1r2HlOWdC/w615-h615/logo-Torole.png",
-							"url":"https://media1.ultrik.com/live/torole1.m3u8",
-							"userAgent" : ""
-		 				}, {
-							"name": "Canal 2",
-							"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRwKZ85ULnCMPnwq5YaoPWOAexE9DRJ9LZjlwZE_px_XXxe-hlnIJ0aDGFU8IwBIlN7r6Cgmm3ZsdBNfpr8CoA41kWFJP3kyqJZrnNE84CKapYnVJ7c1zbQiQcYvih19nxWO2RPMOJcIs1j4aWuKGulcmJtU7jR6iZacApjpWYwy4Ajm_pGKV1r2HlOWdC/w615-h615/logo-Torole.png",
-							"url":"https://media1.ultrik.com/live/torole1.m3u8?variant=0",
-							"userAgent" : ""
-		 				}, {
-							"name": "Canal 1",
-						   	"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WrLEUL5KARQ5KrZe_LMVBkqvD2-cx2zAEfMbKD2mhXX-B2bzYyT2c8iCrUBHqNGkwwRhRUsTuxuieiuHgTZusfQD064g98dqTb8uQb1wDdesbNkd4q-J2zUHiMAUzPIS_g8iJ7b7dAeeZRev-kaP9A_UpwL5WOJo_R2hnNesAmyNKvzzFM2nwKvITC1W/w625-h103/logo-MundoToro.png",
-							"url": "https://love2live.wideiptv.top/OneToro/tracks-v1a1/mono.m3u8",
-                        				"userAgent": ""
-						}, {
-							"name": "Canal 2",
-						   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WrLEUL5KARQ5KrZe_LMVBkqvD2-cx2zAEfMbKD2mhXX-B2bzYyT2c8iCrUBHqNGkwwRhRUsTuxuieiuHgTZusfQD064g98dqTb8uQb1wDdesbNkd4q-J2zUHiMAUzPIS_g8iJ7b7dAeeZRev-kaP9A_UpwL5WOJo_R2hnNesAmyNKvzzFM2nwKvITC1W/w625-h103/logo-MundoToro.png",
-							"url": "http://185.135.157.34:8080/live/Alejanlopez/AdYq4Yvy2t84/372340.m3u8?token=TEcNVUIMRl4SVQdcUAUHA1IFUQcNAARQBQECBFZZAAEHVAYBB1wHB1NBSEZARkVRBQ46C1FGXFIGBQIBBU0TQUQAF2tYAEZeElpTUwsLFRhGFwwPUEZcUR0VQVxRQwsWBVFVBAdGSEZVGxABQVxWWDsHABRcBwNDC1lEWVlNE1tZOgFRXAUKABJZRlURHhVdFxNHWFsRCg0dFVNcQRNQQFJHXxYDVVZQEk9GB1xHWUAWGkdYFyE1Qx0VVE1BBF9HXgoLFgtGCVdFW0ZIEVtEaxYGFhZHAQcMVEUTDxdRExgVCARMbgcLCl4GBxBaXVlHRllHUxdIRAxeWVhBWhNuRF4BRw4TV1VdAlJGGQ==",
-						   "userAgent": ""
-						}, {
-							"name": "Canal 3",
-						   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WrLEUL5KARQ5KrZe_LMVBkqvD2-cx2zAEfMbKD2mhXX-B2bzYyT2c8iCrUBHqNGkwwRhRUsTuxuieiuHgTZusfQD064g98dqTb8uQb1wDdesbNkd4q-J2zUHiMAUzPIS_g8iJ7b7dAeeZRev-kaP9A_UpwL5WOJo_R2hnNesAmyNKvzzFM2nwKvITC1W/w625-h103/logo-MundoToro.png",
-							"url": "http://185.233.16.88:80/live/ja08203/5224310010/441850.m3u8",
-						   "userAgent": ""
-						}, {
-							"name": "Canal 4",
-						   	"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WrLEUL5KARQ5KrZe_LMVBkqvD2-cx2zAEfMbKD2mhXX-B2bzYyT2c8iCrUBHqNGkwwRhRUsTuxuieiuHgTZusfQD064g98dqTb8uQb1wDdesbNkd4q-J2zUHiMAUzPIS_g8iJ7b7dAeeZRev-kaP9A_UpwL5WOJo_R2hnNesAmyNKvzzFM2nwKvITC1W/w625-h103/logo-MundoToro.png",
-							"url": "https://1.dlhd.sx/cast/stream-749.php",
-						   	"isHost":"true"
-						}, {
-						   "name": "Canal 5",
-						   "info": "",
-						   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WrLEUL5KARQ5KrZe_LMVBkqvD2-cx2zAEfMbKD2mhXX-B2bzYyT2c8iCrUBHqNGkwwRhRUsTuxuieiuHgTZusfQD064g98dqTb8uQb1wDdesbNkd4q-J2zUHiMAUzPIS_g8iJ7b7dAeeZRev-kaP9A_UpwL5WOJo_R2hnNesAmyNKvzzFM2nwKvITC1W/w625-h103/logo-MundoToro.png",
-						   "url": "http://s1.pubnow.info:8080/morotvsktpe72772/KhPUdUD2kF2w/125624",
-						   "userAgent": "" 
-						}, {
-						   "name": "Canal 6",
-						   "info": "",
-						   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WrLEUL5KARQ5KrZe_LMVBkqvD2-cx2zAEfMbKD2mhXX-B2bzYyT2c8iCrUBHqNGkwwRhRUsTuxuieiuHgTZusfQD064g98dqTb8uQb1wDdesbNkd4q-J2zUHiMAUzPIS_g8iJ7b7dAeeZRev-kaP9A_UpwL5WOJo_R2hnNesAmyNKvzzFM2nwKvITC1W/w625-h103/logo-MundoToro.png",
-						   "url":"https://cajablanca.dedyn.io/mionespt/juanorange/MundotoroTV_HD/HD/index.m3u8",
-						   "userAgent" : ""
-						}, {
-						   "name": "Canal 7",
-						   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WrLEUL5KARQ5KrZe_LMVBkqvD2-cx2zAEfMbKD2mhXX-B2bzYyT2c8iCrUBHqNGkwwRhRUsTuxuieiuHgTZusfQD064g98dqTb8uQb1wDdesbNkd4q-J2zUHiMAUzPIS_g8iJ7b7dAeeZRev-kaP9A_UpwL5WOJo_R2hnNesAmyNKvzzFM2nwKvITC1W/w625-h103/logo-MundoToro.png",
-						   "url": "http://thing500.hopto.org:8080/lbgFIzo6Vw/nOVP8H35Hu/1132",
-						   "userAgent": "damx"
-						}, {
-						   "name": "Canal 8",
-						   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WrLEUL5KARQ5KrZe_LMVBkqvD2-cx2zAEfMbKD2mhXX-B2bzYyT2c8iCrUBHqNGkwwRhRUsTuxuieiuHgTZusfQD064g98dqTb8uQb1wDdesbNkd4q-J2zUHiMAUzPIS_g8iJ7b7dAeeZRev-kaP9A_UpwL5WOJo_R2hnNesAmyNKvzzFM2nwKvITC1W/w625-h103/logo-MundoToro.png",
-						   "url":"http://185.71.64.28:2052/live/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/96431.m3u8",
-						   "userAgent" : ""
-						}, {
-						   "name": "Canal 9",
-						   "info": "l2l",
-						   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WrLEUL5KARQ5KrZe_LMVBkqvD2-cx2zAEfMbKD2mhXX-B2bzYyT2c8iCrUBHqNGkwwRhRUsTuxuieiuHgTZusfQD064g98dqTb8uQb1wDdesbNkd4q-J2zUHiMAUzPIS_g8iJ7b7dAeeZRev-kaP9A_UpwL5WOJo_R2hnNesAmyNKvzzFM2nwKvITC1W/w625-h103/logo-MundoToro.png",
-						   "url": "https://love2live.wideiptv.top/OneToro/tracks-v1/index.fmp4.m3u8?token=019beafa857c6572ccbbc9ceacfd17aabf0c0ca5-caf27ac2220ac7193fb05bc81a42b676-1713473600-1713462800",
-						   "userAgent":""
-						}, {
-						   "name": "Canal 10",
-						   "info": "Android",
-						   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WrLEUL5KARQ5KrZe_LMVBkqvD2-cx2zAEfMbKD2mhXX-B2bzYyT2c8iCrUBHqNGkwwRhRUsTuxuieiuHgTZusfQD064g98dqTb8uQb1wDdesbNkd4q-J2zUHiMAUzPIS_g8iJ7b7dAeeZRev-kaP9A_UpwL5WOJo_R2hnNesAmyNKvzzFM2nwKvITC1W/w625-h103/logo-MundoToro.png",
-						   "url":"http://coconut23.chocoplus.xyz:8080/live/HSzWFMSgHbGQ/jpsP8HErkd5Z/12113.ts",
-						   "userAgent" : ""
-						}, {
 			 				"name": "CMM",
 							"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/CMMedia.svg/2353px-CMMedia.svg.png",
 							"url": "https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4ycl/protocol/https/format/applehttp/.m3u8",
@@ -8016,6 +7958,227 @@
 								"url": "",
 								"embed": ""
 							}
+						]
+					}, {
+						"name":"Zona Toro",
+						"image":"https://desdelcallejon.com/wp-content/uploads/VICTORINO-DAIMIEL.gif",
+						"stations": 
+						[
+					{
+								"name": "Canal 1",
+								"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRwKZ85ULnCMPnwq5YaoPWOAexE9DRJ9LZjlwZE_px_XXxe-hlnIJ0aDGFU8IwBIlN7r6Cgmm3ZsdBNfpr8CoA41kWFJP3kyqJZrnNE84CKapYnVJ7c1zbQiQcYvih19nxWO2RPMOJcIs1j4aWuKGulcmJtU7jR6iZacApjpWYwy4Ajm_pGKV1r2HlOWdC/w615-h615/logo-Torole.png",
+								"url":"https://media1.ultrik.com/live/torole1.m3u8",
+								"userAgent" : ""
+					}, {
+								"name": "Canal 2",
+								"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRwKZ85ULnCMPnwq5YaoPWOAexE9DRJ9LZjlwZE_px_XXxe-hlnIJ0aDGFU8IwBIlN7r6Cgmm3ZsdBNfpr8CoA41kWFJP3kyqJZrnNE84CKapYnVJ7c1zbQiQcYvih19nxWO2RPMOJcIs1j4aWuKGulcmJtU7jR6iZacApjpWYwy4Ajm_pGKV1r2HlOWdC/w615-h615/logo-Torole.png",
+								"url":"https://media1.ultrik.com/live/torole1.m3u8?variant=0",
+								"userAgent" : ""
+					}, {
+								"name": "Canal 1",
+								"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WrLEUL5KARQ5KrZe_LMVBkqvD2-cx2zAEfMbKD2mhXX-B2bzYyT2c8iCrUBHqNGkwwRhRUsTuxuieiuHgTZusfQD064g98dqTb8uQb1wDdesbNkd4q-J2zUHiMAUzPIS_g8iJ7b7dAeeZRev-kaP9A_UpwL5WOJo_R2hnNesAmyNKvzzFM2nwKvITC1W/w625-h103/logo-MundoToro.png",
+								"url": "https://love2live.wideiptv.top/OneToro/tracks-v1a1/mono.m3u8",
+								"userAgent": ""
+					}, {
+								"name": "Canal 2",
+							   	"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WrLEUL5KARQ5KrZe_LMVBkqvD2-cx2zAEfMbKD2mhXX-B2bzYyT2c8iCrUBHqNGkwwRhRUsTuxuieiuHgTZusfQD064g98dqTb8uQb1wDdesbNkd4q-J2zUHiMAUzPIS_g8iJ7b7dAeeZRev-kaP9A_UpwL5WOJo_R2hnNesAmyNKvzzFM2nwKvITC1W/w625-h103/logo-MundoToro.png",
+								"url": "http://185.135.157.34:8080/live/Alejanlopez/AdYq4Yvy2t84/372340.m3u8?token=TEcNVUIMRl4SVQdcUAUHA1IFUQcNAARQBQECBFZZAAEHVAYBB1wHB1NBSEZARkVRBQ46C1FGXFIGBQIBBU0TQUQAF2tYAEZeElpTUwsLFRhGFwwPUEZcUR0VQVxRQwsWBVFVBAdGSEZVGxABQVxWWDsHABRcBwNDC1lEWVlNE1tZOgFRXAUKABJZRlURHhVdFxNHWFsRCg0dFVNcQRNQQFJHXxYDVVZQEk9GB1xHWUAWGkdYFyE1Qx0VVE1BBF9HXgoLFgtGCVdFW0ZIEVtEaxYGFhZHAQcMVEUTDxdRExgVCARMbgcLCl4GBxBaXVlHRllHUxdIRAxeWVhBWhNuRF4BRw4TV1VdAlJGGQ==",
+							   	"userAgent": ""
+					}, {
+								"name": "Canal 3",
+							   	"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WrLEUL5KARQ5KrZe_LMVBkqvD2-cx2zAEfMbKD2mhXX-B2bzYyT2c8iCrUBHqNGkwwRhRUsTuxuieiuHgTZusfQD064g98dqTb8uQb1wDdesbNkd4q-J2zUHiMAUzPIS_g8iJ7b7dAeeZRev-kaP9A_UpwL5WOJo_R2hnNesAmyNKvzzFM2nwKvITC1W/w625-h103/logo-MundoToro.png",
+								"url": "http://185.233.16.88:80/live/ja08203/5224310010/441850.m3u8",
+							   	"userAgent": ""
+					}, {
+								"name": "Canal 4",
+								"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WrLEUL5KARQ5KrZe_LMVBkqvD2-cx2zAEfMbKD2mhXX-B2bzYyT2c8iCrUBHqNGkwwRhRUsTuxuieiuHgTZusfQD064g98dqTb8uQb1wDdesbNkd4q-J2zUHiMAUzPIS_g8iJ7b7dAeeZRev-kaP9A_UpwL5WOJo_R2hnNesAmyNKvzzFM2nwKvITC1W/w625-h103/logo-MundoToro.png",
+								"url": "https://1.dlhd.sx/cast/stream-749.php",
+								"isHost":"true"
+					}, {
+							   "name": "Canal 5",
+							   "info": "",
+							   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WrLEUL5KARQ5KrZe_LMVBkqvD2-cx2zAEfMbKD2mhXX-B2bzYyT2c8iCrUBHqNGkwwRhRUsTuxuieiuHgTZusfQD064g98dqTb8uQb1wDdesbNkd4q-J2zUHiMAUzPIS_g8iJ7b7dAeeZRev-kaP9A_UpwL5WOJo_R2hnNesAmyNKvzzFM2nwKvITC1W/w625-h103/logo-MundoToro.png",
+							   "url": "http://s1.pubnow.info:8080/morotvsktpe72772/KhPUdUD2kF2w/125624",
+							   "userAgent": "" 
+					}, {
+							   "name": "Canal 6",
+							   "info": "",
+							   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WrLEUL5KARQ5KrZe_LMVBkqvD2-cx2zAEfMbKD2mhXX-B2bzYyT2c8iCrUBHqNGkwwRhRUsTuxuieiuHgTZusfQD064g98dqTb8uQb1wDdesbNkd4q-J2zUHiMAUzPIS_g8iJ7b7dAeeZRev-kaP9A_UpwL5WOJo_R2hnNesAmyNKvzzFM2nwKvITC1W/w625-h103/logo-MundoToro.png",
+							   "url":"https://cajablanca.dedyn.io/mionespt/juanorange/MundotoroTV_HD/HD/index.m3u8",
+							   "userAgent" : ""
+					}, {
+							   "name": "Canal 7",
+							   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WrLEUL5KARQ5KrZe_LMVBkqvD2-cx2zAEfMbKD2mhXX-B2bzYyT2c8iCrUBHqNGkwwRhRUsTuxuieiuHgTZusfQD064g98dqTb8uQb1wDdesbNkd4q-J2zUHiMAUzPIS_g8iJ7b7dAeeZRev-kaP9A_UpwL5WOJo_R2hnNesAmyNKvzzFM2nwKvITC1W/w625-h103/logo-MundoToro.png",
+							   "url": "http://thing500.hopto.org:8080/lbgFIzo6Vw/nOVP8H35Hu/1132",
+							   "userAgent": "damx"
+					}, {
+							   "name": "Canal 8",
+							   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WrLEUL5KARQ5KrZe_LMVBkqvD2-cx2zAEfMbKD2mhXX-B2bzYyT2c8iCrUBHqNGkwwRhRUsTuxuieiuHgTZusfQD064g98dqTb8uQb1wDdesbNkd4q-J2zUHiMAUzPIS_g8iJ7b7dAeeZRev-kaP9A_UpwL5WOJo_R2hnNesAmyNKvzzFM2nwKvITC1W/w625-h103/logo-MundoToro.png",
+							   "url":"http://185.71.64.28:2052/live/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/96431.m3u8",
+							   "userAgent" : ""
+					}, {
+							   "name": "Canal 9",
+							   "info": "l2l",
+							   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WrLEUL5KARQ5KrZe_LMVBkqvD2-cx2zAEfMbKD2mhXX-B2bzYyT2c8iCrUBHqNGkwwRhRUsTuxuieiuHgTZusfQD064g98dqTb8uQb1wDdesbNkd4q-J2zUHiMAUzPIS_g8iJ7b7dAeeZRev-kaP9A_UpwL5WOJo_R2hnNesAmyNKvzzFM2nwKvITC1W/w625-h103/logo-MundoToro.png",
+							   "url": "https://love2live.wideiptv.top/OneToro/tracks-v1/index.fmp4.m3u8?token=019beafa857c6572ccbbc9ceacfd17aabf0c0ca5-caf27ac2220ac7193fb05bc81a42b676-1713473600-1713462800",
+							   "userAgent":""
+					}, {
+							   "name": "Canal 10",
+							   "info": "Android",
+							   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WrLEUL5KARQ5KrZe_LMVBkqvD2-cx2zAEfMbKD2mhXX-B2bzYyT2c8iCrUBHqNGkwwRhRUsTuxuieiuHgTZusfQD064g98dqTb8uQb1wDdesbNkd4q-J2zUHiMAUzPIS_g8iJ7b7dAeeZRev-kaP9A_UpwL5WOJo_R2hnNesAmyNKvzzFM2nwKvITC1W/w625-h103/logo-MundoToro.png",
+							   "url":"http://coconut23.chocoplus.xyz:8080/live/HSzWFMSgHbGQ/jpsP8HErkd5Z/12113.ts",
+							   "userAgent" : ""
+					}, {
+						"name": "Canal 11*",
+						"info": "Android/iOS VPN",
+						"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WrLEUL5KARQ5KrZe_LMVBkqvD2-cx2zAEfMbKD2mhXX-B2bzYyT2c8iCrUBHqNGkwwRhRUsTuxuieiuHgTZusfQD064g98dqTb8uQb1wDdesbNkd4q-J2zUHiMAUzPIS_g8iJ7b7dAeeZRev-kaP9A_UpwL5WOJo_R2hnNesAmyNKvzzFM2nwKvITC1W/w625-h103/logo-MundoToro.png",
+						"url":"http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEXX63TxQhW3IkWBd-bk-v5t/m3u8",
+						"userAgent" : ""
+					 }, {
+						"name": "Canal 12",
+						"info": "Android/iOS VPN",
+						"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WrLEUL5KARQ5KrZe_LMVBkqvD2-cx2zAEfMbKD2mhXX-B2bzYyT2c8iCrUBHqNGkwwRhRUsTuxuieiuHgTZusfQD064g98dqTb8uQb1wDdesbNkd4q-J2zUHiMAUzPIS_g8iJ7b7dAeeZRev-kaP9A_UpwL5WOJo_R2hnNesAmyNKvzzFM2nwKvITC1W/w625-h103/logo-MundoToro.png",
+						"url":"http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEXX63TxQhW3IkWBd-bk-v5t",
+						"userAgent" : ""
+					 }, {
+						"name": "Canal 13*",
+						"info": "Android/iOS VPN",
+						"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WrLEUL5KARQ5KrZe_LMVBkqvD2-cx2zAEfMbKD2mhXX-B2bzYyT2c8iCrUBHqNGkwwRhRUsTuxuieiuHgTZusfQD064g98dqTb8uQb1wDdesbNkd4q-J2zUHiMAUzPIS_g8iJ7b7dAeeZRev-kaP9A_UpwL5WOJo_R2hnNesAmyNKvzzFM2nwKvITC1W/w625-h103/logo-MundoToro.png",
+						"url":"http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEVzrPMSt19aqfwdU_P-dYzY/m3u8",
+						"userAgent" : ""
+					 }, {
+						"name": "Canal 14",
+						"info": "Android/iOS VPN",
+						"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WrLEUL5KARQ5KrZe_LMVBkqvD2-cx2zAEfMbKD2mhXX-B2bzYyT2c8iCrUBHqNGkwwRhRUsTuxuieiuHgTZusfQD064g98dqTb8uQb1wDdesbNkd4q-J2zUHiMAUzPIS_g8iJ7b7dAeeZRev-kaP9A_UpwL5WOJo_R2hnNesAmyNKvzzFM2nwKvITC1W/w625-h103/logo-MundoToro.png",
+						"url":"http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEVzrPMSt19aqfwdU_P-dYzY",
+						"userAgent" : ""
+					 }, {
+						"name": "Canal 15*",
+						"info": "Android/iOS VPN",
+						"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WrLEUL5KARQ5KrZe_LMVBkqvD2-cx2zAEfMbKD2mhXX-B2bzYyT2c8iCrUBHqNGkwwRhRUsTuxuieiuHgTZusfQD064g98dqTb8uQb1wDdesbNkd4q-J2zUHiMAUzPIS_g8iJ7b7dAeeZRev-kaP9A_UpwL5WOJo_R2hnNesAmyNKvzzFM2nwKvITC1W/w625-h103/logo-MundoToro.png",
+						"url":"http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEUWPkvEmGkJKbxRbvB7W7FP/m3u8",
+						"userAgent" : ""
+					 }, {
+						"name": "Canal 16",
+						"info": "Android/iOS VPN",
+						"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WrLEUL5KARQ5KrZe_LMVBkqvD2-cx2zAEfMbKD2mhXX-B2bzYyT2c8iCrUBHqNGkwwRhRUsTuxuieiuHgTZusfQD064g98dqTb8uQb1wDdesbNkd4q-J2zUHiMAUzPIS_g8iJ7b7dAeeZRev-kaP9A_UpwL5WOJo_R2hnNesAmyNKvzzFM2nwKvITC1W/w625-h103/logo-MundoToro.png",
+						"url":"http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEUWPkvEmGkJKbxRbvB7W7FP",
+						"userAgent" : ""
+					 }, {
+						"name": "Canal 17",
+						"info": "Android/iOS VPN",
+						"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WrLEUL5KARQ5KrZe_LMVBkqvD2-cx2zAEfMbKD2mhXX-B2bzYyT2c8iCrUBHqNGkwwRhRUsTuxuieiuHgTZusfQD064g98dqTb8uQb1wDdesbNkd4q-J2zUHiMAUzPIS_g8iJ7b7dAeeZRev-kaP9A_UpwL5WOJo_R2hnNesAmyNKvzzFM2nwKvITC1W/w625-h103/logo-MundoToro.png",
+						"url":"http://5.188.182.226:8080/Chusi/aDusx5kjAFcx/340",
+						"userAgent" : ""
+					 }, {
+						"name": "Canal 18",
+						"info": "Android/iOS VPN",
+						"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WrLEUL5KARQ5KrZe_LMVBkqvD2-cx2zAEfMbKD2mhXX-B2bzYyT2c8iCrUBHqNGkwwRhRUsTuxuieiuHgTZusfQD064g98dqTb8uQb1wDdesbNkd4q-J2zUHiMAUzPIS_g8iJ7b7dAeeZRev-kaP9A_UpwL5WOJo_R2hnNesAmyNKvzzFM2nwKvITC1W/w625-h103/logo-MundoToro.png",
+						"url":"http://5.188.182.226:8080/Chusi/aDusx5kjAFcx/341",
+						"userAgent" : ""
+					 }, {
+						"name": "Canal 19",
+						"info": "Android/iOS VPN",
+						"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WrLEUL5KARQ5KrZe_LMVBkqvD2-cx2zAEfMbKD2mhXX-B2bzYyT2c8iCrUBHqNGkwwRhRUsTuxuieiuHgTZusfQD064g98dqTb8uQb1wDdesbNkd4q-J2zUHiMAUzPIS_g8iJ7b7dAeeZRev-kaP9A_UpwL5WOJo_R2hnNesAmyNKvzzFM2nwKvITC1W/w625-h103/logo-MundoToro.png",
+						"url":"http://5.188.182.226:8080/Chusi/aDusx5kjAFcx/342",
+						"userAgent" : ""
+					 }, {
+						"name": "Canal 20",
+						"info": "Android/iOS VPN",
+						"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WrLEUL5KARQ5KrZe_LMVBkqvD2-cx2zAEfMbKD2mhXX-B2bzYyT2c8iCrUBHqNGkwwRhRUsTuxuieiuHgTZusfQD064g98dqTb8uQb1wDdesbNkd4q-J2zUHiMAUzPIS_g8iJ7b7dAeeZRev-kaP9A_UpwL5WOJo_R2hnNesAmyNKvzzFM2nwKvITC1W/w625-h103/logo-MundoToro.png",
+						"url":"http://14225021914.com:80/357989555/u631E6598n/112073",
+						"userAgent" : ""
+					 }, {
+						"name": "Canal 21",
+						"info": "Android",
+						"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WrLEUL5KARQ5KrZe_LMVBkqvD2-cx2zAEfMbKD2mhXX-B2bzYyT2c8iCrUBHqNGkwwRhRUsTuxuieiuHgTZusfQD064g98dqTb8uQb1wDdesbNkd4q-J2zUHiMAUzPIS_g8iJ7b7dAeeZRev-kaP9A_UpwL5WOJo_R2hnNesAmyNKvzzFM2nwKvITC1W/w625-h103/logo-MundoToro.png",
+						"url":"http://519971401648441851.ofd0219.xyz:80/play/mi601120/wTsKVXwqpGS/441851.ts",
+						"userAgent" : ""
+					 }, {
+						"name": "Canal 22",
+						"info": "Android",
+						"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WrLEUL5KARQ5KrZe_LMVBkqvD2-cx2zAEfMbKD2mhXX-B2bzYyT2c8iCrUBHqNGkwwRhRUsTuxuieiuHgTZusfQD064g98dqTb8uQb1wDdesbNkd4q-J2zUHiMAUzPIS_g8iJ7b7dAeeZRev-kaP9A_UpwL5WOJo_R2hnNesAmyNKvzzFM2nwKvITC1W/w625-h103/logo-MundoToro.png",
+						"url":"http://519971401648441852.ofd0219.xyz:80/play/mi601120/wTsKVXwqpGS/441852.ts",
+						"userAgent" : ""
+					 }, {
+						"name": "Canal 23",
+						"info": "Android",
+						"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WrLEUL5KARQ5KrZe_LMVBkqvD2-cx2zAEfMbKD2mhXX-B2bzYyT2c8iCrUBHqNGkwwRhRUsTuxuieiuHgTZusfQD064g98dqTb8uQb1wDdesbNkd4q-J2zUHiMAUzPIS_g8iJ7b7dAeeZRev-kaP9A_UpwL5WOJo_R2hnNesAmyNKvzzFM2nwKvITC1W/w625-h103/logo-MundoToro.png",
+						"url":"http://403275972710558671.ofd0203.xyz:80/play/vi1014657/CP3A4AvHR9qf/558671.ts",
+						"userAgent" : ""
+					 }, {
+						"name": "Canal 24",
+						"info": "Android",
+						"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WrLEUL5KARQ5KrZe_LMVBkqvD2-cx2zAEfMbKD2mhXX-B2bzYyT2c8iCrUBHqNGkwwRhRUsTuxuieiuHgTZusfQD064g98dqTb8uQb1wDdesbNkd4q-J2zUHiMAUzPIS_g8iJ7b7dAeeZRev-kaP9A_UpwL5WOJo_R2hnNesAmyNKvzzFM2nwKvITC1W/w625-h103/logo-MundoToro.png",
+						"url":"http://403275972710558672.ofd0203.xyz:80/play/vi1014657/CP3A4AvHR9qf/558672.ts",
+						"userAgent" : ""
+					 }, {
+						"name": "Canal 25",
+						"info": "Android",
+						"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WrLEUL5KARQ5KrZe_LMVBkqvD2-cx2zAEfMbKD2mhXX-B2bzYyT2c8iCrUBHqNGkwwRhRUsTuxuieiuHgTZusfQD064g98dqTb8uQb1wDdesbNkd4q-J2zUHiMAUzPIS_g8iJ7b7dAeeZRev-kaP9A_UpwL5WOJo_R2hnNesAmyNKvzzFM2nwKvITC1W/w625-h103/logo-MundoToro.png",
+						"url":"http://403275972710558673.ofd0203.xyz:80/play/vi1014657/CP3A4AvHR9qf/558673.ts",
+						"userAgent" : ""
+					 }, {
+						"name": "Canal 26",
+						"info": "Android",
+						"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WrLEUL5KARQ5KrZe_LMVBkqvD2-cx2zAEfMbKD2mhXX-B2bzYyT2c8iCrUBHqNGkwwRhRUsTuxuieiuHgTZusfQD064g98dqTb8uQb1wDdesbNkd4q-J2zUHiMAUzPIS_g8iJ7b7dAeeZRev-kaP9A_UpwL5WOJo_R2hnNesAmyNKvzzFM2nwKvITC1W/w625-h103/logo-MundoToro.png",
+						"url":"http://621438692921558671.ofds0328.xyz:80/play/mi92566/M6n7pVT4Gpcv/558671.ts",
+						"userAgent" : ""
+					 }, {
+						"name": "Canal 27",
+						"info": "Android",
+						"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WrLEUL5KARQ5KrZe_LMVBkqvD2-cx2zAEfMbKD2mhXX-B2bzYyT2c8iCrUBHqNGkwwRhRUsTuxuieiuHgTZusfQD064g98dqTb8uQb1wDdesbNkd4q-J2zUHiMAUzPIS_g8iJ7b7dAeeZRev-kaP9A_UpwL5WOJo_R2hnNesAmyNKvzzFM2nwKvITC1W/w625-h103/logo-MundoToro.png",
+						"url":"http://621438692921558672.ofds0328.xyz:80/play/mi92566/M6n7pVT4Gpcv/558672.ts",
+						"userAgent" : ""
+					 }, {
+						"name": "Canal 28",
+						"info": "Android",
+						"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WrLEUL5KARQ5KrZe_LMVBkqvD2-cx2zAEfMbKD2mhXX-B2bzYyT2c8iCrUBHqNGkwwRhRUsTuxuieiuHgTZusfQD064g98dqTb8uQb1wDdesbNkd4q-J2zUHiMAUzPIS_g8iJ7b7dAeeZRev-kaP9A_UpwL5WOJo_R2hnNesAmyNKvzzFM2nwKvITC1W/w625-h103/logo-MundoToro.png",
+						"url":"http://621438692921558673.ofds0328.xyz:80/play/mi92566/M6n7pVT4Gpcv/558673.ts",
+						"userAgent" : ""
+					 }, {
+						"name": "Canal 29",
+						"info": "Android",
+						"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WrLEUL5KARQ5KrZe_LMVBkqvD2-cx2zAEfMbKD2mhXX-B2bzYyT2c8iCrUBHqNGkwwRhRUsTuxuieiuHgTZusfQD064g98dqTb8uQb1wDdesbNkd4q-J2zUHiMAUzPIS_g8iJ7b7dAeeZRev-kaP9A_UpwL5WOJo_R2hnNesAmyNKvzzFM2nwKvITC1W/w625-h103/logo-MundoToro.png",
+						"url":"http://749782214434558671.ofds0328.xyz:80/play/hu1113302/cFFVqChq99/558671.ts",
+						"userAgent" : ""
+					 }, {
+						"name": "Canal 30",
+						"info": "Android",
+						"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WrLEUL5KARQ5KrZe_LMVBkqvD2-cx2zAEfMbKD2mhXX-B2bzYyT2c8iCrUBHqNGkwwRhRUsTuxuieiuHgTZusfQD064g98dqTb8uQb1wDdesbNkd4q-J2zUHiMAUzPIS_g8iJ7b7dAeeZRev-kaP9A_UpwL5WOJo_R2hnNesAmyNKvzzFM2nwKvITC1W/w625-h103/logo-MundoToro.png",
+						"url":"http://749782214434558672.ofds0328.xyz:80/play/hu1113302/cFFVqChq99/558672.ts",
+						"userAgent" : ""
+					 }, {
+						"name": "Canal 31",
+						"info": "Android",
+						"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WrLEUL5KARQ5KrZe_LMVBkqvD2-cx2zAEfMbKD2mhXX-B2bzYyT2c8iCrUBHqNGkwwRhRUsTuxuieiuHgTZusfQD064g98dqTb8uQb1wDdesbNkd4q-J2zUHiMAUzPIS_g8iJ7b7dAeeZRev-kaP9A_UpwL5WOJo_R2hnNesAmyNKvzzFM2nwKvITC1W/w625-h103/logo-MundoToro.png",
+						"url":"http://749782214434558673.ofds0328.xyz:80/play/hu1113302/cFFVqChq99/558673.ts",
+						"userAgent" : ""
+					 }, {
+						"name": "Canal 32",
+						"info": "Android",
+						"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WrLEUL5KARQ5KrZe_LMVBkqvD2-cx2zAEfMbKD2mhXX-B2bzYyT2c8iCrUBHqNGkwwRhRUsTuxuieiuHgTZusfQD064g98dqTb8uQb1wDdesbNkd4q-J2zUHiMAUzPIS_g8iJ7b7dAeeZRev-kaP9A_UpwL5WOJo_R2hnNesAmyNKvzzFM2nwKvITC1W/w625-h103/logo-MundoToro.png",
+						"url":"http://784899737478558671.ofds0328.xyz:80/play/vi38043/r8WSMFe4XRQ/558671.ts",
+						"userAgent" : ""
+					 }, {
+						"name": "Canal 33",
+						"info": "Android",
+						"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WrLEUL5KARQ5KrZe_LMVBkqvD2-cx2zAEfMbKD2mhXX-B2bzYyT2c8iCrUBHqNGkwwRhRUsTuxuieiuHgTZusfQD064g98dqTb8uQb1wDdesbNkd4q-J2zUHiMAUzPIS_g8iJ7b7dAeeZRev-kaP9A_UpwL5WOJo_R2hnNesAmyNKvzzFM2nwKvITC1W/w625-h103/logo-MundoToro.png",
+						"url":"http://784899737478558672.ofds0328.xyz:80/play/vi38043/r8WSMFe4XRQ/558672.ts",
+						"userAgent" : ""
+					 }, {
+						"name": "Canal 34",
+						"info": "Android",
+						"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WrLEUL5KARQ5KrZe_LMVBkqvD2-cx2zAEfMbKD2mhXX-B2bzYyT2c8iCrUBHqNGkwwRhRUsTuxuieiuHgTZusfQD064g98dqTb8uQb1wDdesbNkd4q-J2zUHiMAUzPIS_g8iJ7b7dAeeZRev-kaP9A_UpwL5WOJo_R2hnNesAmyNKvzzFM2nwKvITC1W/w625-h103/logo-MundoToro.png",
+						"url":"http://784899737478558673.ofds0328.xyz:80/play/vi38043/r8WSMFe4XRQ/558673.ts",
+						"userAgent" : ""
+					 }, {
+						"name": "Canal 35",
+						"info": "Android",
+						"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WrLEUL5KARQ5KrZe_LMVBkqvD2-cx2zAEfMbKD2mhXX-B2bzYyT2c8iCrUBHqNGkwwRhRUsTuxuieiuHgTZusfQD064g98dqTb8uQb1wDdesbNkd4q-J2zUHiMAUzPIS_g8iJ7b7dAeeZRev-kaP9A_UpwL5WOJo_R2hnNesAmyNKvzzFM2nwKvITC1W/w625-h103/logo-MundoToro.png",
+						"url":"http://519971401648441850.ofd0219.xyz:80/play/mi601120/wTsKVXwqpGS/441850.ts",
+						"userAgent" : ""
+					 }
 						]
 					}
 				]
