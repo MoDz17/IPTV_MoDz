@@ -24,9 +24,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 21/05/2024",
+             "name": "Ultm. versión 26/05/2024",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 21/05/2024",
+            "info": "última versión actualizada el 26/05/2024",
             "stations": []
 	}, 
 	
@@ -56,6 +56,10 @@
 		}, {
 			"name": "",
 		   	"image": "https://i.ibb.co/QXybG24/Disney-Plus.png",    
+		  	"url" : ""
+		}, {
+			"name": "",
+		   	"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiepqthJAAZLbI90lXDwp4KVkGag0RVCTOLfib38xl54x1CG8LDm7tQ6dRYdgCJgVhin2zr0joPYzMZixGIbAKF-XQtvLPOtkaDsi0fAKD1mEqJ0X543Cs2jkoyi336Te5ipSIJqObFrBsEHdeCj8G4Mlnbtf0GOWxvM9idN45CTy3SmuIg0iwRJc6TslsS/w609-h405/logo_HBO-MAX.png",    
 		  	"url" : ""
 		}, {
 			"name": "",
@@ -1148,37 +1152,397 @@
                 	 		"name": "Liga Hypermotion 3 720p",
 					"info": "base-host",
                     			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-3-es.png",
-                    			"url" :  "acestream://424c89c7c0f251051269b578f40d13d192cf2c2d",
+                    			"url" :  "acestream://bd2f7970c17f427ae92867e2eb86696dd7900a3e",
 					"isHost": "true"
 				}, { 
                 	 		"name": "Liga Hypermotion 3 720p",
 					"info": "base-agent",
                     			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-3-es.png",
-                    			"url" :  "acestream://424c89c7c0f251051269b578f40d13d192cf2c2d",
+                    			"url" :  "acestream://bd2f7970c17f427ae92867e2eb86696dd7900a3e",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "Liga Hypermotion 3 720p",
 					"info": "base-embed",
                     			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-3-es.png",
-                    			"url" :  "acestream://424c89c7c0f251051269b578f40d13d192cf2c2d",
+                    			"url" :  "acestream://bd2f7970c17f427ae92867e2eb86696dd7900a3e",
 					"embed": "true"
 				}, { 
                 	 		"name": "Liga Hypermotion 3 720p",
 					"info": "get-host",
                     			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-3-es.png",
-                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=424c89c7c0f251051269b578f40d13d192cf2c2d",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=bd2f7970c17f427ae92867e2eb86696dd7900a3e",
 					"isHost": "true"
 				}, { 
                 	 		"name": "Liga Hypermotion 3 720p",
 					"info": "get-agent",
                     			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-3-es.png",
-                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=424c89c7c0f251051269b578f40d13d192cf2c2d",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=bd2f7970c17f427ae92867e2eb86696dd7900a3e",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "Liga Hypermotion 3 720p",
 					"info": "get-embed",
                     			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-3-es.png",
-                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=424c89c7c0f251051269b578f40d13d192cf2c2d",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=bd2f7970c17f427ae92867e2eb86696dd7900a3e",
+					"embed": "true"
+				},
+
+
+
+				{ 
+                	 		"name": "Liga Hypermotion 4 720p",
+					"info": "base-host",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-4-es.png",
+                    			"url" :  "acestream://ef3a9359800bba51018fe00ac84afb8e79a7bbf2",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Liga Hypermotion 4 720p",
+					"info": "base-agent",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-4-es.png",
+                    			"url" :  "acestream://ef3a9359800bba51018fe00ac84afb8e79a7bbf2",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Liga Hypermotion 4 720p",
+					"info": "base-embed",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-4-es.png",
+                    			"url" :  "acestream://ef3a9359800bba51018fe00ac84afb8e79a7bbf2",
+					"embed": "true"
+				}, { 
+                	 		"name": "Liga Hypermotion 4 720p",
+					"info": "get-host",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-4-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=ef3a9359800bba51018fe00ac84afb8e79a7bbf2",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Liga Hypermotion 4 720p",
+					"info": "get-agent",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-4-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=ef3a9359800bba51018fe00ac84afb8e79a7bbf2",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Liga Hypermotion 4 720p",
+					"info": "get-embed",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-4-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=ef3a9359800bba51018fe00ac84afb8e79a7bbf2",
+					"embed": "true"
+				},
+
+
+
+                		{ 
+                	 		"name": "Liga Hypermotion 5 720p",
+					"info": "base-host",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-5-es.png",
+                    			"url" :  "acestream://7a6f7c3acc3689c40f2300432723c55d41222af0",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Liga Hypermotion 5 720p",
+					"info": "base-agent",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-5-es.png",
+                    			"url" :  "acestream://7a6f7c3acc3689c40f2300432723c55d41222af0",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Liga Hypermotion 5 720p",
+					"info": "base-embed",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-5-es.png",
+                    			"url" :  "acestream://7a6f7c3acc3689c40f2300432723c55d41222af0",
+					"embed": "true"
+				}, { 
+                	 		"name": "Liga Hypermotion 5 720p",
+					"info": "get-host",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-5-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=7a6f7c3acc3689c40f2300432723c55d41222af0",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Liga Hypermotion 5 720p",
+					"info": "get-agent",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-5-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=7a6f7c3acc3689c40f2300432723c55d41222af0",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Liga Hypermotion 5 720p",
+					"info": "get-embed",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-5-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=7a6f7c3acc3689c40f2300432723c55d41222af0",
+					"embed": "true"
+				},
+
+
+
+                		{ 
+                	 		"name": "Liga Hypermotion 6 720p",
+					"info": "base-host",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-6-es.png",
+                    			"url" :  "acestream://5bd78125bd1e98c3f49e98910ed15e39d0b9f631",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Liga Hypermotion 6 720p",
+					"info": "base-agent",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-6-es.png",
+                    			"url" :  "acestream://5bd78125bd1e98c3f49e98910ed15e39d0b9f631",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Liga Hypermotion 6 720p",
+					"info": "base-embed",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-6-es.png",
+                    			"url" :  "acestream://5bd78125bd1e98c3f49e98910ed15e39d0b9f631",
+					"embed": "true"
+				}, { 
+                	 		"name": "Liga Hypermotion 6 720p",
+					"info": "get-host",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-6-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=5bd78125bd1e98c3f49e98910ed15e39d0b9f631",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Liga Hypermotion 6 720p",
+					"info": "get-agent",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-6-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=5bd78125bd1e98c3f49e98910ed15e39d0b9f631",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Liga Hypermotion 6 720p",
+					"info": "get-embed",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-6-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=5bd78125bd1e98c3f49e98910ed15e39d0b9f631",
+					"embed": "true"
+				},
+
+
+
+                		{ 
+                	 		"name": "Liga Hypermotion 7 720p",
+					"info": "base-host",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-7-es.png",
+                    			"url" :  "acestream://b7e43c2c3887864193578eb57079955c50070f69",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Liga Hypermotion 7 720p",
+					"info": "base-agent",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-7-es.png",
+                    			"url" :  "acestream://b7e43c2c3887864193578eb57079955c50070f69",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Liga Hypermotion 7 720p",
+					"info": "base-embed",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-7-es.png",
+                    			"url" :  "acestream://b7e43c2c3887864193578eb57079955c50070f69",
+					"embed": "true"
+				}, { 
+                	 		"name": "Liga Hypermotion 7 720p",
+					"info": "get-host",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-7-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=b7e43c2c3887864193578eb57079955c50070f69",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Liga Hypermotion 7 720p",
+					"info": "get-agent",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-7-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=b7e43c2c3887864193578eb57079955c50070f69",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Liga Hypermotion 7 720p",
+					"info": "get-embed",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-7-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=b7e43c2c3887864193578eb57079955c50070f69",
+					"embed": "true"
+				},
+
+
+
+                		{ 
+                	 		"name": "Liga Hypermotion 8 720p",
+					"info": "base-host",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "acestream://11c89343be863cf2a69b3973747c629d9e79d7b8",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Liga Hypermotion 8 720p",
+					"info": "base-agent",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "acestream://11c89343be863cf2a69b3973747c629d9e79d7b8",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Liga Hypermotion 8 720p",
+					"info": "base-embed",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "acestream://11c89343be863cf2a69b3973747c629d9e79d7b8",
+					"embed": "true"
+				}, { 
+                	 		"name": "Liga Hypermotion 8 720p",
+					"info": "get-host",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=11c89343be863cf2a69b3973747c629d9e79d7b8",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Liga Hypermotion 8 720p",
+					"info": "get-agent",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=11c89343be863cf2a69b3973747c629d9e79d7b8",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Liga Hypermotion 8 720p",
+					"info": "get-embed",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=11c89343be863cf2a69b3973747c629d9e79d7b8",
+					"embed": "true"
+				},
+
+
+
+                		{ 
+                	 		"name": "Liga Hypermotion 9 720p",
+					"info": "base-host",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "acestream://0fd11e74d20919c25d2c5d96ba6f7fc7532394c1",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Liga Hypermotion 9 720p",
+					"info": "base-agent",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "acestream://0fd11e74d20919c25d2c5d96ba6f7fc7532394c1",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Liga Hypermotion 9 720p",
+					"info": "base-embed",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "acestream://0fd11e74d20919c25d2c5d96ba6f7fc7532394c1",
+					"embed": "true"
+				}, { 
+                	 		"name": "Liga Hypermotion 9 720p",
+					"info": "get-host",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=0fd11e74d20919c25d2c5d96ba6f7fc7532394c1",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Liga Hypermotion 9 720p",
+					"info": "get-agent",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=0fd11e74d20919c25d2c5d96ba6f7fc7532394c1",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Liga Hypermotion 9 720p",
+					"info": "get-embed",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=0fd11e74d20919c25d2c5d96ba6f7fc7532394c1",
+					"embed": "true"
+				},
+
+
+
+                		{ 
+                	 		"name": "Liga Hypermotion 10 720p",
+					"info": "base-host",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "acestream://629222201d6e36cc0f4ab6244362de32bed783b2",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Liga Hypermotion 10 720p",
+					"info": "base-agent",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "acestream://629222201d6e36cc0f4ab6244362de32bed783b2",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Liga Hypermotion 10 720p",
+					"info": "base-embed",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "acestream://629222201d6e36cc0f4ab6244362de32bed783b2",
+					"embed": "true"
+				}, { 
+                	 		"name": "Liga Hypermotion 10 720p",
+					"info": "get-host",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=629222201d6e36cc0f4ab6244362de32bed783b2",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Liga Hypermotion 10 720p",
+					"info": "get-agent",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=629222201d6e36cc0f4ab6244362de32bed783b2",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Liga Hypermotion 10 720p",
+					"info": "get-embed",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=629222201d6e36cc0f4ab6244362de32bed783b2",
+					"embed": "true"
+				},
+
+
+
+                		{ 
+                	 		"name": "Liga Hypermotion 11 720p",
+					"info": "base-host",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "acestream://d6ecda8ad7be7a9a4de3767eb40569b73b738cb4",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Liga Hypermotion 11 720p",
+					"info": "base-agent",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "acestream://d6ecda8ad7be7a9a4de3767eb40569b73b738cb4",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Liga Hypermotion 11 720p",
+					"info": "base-embed",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "acestream://d6ecda8ad7be7a9a4de3767eb40569b73b738cb4",
+					"embed": "true"
+				}, { 
+                	 		"name": "Liga Hypermotion 11 720p",
+					"info": "get-host",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=d6ecda8ad7be7a9a4de3767eb40569b73b738cb4",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Liga Hypermotion 11 720p",
+					"info": "get-agent",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=d6ecda8ad7be7a9a4de3767eb40569b73b738cb4",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Liga Hypermotion 11 720p",
+					"info": "get-embed",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=d6ecda8ad7be7a9a4de3767eb40569b73b738cb4",
+					"embed": "true"
+				},
+
+
+
+                		{ 
+                	 		"name": "Liga Hypermotion 12 720p",
+					"info": "base-host",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "acestream://7b975804279b0aa421496538ad21397cc06ddfb8",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Liga Hypermotion 12 720p",
+					"info": "base-agent",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "acestream://7b975804279b0aa421496538ad21397cc06ddfb8",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Liga Hypermotion 12 720p",
+					"info": "base-embed",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "acestream://7b975804279b0aa421496538ad21397cc06ddfb8",
+					"embed": "true"
+				}, { 
+                	 		"name": "Liga Hypermotion 12 720p",
+					"info": "get-host",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=7b975804279b0aa421496538ad21397cc06ddfb8",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Liga Hypermotion 12 720p",
+					"info": "get-agent",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=7b975804279b0aa421496538ad21397cc06ddfb8",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Liga Hypermotion 12 720p",
+					"info": "get-embed",
+                    			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=7b975804279b0aa421496538ad21397cc06ddfb8",
 					"embed": "true"
 				},
 
@@ -6572,7 +6936,7 @@
 							   }, {
 								"name": "Canal 2",
 							  	"image": "https://i.ibb.co/bddqjFr/wrc-logo.png",
-								"url" :  "https://coolrea.link/ch49",
+								"url" :  "https://coolrea.link/ch30",
 			 					"isHost":"true"
 							   }, {
 								"name": "Canal 3",
@@ -6594,11 +6958,10 @@
 			 					"isHost":"true" 
 	 						}, {
 								"name": "Canal 2",
-								"info": "locatedinfain",
+								"info": "m3u8",
 							  	"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-								"url" : "https://locatedinfain.com/embed.php?player=desktop&live=do49",
-                     						"referer" : "https://zvision.link/",
-								"isHost": "true"
+								"url" : "https://inst3.ignores.top/js/dazn-formula-1-dazn-f1/1/playlist.m3u8",
+								"userAgent" : ""
 							   }, {
 								"name": "Canal 3",
 								"info": "abol-r23llp | 1str",
