@@ -24,9 +24,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 26/05/2024",
+             "name": "Ultm. versión 29/05/2024",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 26/05/2024",
+            "info": "última versión actualizada el 29/05/2024",
             "stations": []
 	}, 
 	
@@ -4772,14 +4772,14 @@
 	   			"userAgent" : ""
 			}, {
 				"name": "Canal 4",
-				"info": "flbl1",
+				"info": "1.dlhd",
 				"image": "https://i.ibb.co/sVPN8q6/logo-golf.png",
-				"url" : "http://flbl1.112421.net:8082/323627/mpegts?token=0C0313859D21980E031584CA319B8B57",
-				"userAgent": ""
+				"url" : "https://1.dlhd.sx/cast/stream-528.php",
+				"isHost": "true"
 			 }, {
 				"name": "Canal 5",
 				"image": "https://i.ibb.co/sVPN8q6/logo-golf.png",
-				"url" : "https://love2live.wideiptv.top/MOVISTARGOLFES/tracks-v1/index.fmp4.m3u8?token=20c1b08058667c8d1227e6c70cf4ca27a276394a-af12e28ec027f56e121851293184cd32-1713703254-1713692454",
+				"url" : "https://love2live.wideiptv.top/MOVISTARGOLFES/tracks-v1/index.fmp4.m3u8?token=c2a199a175d83254e875ef60b60980bbf1a9485d-e7f0a77f3fadd07a5a9d6f70a535c72f-1716930757-1716919957",
 			   	"userAgent" : ""
 			 }, {
 				"name": "Canal 6",
@@ -8733,8 +8733,9 @@
 							   "userAgent" : ""
 					}, {
 							   "name": "Canal 7",
+							   "info": "wideiptv",
 							   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WrLEUL5KARQ5KrZe_LMVBkqvD2-cx2zAEfMbKD2mhXX-B2bzYyT2c8iCrUBHqNGkwwRhRUsTuxuieiuHgTZusfQD064g98dqTb8uQb1wDdesbNkd4q-J2zUHiMAUzPIS_g8iJ7b7dAeeZRev-kaP9A_UpwL5WOJo_R2hnNesAmyNKvzzFM2nwKvITC1W/w625-h103/logo-MundoToro.png",
-							   "url": "https://wideiptv.top/OneToro/tracks-v1/index.fmp4.m3u8?token=ea5f75af90f84119caddcf4f7aef1131a87d4a2d-35ed3526f496584c92e26d4e82fa0c4d-1715466741-1715455941",
+							   "url": "https://wideiptv.top/OneToro/tracks-v1/index.fmp4.m3u8?token=ee9eba8710ece22e2047696305ddbe4e6d5a9d4c-00e4cc94ac32b36b2c159e3bcaeac733-1716927850-1716917050",
                         				   "userAgent": ""
 					}, {
 							   "name": "Canal 8",
@@ -9426,6 +9427,22 @@
         									"stations": 
         							 		[
 											{
+            											"name": "GP Mónaco 2024",
+												"info": "Carrera | DAZN F1",
+            											"image": "https://phantom-marca.unidadeditorial.es/bfa8e79ddd39ddf43aeb65e50d5a2bf1/resize/828/f/jpg/assets/multimedia/imagenes/2024/05/23/17164530913221.jpg",
+            											"url": "https://filemoon.sx/d/7xghuxacnnns",
+												"userAgent" : "PlusMediaPlayer/0.0.9",
+												"isHost":"true",
+                										"online":"true"
+            										}, {
+            											"name": "GP Mónaco 2024",
+												"info": "Qualy | DAZN F1",
+            											"image": "https://phantom-marca.unidadeditorial.es/bfa8e79ddd39ddf43aeb65e50d5a2bf1/resize/828/f/jpg/assets/multimedia/imagenes/2024/05/23/17164530913221.jpg",
+            											"url": "https://filemoon.sx/d/nsyh0svi9xm5",
+												"userAgent" : "PlusMediaPlayer/0.0.9",
+												"isHost":"true",
+                										"online":"true"
+            										}, {
             											"name": "GP Italia 2024",
 												"info": "Carrera | DAZN F1",
             											"image": "https://phantom-marca.unidadeditorial.es/bc8ac59dc880391d344c8303f51a2271/resize/828/f/jpg/assets/multimedia/imagenes/2024/05/12/17155337280871.jpg",
@@ -9575,6 +9592,20 @@
         									"stations": 
 										[
 											{
+												"name": "GP España 2024",
+												"info":"Carrera | DAZN",
+												"image": "https://phantom-marca.unidadeditorial.es/27534e81cb62275145e84ad8e49ba71a/resize/828/f/jpg/assets/multimedia/imagenes/2024/05/23/17164550244074.jpg",
+												"url": "https://upstream.to/g3s4qixatuts",
+												"isHost":"true",
+												"online":"true"
+											}, {
+												"name": "GP España 2024",
+												"info":"Sprint | DAZN",
+												"image": "https://phantom-marca.unidadeditorial.es/27534e81cb62275145e84ad8e49ba71a/resize/828/f/jpg/assets/multimedia/imagenes/2024/05/23/17164550244074.jpg",
+												"url": "https://listeamed.net/v/m7WJxgJYny25Bze",
+												"isHost":"true",
+												"online":"true"
+											}, {
 												"name": "GP Francia 2024",
 												"info":"Carrera | DAZN",
 												"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/05/12/16838748702912.png",
@@ -9652,6 +9683,13 @@
         									"stations": 
         								  [
 										{
+                									"name": "UFC Fight Night",
+                									"info":"ESPN",
+                									"image": "https://i.postimg.cc/9f5Jzyj6/ufc92.png",
+                									"url":"https://listeamed.net/v/MAlwEMY2wlyEJ39",
+                									"isHost":"true",
+                									"online":"true"
+                								}, {
                 									"name": "UFC Fight Night",
                 									"info":"Estelares | ESPN",
                 									"image": "https://i.postimg.cc/GhzLpcPb/UFC-Fight-Night2.png",
