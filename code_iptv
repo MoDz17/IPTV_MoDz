@@ -24,9 +24,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 29/05/2024",
+             "name": "Ultm. versión 31/05/2024",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 29/05/2024",
+            "info": "última versión actualizada el 31/05/2024",
             "stations": []
 	}, 
 	
@@ -5171,9 +5171,9 @@
 		"isHost" : "true"
 	}, {
 		"name": "Canal 2",
-		"info": "ip | 185.188",
+		"info": "ip | 185",
 	   	"image": "https://i.ibb.co/Ntcj66Q/logo-es1.webp",
-	   	"url":"http://185.188.188.235/live/eurosport/playlist.m3u8",
+	   	"url":"http://185.189.225.157/EuroSport1/index.m3u8",
 	   	"userAgent" : ""
 	}, {
 		"name": "Canal 3",
@@ -5196,9 +5196,9 @@
 		"isHost" : "true"
 	}, {
 		"name": "Canal 2",
-		"info": "",
+		"info": "ip | 185",
 		"image": "https://i.ibb.co/HLcq8Cj/logo-es2.webp",
-	   	"url" : "https://sportskart.click/embed/stream-525.php",
+	   	"url" : "http://185.189.225.157/EuroSport2/index.m3u8",
 		"userAgent":""
 	}, {
 		"name": "Canal 3",
@@ -7406,9 +7406,10 @@
 							 "isHost": "true"
 							}, {
 								"name": "Canal 6",
+								"info": "m3u8",
 								"image": "https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-												 "url": "https://assia24.com/live2/mix1/?lang=es",
-							 "isHost": "true"
+							 	"url": "https://brflu.walk-tv.com/5910/tracks-v1a1/mono.m3u8",
+							 	"userAgent" : ""
 								}, {
 									"name": "Canal 7",
 									"info": "dai.google",
