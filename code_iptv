@@ -7583,7 +7583,7 @@
 							"name": "Canal 1",
 							"info": "ANDROID/iOS",
 							"image": "https://phantom-marca-us.unidadeditorial.es/114af698e4dc5c462d14159a78819af9/resize/828/f/jpg/assets/multimedia/imagenes/2024/05/31/17171750349418.jpg",
-						   	"url": "https://vkvsd74.mycdn.me/hls/6479760591386.m3u8/sig/gdKr51u_1es/srcIp/79.159.59.70/urls/45.136.22.86/expires/1717739748534/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7207596403482/id/6479760591386/6479760591386_high/index.m3u8",
+						   	"url": "https://vkvsd231.mycdn.me/hls/6479760591386.m3u8/sig/2IiqZYd_rJg/expires/1717371898535/srcIp/83.40.151.49/urls/45.136.21.79/clientType/14/srcAg/CHROME_ANDROID/mid/7207596403482/6479760591386_fullhd/index.m3u8",
 						 	"userAgent": ""
 								},{
 							 "name": "Canal 2",
@@ -7605,11 +7605,10 @@
 						 	"userAgent": ""
 								},{ 
 							 	"name": "Canal 5",
-								"info": "strOcean - UFC",
-								"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5aMBynBScnyrCyvkwHvsGGqLtYCdyI1PEE8X6iN2IS9D2MELHKOrJpuR5tnEQdF0PWwz1JlJEQ7Ivn4kEXkp1lckGGLhevfwtbkvG-pEvFRLWGaVsz3vBZBROkJBj8c8tP2y21P3qIZuV0wFifBZhfBy0O4X2j4zbIJdQNzLhTa9UqlA7NyKanlXe-fg-/w645-h432/BoxeoMiniatura.PNG",
-							   	"url": "https://streamocean.online/sportsurge/u1.php",
-                     						"referer" : "https://sportsurge.stream/",
-								"isHost" : "true"
+								"info": "ANDROID/iOS",
+								"image": "https://phantom-marca-us.unidadeditorial.es/114af698e4dc5c462d14159a78819af9/resize/828/f/jpg/assets/multimedia/imagenes/2024/05/31/17171750349418.jpg",
+							   	"url": "https://vkvsd35.mycdn.me/hls/6479760591386.m3u8/sig/DWLfLgZSds8/expires/1717371865113/srcIp/83.40.151.49/urls/45.136.22.86/clientType/14/srcAg/SAFARI_IPHONE_OTHER/mid/7207596403482/6479760591386_fullhd/index.m3u8",
+                     						"userAgent": ""
 						  },{ 
 							 "name": "Canal 6",
 								"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5aMBynBScnyrCyvkwHvsGGqLtYCdyI1PEE8X6iN2IS9D2MELHKOrJpuR5tnEQdF0PWwz1JlJEQ7Ivn4kEXkp1lckGGLhevfwtbkvG-pEvFRLWGaVsz3vBZBROkJBj8c8tP2y21P3qIZuV0wFifBZhfBy0O4X2j4zbIJdQNzLhTa9UqlA7NyKanlXe-fg-/w645-h432/BoxeoMiniatura.PNG",
