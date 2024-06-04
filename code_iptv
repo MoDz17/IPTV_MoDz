@@ -24,9 +24,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 02/06/2024",
+             "name": "Ultm. versión 04/06/2024",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 02/06/2024",
+            "info": "última versión actualizada el 04/06/2024",
             "stations": []
 	}, 
 	
@@ -266,58 +266,58 @@
 				"info":"",
 				"import": false
 			 }, {
-				"name": "Android 2",
+				"name": "ANDROID/iOS 1",
 				"image": "https://cdn-icons-png.freepik.com/512/13746/13746953.png",
-				"url":"http://atjyb.nicgogo.xyz/get.php?username=phenixiptv-EX&password=45687kjdrSDEecdf@368&type=m3u_plus",
-				"info":"700 conexiones",
+				"url":"http://zeuspro.xyz:8080/get.php?username=jay27492749&password=83749jfiwbqldufz499&type=m3u_plus",
+				"info":"550 conexiones",
 				"import": false
 			 }, {
-				"name": "Android/iOS 1",
+				"name": "ANDROID/iOS 2",
 				"image": "https://cdn-icons-png.freepik.com/512/13746/13746953.png",
-				"url":"http://fastream.xyz:8080/get.php?username=PLAYLIFE485166&password=gHAqfHJG52yu&type=m3u_plus",
-				"info":"300 conexiones",
-				"import": false
-			 }, {
-				"name": "Android/iOS 2",
-				"image": "https://cdn-icons-png.freepik.com/512/13746/13746953.png",
-				"url":"http://tv.fuxxionpro.online:8080/get.php?username=Mar12334GFGFSDrddklqkd123&password=paD7AGyaLj&type=m3u_plus",
+				"url":"http://iptvtree.net:8080/get.php?username=xplatinum2023&password=shpaF2mG6eKEqHJ3&type=m3u",
 				"info":"500 conexiones",
 				"import": false
 			 }, {
-				"name": "Android/iOS 3",
+				"name": "ANDROID/iOS 3",
 				"image": "https://cdn-icons-png.freepik.com/512/13746/13746953.png",
-				"url":"http://restreamus.com/get.php?username=Cambiotodoplus&password=w84fLZEtDQud&type=m3u",
-				"info":"200 conexiones",
+				"url":"http://tv.proyectox.vip:8080/get.php?username=jay27492749&password=83749jfiwbqldufz499&type=m3u_plus",
+				"info":"500 conexiones",
 				"import": false
 			 }, {
-				"name": "Android/iOS 4",
+				"name": "ANDROID/iOS 4",
+				"image": "https://cdn-icons-png.freepik.com/512/13746/13746953.png",
+				"url":"http://bandookk.xyz:61/get.php?username=tvaks&password=01duygulu__68&type=m3u_plus&output=m3u8",
+				"info":"300 conexiones",
+				"import": false
+			 }, {
+				"name": "Android/iOS 5",
 				"image": "https://cdn-icons-png.freepik.com/512/13746/13746953.png",
 				"url":"http://lobo-tv.live:8080/get.php?username=Megatvplus&password=pZNvewtBmjTfAe&type=m3u_plus",
 				"info":"350 conexiones",
 				"import": false
 			 }, {
-				"name": "Android/iOS 5",
+				"name": "ANDROID/iOS 6",
 				"image": "https://cdn-icons-png.freepik.com/512/13746/13746953.png",
-				"url":"http://emuligl.info:80/get.php?username=e7XfunEfVJWj&password=Uu7CfRFRbCzS&type=m3u_plus",
+				"url":"http://amazingiptv.one:8080/get.php?username=kaan159467kaan2634&password=Dacota123456&type=m3u",
 				"info":"200 conexiones",
 				"import": false
 			 }, {
-				"name": "Android/iOS 6",
+				"name": "ANDROID/iOS 7",
 				"image": "https://cdn-icons-png.freepik.com/512/13746/13746953.png",
-				"url":"http://spaticplas.org:8080/get.php?username=Cambiotodoplus&password=w84fLZEtDQud&type=m3u_plus",
+				"url":"http://zxd.4k-crystal.top:8080/get.php?username=elattartvgsfterw&password=aiuA7vctyT&type=m3u",
 				"info":"200 conexiones",
 				"import": false
 			 }, {
-				"name": "Android/iOS 7",
+				"name": "ANDROID/iOS 8",
 				"image": "https://cdn-icons-png.freepik.com/512/13746/13746953.png",
-				"url":"http://amazingiptv.live:8080/get.php?username=kaan159467kaan2634&password=Dacota123456&type=m3u",
-				"info":"200 conexiones",
+				"url":"http://disfruta.net:80/get.php?username=Justplay&password=CRYrHtUeVf&type=m3u_plus",
+				"info":"180 conexiones",
 				"import": false
 			 }, {
-				"name": "Android/iOS 8",
+				"name": "ANDROID/iOS 9",
 				"image": "https://cdn-icons-png.freepik.com/512/13746/13746953.png",
-				"url":"http://dns.clientetv.tech/get.php?username=sourceuxusaX2&password=bRsCaNup9Cb3&type=m3u",
-				"info":"355 conexiones",
+				"url":"http://budtvlight.com:25461/get.php?username=carlospix&password=Rx5HpkPqgp&type=m3u",
+				"info":"150 conexiones",
 				"import": false
 			 }]
 	},
@@ -4362,7 +4362,7 @@
 				   "info": "clap-71 | tvf",
 				   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhC_ZrjTAL_zi61ZUD-aRw18x_XEiKBS-sH5X1EihR_oZ43LsvApOPfWnvjAXfkxh2h_i8W7RNDfU4t42vQskD-fBjP25sBpJKo1fLEAkT4hliVrOVA3HQewEBFLGb3ntMTj2KTu63u4yzFBJUj92xyBfh9Ka9vQPMsZJaAtrJfWS8Nzr34pf9QtJj7CyY/w589-h212/logo_vamos.png",
 				   "url" : "https://claplivehdplay.ru/embedlc.php?id=71",
-				   "referer" : "https://tvfutbol.info/",
+				   "referer" : "https://primefoot.ru/",
 				   "isHost":"true"
 			   }, {
 				   "name": "Canal 7",
@@ -4444,16 +4444,16 @@
 				"isHost" : "true"
 				 }, {
 				"name": "Canal 6",
-				"info": "godzcast",
+				"info": "locatedinfain",
 				"image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
-				"url" : "https://godzcast.com/embed.php?player=desktop&live=do64",
+				"url" : "https://locatedinfain.com/embed.php?player=desktop&live=do64",
 		        	"referer": "https://zvision.link/",
 				"isHost": "true"
 			}, {
 				"name": "Canal 7",
-				"info": "godzcast",
+				"info": "locatedinfain",
 				"image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
-				"url" : "https://godzcast.com/embed.php?player=desktop&live=do65",
+				"url" : "https://locatedinfain.com/embed.php?player=desktop&live=do65",
 		        	"referer": "https://zvision.link/",
 				"isHost" : "true"
 			 }, {
@@ -4826,7 +4826,7 @@
 				 }, {
 	   		"name": "Canal 5",
 			   "image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-			"url": "https://godzcast.com/embed.php?player=desktop&live=do23",
+			"url": "https://locatedinfain.com/embed.php?player=desktop&live=do23",
 			"referer": "https://zvision.link/",
 			"isHost": "true"
 	}, {
@@ -4902,13 +4902,13 @@
 		 	}, {
 				"name": "Canal 17",
 				"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-				"url" : "https://godzcast.com/embed.php?player=desktop&live=do33",
+				"url" : "https://locatedinfain.com/embed.php?player=desktop&live=do33",
 	 			"referer": "https://zvision.link/",
 	 			"isHost": "true"  
  			}, {
 				"name": "Canal 18",
 				"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-				"url" : "https://godzcast.com/embed.php?player=desktop&live=do34",
+				"url" : "https://locatedinfain.com/embed.php?player=desktop&live=do34",
 	 			"referer": "https://zvision.link/",
 	 			"isHost": "true"  
  			}, {
@@ -4920,16 +4920,15 @@
              			"isHost": "true"
 			}, {
 				"name": "Canal 20",
-				"info": "d4zc",
+				"info": "",
 				"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-				"url" : "https://d4zc.asia/hls1.php?get=aHR0cHM6Ly9kYXpjaW50aGVob3VzZS54eXovcHJlbWllcjgvaW5kZXgubTN1OA==",
-                                "referer" : "https://ft.dazcfutbolios.xyz/",
+				"url" : "https://klubsports.buzz/watch/watch.php?id=545&channel=Movistar%20Liga%20de%20Campeones",
 	 			"isHost": "true"  
  			}, {
 				"name": "Canal 21",
 				"info": "do10",
 			   	"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-			   	"url": "https://godzcast.com/embed.php?player=desktop&live=do10",
+			   	"url": "https://locatedinfain.com/embed.php?player=desktop&live=do10",
                        		"referer" : "https://zvision.link/",
 				"isHost": "true"
 			}, {
@@ -4954,7 +4953,7 @@
 			   },{ 
 			"name": "Canal 2",
 		   	"image": "https://i.ibb.co/vhNCnrq/DAZN-2-Logo-Sin-Fondo.webp",
-		 	"url": "https://godzcast.com/embed.php?player=desktop&live=do2",
+		 	"url": "https://locatedinfain.com/embed.php?player=desktop&live=do2",
 			"referer": "https://zvision.link/",
 			"isHost": "true"
 			   },{ 
@@ -4965,7 +4964,7 @@
 		  },{ 
 				"name": "Canal 4",
 			   	"image": "https://i.ibb.co/vhNCnrq/DAZN-2-Logo-Sin-Fondo.webp",
-			  	"url": "https://godzcast.com/embed.php?player=desktop&live=do9",
+			  	"url": "https://locatedinfain.com/embed.php?player=desktop&live=do9",
 				"referer": "https://zvision.link/",
 				"isHost": "true"
 	   	},{ 
@@ -4978,7 +4977,7 @@
 		}, {
 			"name": "Canal 6",
 			"image": "https://i.ibb.co/vhNCnrq/DAZN-2-Logo-Sin-Fondo.webp",
-			 "url": "https://godzcast.com/embed.php?player=desktop&live=do25",
+			 "url": "https://locatedinfain.com/embed.php?player=desktop&live=do25",
 			"referer": "https://zvision.link/",
 			 "isHost": "true"
 			}, {
@@ -5089,7 +5088,7 @@
 		 		}, {
 			   		"name": "Canal 11",
 			   		"image": "https://i.ibb.co/p1Ry56w/DAZN-3-Logo-Sin-Fondo.png",
-					"url": "https://godzcast.com/embed.php?player=desktop&live=do32",
+					"url": "https://locatedinfain.com/embed.php?player=desktop&live=do32",
 			   		"referer" : "https://zvision.link/",
 			   		"isHost":"true"
 				  }, {
@@ -5112,7 +5111,7 @@
 		  },{ 
 			"name": "Canal 2",
 			   "image": "https://i.ibb.co/LQy2rM6/DAZN-4-Logo-Sin-Fondo.png",
-		 "url": "https://godzcast.com/embed.php?player=desktop&live=do36",
+		 "url": "https://locatedinfain.com/embed.php?player=desktop&live=do36",
 			"referer": "https://zvision.link/",
 		"isHost": "true"  
 		 },{ 
@@ -5144,7 +5143,7 @@
 	 }, {
 	"name": "Canal 7",
 	"image": "https://i.ibb.co/LQy2rM6/DAZN-4-Logo-Sin-Fondo.png",
-	"url": "https://godzcast.com/embed.php?player=desktop&live=do30",
+	"url": "https://locatedinfain.com/embed.php?player=desktop&live=do30",
 	"referer": "https://zvision.link/",
 	 "isHost": "true"  
 	 }, {
@@ -5166,9 +5165,10 @@
 	   	"isHost": "true"
 	 }, {
 		"name": "Canal 1",
+		"info": "m3u8",
 		"image": "https://i.ibb.co/Ntcj66Q/logo-es1.webp",
-	 	"url" : "https://badtothebone.foo/player/cf9ff36d5c9e8f1e-a33124eb4e665fdd3e28454d0b043a3f",
-		"isHost" : "true"
+	 	"url" : "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:43_HD.smil/manifest.m3u8",
+		"userAgent" : ""
 	}, {
 		"name": "Canal 2",
 		"info": "ip | 185",
@@ -5190,10 +5190,10 @@
 		 "isHost":"true"
 	}, {
 		"name": "Canal 1",
+		"info": "m3u8",
 		"image": "https://i.ibb.co/HLcq8Cj/logo-es2.webp",
-		"url" : "https://jepsikuydo1.foroactivo.com/h2-canales?id=DAZN_LA_LIGA",
-                "referer" : "https://jepsikuydo1.foroactivo.com/h2-canales?id=EUROSPORT_2_ES",
-		"isHost" : "true"
+		"url" : "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:59_HD.smil/manifest.m3u8",
+	 	"userAgent":""
 	}, {
 		"name": "Canal 2",
 		"info": "ip | 185",
@@ -5336,7 +5336,7 @@
 				 }, {
 							"name": "Canal 9",
 							   "image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-							  "url" : "https://godzcast.com/embed.php?player=desktop&live=do40",
+							  "url" : "https://locatedinfain.com/embed.php?player=desktop&live=do40",
 							 "referer": "https://zvision.link/",
 							"isHost": "true"
 					  }, {
@@ -5464,9 +5464,9 @@
 				 "isHost": "true" 
 			}, {
 				"name": "Canal 30",
-				"info": "godzcast",
+				"info": "locatedinfain",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				"url" : "https://godzcast.com/embed.php?player=desktop&live=do40",
+				"url" : "https://locatedinfain.com/embed.php?player=desktop&live=do40",
 		        	"referer": "https://zvision.link/",
 			   	"isHost": "true"
 			 }, {
@@ -5500,7 +5500,7 @@
 			 }, {
 				   "name": "Canal 35",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				 "url" : "https://godzcast.com/embed.php?player=desktop&live=do29",
+				 "url" : "https://locatedinfain.com/embed.php?player=desktop&live=do29",
 				   "referer": "https://zvision.link/",
 				   "isHost": "true"
 			 }, {
@@ -5739,9 +5739,10 @@
                  		"isHost": "true"
 			}, { 
                  		"name": "Canal 74",
-				"info": "",
+				"info": "abol-xx | kw6ef",
                     		"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-                      		"url" :  "https://embx210386.apl260.me//player/live.php?id=210386&w=100%&h=100%",
+                      		"url" : "https://abolishstand.net/embed/kw6ef0n921mnbf0",
+                         	"referer" : "https://www.elixx.xyz/",
                  		"isHost": "true"
 			}, { 
                  		"name": "Canal 75",
@@ -5843,7 +5844,7 @@
 				}, {
 					"name": "Canal 11",
 					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
-					"url" : "https://godzcast.com/embed.php?player=desktop&live=do22",
+					"url" : "https://locatedinfain.com/embed.php?player=desktop&live=do22",
               				"referer": "https://zvision.link/",
            				"isHost" : "true"
 				}, {
@@ -5939,7 +5940,7 @@
                  				"name": "Canal 26",
 						"info": "do19",
                     				"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
-                      				"url": "https://godzcast.com/embed.php?player=desktop&live=do19",
+                      				"url": "https://locatedinfain.com/embed.php?player=desktop&live=do19",
 						"referer": "https://zvision.link/",
 						"isHost":"true"
 				}, { 
@@ -6106,7 +6107,7 @@
 						}, {
 							"name": "Canal 4",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-					   		"url": "https://godzcast.com/embed.php?player=desktop&live=do10",
+					   		"url": "https://locatedinfain.com/embed.php?player=desktop&live=do10",
 							"referer": "https://zvision.link/",
 							"isHost": "true"
 						}, {
@@ -6131,19 +6132,19 @@
 						}, {
 							"name": "Canal 8",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-					   		"url": "https://godzcast.com/embed.php?player=desktop&live=do34",
+					   		"url": "https://locatedinfain.com/embed.php?player=desktop&live=do34",
 							  "referer": "https://1l1l.to/",
 							 "isHost": "true"
 						}, {
 							"name": "Canal 9",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-					   		"url": "https://godzcast.com/embed.php?player=desktop&live=do20",
+					   		"url": "https://locatedinfain.com/embed.php?player=desktop&live=do20",
 							  "referer": "https://1l1l.to/",
 							 "isHost": "true"
 						}, {
 							"name": "Canal 10",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-					   		"url": "https://godzcast.com/embed.php?player=desktop&live=do35",
+					   		"url": "https://locatedinfain.com/embed.php?player=desktop&live=do35",
 							  "referer": "https://1l1l.to/",
 							 "isHost": "true"
 						}, {
@@ -6200,13 +6201,13 @@
 						 }, {
 							"name": "Canal 4",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-						 	"url": "https://godzcast.com/embed.php?player=desktop&live=do15",
+						 	"url": "https://locatedinfain.com/embed.php?player=desktop&live=do15",
 							"referer": "https://zvision.link/",
 							 "isHost": "true"
 						  }, {
 							"name": "Canal 5",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-							 "url": "https://godzcast.com/embed.php?player=desktop&live=do19",
+							 "url": "https://locatedinfain.com/embed.php?player=desktop&live=do19",
 							"referer": "https://zvision.link/",
 							 "isHost": "true"
 					   }, {
@@ -6218,37 +6219,37 @@
 						  }, {
 							"name": "Canal 7",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-							"url": "https://godzcast.com/embed.php?player=desktop&live=do13",
+							"url": "https://locatedinfain.com/embed.php?player=desktop&live=do13",
 							"referer" : "https://zvision.link/",
 							 "isHost": "true"
 						   }, {
 							"name": "Canal 8",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-							"url": "https://godzcast.com/embed.php?player=desktop&live=do14",
+							"url": "https://locatedinfain.com/embed.php?player=desktop&live=do14",
 							"referer" : "https://zvision.link/",
 							 "isHost": "true"
 						}, {
 							"name": "Canal 9",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-							"url": "https://godzcast.com/embed.php?player=desktop&live=do18",
+							"url": "https://locatedinfain.com/embed.php?player=desktop&live=do18",
 							"referer" : "https://zvision.link/",
 							 "isHost": "true"
 						}, {
 							"name": "Canal 10",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-							"url": "https://godzcast.com/embed.php?player=desktop&live=do16",
+							"url": "https://locatedinfain.com/embed.php?player=desktop&live=do16",
 							"referer" : "https://zvision.link/",
 							 "isHost": "true"
 						}, {
 							"name": "Canal 11",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-							"url": "https://godzcast.com/embed.php?player=desktop&live=do12",
+							"url": "https://locatedinfain.com/embed.php?player=desktop&live=do12",
 							"referer" : "https://zvision.link/",
 							 "isHost": "true"
 						}, {
 							"name": "Canal 12",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-							"url": "https://godzcast.com/embed.php?player=desktop&live=do11",
+							"url": "https://locatedinfain.com/embed.php?player=desktop&live=do11",
 							"referer" : "https://zvision.link/",
 							 "isHost": "true"
 						}, {
@@ -6261,7 +6262,7 @@
 						}, {
 							"name": "Canal 14",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-							"url": "https://godzcast.com/embed.php?player=desktop&live=do17",
+							"url": "https://locatedinfain.com/embed.php?player=desktop&live=do17",
 							"referer" : "https://zvision.link/",
 							 "isHost": "true"
 						}, {
@@ -6319,7 +6320,7 @@
 						 }, {
 							"name": "Canal 4",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-					  		"url": "https://godzcast.com/embed.php?player=desktop&live=do30",
+					  		"url": "https://locatedinfain.com/embed.php?player=desktop&live=do30",
 							 "referer" : "https://zvision.link/",
 							 "isHost": "true"
 						}, {
@@ -6351,7 +6352,7 @@
 						   }, {
 							"name": "Canal 9",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-							"url": "https://godzcast.com/embed.php?player=desktop&live=do2",
+							"url": "https://locatedinfain.com/embed.php?player=desktop&live=do2",
 							"referer": "https://zvision.link/",
 							 "isHost": "true"
 						}, {
@@ -6370,7 +6371,7 @@
 	       }, {
 			"name": "Canal 12",
 			"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-			"url": "https://godzcast.com/embed.php?player=desktop&live=do37",
+			"url": "https://locatedinfain.com/embed.php?player=desktop&live=do37",
 			 "referer" : "https://1l1l.to/",
              "isHost": "true"
                 }, {
@@ -6463,25 +6464,25 @@
 			}, {
 				 "name": "Canal 28",
 			   "image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-			   "url":"https://godzcast.com/embed.php?player=desktop&live=do3",
+			   "url":"https://locatedinfain.com/embed.php?player=desktop&live=do3",
 			   "referer": "https://zvision.link/",
 			   "isHost" : "true" 
 			}, {
 				 "name": "Canal 29",
 			   "image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-			   "url":"https://godzcast.com/embed.php?player=desktop&live=do6",
+			   "url":"https://locatedinfain.com/embed.php?player=desktop&live=do6",
 			   "referer": "https://zvision.link/",
 			   "isHost" : "true" 
 			}, {
 				 "name": "Canal 30",
 			   "image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-			   "url":"https://godzcast.com/embed.php?player=desktop&live=do8",
+			   "url":"https://locatedinfain.com/embed.php?player=desktop&live=do8",
 			   "referer": "https://zvision.link/",
 			   "isHost" : "true" 
 			}, {
 				 "name": "Canal 31",
 			   "image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-			   "url":"https://godzcast.com/embed.php?player=desktop&live=do2",
+			   "url":"https://locatedinfain.com/embed.php?player=desktop&live=do2",
 			   "referer": "https://zvision.link/",
 			   "isHost" : "true" 
 			}, {
@@ -6510,13 +6511,13 @@
 			}, {
 				"name": "Canal 2",
 				"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-				 "url": "https://godzcast.com/embed.php?player=desktop&live=do37",
+				 "url": "https://locatedinfain.com/embed.php?player=desktop&live=do37",
 				"referer": "https://zvision.link/",
 				 "isHost": "true"
 			}, {
 				"name": "Canal 3",
 				"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-		   		"url": "https://godzcast.com/embed.php?player=desktop&live=do28",
+		   		"url": "https://locatedinfain.com/embed.php?player=desktop&live=do28",
 				"referer": "https://zvision.link/",
 				 "isHost": "true"
 			}, {
@@ -6529,7 +6530,7 @@
 						}, {
 				"name": "Canal 5",
 				"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-				"url": "https://godzcast.com/embed.php?player=desktop&live=do38",
+				"url": "https://locatedinfain.com/embed.php?player=desktop&live=do38",
 				"referer": "https://zvision.link/",
 				 "isHost": "true"
 			}, {
@@ -6541,7 +6542,7 @@
 				 }, {
 				"name": "Canal 7",
 				"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-		   		"url": "https://godzcast.com/embed.php?player=desktop&live=do22",
+		   		"url": "https://locatedinfain.com/embed.php?player=desktop&live=do22",
 				"referer": "https://zvision.link/",
 				 "isHost": "true"
 			}, {
@@ -6560,19 +6561,19 @@
 			}, {
 				"name": "Canal 10",
 				"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-				 "url": "https://godzcast.com/embed.php?player=desktop&live=do6",
+				 "url": "https://locatedinfain.com/embed.php?player=desktop&live=do6",
 				"referer": "https://zvision.link/",
 				 "isHost": "true"
 				 }, {
 				"name": "Canal 11",
 				"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-		   		"url": "https://godzcast.com/embed.php?player=desktop&live=do7",
+		   		"url": "https://locatedinfain.com/embed.php?player=desktop&live=do7",
 				"referer": "https://zvision.link/",
 				 "isHost": "true"
 				}, {
 				"name": "Canal 12",
 				"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-				"url": "https://godzcast.com/embed.php?player=desktop&live=do38",
+				"url": "https://locatedinfain.com/embed.php?player=desktop&live=do38",
 				"referer": "https://zvision.link/",
 				 "isHost": "true"
 			  }, {
@@ -6591,7 +6592,7 @@
 			 }, {
 				 "name": "Canal 15",
 			   	"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-			   	"url":"https://godzcast.com/embed.php?player=desktop&live=do3",
+			   	"url":"https://locatedinfain.com/embed.php?player=desktop&live=do3",
 			   	"referer": "https://zvision.link/",
 			   	"isHost" : "true" 
 			}, {
@@ -6611,7 +6612,7 @@
 				 "name": "Canal 18",
 				 "info": "godz - do16",
 			   	"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-			   	"url": "https://godzcast.com/embed.php?player=desktop&live=do16",
+			   	"url": "https://locatedinfain.com/embed.php?player=desktop&live=do16",
 				"referer": "https://zvision.link/",
 			   	"isHost" : "true" 
 			}, {
@@ -6674,7 +6675,7 @@
 				"name": "Canal 27",
 				"info": "jewe - do20",
 			   	"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-			   	"url": "https://godzcast.com/embed.php?player=desktop&live=do20",
+			   	"url": "https://locatedinfain.com/embed.php?player=desktop&live=do20",
 				"referer": "https://zvision.link/",
 			   	"isHost" : "true" 
 			}, {
@@ -6861,7 +6862,7 @@
 							},{ 
 							 	"name": "Canal 3",
 								"image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
-								"url": "https://godzcast.com/embed.php?player=desktop&live=do10",
+								"url": "https://locatedinfain.com/embed.php?player=desktop&live=do10",
                        						"referer" : "https://zvision.link/",
 								"isHost": "true"
 							},{ 
@@ -6881,7 +6882,7 @@
 						  	},{
 								"name": "Canal 6",
 								"image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
-							 	"url": "https://godzcast.com/embed.php?player=desktop&live=do15",
+							 	"url": "https://locatedinfain.com/embed.php?player=desktop&live=do15",
                        						"referer" : "https://zvision.link/",
 								"isHost": "true"
 							},{
@@ -6893,7 +6894,7 @@
 						  	},{
 								"name": "Canal 8",
 								"image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
-							  	"url": "https://godzcast.com/embed.php?player=desktop&live=do22",
+							  	"url": "https://locatedinfain.com/embed.php?player=desktop&live=do22",
 								"referer": "https://zvision.link/",
 						 		"isHost": "true"
 						 	},{
@@ -7038,7 +7039,7 @@
 							}, {
 								  "name": "Canal 15",
 								  "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-								  "url" : "https://godzcast.com/embed.php?player=desktop&live=do10",
+								  "url" : "https://locatedinfain.com/embed.php?player=desktop&live=do10",
 								  "referer": "https://zvision.link/",
 								  "isHost": "true"
 						   	}, {
@@ -7051,7 +7052,7 @@
 								"name": "Canal 17",
 								"info": "do10-cdn2",
 								"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-								"url": "https://godzcast.com/embed.php?player=desktop&live=do10",
+								"url": "https://locatedinfain.com/embed.php?player=desktop&live=do10",
 								"referer": "https://s.cdn2.link/",
              							"isHost": "true"
 							 }, {
@@ -7143,7 +7144,7 @@
 								"name": "Canal 32",
 								"info": "do19",
 								"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-								"url": "https://godzcast.com/embed.php?player=desktop&live=do19",
+								"url": "https://locatedinfain.com/embed.php?player=desktop&live=do19",
 								"referer": "https://zvision.link/",
              							"isHost": "true"
 							  }, {
@@ -7255,7 +7256,7 @@
 							  }, {
 								  "name": "Canal 12",
 								  "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
-								   "url": "https://godzcast.com/embed.php?player=desktop&live=do10",
+								   "url": "https://locatedinfain.com/embed.php?player=desktop&live=do10",
 								  "referer": "https://zvision.link/",
 								   "isHost": "true"
 							  }, {
@@ -7288,7 +7289,7 @@
 							}, {
 								  "name": "Canal 17",
 								  "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
-								   "url": "https://godzcast.com/embed.php?player=desktop&live=do27",
+								   "url": "https://locatedinfain.com/embed.php?player=desktop&live=do27",
 								  "referer": "https://zvision.link/",
 								   "isHost": "true"
 							  }, {
@@ -7346,9 +7347,10 @@
              							"isHost": "true"
 							  }, {
 								"name": "Canal 26",
-								"info": "php",
+								"info": "fiveyard",
 								"image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
-								"url": "https://sportsurge.stream/embed/motogp.php",
+								"url" : "https://fiveyardlab.com/wiki.php?player=desktop&live=w016",
+               							"referer" : "https://wikisport.se/",
                          					"isHost": "true"
 							  }, {
 								"name": "Canal 27",
@@ -7386,24 +7388,24 @@
 								"name": "Canal 2",
 								 "image": "https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
 								  "url": "https://wecast.to/onionstream.php?stream=rYOSUILknLj",
-							 "referer":"https://onionstream.live/",
+							 	"referer":"https://onionstream.live/",
 									"isHost":"true"
 							}, {
 								"name": "Canal 3",
 								"image": "https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
 								"url" : "http://xone8.1222908.net:80/live/885769D17D6D2433704C691CF4C07CA2/337813",
-							 "userAgent" : "PlusMediaPlayer/0.0.9"
+							 	"userAgent" : "PlusMediaPlayer/0.0.9"
 							}, {
 								"name": "Canal 4",
 								"image": "https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
 								 "url" :  "http://stream.jokerstreampage.xyz/?player=%3Ciframe%20src%3D%22https%3A%2F%2Fwww.jokersplayer.xyz%2Fembedssl.php%3Fu%3Dskytennisde%26amp%3Bvw%3D100percent%26vh%3D360%22%20width%3D%22640%22%20height%3D%22360%22%20scrolling%3D%22no%22%20frameborder%3D%220%22%20allowtransparency%3D%22true%22%20marginheight%3D%220%22%20marginwidth%3D%220%22%20allowfullscreen%3D%22allowfullscreen%22%3E%3C%2Fiframe%3E&homeTeamName=Mekti%C4%87%20N%20/%20Pavi%C4%87%20M&homeTeamLogo=/participants/89516.png&guestTeamName=Dodig%20I%20/%20Krajicek%20A&guestTeamLogo=/participants/390140.png&matchStartTime=1668447000&matchEndTime=1668465000&gameType=tennis&leagueUrl=atp-finals-doubles&leagueName=ATP%20Finals,%20Doubles&leagueLogo=/locations/atp.png&leagueId=6c87915b&title=Mekti%C4%87%20N%20/%20Pavi%C4%87%20M%20vs%20Dodig%20I%20/%20Krajicek%20A%20Live%20Stream%20-%20on%20Monday,%2014%20November%2017:30%20UTC",
-							 "isHost":"true"
+							 	"isHost":"true"
 							}, {
 								"name": "Canal 5",
 								"image": "https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
 								 "url": "https://earthquakecensus.com/embed/2sdwgqmqzm1",
-							"referer": "https://starlive.xyz/",
-							 "isHost": "true"
+								"referer": "https://starlive.xyz/",
+							 	"isHost": "true"
 							}, {
 								"name": "Canal 6",
 								"info": "m3u8",
@@ -7539,34 +7541,64 @@
 									"isHost": "true"
 								}, {
 									"name":"Canal 28",
-								 	"image":"https://i.ibb.co/jr7VQss/logo-off.png",
-								  	"url": "",
-							 		"userAgent" : ""
+								 	"image":"https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
+								  	"url": "https://fiveyardlab.com/wiki.php?player=desktop&live=ten11",
+            								"referer" : "https://wikisport.click/",
+									"isHost": "true"
 								}, {
 									"name":"Canal 29",
-								 	"image":"https://i.ibb.co/jr7VQss/logo-off.png",
-								  	"url": "",
-							 		"userAgent" : ""
+								 	"image":"https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
+								  	"url": "https://fiveyardlab.com/wiki.php?player=desktop&live=ten12",
+            								"referer" : "https://wikisport.click/",
+									"isHost": "true"
 								}, {
 									"name":"Canal 30",
-								 	"image":"https://i.ibb.co/jr7VQss/logo-off.png",
-								  	"url": "",
-							 		"userAgent" : ""
+								 	"image":"https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
+								  	"url": "https://fiveyardlab.com/wiki.php?player=desktop&live=ten13",
+            								"referer" : "https://wikisport.click/",
+									"isHost": "true"
 								}, {
 									"name":"Canal 31",
-								 	"image":"https://i.ibb.co/jr7VQss/logo-off.png",
-								  	"url": "",
-							 		"userAgent" : ""
+								 	"image":"https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
+								  	"url": "https://fiveyardlab.com/wiki.php?player=desktop&live=ten14",
+            								"referer" : "https://wikisport.click/",
+									"isHost": "true"
 								}, {
 									"name":"Canal 32",
-								 	"image":"https://i.ibb.co/jr7VQss/logo-off.png",
-								  	"url": "",
-							 		"userAgent" : ""
+								 	"image":"https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
+								  	"url": "https://fiveyardlab.com/wiki.php?player=desktop&live=ten15",
+            								"referer" : "https://wikisport.click/",
+									"isHost": "true"
 								}, {
 									"name":"Canal 33",
-								 	"image":"https://i.ibb.co/jr7VQss/logo-off.png",
-								  	"url": "",
-							 		"userAgent" : ""
+								 	"image":"https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
+								  	"url": "https://fiveyardlab.com/wiki.php?player=desktop&live=ten16",
+            								"referer" : "https://wikisport.click/",
+									"isHost": "true"
+								}, {
+									"name":"Canal 34",
+								 	"image":"https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
+								  	"url": "https://fiveyardlab.com/wiki.php?player=desktop&live=ten17",
+            								"referer" : "https://wikisport.click/",
+									"isHost": "true"
+								}, {
+									"name":"Canal 35",
+								 	"image":"https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
+								  	"url": "https://fiveyardlab.com/wiki.php?player=desktop&live=ten18",
+            								"referer" : "https://wikisport.click/",
+									"isHost": "true"
+								}, {
+									"name":"Canal 36",
+								 	"image":"https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
+								  	"url": "https://fiveyardlab.com/wiki.php?player=desktop&live=ten19",
+            								"referer" : "https://wikisport.click/",
+									"isHost": "true"
+								}, {
+									"name":"Canal 37",
+								 	"image":"https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
+								  	"url": "https://fiveyardlab.com/wiki.php?player=desktop&live=ten20",
+            								"referer" : "https://wikisport.click/",
+									"isHost": "true"
 								}]
 						}, 
 						
@@ -7576,49 +7608,49 @@
 						"info": "",
 						"stations": [{
 							"name": "Boxing TV",
-						   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5rq27kwKNXb7jQtLA6cbtOHJb80qLz8p-NixfsV5d7WFQhuIWt7ECHi2TqneBRB0uW35hxbbhsy7k3X9u3chhSMrmaov5BBHWCL6tCQ9jeHqDuKDYxj1DnCK77Akv08U2H8SRVBv6uol-xliGkcS7n_ABEd52M4QTiEMxEqi9W3tAyuh8bk822zcWJXoH/w656-h530/logo_boxingTV.png",
-						   "url":"https://1180885077.rsc.cdn77.org/HLS/BOXINGTV.m3u8",
-						   "userAgent" : ""
+						   	"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5rq27kwKNXb7jQtLA6cbtOHJb80qLz8p-NixfsV5d7WFQhuIWt7ECHi2TqneBRB0uW35hxbbhsy7k3X9u3chhSMrmaov5BBHWCL6tCQ9jeHqDuKDYxj1DnCK77Akv08U2H8SRVBv6uol-xliGkcS7n_ABEd52M4QTiEMxEqi9W3tAyuh8bk822zcWJXoH/w656-h530/logo_boxingTV.png",
+						   	"url":"https://1180885077.rsc.cdn77.org/HLS/BOXINGTV.m3u8",
+						   	"userAgent" : ""
 						 }, {
 							"name": "Canal 1",
 							"info": "ANDROID/iOS",
-							"image": "https://phantom-marca-us.unidadeditorial.es/114af698e4dc5c462d14159a78819af9/resize/828/f/jpg/assets/multimedia/imagenes/2024/05/31/17171750349418.jpg",
-						   	"url": "https://vkvsd231.mycdn.me/hls/6479760591386.m3u8/sig/2IiqZYd_rJg/expires/1717371898535/srcIp/83.40.151.49/urls/45.136.21.79/clientType/14/srcAg/CHROME_ANDROID/mid/7207596403482/6479760591386_fullhd/index.m3u8",
+							"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+						   	"url": "",
 						 	"userAgent": ""
-								},{
+						},{
 							 "name": "Canal 2",
-							"info": "m3u8",
-							"image": "https://phantom-marca-us.unidadeditorial.es/114af698e4dc5c462d14159a78819af9/resize/828/f/jpg/assets/multimedia/imagenes/2024/05/31/17171750349418.jpg",
-						   	"url": "http://inst3.ignores.top/js/ufc-events-ufc-mma-ufc-ppv/4/playlist.m3u8",
+							"info": "",
+							"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+						   	"url": "",
 						 	"userAgent": ""
-								},{
+						},{
 							 "name": "Canal 3",
-							"info": "m3u8",
-							"image": "https://phantom-marca-us.unidadeditorial.es/114af698e4dc5c462d14159a78819af9/resize/828/f/jpg/assets/multimedia/imagenes/2024/05/31/17171750349418.jpg",
-						   	"url": "https://eu02.flowstreams.top/ufc302/tracks-v1a1/mono.m3u8",
+							"info": "",
+							"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+						   	"url": "",
 						 	"userAgent": ""
-							},{ 
+						},{ 
 						 	"name": "Canal 4",
-					 		"info": "m3u8",
-							"image": "https://phantom-marca-us.unidadeditorial.es/114af698e4dc5c462d14159a78819af9/resize/828/f/jpg/assets/multimedia/imagenes/2024/05/31/17171750349418.jpg",
-						   	"url": "https://eu02.flowstreams.top/ufc302/index.m3u8",
+					 		"info": "",
+							"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+						   	"url": "",
 						 	"userAgent": ""
-								},{ 
+						},{ 
 							 	"name": "Canal 5",
-								"info": "ANDROID/iOS",
-								"image": "https://phantom-marca-us.unidadeditorial.es/114af698e4dc5c462d14159a78819af9/resize/828/f/jpg/assets/multimedia/imagenes/2024/05/31/17171750349418.jpg",
-							   	"url": "https://vkvsd35.mycdn.me/hls/6479760591386.m3u8/sig/DWLfLgZSds8/expires/1717371865113/srcIp/83.40.151.49/urls/45.136.22.86/clientType/14/srcAg/SAFARI_IPHONE_OTHER/mid/7207596403482/6479760591386_fullhd/index.m3u8",
+								"info": "",
+								"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+							   	"url": "",
                      						"userAgent": ""
 						  },{ 
-							 "name": "Canal 6",
-								"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5aMBynBScnyrCyvkwHvsGGqLtYCdyI1PEE8X6iN2IS9D2MELHKOrJpuR5tnEQdF0PWwz1JlJEQ7Ivn4kEXkp1lckGGLhevfwtbkvG-pEvFRLWGaVsz3vBZBROkJBj8c8tP2y21P3qIZuV0wFifBZhfBy0O4X2j4zbIJdQNzLhTa9UqlA7NyKanlXe-fg-/w645-h432/BoxeoMiniatura.PNG",
-							   "url": "https://gameshdlive.net/new/ch30.php",
-						 "isHost":"true"  
-						 },{ 
-							 "name": "Canal 7",
+						 	"name": "Canal 6",
 							"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5aMBynBScnyrCyvkwHvsGGqLtYCdyI1PEE8X6iN2IS9D2MELHKOrJpuR5tnEQdF0PWwz1JlJEQ7Ivn4kEXkp1lckGGLhevfwtbkvG-pEvFRLWGaVsz3vBZBROkJBj8c8tP2y21P3qIZuV0wFifBZhfBy0O4X2j4zbIJdQNzLhTa9UqlA7NyKanlXe-fg-/w645-h432/BoxeoMiniatura.PNG",
-							   "url": "http://sportsurge.stream/embed/mma.php",
-						 "isHost":"true"  
+						   	"url": "https://gameshdlive.net/new/ch30.php",
+						 	"isHost":"true"  
+						 },{ 
+						 	"name": "Canal 7",
+							"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5aMBynBScnyrCyvkwHvsGGqLtYCdyI1PEE8X6iN2IS9D2MELHKOrJpuR5tnEQdF0PWwz1JlJEQ7Ivn4kEXkp1lckGGLhevfwtbkvG-pEvFRLWGaVsz3vBZBROkJBj8c8tP2y21P3qIZuV0wFifBZhfBy0O4X2j4zbIJdQNzLhTa9UqlA7NyKanlXe-fg-/w645-h432/BoxeoMiniatura.PNG",
+						   	"url": "http://sportsurge.stream/embed/mma.php",
+						 	"isHost":"true"  
 					}, { 
 						 	"name": "Canal 8",
 							"info": "streamEast-io",
@@ -9136,7 +9168,7 @@
                      }, {
 		    	"name": "Canal 6",
 			"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-			 "url": "https://godzcast.com/embed.php?player=desktop&live=do26",
+			 "url": "https://locatedinfain.com/embed.php?player=desktop&live=do26",
               		"referer": "https://zvision.link/",
              		"isHost": "true" 
                      }, {
@@ -9209,7 +9241,7 @@
                  }, {
 			"name": "Canal 18",
 			"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-			 "url": "https://godzcast.com/embed.php?player=desktop&live=do4",
+			 "url": "https://locatedinfain.com/embed.php?player=desktop&live=do4",
 			  "referer" : "https://zvision.link/",
              		"isHost": "true"
                  }, {
@@ -9227,7 +9259,7 @@
                  }, {
 			"name": "Canal 21",
 			"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-			 "url": "https://godzcast.com/embed.php?player=desktop&live=do40",
+			 "url": "https://locatedinfain.com/embed.php?player=desktop&live=do40",
 			"referer" : "https://zvision.link/",
              		"isHost": "true"
                  }, {
@@ -9254,7 +9286,7 @@
                  }, {
 			"name": "Canal 26",
 			"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-			 "url": "https://godzcast.com/embed.php?player=desktop&live=do5",
+			 "url": "https://locatedinfain.com/embed.php?player=desktop&live=do5",
 			 "referer": "https://zvision.link/",
              		"isHost": "true"
                  }, {
@@ -9278,7 +9310,7 @@
                  }, {
 			"name": "Canal 30",
 			"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-			 "url": "https://godzcast.com/embed.php?player=desktop&live=do31",
+			 "url": "https://locatedinfain.com/embed.php?player=desktop&live=do31",
 			 "referer" : "https://zvision.link/",
 			 "isHost":"true"
                  }, {
@@ -9303,7 +9335,7 @@
 		}, {
 		    	"name": "Canal 34",
 			"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-			"url": "https://godzcast.com/embed.php?player=desktop&live=do39",
+			"url": "https://locatedinfain.com/embed.php?player=desktop&live=do39",
               		"referer": "https://zvision.link/",
              		"isHost": "true" 
 	     	}, {
@@ -9365,7 +9397,7 @@
                  }, {
 			"name": "Multi 2",
 			"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-			"url": "https://godzcast.com/embed.php?player=desktop&live=do14",
+			"url": "https://locatedinfain.com/embed.php?player=desktop&live=do14",
 			"referer" : "https://zvision.link/",
              		"isHost": "true"
                  }]
@@ -9592,6 +9624,20 @@
         									"stations": 
 										[
 											{
+												"name": "GP Italia 2024",
+												"info":"Carrera | DAZN",
+												"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/05/26/17167325666933.jpg",
+												"url": "https://filemoon.sx/d/gqpdi3u33n95/07_4_Carrera_MotoGP_Mugello__Italia__2024_ES.mkv",
+												"isHost":"true",
+												"online":"true"
+											}, {
+												"name": "GP Italia 2024",
+												"info":"Sprint | DAZN",
+												"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/05/26/17167325666933.jpg",
+												"url": "https://filemoon.sx/d/cl53qxt19xi3/07_1_Sprint___Post_MotoGp_Italia_Mugello_GP_Brembo_01_06_2024_1080pEspa_ol.mkv",
+												"isHost":"true",
+												"online":"true"
+											}, {
 												"name": "GP España 2024",
 												"info":"Carrera | DAZN",
 												"image": "https://phantom-marca.unidadeditorial.es/27534e81cb62275145e84ad8e49ba71a/resize/828/f/jpg/assets/multimedia/imagenes/2024/05/23/17164550244074.jpg",
@@ -9683,6 +9729,13 @@
         									"stations": 
         								  [
 										{
+                									"name": "UFC302",
+                									"info":"Estelares󠁧󠁢󠁥 | ESPN",
+                									"image": "https://i.postimg.cc/hPph3zrZ/UFC-302.png",
+                									"url":"https://filemoon.sx/d/6ppz5h8a59hx",
+                									"isHost":"true",
+                									"online":"true"
+                								}, {
                 									"name": "UFC Fight Night",
                 									"info":"ESPN",
                 									"image": "https://i.postimg.cc/9f5Jzyj6/ufc92.png",
