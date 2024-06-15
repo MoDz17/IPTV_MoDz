@@ -24,9 +24,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 04/06/2024",
+             "name": "Ultm. versión 15/06/2024",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 04/06/2024",
+            "info": "última versión actualizada el 15/06/2024",
             "stations": []
 	}, 
 	
@@ -2526,37 +2526,37 @@
                 	 		"name": "M+ Golf 2 1080p",
 					"info": "base-host",
                     			"image": "https://www.mundoplus.tv/wp-content/uploads/2023/03/golf2_movistarplus.jpg",
-                    			"url" :  "acestream://9a4f3ae6563668b7709dac509dedc709441b3fd9",
+                    			"url" :  "acestream://0742f7fabb74715b11c5a5dae24e93a4644697a5",
 					"isHost": "true"
 				}, { 
                 	 		"name": "M+ Golf 2 1080p",
 					"info": "base-agent",
                     			"image": "https://www.mundoplus.tv/wp-content/uploads/2023/03/golf2_movistarplus.jpg",
-                    			"url" :  "acestream://9a4f3ae6563668b7709dac509dedc709441b3fd9",
+                    			"url" :  "acestream://0742f7fabb74715b11c5a5dae24e93a4644697a5",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "M+ Golf 2 1080p",
 					"info": "base-embed",
                     			"image": "https://www.mundoplus.tv/wp-content/uploads/2023/03/golf2_movistarplus.jpg",
-                    			"url" :  "acestream://9a4f3ae6563668b7709dac509dedc709441b3fd9",
+                    			"url" :  "acestream://0742f7fabb74715b11c5a5dae24e93a4644697a5",
 					"embed": "true"
 				}, { 
                 	 		"name": "M+ Golf 2 1080p",
 					"info": "get-host",
                     			"image": "https://www.mundoplus.tv/wp-content/uploads/2023/03/golf2_movistarplus.jpg",
-                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=9a4f3ae6563668b7709dac509dedc709441b3fd9",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=0742f7fabb74715b11c5a5dae24e93a4644697a5",
 					"isHost": "true"
 				}, { 
                 	 		"name": "M+ Golf 2 1080p",
 					"info": "get-agent",
                     			"image": "https://www.mundoplus.tv/wp-content/uploads/2023/03/golf2_movistarplus.jpg",
-                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=9a4f3ae6563668b7709dac509dedc709441b3fd9",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=0742f7fabb74715b11c5a5dae24e93a4644697a5",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "M+ Golf 2 1080p",
 					"info": "get-embed",
                     			"image": "https://www.mundoplus.tv/wp-content/uploads/2023/03/golf2_movistarplus.jpg",
-                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=9a4f3ae6563668b7709dac509dedc709441b3fd9",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=0742f7fabb74715b11c5a5dae24e93a4644697a5",
 					"embed": "true"
 				} ]
 					}, {
@@ -3621,6 +3621,86 @@
 								"image":"https://i.ibb.co/Brj5qrX/logo-variados.png",
 								"stations": 
 							[
+				
+				
+				{ 
+                	 		"name": "La 1 4k",
+					"info": "base-host",
+                    			"image": "https://i.ibb.co/GHqBPVz/La1-logo.png",
+                    			"url" :  "acestream://61a38b6c3b6c3fdffcb2f61053f3437e569eb666",
+					"isHost": "true"
+				}, { 
+                	 		"name": "La 1 4k",
+					"info": "base-agent",
+                    			"image": "https://i.ibb.co/GHqBPVz/La1-logo.png",
+                    			"url" :  "acestream://61a38b6c3b6c3fdffcb2f61053f3437e569eb666",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "La 1 4k",
+					"info": "base-embed",
+                    			"image": "https://i.ibb.co/GHqBPVz/La1-logo.png",
+                    			"url" :  "acestream://61a38b6c3b6c3fdffcb2f61053f3437e569eb666",
+					"embed": "true"
+				}, { 
+                	 		"name": "La 1 4k",
+					"info": "get-host",
+                    			"image": "https://i.ibb.co/GHqBPVz/La1-logo.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=61a38b6c3b6c3fdffcb2f61053f3437e569eb666",
+					"isHost": "true"
+				}, { 
+                	 		"name": "La 1 4k",
+					"info": "get-agent",
+                    			"image": "https://i.ibb.co/GHqBPVz/La1-logo.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=61a38b6c3b6c3fdffcb2f61053f3437e569eb666",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "La 1 4k",
+					"info": "get-embed",
+                    			"image": "https://i.ibb.co/GHqBPVz/La1-logo.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=61a38b6c3b6c3fdffcb2f61053f3437e569eb666",
+					"embed": "true"
+				},
+				
+				
+               			{ 
+                	 		"name": "La 1 1080p",
+					"info": "base-host",
+                    			"image": "https://i.ibb.co/GHqBPVz/La1-logo.png",
+                    			"url" :  "acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47",
+					"isHost": "true"
+				}, { 
+                	 		"name": "La 1 1080p",
+					"info": "base-agent",
+                    			"image": "https://i.ibb.co/GHqBPVz/La1-logo.png",
+                    			"url" :  "acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "La 1 1080p",
+					"info": "base-embed",
+                    			"image": "https://i.ibb.co/GHqBPVz/La1-logo.png",
+                    			"url" :  "acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47",
+					"embed": "true"
+				}, { 
+                	 		"name": "La 1 1080p",
+					"info": "get-host",
+                    			"image": "https://i.ibb.co/GHqBPVz/La1-logo.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47",
+					"isHost": "true"
+				}, { 
+                	 		"name": "La 1 1080p",
+					"info": "get-agent",
+                    			"image": "https://i.ibb.co/GHqBPVz/La1-logo.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "La 1 1080p",
+					"info": "get-embed",
+                    			"image": "https://i.ibb.co/GHqBPVz/La1-logo.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47",
+					"embed": "true"
+				},
+				
+				
 				{ 
                 	 		"name": "NBA TV",
 					"info": "base-host",
@@ -4391,10 +4471,9 @@
 			 	   "userAgent" : ""
 			 }, {
 				   "name": "Canal 11",
-				   "info": "mylivestream",
+				   "info": "klubsports",
 				   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhC_ZrjTAL_zi61ZUD-aRw18x_XEiKBS-sH5X1EihR_oZ43LsvApOPfWnvjAXfkxh2h_i8W7RNDfU4t42vQskD-fBjP25sBpJKo1fLEAkT4hliVrOVA3HQewEBFLGb3ntMTj2KTu63u4yzFBJUj92xyBfh9Ka9vQPMsZJaAtrJfWS8Nzr34pf9QtJj7CyY/w589-h212/logo_vamos.png",
-				   "url" : "https://mylivestream.pro/aliezs.php?stream=dGEX9j7C3K3Q",
-				   "referer" : "https://aliezstream.pro/",
+				   "url" : "https://klubsports.buzz/watch/watch.php?id=621&channel=#Vamos%20Spain",
 			 	   "isHost":"true"
 			 }, {
 				   "name": "Canal 12",
@@ -4675,10 +4754,10 @@
 			 	"isHost":"true"
 			 }, {
 			   	"name": "Canal 6",
-			   	"info": "",
+			   	"info": "clapl",
 			   	"image": "https://i.ibb.co/4NvkCVR/logo-deportes.png",
-			   	"url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed67",
-		        	"referer": "https://primefoot.ru/",
+			   	"url" :  "https://claplivehdplay.ru/wizhd.php?id=sabrouch39",
+             			"referer" : "https://kingstreamz.lol/",
 			   	"isHost" : "true"
 			}, {
 			   	"name": "Canal 7",
@@ -4689,9 +4768,10 @@
 			   	"isHost" : "true"
 			}, {
 			"name": "Canal 1",
-			"info": "embx",
+			"info": "instream",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar_Deportes_2.svg/2070px-Movistar_Deportes_2.svg.png",
-		 	"url": "https://embx214504.apl274.me/player/live.php?id=214504&w=100%&h=100%",
+		 	"url" : "https://instream.pro/hls2.php?stream=rSGTzi1Alw11TJ",
+               		"referer" : "https://soccerstream100.to/",
              		"isHost": "true"  
          		}, {
 			"name": "Canal 2",
@@ -4773,9 +4853,9 @@
 	   			"userAgent" : ""
 			}, {
 				"name": "Canal 4",
-				"info": "1.dlhd",
+				"info": "klubsports",
 				"image": "https://i.ibb.co/sVPN8q6/logo-golf.png",
-				"url" : "https://1.dlhd.sx/cast/stream-528.php",
+				"url" : "https://klubsports.buzz/watch/watch.php?id=628&channel=Movistar%20Golf",
 				"isHost": "true"
 			 }, {
 				"name": "Canal 5",
@@ -4996,10 +5076,9 @@
 			"isHost": "true"
 			}, {
 			"name": "Canal 9",
-			"info": "hocast4",
+			"info": "klubsports",
 			"image": "https://i.ibb.co/vhNCnrq/DAZN-2-Logo-Sin-Fondo.webp",
-			"url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed82",
-		        "referer": "https://primefoot.ru/",
+			"url" : "https://klubsports.buzz/watch/watch.php?id=546&channel=DAZN2%20ES",
 			 "isHost": "true"
 			}, {
 		"name": "Canal 10",
@@ -5931,10 +6010,10 @@
 			 		   "isHost": "true"
 				}, { 
                  				"name": "Canal 25",
-						"info": "abol-pyxs8 | 1str",
+						"info": "viwli",
 						"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
-					 	"url": "https://abolishstand.net/embed/pyxs8u5a6hp",
-						"referer": "https://1stream.buzz/",
+					 	"url" : "https://viwlivehdplay.ru/maxsport.php?id=primaliga1",
+                   				"referer" : "https://antennasports.ru/",
 					 	"isHost": "true"
 				}, { 
                  				"name": "Canal 26",
@@ -6937,7 +7016,7 @@
 							   }, {
 								"name": "Canal 2",
 							  	"image": "https://i.ibb.co/bddqjFr/wrc-logo.png",
-								"url" :  "https://coolrea.link/ch30",
+								"url" :  "https://coolrea.link/ch29",
 			 					"isHost":"true"
 							   }, {
 								"name": "Canal 3",
@@ -6991,9 +7070,10 @@
 								  "isHost": "true" 	
 							}, {
 								"name": "Canal 7",
-								"info": "star1",
+								"info": "ballout",
 								"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-								"url": "https://new.star1.live/fgvsg556hcfgnh",
+								"url": "https://watch.ballout.xyz/hembedplayer/fgvsg556hcfgnh/4/500/400",
+                               					"referer" : "https://watch.ballout.xyz/fgvsg556hcfgnh",
 			 					"isHost":"true"
 							   }, {
 								  "name": "Canal 8",
@@ -7195,9 +7275,10 @@
 								  "isHost": "true"
 							   }, {
 								  "name": "Canal 2",
+								  "info": "4kwebplay",
 								  "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
-								   "url": "https://unbiasedsenseevent.com/embed/9ojk2p0842qtbgr",
-              							  "referer": "https://1l1l.to/",
+							   	  "url" : "https://4kwebplay.xyz/crv.php?id=bet6284737",
+               							  "referer" : "https://antennasports.ru/",
 								  "isHost" : "true"
 							  }, {
 								  "name": "Canal 3",
@@ -7788,6 +7869,13 @@
 								"info": "php",
 								"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5aMBynBScnyrCyvkwHvsGGqLtYCdyI1PEE8X6iN2IS9D2MELHKOrJpuR5tnEQdF0PWwz1JlJEQ7Ivn4kEXkp1lckGGLhevfwtbkvG-pEvFRLWGaVsz3vBZBROkJBj8c8tP2y21P3qIZuV0wFifBZhfBy0O4X2j4zbIJdQNzLhTa9UqlA7NyKanlXe-fg-/w645-h432/BoxeoMiniatura.PNG",
 							   	"url": "https://sportsurge.stream/embed/boxing.php",
+			 					"isHost":"true"
+				  	}, { 
+							 	"name": "Canal 31",
+								"info": "lctdf",
+								"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5aMBynBScnyrCyvkwHvsGGqLtYCdyI1PEE8X6iN2IS9D2MELHKOrJpuR5tnEQdF0PWwz1JlJEQ7Ivn4kEXkp1lckGGLhevfwtbkvG-pEvFRLWGaVsz3vBZBROkJBj8c8tP2y21P3qIZuV0wFifBZhfBy0O4X2j4zbIJdQNzLhTa9UqlA7NyKanlXe-fg-/w645-h432/BoxeoMiniatura.PNG",
+							   	"url" : "https://locatedinfain.com/embed.php?player=desktop&live=do45",
+		        					"referer": "https://zvision.link/",
 			 					"isHost":"true"
 				  	}]
 				   }, {
@@ -9459,6 +9547,22 @@
         									"stations": 
         							 		[
 											{
+            											"name": "GP Canadá 2024",
+												"info": "Carrera | DAZN F1",
+            											"image": "https://phantom-marca.unidadeditorial.es/69f6752b8c1bdb401d62e3c44f8400d8/resize/828/f/jpg/assets/multimedia/imagenes/2024/06/06/17176837077576.jpg",
+            											"url": "https://filemoon.sx/d/3kn7i79yf1ux",
+												"userAgent" : "PlusMediaPlayer/0.0.9",
+												"isHost":"true",
+                										"online":"true"
+            										}, {
+            											"name": "GP Canadá 2024",
+												"info": "Qualy | DAZN F1",
+            											"image": "https://phantom-marca.unidadeditorial.es/69f6752b8c1bdb401d62e3c44f8400d8/resize/828/f/jpg/assets/multimedia/imagenes/2024/06/06/17176837077576.jpg",
+            											"url": "https://filemoon.sx/d/fk8woili3j4t",
+												"userAgent" : "PlusMediaPlayer/0.0.9",
+												"isHost":"true",
+                										"online":"true"
+            										}, {
             											"name": "GP Mónaco 2024",
 												"info": "Carrera | DAZN F1",
             											"image": "https://phantom-marca.unidadeditorial.es/bfa8e79ddd39ddf43aeb65e50d5a2bf1/resize/828/f/jpg/assets/multimedia/imagenes/2024/05/23/17164530913221.jpg",
@@ -9729,6 +9833,13 @@
         									"stations": 
         								  [
 										{
+                									"name": "UFC Fight Night",
+                									"info":"Estelares | ESPN",
+                									"image": "https://i.postimg.cc/fbndZ477/ufc.png",
+                									"url":"https://filemoon.sx/d/759zjaw9p40b",
+                									"isHost":"true",
+                									"online":"true"
+                								}, {
                 									"name": "UFC302",
                 									"info":"Estelares󠁧󠁢󠁥 | ESPN",
                 									"image": "https://i.postimg.cc/hPph3zrZ/UFC-302.png",
