@@ -24,9 +24,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 27/07/2024",
+             "name": "Ultm. versión 28/07/2024",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 27/07/2024",
+            "info": "última versión actualizada el 28/07/2024",
             "stations": []
 	}, 
 	
@@ -252,8 +252,8 @@
 			 }, {
 				"name": "ANDROID/iOS 1",
 				"image": "https://cdn-icons-png.freepik.com/512/13746/13746953.png",
-				"url":"http://zeuspro.xyz:8080/get.php?username=jay27492749&password=83749jfiwbqldufz499&type=m3u_plus",
-				"info":"550 conexiones",
+				"url":"http://feliz2022.selfip.org:8000/get.php?username=vaquezs&password=vaquezs&type=m3u_plus",
+				"info":"",
 				"import": false
 			 }, {
 				"name": "ANDROID/iOS 2",
@@ -4073,6 +4073,45 @@
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47",
 					"embed": "true"
 				},
+
+
+				{ 
+                	 		"name": "Teledeporte 1080p",
+					"info": "base-host",
+                    			"image": "https://i.ibb.co/7QP3X8W/tdp-logo.webp",
+                    			"url" :  "acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Teledeporte 1080p",
+					"info": "base-agent",
+                    			"image": "https://i.ibb.co/7QP3X8W/tdp-logo.webp",
+                    			"url" :  "acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Teledeporte 1080p",
+					"info": "base-embed",
+                    			"image": "https://i.ibb.co/7QP3X8W/tdp-logo.webp",
+                    			"url" :  "acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f",
+					"embed": "true"
+				}, { 
+                	 		"name": "Teledeporte 1080p",
+					"info": "get-host",
+                    			"image": "https://i.ibb.co/7QP3X8W/tdp-logo.webp",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Teledeporte 1080p",
+					"info": "get-agent",
+                    			"image": "https://i.ibb.co/7QP3X8W/tdp-logo.webp",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Teledeporte 1080p",
+					"info": "get-embed",
+                    			"image": "https://i.ibb.co/7QP3X8W/tdp-logo.webp",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f",
+					"embed": "true"
+				},
 				
 				
 				{ 
@@ -6209,7 +6248,7 @@
 				"referer" : "https://l1l1.to/",
                  		"isHost": "true"
 			}, {
-				"name": "Canal 77*",
+				"name": "Canal 77",
 				"image": "https://i.ibb.co/VQpLvTb/logo-channels-ESPN.jpg",
 				"url": "https://closedjelly.net/embed/g16dv8bwe2pkg",
                			"referer" : "https://elixx.xyz/",
@@ -7413,7 +7452,7 @@
 								"name": "Canal 2",
 								"info": "php",
 							  	"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-								"url" : "https://viwlivehdplay.ru/mono.php?id=44",
+								"url" : "https://viwlivehdplay.ru/mono.php?id=45",
                   						"referer" : "https://s2watch.link/",
             							"isHost": "true"
 							   }, {
@@ -7440,7 +7479,7 @@
 							  }, {
 								"name": "Canal 6",
 							  	"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-								"url" : "https://locatedinfain.com/embed.php?player=desktop&live=do44",
+								"url" : "https://locatedinfain.com/embed.php?player=desktop&live=do45",
                   						"referer" : "https://zvision.link/",
 							  	"isHost": "true" 	
 							}, {
@@ -8086,10 +8125,10 @@
 						 	"userAgent": ""
 						},{ 
 						 	"name": "Canal 4",
-					 		"info": "",
+					 		"info": "thestreameast",
 							"image": "https://i.ibb.co/jr7VQss/logo-off.png",
-						   	"url": "",
-						 	"userAgent": ""
+						   	"url": "https://www.thestreameast.to/ufc/ufc-[number]-boxer1-vs-boxer2-[opt. number]/",
+						 	"isHost": "true"
 						},{ 
 							 	"name": "Canal 5",
 								"info": "php",
@@ -8251,9 +8290,9 @@
 			 					"isHost":"true"
 				  	}, { 
 							 	"name": "Canal 31",
-								"info": "",
+								"info": "markkystr - UFC",
 								"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5aMBynBScnyrCyvkwHvsGGqLtYCdyI1PEE8X6iN2IS9D2MELHKOrJpuR5tnEQdF0PWwz1JlJEQ7Ivn4kEXkp1lckGGLhevfwtbkvG-pEvFRLWGaVsz3vBZBROkJBj8c8tP2y21P3qIZuV0wFifBZhfBy0O4X2j4zbIJdQNzLhTa9UqlA7NyKanlXe-fg-/w645-h432/BoxeoMiniatura.PNG",
-							   	"url" : "https://emb.apl352.me/player/live.php?id=219253&w=728&h=480",
+							   	"url" : "https://v.markkystreams.com/video/ufc/",
 			 					"isHost":"true"
 				  	}]
 				   }, {
