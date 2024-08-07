@@ -24,9 +24,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 28/07/2024",
+             "name": "Ultm. versión 08/08/2024",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 28/07/2024",
+            "info": "última versión actualizada el 08/08/2024",
             "stations": []
 	}, 
 	
@@ -94,12 +94,12 @@
         "embed": "true"
     }, {
         "name": "Supercopa de España",
-        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7uoFnPOMbyQARdAflh-6LyFyr5U8Y2DtIB51z8ZaQjxI1UIY19YI7q_hfd2IPOjmpgWXmARusL82NY4YI3pWfNH4ZpAx9IIzJvx-kehqhgoIM1vOXDsv763DTzTjRHJ-oPN4AAv2sVKDBjZgp4I6bzFzn6hhLBYcxWMkWrBWDsXCxemVmg5Yg5CKsJLYl/w375-h466/SupercopaEspa%C3%B1aM-Logo.png",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqsmlVJijgdhc2xqqDRNtB1XrNaUnzGdKSKsjHLmrlQIm500iAummARqhpW0l7zz6uznQjw0hw1SPuPJBcNTa3U40GMgPfMjhsMNEVKkEfWbSOzHM_ELxmBX2U1CHxg1EzdZoWXI7cM3Mg8dwyJTlqCLI3XX_-CphL-mRuReX1Yo7PM9CUXPjvCIw4xJtn/w652-h367/logo-SupercopaEspa%C3%B1a.png",
         "url": "https://www.futbolenlatv.es/competicion/supercopa-espana",
         "embed": "true"
     }, {
         "name": "Supercopa de España F",
-        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2STZcnf0V__djIxp_hNp1O-gb89O5_FiqI6QEIGMCkWKqAepk0hvpjd7vCM-xTQp1cc6Ak_UAQKwJMPIh8KLkqGInq8I3ZS0qzNiME5P3j3f5iCEsEa90wrKxtqdCmI7B49xMvNWst_uu_C0ILPmEaFEUfDhrLbP6DgXFffozfvlfjbpKP019-oOFYWTC/w387-h473/SupercopaEspa%C3%B1aF-Logo.png",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVRHt9lO_Vq-9jsuiOBk4FcfVm4yxV86hhsW1NANz8vJufJLc7Me0yqC_bSDHHzZYi6xbaRqvlGri7bChU47g_y2zS6zHZMiU2pczGDN1h5RGYtPJE4smougqGySdU8tIjZrmo6F3pKanhHhNTDrOlB3y63tm3f1GhapGd8wS6PKF7rQMR5hbhNMJg_VMy/w649-h361/logo-SupercopaEspa%C3%B1aFem.PNG",
         "url": "https://www.futbolenlatv.es/competicion/supercopa-espana-femenina",
         "embed": "true"
     }, {
@@ -5337,7 +5337,7 @@
 	"name": "Canal 8",
 	"info": "hocast4",
 	"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-	"url": "https://hocast4.com/footy.php?player=desktop&live=ufeed81",
+	"url": "https://hocast4.com/footy.php?player=desktop&live=ufeed60",
 	"referer": "https://primefoot.ru/",
 	"isHost": "true"
   }, {
@@ -5411,9 +5411,10 @@
              			"isHost": "true"
 			}, {
 				"name": "Canal 20",
-				"info": "",
+				"info": "1qwebp",
 				"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-				"url" : "https://klubsports.buzz/watch/watch.php?id=545&channel=Movistar%20Liga%20de%20Campeones",
+				"url": "https://1qwebplay.xyz/premiumtv/klubsports.php?id=445",
+			       "referer" : "https://klubsports.buzz/",
 	 			"isHost": "true"  
  			}, {
 				"name": "Canal 21",
@@ -6809,7 +6810,7 @@
 						 }, {
 							"name": "Canal 4",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-					  		"url" : "https://viwlivehdplay.ru/mono.php?id=30",
+					  		"url" : "https://viwlivehdplay.ru/mono.php?id=19",
                   					"referer" : "https://s2watch.link/",
 							 "isHost": "true"
 						}, {
@@ -7862,9 +7863,10 @@
                          					"isHost": "true"
 							  }, {
 								"name": "Canal 29",
-								"info": "cannon",
+								"info": "fiveyard",
 								"image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
-								"url" :  "https://coalcannon.com/player/0bda1fae147b6b8b-29bafe6b6febee6d7b04b919fc5436ea",
+								"url" : "https://fiveyardlab.com/wiki.php?player=desktop&live=w016",
+               							"referer" : "https://wikisport.se/",
                          					"isHost": "true"
 							  }]
 						  }, 
@@ -8149,8 +8151,8 @@
 						 	"name": "Canal 8",
 							"info": "",
 							"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5aMBynBScnyrCyvkwHvsGGqLtYCdyI1PEE8X6iN2IS9D2MELHKOrJpuR5tnEQdF0PWwz1JlJEQ7Ivn4kEXkp1lckGGLhevfwtbkvG-pEvFRLWGaVsz3vBZBROkJBj8c8tP2y21P3qIZuV0wFifBZhfBy0O4X2j4zbIJdQNzLhTa9UqlA7NyKanlXe-fg-/w645-h432/BoxeoMiniatura.PNG",
-						   	"url" :  "https://viwlivehdplay.ru/mono.php?id=4",
-							"referer" : "https://s2watch.link/",
+						   	"url" : "https://fiveyardlab.com/wiki.php?player=desktop&live=bbtsp1",
+             						"referer" : "https://wikisport.se/",
 			 				"isHost":"true"  
 					}, { 
 						 	"name": "Canal 9",
@@ -8172,10 +8174,10 @@
              						"isHost":"true"  
 					}, { 
 						 	"name": "Canal 12",
-							"info": "",
+							"info": "40ltf",
 							"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5aMBynBScnyrCyvkwHvsGGqLtYCdyI1PEE8X6iN2IS9D2MELHKOrJpuR5tnEQdF0PWwz1JlJEQ7Ivn4kEXkp1lckGGLhevfwtbkvG-pEvFRLWGaVsz3vBZBROkJBj8c8tP2y21P3qIZuV0wFifBZhfBy0O4X2j4zbIJdQNzLhTa9UqlA7NyKanlXe-fg-/w645-h432/BoxeoMiniatura.PNG",
-						   	"url" :  "https://viwlivehdplay.ru/mono.php?id=36",
-							"referer" : "https://s2watch.link/",
+						   	"url" :  "https://forgepattern.net/embed/40ltfs8ms26hmy",
+							"referer" : "https://www.elixx.xyz/",
              						"isHost":"true"  
 					}, { 
 							"name": "Canal 13",
@@ -8581,19 +8583,21 @@
 		 }, {
 			"name": "BT Sport 1",
 			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8gBblkfxfuJyOISQDeJ3k5BVpL1NIP_9hy4RGehZVDlfhtjLLFiiebpoQKPK63AK0xq-PznVAQoG4lF_h-v_-g3QsiS1-doGyCjcbIq24dTyzXrF150hZKMY7NdzNbPzZYQoxoch7NjGuWgY7ViOKotFHsVxdU8Qe5BKqRTkrkXzFBtj0Z0osBtAT47u7/w608-h131/BTS1.png",
-			"url": "https://unbiasedsenseevent.com/embed/m5a6zzm8yc2",
-			"referer": "https://nopay.info/",
-			 "isHost": "true"
+			"url" : "https://fiveyardlab.com/wiki.php?player=desktop&live=bbtsp1",
+             		"referer" : "https://wikisport.se/",
+			"isHost": "true"
 		 }, {
 			"name": "BT Sport 2",
 			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfLDvbLnMnSFiCK3UPa5_Mg_nNG-Nva5hlEj1e3Zxyo3naskkUSXHWEVeHJXzAK2fjfhUN6ca8DK1wQGtRGX_QhBbIz7xeVLpr6tjNjB3agIkdBmUuGOesYbEAeF6GChJaJpXEzplpSL-LOVZLsXDGZ5ZQxbGwk-gmgWllRvAgSB5s4rXanfsqrpAjsqz3/w611-h130/BTS2.png",
-			"url":"https://daddy.yurendtv.biz.id/https://ddy1.onlinewebtv.lol:443/ddy1/premium32/tracks-v1a1/mono.m3u8",
-			"userAgent" : ""
+			"url" : "https://fiveyardlab.com/wiki.php?player=desktop&live=bbtsp2",
+             		"referer" : "https://wikisport.se/",
+			"isHost": "true"
 		 }, {
 			"name": "BT Sport 3",
 			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOdniO-VYzlp7Do-GyQunG5KRnubufthV2WOWqe_ibicBvbOPozgIpeLrJfWfOfUEm-zGKq3I6pw3ImH0Z7f9o8VSLuphV9HlVpiMSTSzXhiqfWIyyiIm3e1EWvNDp7lg0D3hzmhTc2C09WDAhbrjWQOBV8aQV13FGORgKT-vaPR31PAtd67mK5KRcVz8e/w619-h131/BTS3.png",
-			"url":"http://163.172.221.223:90/bt3/index.m3u8",
-			"userAgent" : ""
+			"url" : "https://fiveyardlab.com/wiki.php?player=desktop&live=bbtsp3",
+             		"referer" : "https://wikisport.se/",
+			"isHost": "true"
 		 }, {
 			"name": "Eleven 1",
 			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpeobtW6p6QBsv4bqV8XFgnQKkRhFqU_C5hrXPLvySJHwxAhLoXujTIKuoiV0DQy6FBQe4WRlGLUlLZsMa4QCx2SLBCsNmTFrZe7a6ND1NM4JhWtFYEhq4KFVGJTEiH3tpsCqxEHh9vqGcRU1qy-8qrt1harNG6OhGXVywOnRPW7mUfjywK2c80QGho02a/w581-h225/logo-ElevenSports.png",
@@ -9910,619 +9914,29 @@
     				"name":"En diferido",
 					"image":"https://seeklogo.com/images/Y/youtube-play-black-logo-E6E4CD69C6-seeklogo.com.png",
 					"groups":
-								[
-    								 {
-										"name": "Peticiones",
-       										"image": "https://i.ibb.co/rc9ds7x/jugones-pic-discord.png",    
-      										"stations": 
-    								[
-    									{
-      										"name": "Hacer petición",
-      										"image": "https://i.ibb.co/rc9ds7x/jugones-pic-discord.png",    
-										"url" : "https://linktr.ee/futboladictoshd",
-      										"embed": "true"
-      									}
-    								]
-  									}, {
-        									"name":"Fútbol",
-        									"image":"https://www.dodmagazine.es/wp-content/uploads/2022/11/ver-futbol-online-gratis.jpg",
-        									"stations": 
-        								  	[
-											{
-												"name": "",
-												"info":"",
-												"image": "",
-												"url":"",
-												"isHost":"false",
-												"online":"false"
-											}
-										]
-    									}, {
+							[
+    								    {
         									"name":"Fórmula 1",
         									"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzL8bUEziWNxRmuNkz6GclrNGyPdDzpq-kzdbD4dLEVW_U4qcBL7QstRTcoKjBgKNnsQLGH3he2nAroG3T7Lgo-QIyySiezlQipXH3pC1_gZEs48LwkXl13_A5XWrSAMAW66bAQ_R4puv7tYvQk6mYoy1r0sdfDuNGCyt8zz12zRTUSFuPj4hGQZ7bJzEZ/w659-h370/logo-f1_2.png",
-        									"stations": 
-        							 		[
-											{
-            											"name": "GP Hungría 2024",
-												"info": "Carrera | DAZN F1",
-            											"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/07/17/16895860987530.jpg",
-            											"url": "https://filemoon.sx/d/c0l4z1hhz1g8",
-												"userAgent" : "PlusMediaPlayer/0.0.9",
-												"isHost":"true",
-                										"online":"true"
-            										}, {
-            											"name": "GP Hungría 2024",
-												"info": "Qualy | DAZN F1",
-            											"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/07/17/16895860987530.jpg",
-            											"url": "https://filemoon.sx/d/gy6dmm70iqnw",
-												"userAgent" : "PlusMediaPlayer/0.0.9",
-												"isHost":"true",
-                										"online":"true"
-            										}, {
-            											"name": "GP Reino Unido 2024",
-												"info": "Carrera | DAZN F1",
-            											"image": "https://phantom-marca.unidadeditorial.es/dd34da34d8527aadfcad710f6ce98072/crop/0x0/1979x1319/resize/828/f/jpg/assets/multimedia/imagenes/2024/07/04/17200815450097.jpg",
-            											"url": "https://filemoon.sx/d/l01qq2a4mhuf",
-												"userAgent" : "PlusMediaPlayer/0.0.9",
-												"isHost":"true",
-                										"online":"true"
-            										}, {
-            											"name": "GP Reino Unido 2024",
-												"info": "Qualy | DAZN F1",
-            											"image": "https://phantom-marca.unidadeditorial.es/dd34da34d8527aadfcad710f6ce98072/crop/0x0/1979x1319/resize/828/f/jpg/assets/multimedia/imagenes/2024/07/04/17200815450097.jpg",
-            											"url": "https://filemoon.sx/d/gsev46yc14t4",
-												"userAgent" : "PlusMediaPlayer/0.0.9",
-												"isHost":"true",
-                										"online":"true"
-            										}, {
-            											"name": "GP Austria 2024",
-												"info": "Carrera | DAZN F1",
-            											"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/06/23/17191614066083.jpg",
-            											"url": "https://filemoon.sx/d/2tcjxengsxg9",
-												"userAgent" : "PlusMediaPlayer/0.0.9",
-												"isHost":"true",
-                										"online":"true"
-            										}, {
-            											"name": "GP Austria 2024",
-												"info": "Qualy | DAZN F1",
-            											"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/06/23/17191614066083.jpg",
-            											"url": "https://filemoon.sx/d/15wp60zuxg24",
-												"userAgent" : "PlusMediaPlayer/0.0.9",
-												"isHost":"true",
-                										"online":"true"
-            										}, {
-            											"name": "GP Austria 2024",
-												"info": "Sprint | DAZN F1",
-            											"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/06/23/17191614066083.jpg",
-            											"url": "https://filemoon.sx/d/fn1o4av7nze6",
-												"userAgent" : "PlusMediaPlayer/0.0.9",
-												"isHost":"true",
-                										"online":"true"
-            										}, {
-            											"name": "GP Austria 2024",
-												"info": "Sprint-Qualy | DAZN F1",
-            											"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/06/23/17191614066083.jpg",
-            											"url": "https://filemoon.sx/d/8lgadkyj8n5t",
-												"userAgent" : "PlusMediaPlayer/0.0.9",
-												"isHost":"true",
-                										"online":"true"
-            										}, {
-            											"name": "GP España 2024",
-												"info": "Carrera | DAZN F1",
-            											"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/06/20/17188754081784.jpg",
-            											"url": "https://filemoon.sx/d/9k26tf3jjj6x",
-												"userAgent" : "PlusMediaPlayer/0.0.9",
-												"isHost":"true",
-                										"online":"true"
-            										}, {
-            											"name": "GP España 2024",
-												"info": "Qualy | DAZN F1",
-            											"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/06/20/17188754081784.jpg",
-            											"url": "https://filemoon.sx/d/4qig8msx279q",
-												"userAgent" : "PlusMediaPlayer/0.0.9",
-												"isHost":"true",
-                										"online":"true"
-            										}, {
-            											"name": "GP Canadá 2024",
-												"info": "Carrera | DAZN F1",
-            											"image": "https://phantom-marca.unidadeditorial.es/69f6752b8c1bdb401d62e3c44f8400d8/resize/828/f/jpg/assets/multimedia/imagenes/2024/06/06/17176837077576.jpg",
-            											"url": "https://filemoon.sx/d/3kn7i79yf1ux",
-												"userAgent" : "PlusMediaPlayer/0.0.9",
-												"isHost":"true",
-                										"online":"true"
-            										}, {
-            											"name": "GP Canadá 2024",
-												"info": "Qualy | DAZN F1",
-            											"image": "https://phantom-marca.unidadeditorial.es/69f6752b8c1bdb401d62e3c44f8400d8/resize/828/f/jpg/assets/multimedia/imagenes/2024/06/06/17176837077576.jpg",
-            											"url": "https://filemoon.sx/d/fk8woili3j4t",
-												"userAgent" : "PlusMediaPlayer/0.0.9",
-												"isHost":"true",
-                										"online":"true"
-            										}, {
-            											"name": "GP Mónaco 2024",
-												"info": "Carrera | DAZN F1",
-            											"image": "https://phantom-marca.unidadeditorial.es/bfa8e79ddd39ddf43aeb65e50d5a2bf1/resize/828/f/jpg/assets/multimedia/imagenes/2024/05/23/17164530913221.jpg",
-            											"url": "https://filemoon.sx/d/7xghuxacnnns",
-												"userAgent" : "PlusMediaPlayer/0.0.9",
-												"isHost":"true",
-                										"online":"true"
-            										}, {
-            											"name": "GP Mónaco 2024",
-												"info": "Qualy | DAZN F1",
-            											"image": "https://phantom-marca.unidadeditorial.es/bfa8e79ddd39ddf43aeb65e50d5a2bf1/resize/828/f/jpg/assets/multimedia/imagenes/2024/05/23/17164530913221.jpg",
-            											"url": "https://filemoon.sx/d/nsyh0svi9xm5",
-												"userAgent" : "PlusMediaPlayer/0.0.9",
-												"isHost":"true",
-                										"online":"true"
-            										}, {
-            											"name": "GP Italia 2024",
-												"info": "Carrera | DAZN F1",
-            											"image": "https://phantom-marca.unidadeditorial.es/bc8ac59dc880391d344c8303f51a2271/resize/828/f/jpg/assets/multimedia/imagenes/2024/05/12/17155337280871.jpg",
-            											"url": "https://filemoon.sx/d/gdh50guh1snm",
-												"userAgent" : "PlusMediaPlayer/0.0.9",
-												"isHost":"true",
-                										"online":"true"
-            										}, {
-            											"name": "GP Italia 2024",
-												"info": "Qualy | DAZN F1",
-            											"image": "https://phantom-marca.unidadeditorial.es/bc8ac59dc880391d344c8303f51a2271/resize/828/f/jpg/assets/multimedia/imagenes/2024/05/12/17155337280871.jpg",
-            											"url": "https://filemoon.sx/d/d2pqs59l3qme",
-												"userAgent" : "PlusMediaPlayer/0.0.9",
-												"isHost":"true",
-                										"online":"true"
-            										}, {
-            											"name": "GP Miami 2024",
-												"info": "Carrera | DAZN F1",
-            											"image": "https://phantom-marca.unidadeditorial.es/881fbacc9d5b468035ff54de7e1975bb/resize/828/f/jpg/assets/multimedia/imagenes/2024/05/02/17146440782053.jpg",
-            											"url": "https://filemoon.sx/d/loulnsn571za",
-												"userAgent" : "PlusMediaPlayer/0.0.9",
-												"isHost":"true",
-                										"online":"true"
-            										}, {
-            											"name": "GP Miami 2024",
-												"info": "Qualy | DAZN F1",
-            											"image": "https://phantom-marca.unidadeditorial.es/881fbacc9d5b468035ff54de7e1975bb/resize/828/f/jpg/assets/multimedia/imagenes/2024/05/02/17146440782053.jpg",
-            											"url": "https://filemoon.sx/d/rcbgtg5fkxao",
-												"userAgent" : "PlusMediaPlayer/0.0.9",
-												"isHost":"true",
-                										"online":"true"
-            										}, {
-            											"name": "GP Miami 2024",
-												"info": "Sprint | DAZN F1",
-            											"image": "https://phantom-marca.unidadeditorial.es/881fbacc9d5b468035ff54de7e1975bb/resize/828/f/jpg/assets/multimedia/imagenes/2024/05/02/17146440782053.jpg",
-            											"url": "https://filemoon.sx/d/sav4wa8pp87z",
-												"userAgent" : "PlusMediaPlayer/0.0.9",
-												"isHost":"true",
-                										"online":"true"
-            										}, {
-            											"name": "GP Miami 2024",
-												"info": "Sprint-Qualy | DAZN F1",
-            											"image": "https://phantom-marca.unidadeditorial.es/881fbacc9d5b468035ff54de7e1975bb/resize/828/f/jpg/assets/multimedia/imagenes/2024/05/02/17146440782053.jpg",
-            											"url": "https://filemoon.sx/d/v9ldorgq5ann",
-												"userAgent" : "PlusMediaPlayer/0.0.9",
-												"isHost":"true",
-                										"online":"true"
-            										}, {
-            											"name": "GP China 2024",
-												"info": "Carrera | DAZN F1",
-            											"image": "https://phantom-marca.unidadeditorial.es/8d3bb3ef2177b7c302239ab1df255d8b/crop/0x0/1979x1319/resize/828/f/jpg/assets/multimedia/imagenes/2024/04/18/17134264422977.jpg",
-            											"url": "https://filemoon.sx/d/t5ov3v2u7k63",
-												"userAgent" : "PlusMediaPlayer/0.0.9",
-												"isHost":"true",
-                										"online":"true"
-            										}, {
-            											"name": "GP China 2024",
-												"info": "Qualy | DAZN F1",
-            											"image": "https://phantom-marca.unidadeditorial.es/8d3bb3ef2177b7c302239ab1df255d8b/crop/0x0/1979x1319/resize/828/f/jpg/assets/multimedia/imagenes/2024/04/18/17134264422977.jpg",
-            											"url": "https://filemoon.sx/d/a37jhvvhlsxh",
-												"userAgent" : "PlusMediaPlayer/0.0.9",
-												"isHost":"true",
-                										"online":"true"
-            										}, {
-            											"name": "GP China 2024",
-												"info": "Sprint | DAZN F1",
-            											"image": "https://phantom-marca.unidadeditorial.es/8d3bb3ef2177b7c302239ab1df255d8b/crop/0x0/1979x1319/resize/828/f/jpg/assets/multimedia/imagenes/2024/04/18/17134264422977.jpg",
-            											"url": "https://filemoon.sx/d/azclv9bfnw6d",
-												"userAgent" : "PlusMediaPlayer/0.0.9",
-												"isHost":"true",
-                										"online":"true"
-            										}, {
-            											"name": "GP China 2024",
-												"info": "Sprint-Qualy | DAZN F1",
-            											"image": "https://phantom-marca.unidadeditorial.es/8d3bb3ef2177b7c302239ab1df255d8b/crop/0x0/1979x1319/resize/828/f/jpg/assets/multimedia/imagenes/2024/04/18/17134264422977.jpg",
-            											"url": "https://filemoon.sx/d/gckfpdswoali",
-												"userAgent" : "PlusMediaPlayer/0.0.9",
-												"isHost":"true",
-                										"online":"true"
-            										}, {
-            											"name": "GP Japón 2024",
-												"info": "Carrera | DAZN F1",
-            											"image": "https://phantom-marca.unidadeditorial.es/6bd3c98697a5850605a4cee255e8c7a1/resize/828/f/jpg/assets/multimedia/imagenes/2024/04/01/17119538871910.jpg",
-            											"url": "https://bembed.net/v/pVa4E8MpKLyOkzM",
-												"userAgent" : "PlusMediaPlayer/0.0.9",
-												"isHost":"true",
-                										"online":"true"
-            										}, {
-            											"name": "GP Japón 2024",
-												"info": "Qualy | DAZN F1",
-            											"image": "https://phantom-marca.unidadeditorial.es/6bd3c98697a5850605a4cee255e8c7a1/resize/828/f/jpg/assets/multimedia/imagenes/2024/04/01/17119538871910.jpg",
-            											"url": "https://bembed.net/v/LQm9OXNPeDex1lg",
-												"userAgent" : "PlusMediaPlayer/0.0.9",
-												"isHost":"true",
-                										"online":"true"
-            										}, {
-            											"name": "GP Australia 2024",
-												"info": "Carrera | DAZN F1",
-            											"image": "https://phantom-marca.unidadeditorial.es/3facc21a05267f1e28e4adb0a169d753/resize/828/f/jpg/assets/multimedia/imagenes/2024/03/17/17106683359873.jpg",
-            											"url": "https://filemoon.sx/d/5p1y6arz643k",
-												"userAgent" : "PlusMediaPlayer/0.0.9",
-												"isHost":"true",
-                										"online":"true"
-            										}, {
-            											"name": "GP Australia 2024",
-												"info": "Qualy | DAZN F1",
-            											"image": "https://phantom-marca.unidadeditorial.es/3facc21a05267f1e28e4adb0a169d753/resize/828/f/jpg/assets/multimedia/imagenes/2024/03/17/17106683359873.jpg",
-            											"url": "https://filemoon.sx/d/gve9qltu50kp",
-												"userAgent" : "PlusMediaPlayer/0.0.9",
-												"isHost":"true",
-                										"online":"true"
-            										}, {
-            											"name": "GP Arabia Saudí 2024",
-												"info": "Carrera | DAZN F1",
-            											"image": "https://phantom-marca.unidadeditorial.es/6d551fc1f147679c30e20443f07e5e6d/resize/828/f/jpg/assets/multimedia/imagenes/2024/03/04/17095488622069.jpg",
-            											"url": "https://embedmoon.xyz/d/qsb34mw0av4q",
-												"userAgent" : "PlusMediaPlayer/0.0.9",
-												"isHost":"true",
-                										"online":"true"
-            										}, {
-            											"name": "GP Arabia Saudí 2024",
-												"info": "Qualy | DAZN F1",
-            											"image": "https://phantom-marca.unidadeditorial.es/6d551fc1f147679c30e20443f07e5e6d/resize/828/f/jpg/assets/multimedia/imagenes/2024/03/04/17095488622069.jpg",
-            											"url":"https://embedmoon.xyz/d/82xj0wm4i4bx",
-												"userAgent" : "PlusMediaPlayer/0.0.9",
-												"isHost":"true",
-                										"online":"true"
-            										}, {
-            											"name": "GP Bahrein 2024",
-												"info": "Carrera | DAZN F1",
-            											"image": "https://phantom-marca.unidadeditorial.es/b9785dcabac6a1fddb8896c6937dc295/crop/0x0/1979x1319/resize/828/f/jpg/assets/multimedia/imagenes/2024/02/29/17091905342587.jpg",
-            											"url": "https://filemoon.sx/d/65cslvykuks5",
-												"isHost":"true",
-                										"online":"true"
-            										}, {
-            											"name": "GP Bahrein 2024",
-												"info": "Qualy | DAZN F1",
-            											"image": "https://phantom-marca.unidadeditorial.es/b9785dcabac6a1fddb8896c6937dc295/crop/0x0/1979x1319/resize/828/f/jpg/assets/multimedia/imagenes/2024/02/29/17091905342587.jpg",
-            											"url": "https://filemoon.sx/d/5ae8etxskq61",
-												"isHost":"true",
-                										"online":"true"
-            										}
-										] 
-    								        }, {
+        									"url": "https://raw.githubusercontent.com/MoDz17/IPF1_index/main/code_iptv",
+                                            					"import": false
+								}, {
     										"name":"MotoGP",
         									"image":"https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
-        									"stations": 
-										[
-											{
-												"name": "GP Italia 2024",
-												"info":"Carrera | DAZN",
-												"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/05/26/17167325666933.jpg",
-												"url": "https://filemoon.sx/d/gqpdi3u33n95/07_4_Carrera_MotoGP_Mugello__Italia__2024_ES.mkv",
-												"isHost":"true",
-												"online":"true"
-											}, {
-												"name": "GP Italia 2024",
-												"info":"Sprint | DAZN",
-												"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/05/26/17167325666933.jpg",
-												"url": "https://filemoon.sx/d/cl53qxt19xi3/07_1_Sprint___Post_MotoGp_Italia_Mugello_GP_Brembo_01_06_2024_1080pEspa_ol.mkv",
-												"isHost":"true",
-												"online":"true"
-											}, {
-												"name": "GP España 2024",
-												"info":"Carrera | DAZN",
-												"image": "https://phantom-marca.unidadeditorial.es/27534e81cb62275145e84ad8e49ba71a/resize/828/f/jpg/assets/multimedia/imagenes/2024/05/23/17164550244074.jpg",
-												"url": "https://upstream.to/g3s4qixatuts",
-												"isHost":"true",
-												"online":"true"
-											}, {
-												"name": "GP España 2024",
-												"info":"Sprint | DAZN",
-												"image": "https://phantom-marca.unidadeditorial.es/27534e81cb62275145e84ad8e49ba71a/resize/828/f/jpg/assets/multimedia/imagenes/2024/05/23/17164550244074.jpg",
-												"url": "https://listeamed.net/v/m7WJxgJYny25Bze",
-												"isHost":"true",
-												"online":"true"
-											}, {
-												"name": "GP Francia 2024",
-												"info":"Carrera | DAZN",
-												"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/05/12/16838748702912.png",
-												"url": "https://listeamed.net/v/m7WJxgJ4rBz5Bze",
-												"isHost":"true",
-												"online":"true"
-											}, {
-												"name": "GP Francia 2024",
-												"info":"Sprint | DAZN",
-												"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/05/12/16838748702912.png",
-												"url": "https://upstream.to/sqkyp067hl8f",
-												"isHost":"true",
-												"online":"true"
-											}, {
-												"name": "GP España 2024",
-												"info":"Carrera | DAZN",
-												"image": "https://phantom-marca.unidadeditorial.es/078f1de04f22136ba34b534986fa4c91/resize/828/f/jpg/assets/multimedia/imagenes/2023/04/28/16826760334022.jpg",
-												"url": "https://filemoon.sx/d/beh856y4xi7a",
-												"isHost":"true",
-												"online":"true"
-											}, {
-												"name": "GP España 2024",
-												"info":"Sprint | DAZN",
-												"image": "https://phantom-marca.unidadeditorial.es/078f1de04f22136ba34b534986fa4c91/resize/828/f/jpg/assets/multimedia/imagenes/2023/04/28/16826760334022.jpg",
-												"url": "https://upstream.to/j0f2twag3v6r",
-												"isHost":"true",
-												"online":"true"
-											}, {
-												"name": "GP EEUU 2024",
-												"info":"Carrera | DAZN",
-												"image": "https://phantom-marca.unidadeditorial.es/4a9f21b1d077137915adf3f22451914c/resize/828/f/jpg/assets/multimedia/imagenes/2024/04/12/17129020210097.jpg",
-												"url": "https://filemoon.sx/d/qmi60dce2b1w",
-												"isHost":"true",
-												"online":"true"
-											}, {
-												"name": "GP EEUU 2024",
-												"info":"Sprint | DAZN",
-												"image": "https://phantom-marca.unidadeditorial.es/4a9f21b1d077137915adf3f22451914c/resize/828/f/jpg/assets/multimedia/imagenes/2024/04/12/17129020210097.jpg",
-												"url": "https://filemoon.sx/d/a0ha5o58rlls",
-												"isHost":"true",
-												"online":"true"
-											}, {
-												"name": "GP Portugal 2024",
-												"info":"Carrera | DAZN",
-												"image": "https://phantom-marca.unidadeditorial.es/22c5438e30ef90b41a6276b804c10f4f/resize/828/f/jpg/assets/multimedia/imagenes/2024/03/22/17111054357636.jpg",
-												"url": "https://filemoon.sx/d/vfgt2hd6gnnn",
-												"isHost":"true",
-												"online":"true"
-											}, {
-												"name": "GP Portugal 2024",
-												"info":"Sprint | DAZN",
-												"image": "https://phantom-marca.unidadeditorial.es/22c5438e30ef90b41a6276b804c10f4f/resize/828/f/jpg/assets/multimedia/imagenes/2024/03/22/17111054357636.jpg",
-												"url": "https://filemoon.sx/d/d3142jocckd5/02_1_Sprint_MotoGP_Algarve__Portugal__2024_ES_.mp4",
-												"isHost":"true",
-												"online":"true"
-											}, {
-												"name": "GP Qatar 2024",
-												"info":"Carrera | DAZN",
-												"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/03/04/17095511117077.jpg",
-												"url": "https://filemoon.sx/d/mjmiv7jf6m7v/01_4_Sprint_MotoGP_Losali__Qatar__2024_ES.mp4",
-												"isHost":"true",
-												"online":"true"
-											}, {
-												"name": "GP Qatar 2024",
-												"info":"Sprint | DAZN",
-												"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/03/04/17095511117077.jpg",
-												"url": "https://embedv.net/v/b4ZJx21M2YA52P3",
-												"isHost":"true",
-            											"online":"true"
-											}
-										]
-  									}, {
+        									"url": "https://raw.githubusercontent.com/MoDz17/IPMGP_index/main/code_iptv",
+                                            					"import": false
+							    	}, {
         									"name":"UFC",
         									"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnVqFaYDUDqXGWIgRjCm5_A3LBERIGSQ4rJAsgs0_QGPMDlQVc7P96XwdAHkf7Ggas08GoLAisVy_1iLiRWJXO4M_KVuimVvgnnK1jgSY9qKbDgT4FKcyJ88KFEIJlCZno_VvC-78yMx9wOepccMbgGjMHDL6OsDwVBnUmEmL5ywiEwfFKxPGLTRapzjmo/w664-h226/logo_ufc.png",
-        									"stations": 
-        								  [
-										{
-                									"name": "UFC Fight Night",
-                									"info":"Estelares | ESPN",
-                									"image": "https://i.postimg.cc/x11NS9Vh/Cortez-vs-Namajunas.png",
-                									"url":"https://filemoon.sx/d/lbebo7vltcxv",
-                									"isHost":"true",
-                									"online":"true"
-                								}, {
-                									"name": "UFC303",
-                									"info":"Estelares󠁧󠁢󠁥 | ESPN",
-                									"image": "https://i.postimg.cc/bN3wBP7M/303.png",
-                									"url":"https://filemoon.sx/d/lj5vzeahk1fz",
-                									"isHost":"true",
-                									"online":"true"
-                								}, {
-                									"name": "UFC Fight Night",
-                									"info":"Estelares | ESPN",
-                									"image": "https://i.postimg.cc/Vvxfp7ZT/ufc.png",
-                									"url":"https://filemoon.sx/d/2oqth5218k3b",
-                									"isHost":"true",
-                									"online":"true"
-                								}, {
-                									"name": "UFC Fight Night",
-                									"info":"Estelares | ESPN",
-                									"image": "https://i.postimg.cc/FHJZ3XYT/ufc.png",
-                									"url":"https://filemoon.sx/d/saquoptw4suh",
-                									"isHost":"true",
-                									"online":"true"
-                								}, {
-                									"name": "UFC Fight Night",
-                									"info":"Estelares | ESPN",
-                									"image": "https://i.postimg.cc/fbndZ477/ufc.png",
-                									"url":"https://filemoon.sx/d/759zjaw9p40b",
-                									"isHost":"true",
-                									"online":"true"
-                								}, {
-                									"name": "UFC302",
-                									"info":"Estelares󠁧󠁢󠁥 | ESPN",
-                									"image": "https://i.postimg.cc/hPph3zrZ/UFC-302.png",
-                									"url":"https://filemoon.sx/d/6ppz5h8a59hx",
-                									"isHost":"true",
-                									"online":"true"
-                								}, {
-                									"name": "UFC Fight Night",
-                									"info":"ESPN",
-                									"image": "https://i.postimg.cc/9f5Jzyj6/ufc92.png",
-                									"url":"https://listeamed.net/v/MAlwEMY2wlyEJ39",
-                									"isHost":"true",
-                									"online":"true"
-                								}, {
-                									"name": "UFC Fight Night",
-                									"info":"Estelares | ESPN",
-                									"image": "https://i.postimg.cc/GhzLpcPb/UFC-Fight-Night2.png",
-                									"url":"https://filemoon.sx/d/1aara8yc4nf2",
-                									"isHost":"true",
-                									"online":"true"
-                								}, {
-                									"name": "UFC301",
-                									"info":"Estelares󠁧󠁢󠁥 | ESPN",
-                									"image": "https://i.postimg.cc/7ZLF2Q3N/ufc301.png",
-											"url":"https://filemoon.sx/d/9n5mvujggkpi",
-                									"isHost":"true",
-                									"online":"true"
-                								}, {
-                									"name": "UFC Fight Night",
-                									"info":"Estelares | ESPN",
-                									"image": "https://i.postimg.cc/CM4CJsWx/ufc.png",
-                									"url":"https://filemoon.sx/d/p3on0lr5lmxh",
-                									"isHost":"true",
-                									"online":"true"
-                								}, {
-                									"name": "UFC300",
-                									"info":"Estelares󠁧󠁢󠁥 | ESPN-ST☆R",
-                									"image": "https://i.postimg.cc/vmF0kLDB/22.png",
-											"url":"https://filemoon.sx/d/dc7w85l5tqqw",
-                									"isHost":"true",
-                									"online":"true"
-                								}, {
-                									"name": "UFC Fight Night",
-                									"info":"ESPN",
-                									"image": "https://i.postimg.cc/13ZBVybH/allenvscurtis.png",
-                									"url":"https://bembed.net/v/7QWN5ey083l59oR",
-                									"isHost":"true",
-                									"online":"true"
-                								}, {
-                									"name": "UFC Fight Night",
-                									"info":"ESPN",
-                									"image": "https://i.postimg.cc/52d3y3gq/ufc.png",
-                									"url":"https://bembed.net/v/rabVOQQp2GGOKdW",
-                									"isHost":"true",
-                									"online":"true"
-                								}, {
-                									"name": "UFC Fight Night",
-                									"info":"ESPN",
-                									"image": "https://i.postimg.cc/Kv15RCM8/UFC-Fight-Night-Ribas-vs-Namajunas.png",
-                									"url":"https://filemoon.sx/d/wluzloqlnue6",
-                									"isHost":"true",
-                									"online":"true"
-                								}, {
-                									"name": "UFC Fight Night",
-                									"info":"ESPN",
-                									"image": "https://i.postimg.cc/1zJmCWpY/tuivasa-Vs-Tybura.png",
-                									"url":"https://fmembed.cc/d/chgsmilu683b",
-                									"isHost":"true",
-                									"online":"true"
-                								}, {
-                									"name": "UFC299",
-                									"info":"Estelares󠁧󠁢󠁥 | ESPN-ST☆R",
-                									"image": "https://i.postimg.cc/ZY2gKKzc/1280x720-20240309202411.jpg",
-											"url":"https://embedv.net/v/P0poO1013PkEz17",
-                									"isHost":"true",
-                									"online":"true"
-                								}, {
-                									"name": "UFC298",
-                									"info":"Estelares󠁧󠁢󠁥 | ESPN+",
-                									"image": "https://i.postimg.cc/5N5tqS1T/2024-02-18-Topuria-VS-Volkanoski.png",
-											"url":"https://filemoon.sx/d/evy9b4g9h8vh/VOLKANOVSKI___TOPURIA_-_MAINCARD.mp4",
-                									"isHost":"true",
-                									"online":"true"
-                								}
-									]
-    									}, {
-											"name": "San Fermín 2024",
-											"image": "https://i.ibb.co/XC8bnHX/logo-soon.png",    
-											"stations": 
-										[
-											{
-												   "name": "Encierro 1",
-												   "image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
-												   "url":"",
-												   "userAgent" : ""
-											}, {
-												   "name": "Encierro 2",
-												   "image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
-												   "url":"",
-												   "userAgent" : ""
-											}, {
-												   "name": "Encierro 3",
-												   "image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
-												   "url":"",
-												   "userAgent" : ""
-											}, {
-												   "name": "Encierro 4",
-												   "image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
-												   "url":"",
-												   "userAgent" : ""
-											}, {
-												   "name": "Encierro 5",
-												   "image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
-												   "url":"",
-												   "userAgent" : ""
-											}, {
-												   "name": "Encierro 6",
-												   "image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
-												   "url":"",
-												   "userAgent" : ""
-											}, {
-												   "name": "Encierro 7",
-												   "image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
-												   "url":"",
-												   "userAgent" : ""
-											}, {
-												   "name": "Encierro 8",
-												   "image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
-												   "url":"",
-												   "userAgent" : ""
-											}]
-									     }, {
-											"name": "San Fermín 2023",
-											"image": "https://i.ibb.co/Lv0YRVG/San-Fermin23.jpg",    
-											"stations": 
-										[
-											{
-												   "name": "Encierro 1",
-												   "image": "https://i.ibb.co/rZ8btwS/Encierro1.jpg",
-												   "url":"https://rtvemvodlote7.rtve.es/2023/dia1/DIA1_PGM.mp4",
-												   "userAgent" : ""
-											}, {
-												   "name": "Encierro 2",
-												   "image": "https://i.ibb.co/c1qWzMW/Encierro2.jpg",
-												   "url":"https://rtvemvodlote7.rtve.es/2023/dia2/DIA2_PGM.mp4",
-												   "userAgent" : ""
-											}, {
-												   "name": "Encierro 3",
-												   "image": "https://i.ibb.co/s5d3mkb/Encierro3.jpg",
-												   "url":"https://rtvemvodlote7.rtve.es/2023/dia3/DIA3_PGM.mp4",
-												   "userAgent" : ""
-											}, {
-												   "name": "Encierro 4",
-												   "image": "https://i.ibb.co/9n8TK7R/Encierrro4.jpg",
-												   "url":"https://rtvemvodlote7.rtve.es/2023/dia4/DIA4_PGM.mp4",
-												   "userAgent" : ""
-											}, {
-												   "name": "Encierro 5",
-												   "image": "https://i.ibb.co/fYzxFsp/Encierro5.jpg",
-												   "url":"https://rtvemvodlote7.rtve.es/2023/dia5/DIA5_PGM.mp4",
-												   "userAgent" : ""
-											}, {
-												   "name": "Encierro 6",
-												   "image": "https://i.ibb.co/ngc7vP3/Encierro6.jpg",
-												   "url":"https://rtvemvodlote7.rtve.es/2023/dia6/DIA6_PGM.mp4",
-												   "userAgent" : ""
-											}, {
-												   "name": "Encierro 7",
-												   "image": "https://i.ibb.co/VQxmXQR/Encierro7.jpg",
-												   "url":"https://rtvemvodlote7.rtve.es/2023/dia7/DIA7_PGM.mp4",
-												   "userAgent" : ""
-											}, {
-												   "name": "Encierro 8",
-												   "image": "https://i.ibb.co/hFCV71Y/Encierro8.jpg",
-												   "url":"https://rtvemvodlote7.rtve.es/2023/dia8/DIA8_PGM.mp4",
-												   "userAgent" : ""
-											}]
-									     }
-  								]
-						}
-	]
+        									"url": "https://raw.githubusercontent.com/MoDz17/IPBOX_index/main/code_iptv",
+                                            					"import": false
+								}, {
+        									"name":"Fútbol",
+        									"image":"https://diariodeportivo.online/wp-content/uploads/2015/08/breve-historia-del-futbol-1.jpeg",
+        									"url": "https://raw.githubusercontent.com/MoDz17/IPFTBL_index/main/code_iptv",
+                                            					"import": false
+								}
+							]
+                	}
+		]
 }
