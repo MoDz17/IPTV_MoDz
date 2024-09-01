@@ -24,9 +24,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 27/08/2024",
+             "name": "Ultm. versión 01/09/2024",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 27/08/2024",
+            "info": "última versión actualizada el 01/09/2024",
             "stations": []
 	}, 
 	
@@ -5677,7 +5677,7 @@
 	}, {
 		"name": "Canal 3",
 		"image": "https://i.ibb.co/Ntcj66Q/logo-es1.webp",
-		"url" : "https://fiveyardlab.com/wiki.php?player=desktop&live=eurosp1",
+		"url" : "https://ilovetoplay.xyz/wiki.php?player=desktop&live=eurosp1",
 		"referer" : "https://wikisport.se/",
 		"isHost": "true"
 	}, {
@@ -5702,7 +5702,7 @@
 	}, {
 		"name": "Canal 3",
 		"image": "https://i.ibb.co/HLcq8Cj/logo-es2.webp",
-	 	"url" : "https://fiveyardlab.com/wiki.php?player=desktop&live=eurosp2",
+	 	"url" : "https://ilovetoplay.xyz/wiki.php?player=desktop&live=eurosp2",
 	 	"referer" : "https://wikisport.se/",
 		"isHost": "true"
 	}, {
@@ -6373,7 +6373,7 @@
 					"name": "Canal 13",
 					"info": "php",
 					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
-					"url" : "https://gamelink.ru.com/ro/ch-2.php", 
+					"url" : "https://embx220393.apl357.me//player/live.php?id=220393&w=100%&h=100%", 
 				  	"isHost" : "true"
 				}, {
 					"name": "Canal 14",
@@ -6710,10 +6710,10 @@
 							"isHost" : "true"
 						  }, {
 							"name": "Canal 3",
-							"info": "hocast4",
+							"info": "",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-							"url": "https://hocast4.com/footy.php?player=desktop&live=ufeed64",
-							"referer": "https://1stream.buzz/",
+							"url": "https://forgepattern.net/embed/2zy981htw4ee",
+							"referer": "https://www.elixx.xyz/",
              						"isHost": "true"
 						 }, {
 							"name": "Canal 4",
@@ -7023,7 +7023,7 @@
 		 	}]
 		 }, {
 			"name": "Ligue 1",
-			"image": "https://i.ibb.co/SPQCpbZ/Ligue1-logo.png",
+			"image": "https://elmarketingdeportivo.com/wp-content/uploads/2024/03/portada-3.jpg",
 			"info": "",
 			"stations": [{
 				"name": "Canal 1",
@@ -7460,10 +7460,11 @@
 			 					"isHost":"true"
 							   }, {
 								"name": "Canal 2",
-								"info": "embx",
+								"info": "",
 							  	"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-								"url" :  "https://embx224812.apl357.me/player/live.php?id=224812&w=100%&h=100%",
-			 					"UserAgent": ""
+								"url" :  "https://swipebreed.net/embed/hqwwgwycxiiy",
+								"referer" : "https://channels-1op.pages.dev/",
+			 					"isHost":"true"
 							   }, {
 								"name": "Canal 3",
 							  	"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
@@ -7514,7 +7515,7 @@
 							  }, {
 								"name": "Canal 6",
 							  	"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-								"url" : "https://locatedinfain.com/embed.php?player=desktop&live=do48",
+								"url" : "https://locatedinfain.com/embed.php?player=desktop&live=do29",
                   						"referer" : "https://zvision.link/",
 							  	"isHost": "true" 	
 							}, {
@@ -7737,7 +7738,7 @@
 							   }, {
 								  "name": "Canal 4",
 								  "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
-								  "url" : "https://viwlivehdplay.ru/mono.php?id=29",
+								  "url" : "https://viwlivehdplay.ru/mono.php?id=26",
 								  "referer" : "https://s2watch.link/",
             							  "isHost": "true"
 							}, {
@@ -8010,125 +8011,125 @@
 									"name":"Canal 18",
 									"info":"-----------",
 								 	"image":"https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-								  	"url": "https://fiveyardlab.com/wiki.php?id=ten1",
+								  	"url": "https://ilovetoplay.xyz/wiki.php?id=ten1",
            								"referer" : "https://wikisport.click/",
                 							"isHost": "true"
 								}, {
 									"name":"Canal 19",
 								 	"image":"https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-								  	"url": "https://fiveyardlab.com/wiki.php?id=ten2",
+								  	"url": "https://ilovetoplay.xyz/wiki.php?id=ten2",
             								"referer" : "https://wikisport.click/",
 									"isHost":"true"
 								}, {
 									"name":"Canal 20",
 								 	"image":"https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-								  	"url": "https://fiveyardlab.com/wiki.php?id=ten3",
+								  	"url": "https://ilovetoplay.xyz/wiki.php?id=ten3",
             								"referer" : "https://wikisport.click/",
 									"isHost":"true"
 								}, {
 									"name":"Canal 21",
 								 	"image":"https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-								  	"url": "https://fiveyardlab.com/wiki.php?id=ten4",
+								  	"url": "https://ilovetoplay.xyz/wiki.php?id=ten4",
 									"referer" : "https://wikisport.click/",
 									"isHost":"true"
 								}, {
 									"name":"Canal 22",
 									"info": "",
 								 	"image":"https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-								  	"url": "https://fiveyardlab.com/wiki.php?id=ten5",
+								  	"url": "https://ilovetoplay.xyz/wiki.php?id=ten5",
             								"referer" : "https://wikisport.click/",
 									"isHost": "true"
 								}, {
 									"name":"Canal 23",
 									"info": "",
 								 	"image":"https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-								  	"url": "https://fiveyardlab.com/wiki.php?id=ten6",
+								  	"url": "https://ilovetoplay.xyz/wiki.php?id=ten6",
             								"referer" : "https://wikisport.click/",
                  							"isHost": "true"
 								}, {
 									"name":"Canal 24",
 									"info": "",
 								 	"image":"https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-								  	"url": "https://fiveyardlab.com/wiki.php?id=ten7",
+								  	"url": "https://ilovetoplay.xyz/wiki.php?id=ten7",
 									"referer" : "https://wikisport.click/",
                  							"isHost": "true"
 								}, {
 									"name":"Canal 25",
 								 	"image":"https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-								  	"url": "https://fiveyardlab.com/wiki.php?id=ten8",
+								  	"url": "https://ilovetoplay.xyz/wiki.php?id=ten8",
             								"referer" : "https://wikisport.click/",
 									"isHost": "true"
 								}, {
 									"name":"Canal 26",
 								 	"image":"https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-								  	"url": "https://fiveyardlab.com/wiki.php?id=ten9",
+								  	"url": "https://ilovetoplay.xyz/wiki.php?id=ten9",
             								"referer" : "https://wikisport.click/",
                  							"isHost": "true"
 								}, {
 									"name":"Canal 27",
 								 	"image":"https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-								  	"url": "https://fiveyardlab.com/wiki.php?id=ten10",
+								  	"url": "https://ilovetoplay.xyz/wiki.php?id=ten10",
             								"referer" : "https://wikisport.click/",
 									"isHost": "true"
 								}, {
 									"name":"Canal 28",
 								 	"image":"https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-								  	"url": "https://fiveyardlab.com/wiki.php?id=ten11",
+								  	"url": "https://ilovetoplay.xyz/wiki.php?id=ten11",
             								"referer" : "https://wikisport.click/",
 									"isHost": "true"
 								}, {
 									"name":"Canal 29",
 								 	"image":"https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-								  	"url": "https://fiveyardlab.com/wiki.php?id=ten12",
+								  	"url": "https://ilovetoplay.xyz/wiki.php?id=ten12",
             								"referer" : "https://wikisport.click/",
 									"isHost": "true"
 								}, {
 									"name":"Canal 30",
 								 	"image":"https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-								  	"url": "https://fiveyardlab.com/wiki.php?id=ten13",
+								  	"url": "https://ilovetoplay.xyz/wiki.php?id=ten13",
             								"referer" : "https://wikisport.click/",
 									"isHost": "true"
 								}, {
 									"name":"Canal 31",
 								 	"image":"https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-								  	"url": "https://fiveyardlab.com/wiki.php?id=ten14",
+								  	"url": "https://ilovetoplay.xyz/wiki.php?id=ten14",
             								"referer" : "https://wikisport.click/",
 									"isHost": "true"
 								}, {
 									"name":"Canal 32",
 								 	"image":"https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-								  	"url": "https://fiveyardlab.com/wiki.php?id=ten15",
+								  	"url": "https://ilovetoplay.xyz/wiki.php?id=ten15",
             								"referer" : "https://wikisport.click/",
 									"isHost": "true"
 								}, {
 									"name":"Canal 33",
 								 	"image":"https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-								  	"url": "https://fiveyardlab.com/wiki.php?id=ten16",
+								  	"url": "https://ilovetoplay.xyz/wiki.php?id=ten16",
             								"referer" : "https://wikisport.click/",
 									"isHost": "true"
 								}, {
 									"name":"Canal 34",
 								 	"image":"https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-								  	"url": "https://fiveyardlab.com/wiki.php?id=ten17",
+								  	"url": "https://ilovetoplay.xyz/wiki.php?id=ten17",
             								"referer" : "https://wikisport.click/",
 									"isHost": "true"
 								}, {
 									"name":"Canal 35",
 								 	"image":"https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-								  	"url": "https://fiveyardlab.com/wiki.php?id=ten18",
+								  	"url": "https://ilovetoplay.xyz/wiki.php?id=ten18",
             								"referer" : "https://wikisport.click/",
 									"isHost": "true"
 								}, {
 									"name":"Canal 36",
 								 	"image":"https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-								  	"url": "https://fiveyardlab.com/wiki.php?id=ten19",
+								  	"url": "https://ilovetoplay.xyz/wiki.php?id=ten19",
             								"referer" : "https://wikisport.click/",
 									"isHost": "true"
 								}, {
 									"name":"Canal 37",
 									"info":"-----------",
 								 	"image":"https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-								  	"url": "https://fiveyardlab.com/wiki.php?id=ten20",
+								  	"url": "https://ilovetoplay.xyz/wiki.php?id=ten20",
             								"referer" : "https://wikisport.click/",
 									"isHost": "true"
 								}]
@@ -8198,7 +8199,7 @@
 					}, {
 						 	"name": "Canal 10",
 							"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5aMBynBScnyrCyvkwHvsGGqLtYCdyI1PEE8X6iN2IS9D2MELHKOrJpuR5tnEQdF0PWwz1JlJEQ7Ivn4kEXkp1lckGGLhevfwtbkvG-pEvFRLWGaVsz3vBZBROkJBj8c8tP2y21P3qIZuV0wFifBZhfBy0O4X2j4zbIJdQNzLhTa9UqlA7NyKanlXe-fg-/w645-h432/BoxeoMiniatura.PNG",
-						  	"url" :  "https://freckledine.net/embed/embed/2ov0r1",
+						  	"url" :  "https://swipebreed.net/embed/2ov0r1",
                          				"referer" : "https://v3.sportsonline.si/",
 						 	"isHost":"true"
 					}, { 
@@ -9523,28 +9524,28 @@
 				 	"isHost":"true" 
 				}, {
 					"name": "Canal 6",
-					"info":"",
+					"info":"swbd-h2kio | elixx",
 					"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-					"url" : "",
-				   	"referer" : "",
+					"url" : "https://swipebreed.net/embed/h2kio3uyz",
+                   			"referer" : "https://www.elixx.xyz/",
 				 	"isHost":"true" 
 				}, {
-					"name": "",
-					"info":"",
+					"name": "Canal 7",
+					"info":"swbp - 485ay",
 					"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-					"url" : "https://drawerformal.net/embed/kj2hoxz1p0eox0",
-					"referer": "https://zvision.link/",
+					"url" :  "https://forgepattern.net/embed/485ayycb",
+					"referer" : "https://www.elixx.xyz/",
 					"isHost" : "true"
 				}, {
 					"name": "",
 					"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-					"url" : "https://1.dlhd.sx/cast/stream-18.php",
+					"url" : "",
 				 	"isHost":"true" 
 				}, {
 					"name": "",
 					"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-					"url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed140",
-				   	"referer" : "https://primefoot.ru/",
+					"url" : "",
+				   	"referer" : "",
 				 	"isHost":"true" 
 				}, {
 					"name": "",
