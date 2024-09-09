@@ -24,9 +24,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 01/09/2024",
+             "name": "Ultm. versión 09/09/2024",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 01/09/2024",
+            "info": "última versión actualizada el 09/09/2024",
             "stations": []
 	}, 
 	
@@ -6348,7 +6348,7 @@
 				}, {
 					"name": "Canal 9",
 					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
-					"url" : "https://viwlivehdplay.ru/mono.php?id=26", 
+					"url" : "https://viwlivehdplay.ru/mono.php?id=16", 
                          		"referer" : "https://s2watch.link/",
            				"isHost" : "true"
 				}, {
@@ -7876,9 +7876,9 @@
              							"isHost": "true"
 							  }, {
 								"name": "Canal 26",
-								"info": "d4zc",
+								"info": "paltry",
 								"image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
-								"url" : "https://d4zc.asia/player/1.php?get=aHR0cHM6Ly9jZG4xLnN0cmVhbWR6Lnh5ei9ncC90cmFja3MtdjFhMS9tb25vLm0zdTg=",
+								"url" : "https://paltrypaste.com/player/e8c6af1987e39480-f9a8eaf9b83dd178cd0235a04319ce64",
                							"referer" : "https://pw.dazcfutbolios.xyz/",
                          					"isHost": "true"
 							  }, {
@@ -7899,7 +7899,7 @@
 								"name": "Canal 29",
 								"info": "flstv",
 								"image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
-								"url" : "https://flstv.online//embed/motogp.php",
+								"url" : "https://emb.apl357.me/player/live.php?id=224553&w=100%&h=100%",
                          					"isHost": "true"
 							  }]
 						  }, 
@@ -8608,7 +8608,12 @@
 		"stations": [
 
 		 {
-			"name": "Rally TV",
+			"name": "Rally TV <1>",
+			"image": "https://m.media-amazon.com/images/I/91ohYcVImFL.png",
+           		 "url" :  "https://klubsports.fun/watch/watch.php?id=707&channel=Rally%20Tv",
+			 "isHost":"true"  
+		}, {
+			"name": "Rally TV <2>",
 			"image": "https://m.media-amazon.com/images/I/91ohYcVImFL.png",
            		 "url" :  "https://topembed.pw/channel/RallyTV[UK]",
 			 "isHost":"true"  
@@ -9141,9 +9146,15 @@
 						 }, {
 							"name": "À Punt",
 							"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logotip_d%27%C3%80_Punt_%282017-%29.svg/1200px-Logotip_d%27%C3%80_Punt_%282017-%29.svg.png",
-							"url":"https://bcovlive-a.akamaihd.net/a51c31c10f6e42b2bbb7c7649e9f305c/eu-west-1/6057955885001/playlist_dvr.m3u8",
+							"url":"https://bcovlive-a.akamaihd.net/8499d938ef904e39b58a4adec2ddeada/eu-west-1/6057955885001/playlist_dvr.m3u8",
 							"userAgent" : ""
 		 				}, {
+			 				"name": "My Pádel TV",
+							"info":"fuera de servicio",
+							"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCZStVEtpRjgAplgIpOkw7tEB1lRdKiGBLxKMZIV_4Oc20HhcBnngp-SkLyVHT-QxHW5TBgP0HqLrEsMhYwckCYZftat7OU_nDv8GbIPry-H1GogZb-jwexslQJ7XVLzuTcJhrdj_MTifjGkidyOg9NvmPb5lKiOAjMRNZXnb6yZ2lR6J5VfyuPniKxu_0/w633-h633/logo-MyPTV.png",
+							"url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01970-mypadeldigitals-mypadeltv-samsungspain/playlist.m3u8",
+							"userAgent": ""
+             					}, {
 							"name": "ETB 1",
 							"image": "https://i.ibb.co/3MmnC3x/ETB1-logo.png",
 							"url":"https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8",
@@ -9166,7 +9177,7 @@
 				 		}, {
 			 				"name": "CMM",
 							"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/CMMedia.svg/2353px-CMMedia.svg.png",
-							"url": "https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4ycl/protocol/https/format/applehttp/.m3u8",
+							"url": "https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_ski67o97/protocol/https/format/applehttp/flavorIds/1_j798obxa,1_laa7c3yp,1_0dz7pqq5,1_mb6o228p,1_z38wqasa/a.m3u8",
 							"userAgent": ""
              				}, {
 			 				"name": "Canal Sur",
@@ -9176,12 +9187,7 @@
              				}, {
 			 				"name": "Canal Extremadura",
 							"image": "https://miguia.tv/channels/big_44@2x.png",
-							"url": "https://cdnapisec.kaltura.com/p/5581662/sp/558166200/playManifest/entryId/1_in8cxw3w/protocol/https/format/applehttp/.m3u8",
-							"userAgent": ""
-             				}, {
-			 				"name": "My Pádel TV",
-							"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCZStVEtpRjgAplgIpOkw7tEB1lRdKiGBLxKMZIV_4Oc20HhcBnngp-SkLyVHT-QxHW5TBgP0HqLrEsMhYwckCYZftat7OU_nDv8GbIPry-H1GogZb-jwexslQJ7XVLzuTcJhrdj_MTifjGkidyOg9NvmPb5lKiOAjMRNZXnb6yZ2lR6J5VfyuPniKxu_0/w633-h633/logo-MyPTV.png",
-							"url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01970-mypadeldigitals-mypadeltv-samsungspain/playlist.m3u8",
+							"url": "https://cdnapisec.kaltura.com/p/5581662/sp/558166200/playManifest/entryId/1_pt32qqg4/protocol/https/format/applehttp/flavorIds/1_guv0vn2k,1_bhyj2nh1,1_msnjjmr8,1_e14c4xt6/a.m3u8",
 							"userAgent": ""
              				}, {
 							"name": "Clan",
@@ -9537,10 +9543,12 @@
 					"referer" : "https://www.elixx.xyz/",
 					"isHost" : "true"
 				}, {
-					"name": "",
+					"name": "Canal 8",
+					"info":"fgtt-mey8 | elixx",
 					"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-					"url" : "",
-				 	"isHost":"true" 
+					"url" : "https://forgepattern.net/embed/xim5l82td952sj6",
+                   			"referer" : "https://www.elixx.xyz/",
+				 	"isHost": "true" 
 				}, {
 					"name": "",
 					"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
