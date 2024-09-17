@@ -24,9 +24,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 09/09/2024",
+             "name": "Ultm. versión 17/09/2024",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 09/09/2024",
+            "info": "última versión actualizada el 17/09/2024",
             "stations": []
 	}, 
 	
@@ -5862,10 +5862,10 @@
 			 				"userAgent":"PlusMediaPlayer/0.0.9"
 						}, {
 							"name": "Canal 13",
-							"info": "mylivestream",
+							"info": "misshit",
 							"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-						   	"url" :  "https://mylivestream.pro/bill.php?stream=YJ8krnYwZrR",
-						   	"referer" : "https://livetvsx.pro/",
+						   	"url" :  "https://new.misshit.top/hembedplayer/fgvsg556hcfgnh/4/500/400",
+						   	"referer" : "https://new.misshit.top/fgvsg556hcfgnh",
 							"isHost": "true"
 						  }, {
 							"name": "Canal 14",
@@ -5887,7 +5887,7 @@
 								   },{
 								 "name": "Canal 17",
 							"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-						 "url": "https://emb.apl204.me/player/live.php?id=210690&w=100%&h=100%",
+						 "url": "https://emb.apl357.me//player/live.php?id=223817&w=100%&h=100%",
 							"isHost" : "true"
 						}, {
 				"name": "Canal 18",
@@ -7059,8 +7059,9 @@
 				 "isHost": "true"
 			}, {
 				"name": "Canal 6",
+				"info": "ww6fr",
 				"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-				 "url": "https://unbiasedsenseevent.com/embed/pbbue38",
+				 "url": "https://forgepattern.net/embed/ww6frra9pf",
               			"referer" : "https://elixx.xyz/",
 				 "isHost": "true"
 				 }, {
@@ -7515,7 +7516,7 @@
 							  }, {
 								"name": "Canal 6",
 							  	"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-								"url" : "https://locatedinfain.com/embed.php?player=desktop&live=do29",
+								"url" : "https://locatedinfain.com/embed.php?player=desktop&live=do30",
                   						"referer" : "https://zvision.link/",
 							  	"isHost": "true" 	
 							}, {
@@ -7639,10 +7640,10 @@
 								"isHost":"true" 
 							  }, {
 								"name": "Canal 27",
-								"info": "2k2k | skin=1",
+								"info": "mylivestream",
 						  		"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-								"url" : "https://unbiasedsenseevent.com/embed/2k2kr220ol6yr6i?skin=1",
-								"referer": "https://l1l1.to/",
+								"url" : "https://mylivestream.pro/beta.php?stream=RdKfpotjL5g",
+								"referer": "https://aliezstream.pro/",
 								"isHost":"true" 
 							  }, {
 								"name": "Canal 28",
@@ -8186,10 +8187,10 @@
 						 	"isHost":"true"  
 					}, { 
 						 	"name": "Canal 8",
-							"info": "",
+							"info": "topembed",
 							"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5aMBynBScnyrCyvkwHvsGGqLtYCdyI1PEE8X6iN2IS9D2MELHKOrJpuR5tnEQdF0PWwz1JlJEQ7Ivn4kEXkp1lckGGLhevfwtbkvG-pEvFRLWGaVsz3vBZBROkJBj8c8tP2y21P3qIZuV0wFifBZhfBy0O4X2j4zbIJdQNzLhTa9UqlA7NyKanlXe-fg-/w645-h432/BoxeoMiniatura.PNG",
-						   	"url" : "https://stylisheleg4nt.com/premium.php?player=desktop&live=bbtsp1",
-             						"referer" : "https://wikisport.se/",
+						   	"url" : "https://topembed.pw/cric.php?id=TNTSports1[UK]",
+             						"referer" : "https://cricplay2.xyz/",
 			 				"isHost":"true"  
 					}, { 
 						 	"name": "Canal 9",
@@ -8206,7 +8207,7 @@
 						 	"name": "Canal 11",
 							"info": "",
 							"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5aMBynBScnyrCyvkwHvsGGqLtYCdyI1PEE8X6iN2IS9D2MELHKOrJpuR5tnEQdF0PWwz1JlJEQ7Ivn4kEXkp1lckGGLhevfwtbkvG-pEvFRLWGaVsz3vBZBROkJBj8c8tP2y21P3qIZuV0wFifBZhfBy0O4X2j4zbIJdQNzLhTa9UqlA7NyKanlXe-fg-/w645-h432/BoxeoMiniatura.PNG",
-						   	"url" :  "https://viwlivehdplay.ru/mono.php?id=7",
+						   	"url" :  "https://viwlivehdplay.ru/mono.php?id=5",
 							"referer" : "https://s2watch.link/",
              						"isHost":"true"  
 					}, { 
@@ -8653,7 +8654,7 @@
 		 }, {
 			"name": "Sky Sports Golf",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sky_Sport_Golf_Logo_2022.svg/1200px-Sky_Sport_Golf_Logo_2022.svg.png",
-			 "url": "https://stylisheleg4nt.com/premium.php?player=desktop&live=skysgol",
+			 "url": "https://topembed.pw/cric.php?id=SkySportsGolf[UK]",
 			"referer": "https://cricplay2.xyz/",
              		"isHost": "true"
                 }, {
@@ -8819,6 +8820,30 @@
 			"name": "TNT Sports",
 			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1nu9bsvioJK4evfm4QfMbGd3rVeN-ZwRybEiCzwVUZqSeeqYGRsU1e7mIGqeeY2EEWrVSNomOUgZJtI_bare-ScI4_wfZxdHuOqwciWR4URkJBnZjEQ3Q82EsFmnKMu_oPBFaLP9OoS84kjpvGYolsSr7sxS0uaQ_zsbT5AT2twQWLcQ8nsAKzH8kkPR4/w553-h176/logo-TNT.png",
 			"url":"https://embx205608.apl232.me/player/live.php?id=205608&w=100%&h=100%",
+	           	"isHost": "true"
+		 }, {
+			"name": "TNT Sport 1",
+			"image": "https://media.info/l/o/1/1539.1690027797.png",
+			"url":"https://topembed.pw/cric.php?id=TNTSports1[UK]",
+			"referer" : "https://cricplay2.xyz/",
+	           	"isHost": "true"
+		 }, {
+			"name": "TNT Sport 2",
+			"image": "https://media.info/l/o/1/1540.1690027877.png",
+			"url":"https://topembed.pw/cric.php?id=TNTSports2[UK]",
+			"referer" : "https://cricplay2.xyz/",
+	           	"isHost": "true"
+		 }, {
+			"name": "TNT Sport 3",
+			"image": "https://media.info/l/o/5/5712.1690027954.png",
+			"url":"https://topembed.pw/cric.php?id=TNTSports3[UK]",
+			"referer" : "https://cricplay2.xyz/",
+	           	"isHost": "true"
+		 }, {
+			"name": "TNT Sport 4",
+			"image": "https://media.info/l/o/1/1491.1690027975.png",
+			"url":"https://topembed.pw/cric.php?id=TNTSports4[UK]",
+			"referer" : "https://cricplay2.xyz/",
 	           	"isHost": "true"
 		 }, {
 			"name": "Win Sports",
@@ -9494,7 +9519,157 @@
 		   "info": "",
 		   "stations": [
 
+
 				{
+					"name": "Juventus - PSV",
+					"info":"",
+					"image": "https://image.discovery.indazn.com/ca/v2/ca/image?id=8m694o1tpbu2q9shtswrw5usm_image-header_pDach_1725353561000&quality=70",
+					"url" : "https://viwlivehdplay.ru/mono.php?id=48", 
+				   	"referer" : "https://s2watch.link/",
+				 	"isHost":"true" 
+				}, {
+					"name": "Juventus - PSV",
+					"info":"",
+					"image": "https://image.discovery.indazn.com/ca/v2/ca/image?id=8m694o1tpbu2q9shtswrw5usm_image-header_pDach_1725353561000&quality=70",
+					"url" :  "https://abolishstand.net/embed/cmms5rk1",
+		                  	"referer" : "https://1stream.buzz/",
+				 	"isHost":"true" 
+				}, {
+					"name": "YB - A. Villa",
+					"info":"",
+					"image": "https://image.discovery.indazn.com/ca/v2/ca/image?id=ljbrj06k7xekn4efv7dfsgas_image-header_pRow_1725354825000",
+					"url" :  "https://swipebreed.net/embed/gagr8b",
+					"referer" : "https://1stream.buzz/",
+				 	"isHost":"true" 
+				}, {
+					"name": "YB - A. Villa",
+					"info":"",
+					"image": "https://image.discovery.indazn.com/ca/v2/ca/image?id=ljbrj06k7xekn4efv7dfsgas_image-header_pRow_1725354825000",
+					"url" : "https://viwlivehdplay.ru/mono.php?id=1", 
+				   	"referer" : "https://s2watch.link/",
+				 	"isHost":"true" 
+				}, {
+					"name": "R. Madrid - Stuttgart",
+					"info":"",
+					"image": "https://image.discovery.indazn.com/ca/v2/ca/image?id=54t4xp4gcf25oxood86gplfq7_image-header_pRow_1725356234000&quality=70",
+					"url" :  "https://abolishstand.net/embed/lbr3etluqsw",
+					"referer" : "https://1stream.buzz/",
+				 	"isHost":"true" 
+				}, {
+					"name": "R. Madrid - Stuttgart",
+					"info":"",
+					"image": "https://image.discovery.indazn.com/ca/v2/ca/image?id=54t4xp4gcf25oxood86gplfq7_image-header_pRow_1725356234000&quality=70",
+					"url": "https://locatedinfain.com/embed.php?player=desktop&live=do19",
+					"referer": "https://zvision.link/",
+				 	"isHost":"true" 
+				}, {
+					"name": "R. Madrid - Stuttgart",
+					"info":"",
+					"image": "https://image.discovery.indazn.com/ca/v2/ca/image?id=54t4xp4gcf25oxood86gplfq7_image-header_pRow_1725356234000&quality=70",
+					"url" :  "https://sportsonline.sx/channels/hd/hd6.php",
+					"referer" : "https://channels-1op.pages.dev/",
+				 	"isHost":"true" 
+				}, {
+					"name": "R. Madrid - Stuttgart",
+					"info":"",
+					"image": "https://image.discovery.indazn.com/ca/v2/ca/image?id=54t4xp4gcf25oxood86gplfq7_image-header_pRow_1725356234000&quality=70",
+					"url" : "https://geny-4k.blogspot.com/p/lazy-load-iframe_84.html",
+				 	"isHost":"true" 
+				}, {
+					"name": "R. Madrid - Stuttgart",
+					"info":"",
+					"image": "https://image.discovery.indazn.com/ca/v2/ca/image?id=54t4xp4gcf25oxood86gplfq7_image-header_pRow_1725356234000&quality=70",
+					"url": "https://mylivestream.pro/bill.php?stream=4eLyr2RZq7v",
+					"referer": "https://livetvsx.pro/",
+				 	"isHost":"true" 
+				}, {
+					"name": "Milan - Liverpool",
+					"info":"",
+					"image": "https://image.discovery.indazn.com/ca/v2/ca/image?id=9r8statbyni59kyyaduns5zmh_image-header_pRow_1725352064000&quality=70",
+					"url": "https://locatedinfain.com/embed.php?player=desktop&live=do48",
+					"referer": "https://zvision.link/",
+				 	"isHost":"true" 
+				}, {
+					"name": "Milan - Liverpool",
+					"info":"",
+					"image": "https://image.discovery.indazn.com/ca/v2/ca/image?id=9r8statbyni59kyyaduns5zmh_image-header_pRow_1725352064000&quality=70",
+					"url": "https://mylivestream.pro/bill.php?stream=4eLyr2RZq7v",
+					"referer": "https://livetvsx.pro/",
+				 	"isHost":"true" 
+				}, {
+					"name": "Bayern - D. Zagreb",
+					"info":"",
+					"image": "https://image.discovery.indazn.com/ca/v2/ca/image?id=wqwl9ziefgx6acmt7qf6d6s_image-header_pRow_1725533496000",
+					"url": "https://locatedinfain.com/embed.php?player=desktop&live=do3",
+					"referer": "https://zvision.link/",
+				 	"isHost":"true" 
+				}, {
+					"name": "Bayern - D. Zagreb",
+					"info":"",
+					"image": "https://image.discovery.indazn.com/ca/v2/ca/image?id=wqwl9ziefgx6acmt7qf6d6s_image-header_pRow_1725533496000",
+					"url" :  "https://abolishstand.net/embed/gagr8b",
+					"referer" : "https://1stream.buzz/",
+				 	"isHost":"true" 
+				}, {
+					"name": "Sporting CP - Lille",
+					"info":"",
+					"image": "https://image.discovery.indazn.com/ca/v2/ca/image?id=i9bol7u7nkls1i0zgx2ktoem_image-header_pDach_1725533572000&quality=70",
+					"url": "https://locatedinfain.com/embed.php?player=desktop&live=do29",
+					"referer": "https://zvision.link/",
+				 	"isHost":"true" 
+				}, {
+					"name": "Sporting CP - Lille",
+					"info":"",
+					"image": "https://image.discovery.indazn.com/ca/v2/ca/image?id=i9bol7u7nkls1i0zgx2ktoem_image-header_pDach_1725533572000&quality=70",
+					"url" :  "https://abolishstand.net/embed/89ftq8ua1j5lr",
+					"referer" : "https://1stream.buzz/",
+				 	"isHost":"true" 
+				},
+
+
+				{
+					"name": "",
+					"info":"",
+					"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8DUs_eptCujTHRwAxJrkaw18XZRMaXNgLzRSKagDuvYAAqlauM0l-QngGK9bK0-f2ItKqMZ62aX-wq4Bp_XTUDni3CYxh9U0t-VfshtE5Sn_4j9jyW7RSBTCoS9s9gu8Yl9FkB7qKFK40VMKFn3PYMcNFX32H1w5oi1ZcCc5-UBk8FyOhAjzYOb4f-G99/w642-h267/invisible.png",
+					"url" : "",
+                   			"referer" : "",
+				 	"isHost":"false" 
+				}, {
+					"name": "",
+					"info":"",
+					"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8DUs_eptCujTHRwAxJrkaw18XZRMaXNgLzRSKagDuvYAAqlauM0l-QngGK9bK0-f2ItKqMZ62aX-wq4Bp_XTUDni3CYxh9U0t-VfshtE5Sn_4j9jyW7RSBTCoS9s9gu8Yl9FkB7qKFK40VMKFn3PYMcNFX32H1w5oi1ZcCc5-UBk8FyOhAjzYOb4f-G99/w642-h267/invisible.png",
+					"url" : "",
+                   			"referer" : "",
+				 	"isHost":"false" 
+				}, {
+					"name": "",
+					"info":"",
+					"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8DUs_eptCujTHRwAxJrkaw18XZRMaXNgLzRSKagDuvYAAqlauM0l-QngGK9bK0-f2ItKqMZ62aX-wq4Bp_XTUDni3CYxh9U0t-VfshtE5Sn_4j9jyW7RSBTCoS9s9gu8Yl9FkB7qKFK40VMKFn3PYMcNFX32H1w5oi1ZcCc5-UBk8FyOhAjzYOb4f-G99/w642-h267/invisible.png",
+					"url" : "",
+                   			"referer" : "",
+				 	"isHost":"false" 
+				}, {
+					"name": "",
+					"info":"",
+					"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8DUs_eptCujTHRwAxJrkaw18XZRMaXNgLzRSKagDuvYAAqlauM0l-QngGK9bK0-f2ItKqMZ62aX-wq4Bp_XTUDni3CYxh9U0t-VfshtE5Sn_4j9jyW7RSBTCoS9s9gu8Yl9FkB7qKFK40VMKFn3PYMcNFX32H1w5oi1ZcCc5-UBk8FyOhAjzYOb4f-G99/w642-h267/invisible.png",
+					"url" : "",
+                   			"referer" : "",
+				 	"isHost":"false" 
+				}, {
+					"name": "",
+					"info":"",
+					"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8DUs_eptCujTHRwAxJrkaw18XZRMaXNgLzRSKagDuvYAAqlauM0l-QngGK9bK0-f2ItKqMZ62aX-wq4Bp_XTUDni3CYxh9U0t-VfshtE5Sn_4j9jyW7RSBTCoS9s9gu8Yl9FkB7qKFK40VMKFn3PYMcNFX32H1w5oi1ZcCc5-UBk8FyOhAjzYOb4f-G99/w642-h267/invisible.png",
+					"url" : "",
+                   			"referer" : "",
+				 	"isHost":"false" 
+				}, {
+					"name": "",
+					"info":"",
+					"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8DUs_eptCujTHRwAxJrkaw18XZRMaXNgLzRSKagDuvYAAqlauM0l-QngGK9bK0-f2ItKqMZ62aX-wq4Bp_XTUDni3CYxh9U0t-VfshtE5Sn_4j9jyW7RSBTCoS9s9gu8Yl9FkB7qKFK40VMKFn3PYMcNFX32H1w5oi1ZcCc5-UBk8FyOhAjzYOb4f-G99/w642-h267/invisible.png",
+					"url" : "",
+                   			"referer" : "",
+				 	"isHost":"false" 
+				}, {
 					"name": "Canal 1",
 					"info":"frck-h2kio | elixx",
 					"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
