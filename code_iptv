@@ -24,9 +24,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 17/09/2024",
+             "name": "Ultm. versión 18/09/2024",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 17/09/2024",
+            "info": "última versión actualizada el 18/09/2024",
             "stations": []
 	}, 
 	
@@ -244,34 +244,28 @@
 				"name": "Whatplay - iOS",
 				"image": "https://whatplay.es/wp-content/uploads/2018/10/testimonial-3.png"
 			 }, {
-				"name": "Android 1",
-				"image": "https://cdn-icons-png.freepik.com/512/13746/13746953.png",
-				"url":"http://digital.nicesecrethotdigital.xyz:80/get.php?username=fe94126&password=K56Rdq8U8J5q&type=m3u_plus",
-				"info":"",
-				"import": false
-			 }, {
 				"name": "ANDROID/iOS 1",
 				"image": "https://cdn-icons-png.freepik.com/512/13746/13746953.png",
-				"url":"http://feliz2022.selfip.org:8000/get.php?username=vaquezs&password=vaquezs&type=m3u_plus",
-				"info":"",
+				"url":"http://eurogenius.pro:8080/get.php?username=Vg3EMu7ezDx345fgsc&password=rrX7s3fbtLtc6578gjhfc&type=m3u_plus",
+				"info":"200 conexiones",
 				"import": false
 			 }, {
 				"name": "ANDROID/iOS 2",
+				"image": "https://cdn-icons-png.freepik.com/512/13746/13746953.png",
+				"url":"http://1.84423.xyz:8000/get.php?username=gooodseerveriptv&password=X7MY8691HH&type=m3u_plus",
+				"info":"400 conexiones",
+				"import": false
+			 }, {
+				"name": "ANDROID/iOS 3",
 				"image": "https://cdn-icons-png.freepik.com/512/13746/13746953.png",
 				"url":"http://iptvtree.net:8080/get.php?username=xplatinum2023&password=shpaF2mG6eKEqHJ3&type=m3u",
 				"info":"500 conexiones",
 				"import": false
 			 }, {
-				"name": "ANDROID/iOS 3",
-				"image": "https://cdn-icons-png.freepik.com/512/13746/13746953.png",
-				"url":"http://tv.proyectox.vip:8080/get.php?username=jay27492749&password=83749jfiwbqldufz499&type=m3u_plus",
-				"info":"500 conexiones",
-				"import": false
-			 }, {
 				"name": "ANDROID/iOS 4",
 				"image": "https://cdn-icons-png.freepik.com/512/13746/13746953.png",
-				"url":"http://bandookk.xyz:61/get.php?username=tvaks&password=01duygulu__68&type=m3u_plus&output=m3u8",
-				"info":"300 conexiones",
+				"url":"http://eros.football:33200/get.php?username=restreamtvplux&password=Mhsi3wMSJSEjska343255&type=m3u_plus",
+				"info":"350 conexiones",
 				"import": false
 			 }, {
 				"name": "Android/iOS 5",
@@ -284,24 +278,6 @@
 				"image": "https://cdn-icons-png.freepik.com/512/13746/13746953.png",
 				"url":"http://amazingiptv.one:8080/get.php?username=kaan159467kaan2634&password=Dacota123456&type=m3u",
 				"info":"200 conexiones",
-				"import": false
-			 }, {
-				"name": "ANDROID/iOS 7",
-				"image": "https://cdn-icons-png.freepik.com/512/13746/13746953.png",
-				"url":"http://zxd.4k-crystal.top:8080/get.php?username=elattartvgsfterw&password=aiuA7vctyT&type=m3u",
-				"info":"200 conexiones",
-				"import": false
-			 }, {
-				"name": "ANDROID/iOS 8",
-				"image": "https://cdn-icons-png.freepik.com/512/13746/13746953.png",
-				"url":"http://disfruta.net:80/get.php?username=Justplay&password=CRYrHtUeVf&type=m3u_plus",
-				"info":"180 conexiones",
-				"import": false
-			 }, {
-				"name": "ANDROID/iOS 9",
-				"image": "https://cdn-icons-png.freepik.com/512/13746/13746953.png",
-				"url":"http://budtvlight.com:25461/get.php?username=carlospix&password=Rx5HpkPqgp&type=m3u",
-				"info":"150 conexiones",
 				"import": false
 			 }]
 	},
@@ -6120,9 +6096,10 @@
                  		"isHost": "true"
 			}, { 
                  		"name": "Canal 54",
-				"info": "ucplay2",
+				"info": "dinner-potential",
                     		"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-                      		"url": "https://live.ucplay2.com/fgthdghLfvsdgf",
+                      		"url": "https://dinnerpotential.net/embed/t7w70x7v57",
+				"referer" : "https://tarjetarojaenvivo.lat/",
                  		"isHost": "true"
 			}, { 
                  		"name": "Canal 55",
@@ -6139,9 +6116,10 @@
                  		"isHost": "true"
 			}, { 
                  		"name": "Canal 57",
-				"info":"html",
+				"info":"mylivestream",
                     		"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-                      		"url": "https://geny-4k.blogspot.com/p/dazn-la-liga.html",
+                      		"url": "https://mylivestream.pro/bill.php?stream=4eLyr2RZq7v",
+				"referer": "https://livetvsx.pro/",
                  		"isHost": "true"
 			}, { 
                  		"name": "Canal 58",
@@ -9521,108 +9499,108 @@
 
 
 				{
-					"name": "Juventus - PSV",
+					"name": "Canal 1",
 					"info":"",
-					"image": "https://image.discovery.indazn.com/ca/v2/ca/image?id=8m694o1tpbu2q9shtswrw5usm_image-header_pDach_1725353561000&quality=70",
-					"url" : "https://viwlivehdplay.ru/mono.php?id=48", 
+					"image": "https://editorial.uefa.com/resources/0246-0e98e0aed53b-074f228dc0a2-1000/ucl_branding.jpeg",
+					"url" : "https://viwlivehdplay.ru/mono.php?id=30", 
 				   	"referer" : "https://s2watch.link/",
 				 	"isHost":"true" 
 				}, {
-					"name": "Juventus - PSV",
-					"info":"",
-					"image": "https://image.discovery.indazn.com/ca/v2/ca/image?id=8m694o1tpbu2q9shtswrw5usm_image-header_pDach_1725353561000&quality=70",
-					"url" :  "https://abolishstand.net/embed/cmms5rk1",
-		                  	"referer" : "https://1stream.buzz/",
+					"name": "Canal 2",
+					"info":"Lig. Camp. 2",
+					"image": "https://editorial.uefa.com/resources/0246-0e98e0aed53b-074f228dc0a2-1000/ucl_branding.jpeg",
+					"url" :  "https://dinnerpotential.net/embed/00ui0v",
+		                  	"referer" : "https://tarjetarojaenvivo.lat/",
 				 	"isHost":"true" 
 				}, {
-					"name": "YB - A. Villa",
-					"info":"",
-					"image": "https://image.discovery.indazn.com/ca/v2/ca/image?id=ljbrj06k7xekn4efv7dfsgas_image-header_pRow_1725354825000",
-					"url" :  "https://swipebreed.net/embed/gagr8b",
-					"referer" : "https://1stream.buzz/",
+					"name": "Canal 3",
+					"info":"Lig. Camp. 3",
+					"image": "https://editorial.uefa.com/resources/0246-0e98e0aed53b-074f228dc0a2-1000/ucl_branding.jpeg",
+					"url" :  "https://dinnerpotential.net/embed/efw4k296",
+					"referer" : "https://tarjetarojaenvivo.lat/",
 				 	"isHost":"true" 
 				}, {
-					"name": "YB - A. Villa",
+					"name": "Canal 4",
 					"info":"",
-					"image": "https://image.discovery.indazn.com/ca/v2/ca/image?id=ljbrj06k7xekn4efv7dfsgas_image-header_pRow_1725354825000",
+					"image": "https://editorial.uefa.com/resources/0246-0e98e0aed53b-074f228dc0a2-1000/ucl_branding.jpeg",
 					"url" : "https://viwlivehdplay.ru/mono.php?id=1", 
 				   	"referer" : "https://s2watch.link/",
 				 	"isHost":"true" 
 				}, {
-					"name": "R. Madrid - Stuttgart",
+					"name": "Canal 5",
 					"info":"",
-					"image": "https://image.discovery.indazn.com/ca/v2/ca/image?id=54t4xp4gcf25oxood86gplfq7_image-header_pRow_1725356234000&quality=70",
-					"url" :  "https://abolishstand.net/embed/lbr3etluqsw",
-					"referer" : "https://1stream.buzz/",
+					"image": "https://editorial.uefa.com/resources/0246-0e98e0aed53b-074f228dc0a2-1000/ucl_branding.jpeg",
+					"url" :  "https://dinnerpotential.net/embed/vuiel9gd34kos6",
+					"referer" : "https://tarjetarojaenvivo.lat/",
 				 	"isHost":"true" 
 				}, {
-					"name": "R. Madrid - Stuttgart",
+					"name": "Canal 6",
 					"info":"",
-					"image": "https://image.discovery.indazn.com/ca/v2/ca/image?id=54t4xp4gcf25oxood86gplfq7_image-header_pRow_1725356234000&quality=70",
-					"url": "https://locatedinfain.com/embed.php?player=desktop&live=do19",
-					"referer": "https://zvision.link/",
+					"image": "https://editorial.uefa.com/resources/0246-0e98e0aed53b-074f228dc0a2-1000/ucl_branding.jpeg",
+					"url": "https://viwlivehdplay.ru/mono.php?id=19",
+					"referer": "https://s2watch.link/",
 				 	"isHost":"true" 
 				}, {
-					"name": "R. Madrid - Stuttgart",
+					"name": "Canal 7",
 					"info":"",
-					"image": "https://image.discovery.indazn.com/ca/v2/ca/image?id=54t4xp4gcf25oxood86gplfq7_image-header_pRow_1725356234000&quality=70",
+					"image": "https://editorial.uefa.com/resources/0246-0e98e0aed53b-074f228dc0a2-1000/ucl_branding.jpeg",
 					"url" :  "https://sportsonline.sx/channels/hd/hd6.php",
 					"referer" : "https://channels-1op.pages.dev/",
 				 	"isHost":"true" 
 				}, {
-					"name": "R. Madrid - Stuttgart",
+					"name": "Canal 8",
 					"info":"",
-					"image": "https://image.discovery.indazn.com/ca/v2/ca/image?id=54t4xp4gcf25oxood86gplfq7_image-header_pRow_1725356234000&quality=70",
-					"url" : "https://geny-4k.blogspot.com/p/lazy-load-iframe_84.html",
+					"image": "https://editorial.uefa.com/resources/0246-0e98e0aed53b-074f228dc0a2-1000/ucl_branding.jpeg",
+					"url" : "https://lewblivehdplay.ru/premiumtv/daddyhd.php?id=435",
 				 	"isHost":"true" 
 				}, {
-					"name": "R. Madrid - Stuttgart",
+					"name": "Canal 9",
 					"info":"",
-					"image": "https://image.discovery.indazn.com/ca/v2/ca/image?id=54t4xp4gcf25oxood86gplfq7_image-header_pRow_1725356234000&quality=70",
-					"url": "https://mylivestream.pro/bill.php?stream=4eLyr2RZq7v",
+					"image": "https://editorial.uefa.com/resources/0246-0e98e0aed53b-074f228dc0a2-1000/ucl_branding.jpeg",
+					"url": "https://mylivestream.pro/bill.php?stream=DhxJ1yVlM1ZM",
 					"referer": "https://livetvsx.pro/",
 				 	"isHost":"true" 
 				}, {
-					"name": "Milan - Liverpool",
+					"name": "Canal 10",
 					"info":"",
-					"image": "https://image.discovery.indazn.com/ca/v2/ca/image?id=9r8statbyni59kyyaduns5zmh_image-header_pRow_1725352064000&quality=70",
-					"url": "https://locatedinfain.com/embed.php?player=desktop&live=do48",
-					"referer": "https://zvision.link/",
+					"image": "https://editorial.uefa.com/resources/0246-0e98e0aed53b-074f228dc0a2-1000/ucl_branding.jpeg",
+					"url": "https://viwlivehdplay.ru/mono.php?id=48",
+					"referer": "https://s2watch.link/",
 				 	"isHost":"true" 
 				}, {
-					"name": "Milan - Liverpool",
+					"name": "Canal 11",
 					"info":"",
-					"image": "https://image.discovery.indazn.com/ca/v2/ca/image?id=9r8statbyni59kyyaduns5zmh_image-header_pRow_1725352064000&quality=70",
-					"url": "https://mylivestream.pro/bill.php?stream=4eLyr2RZq7v",
-					"referer": "https://livetvsx.pro/",
+					"image": "https://editorial.uefa.com/resources/0246-0e98e0aed53b-074f228dc0a2-1000/ucl_branding.jpeg",
+					"url": "https://dinnerpotential.net/embed/g6auvbu66y",
+					"referer": "https://tarjetarojaenvivo.lat/",
 				 	"isHost":"true" 
 				}, {
-					"name": "Bayern - D. Zagreb",
+					"name": "Canal 12",
 					"info":"",
-					"image": "https://image.discovery.indazn.com/ca/v2/ca/image?id=wqwl9ziefgx6acmt7qf6d6s_image-header_pRow_1725533496000",
-					"url": "https://locatedinfain.com/embed.php?player=desktop&live=do3",
-					"referer": "https://zvision.link/",
+					"image": "https://editorial.uefa.com/resources/0246-0e98e0aed53b-074f228dc0a2-1000/ucl_branding.jpeg",
+					"url": "https://viwlivehdplay.ru/mono.php?id=2",
+					"referer": "https://s2watch.link/",
 				 	"isHost":"true" 
 				}, {
-					"name": "Bayern - D. Zagreb",
+					"name": "Canal 13",
 					"info":"",
-					"image": "https://image.discovery.indazn.com/ca/v2/ca/image?id=wqwl9ziefgx6acmt7qf6d6s_image-header_pRow_1725533496000",
-					"url" :  "https://abolishstand.net/embed/gagr8b",
-					"referer" : "https://1stream.buzz/",
+					"image": "https://editorial.uefa.com/resources/0246-0e98e0aed53b-074f228dc0a2-1000/ucl_branding.jpeg",
+					"url" :  "https://dinnerpotential.net/embed/00ui0v",
+					"referer" : "https://tarjetarojaenvivo.lat/",
 				 	"isHost":"true" 
 				}, {
-					"name": "Sporting CP - Lille",
+					"name": "Canal 14",
 					"info":"",
-					"image": "https://image.discovery.indazn.com/ca/v2/ca/image?id=i9bol7u7nkls1i0zgx2ktoem_image-header_pDach_1725533572000&quality=70",
-					"url": "https://locatedinfain.com/embed.php?player=desktop&live=do29",
-					"referer": "https://zvision.link/",
+					"image": "https://editorial.uefa.com/resources/0246-0e98e0aed53b-074f228dc0a2-1000/ucl_branding.jpeg",
+					"url": "https://viwlivehdplay.ru/mono.php?id=29",
+					"referer": "https://s2watch.link/",
 				 	"isHost":"true" 
 				}, {
-					"name": "Sporting CP - Lille",
+					"name": "Canal 15",
 					"info":"",
-					"image": "https://image.discovery.indazn.com/ca/v2/ca/image?id=i9bol7u7nkls1i0zgx2ktoem_image-header_pDach_1725533572000&quality=70",
-					"url" :  "https://abolishstand.net/embed/89ftq8ua1j5lr",
-					"referer" : "https://1stream.buzz/",
+					"image": "https://editorial.uefa.com/resources/0246-0e98e0aed53b-074f228dc0a2-1000/ucl_branding.jpeg",
+					"url" :  "https://dinnerpotential.net/embed/5sdw4li",
+					"referer" : "https://tarjetarojaenvivo.lat/",
 				 	"isHost":"true" 
 				},
 
