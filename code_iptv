@@ -24,9 +24,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 18/09/2024",
+             "name": "Ultm. versión 19/09/2024",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 18/09/2024",
+            "info": "última versión actualizada el 19/09/2024",
             "stations": []
 	}, 
 	
@@ -9601,6 +9601,34 @@
 					"image": "https://editorial.uefa.com/resources/0246-0e98e0aed53b-074f228dc0a2-1000/ucl_branding.jpeg",
 					"url" :  "https://dinnerpotential.net/embed/5sdw4li",
 					"referer" : "https://tarjetarojaenvivo.lat/",
+				 	"isHost":"true" 
+				}, {
+					"name": "Canal 16",
+					"info":"",
+					"image": "https://editorial.uefa.com/resources/0246-0e98e0aed53b-074f228dc0a2-1000/ucl_branding.jpeg",
+					"url" :  "https://dinnerpotential.net/embed/m4kcoozqga6",
+					"referer" : "https://tarjetarojaenvivo.lat/",
+				 	"isHost":"true" 
+				}, {
+					"name": "Canal 17",
+					"info":"multi",
+					"image": "https://editorial.uefa.com/resources/0246-0e98e0aed53b-074f228dc0a2-1000/ucl_branding.jpeg",
+					"url" :  "https://dinnerpotential.net/hzsw0yityofp0y",
+					"referer" : "https://tarjetarojaenvivo.lat/",
+				 	"isHost":"true" 
+				}, {
+					"name": "Canal 18",
+					"info":"",
+					"image": "https://editorial.uefa.com/resources/0246-0e98e0aed53b-074f228dc0a2-1000/ucl_branding.jpeg",
+					"url" :  "https://viwlivehdplay.ru/mono.php?id=48",
+					"referer" : "https://s2watch.link/",
+				 	"isHost":"true" 
+				}, {
+					"name": "Canal 19",
+					"info":"Multi",
+					"image": "https://editorial.uefa.com/resources/0246-0e98e0aed53b-074f228dc0a2-1000/ucl_branding.jpeg",
+					"url" :  "https://viwlivehdplay.ru/mono.php?id=10",
+					"referer" : "https://s2watch.link/",
 				 	"isHost":"true" 
 				},
 
