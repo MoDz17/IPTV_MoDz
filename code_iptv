@@ -1,13 +1,13 @@
 {
     "name": "IPT - ADICTOS",
     "author": "MoDz",
-    "image": "https://i.ibb.co/PGL5P2Z/Main-pic-Logo-and-Banner.jpg",
+    "image": "https://i.ibb.co/T0LndcT/Pic-Profile-HW.png",
     "info": "IPTV oficial de FUTBOL-ADICTOS",
     "telegram": "+wIBp4fXctzpjYTU0",
     "url": "https://raw.githubusercontent.com/MoDz17/IPTV_MoDz/main/code_iptv",
     "groups": [{
              "name": "FUTBOL - ADICTOS",
-            "image": "https://i.ibb.co/PGL5P2Z/Main-pic-Logo-and-Banner.jpg",
+            "image": "https://i.ibb.co/T0LndcT/Pic-Profile-HW.png",
             "info": "",
             "stations": [
 	    	{
@@ -24,9 +24,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 29/09/2024",
+             "name": "Ultm. versión 01/10/2024",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 29/09/2024",
+            "info": "última versión actualizada el 01/10/2024",
             "stations": []
 	}, 
 	
@@ -2447,37 +2447,37 @@
                 	 		"name": "M+ Golf 1080p",
 					"info": "base-host",
                     			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Golf_por_Movistar_Plus%2B_2022_logo.svg/2560px-Golf_por_Movistar_Plus%2B_2022_logo.svg.png",
-                    			"url" :  "acestream://858b3cf2842ebe394999275e5ebb0435f1af2ae4",
+                    			"url" :  "acestream://688cc3af0f517c598e07d35f1ce79f8bcba17d81",
 					"isHost": "true"
 				}, { 
                 	 		"name": "M+ Golf 1080p",
 					"info": "base-agent",
                     			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Golf_por_Movistar_Plus%2B_2022_logo.svg/2560px-Golf_por_Movistar_Plus%2B_2022_logo.svg.png",
-                    			"url" :  "acestream://858b3cf2842ebe394999275e5ebb0435f1af2ae4",
+                    			"url" :  "acestream://688cc3af0f517c598e07d35f1ce79f8bcba17d81",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "M+ Golf 1080p",
 					"info": "base-embed",
                     			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Golf_por_Movistar_Plus%2B_2022_logo.svg/2560px-Golf_por_Movistar_Plus%2B_2022_logo.svg.png",
-                    			"url" :  "acestream://858b3cf2842ebe394999275e5ebb0435f1af2ae4",
+                    			"url" :  "acestream://688cc3af0f517c598e07d35f1ce79f8bcba17d81",
 					"embed": "true"
 				}, { 
                 	 		"name": "M+ Golf 1080p",
 					"info": "get-host",
                     			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Golf_por_Movistar_Plus%2B_2022_logo.svg/2560px-Golf_por_Movistar_Plus%2B_2022_logo.svg.png",
-                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=858b3cf2842ebe394999275e5ebb0435f1af2ae4",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=688cc3af0f517c598e07d35f1ce79f8bcba17d81",
 					"isHost": "true"
 				}, { 
                 	 		"name": "M+ Golf 1080p",
 					"info": "get-agent",
                     			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Golf_por_Movistar_Plus%2B_2022_logo.svg/2560px-Golf_por_Movistar_Plus%2B_2022_logo.svg.png",
-                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=858b3cf2842ebe394999275e5ebb0435f1af2ae4",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=688cc3af0f517c598e07d35f1ce79f8bcba17d81",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "M+ Golf 1080p",
 					"info": "get-embed",
                     			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Golf_por_Movistar_Plus%2B_2022_logo.svg/2560px-Golf_por_Movistar_Plus%2B_2022_logo.svg.png",
-                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=858b3cf2842ebe394999275e5ebb0435f1af2ae4",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=688cc3af0f517c598e07d35f1ce79f8bcba17d81",
 					"embed": "true"
 				},
 
@@ -5989,8 +5989,8 @@
 				"name": "Canal 20",
 				"info": "php",
 		   		"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-			   	"url" :  "https://gabitotv.com/01.php", 
-                       		"referer" : "https://gabitotv.com/ch01.php",
+			   	"url" :  "https://gabitotv.com/010.php", 
+                       		"referer" : "https://gabitotv.com/ch010.php",
 			 	"isHost":"true"
 			 }, {
 				"name": "Canal 21",
