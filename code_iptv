@@ -24,9 +24,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 10/10/2024",
+             "name": "Ultm. versión 22/10/2024",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 10/10/2024",
+            "info": "última versión actualizada el 22/10/2024",
             "stations": []
 	}, 
 	
@@ -5149,8 +5149,8 @@
 		 	}, {
 				"name": "Canal 1",
 				"image": "https://i.ibb.co/4NvkCVR/logo-deportes.png",
-				"url" :  "https://mylivestream.pro/bettaa.php?stream=BRCgSeMTtEm8",
-				"referer" : "https://aliezstream.pro/",
+				"url" :  "https://8kwebplay.xyz/maxsport.php?id=primamovistar2",
+				"referer" : "https://antenasport.online/",
                 		"isHost":"true"
 		  	}, {  
 				"name": "Canal 2",
@@ -5176,8 +5176,8 @@
 			 }, {
 				"name": "Canal 5",
 				"image": "https://i.ibb.co/4NvkCVR/logo-deportes.png",
-				"url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=438",
-              			"referer" : "https://dlhd.sx/",
+				"url" : "https://8kwebplay.xyz/maxsport.php?id=primamovistar",
+              			"referer" : "https://antenasport.online/",
 			 	"isHost":"true"
 			 }, {
 			   	"name": "Canal 6",
@@ -5221,8 +5221,8 @@
          		}, {
 			"name": "Canal 2",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar_Deportes_2.svg/2070px-Movistar_Deportes_2.svg.png",
-		 	"url": "https://mylivestream.pro/bettaa.php?stream=BRCgSeMTtEm8",
-			"referer" : "https://aliezstream.pro/",
+		 	"url": "https://8kwebplay.xyz/maxsport.php?id=primamovistar2",
+			"referer" : "https://antenasport.online/",
              		"isHost": "true"  
          		}, {
 			 "name": "Canal 3",
@@ -5277,8 +5277,8 @@
 				"name": "Canal 10",
 				"info": "hocast4",
 				"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar_Deportes_2.svg/2070px-Movistar_Deportes_2.svg.png",
-				"url" : "https://hocast4.com/footy.php?player=desktop&live=ufeed153",
-		        	"referer": "https://primefoot.ru/",
+				"url" : "https://8kwebplay.xyz/maxsport.php?id=primamovistar3",
+		        	"referer": "https://antenasport.online/",
 				"isHost":"true"
 			 }, {
         			"name": "Canal 11*",
@@ -5412,8 +5412,8 @@
 				 }, {
 	   		"name": "Canal 5",
 			   "image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-			"url": "https://locatedinfain.com/embed.php?player=desktop&live=do23",
-			"referer": "https://zvision.link/",
+			"url": "https://4kwebplay.xyz/maxsport.php?id=primadazn1es",
+			"referer": "https://antennasports.ru/",
 			"isHost": "true"
 	}, {
 			"name": "Canal 6",
@@ -5525,10 +5525,10 @@
 	 			"isHost": "true"  
  			}, {
 				"name": "Canal 23",
-				"info": "candle | fgvd9",
+				"info": "gnpll | fgvd9",
 				"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-				"url": "https://candlesouth.net/embed/fgvd9mt1",
-                         	"referer" : "https://l1l1.to/",
+				"url": "https://generalpill.net/embed/fgvd9mt1",
+                         	"referer" : "https://bedsport.live/",
 	 			"isHost": "true"  
  			}, { 
 			"name": "Canal 1",
@@ -5598,9 +5598,11 @@
 	   	"isHost": "true"
 	 		}, {
 			   "name": "Canal 11",
+			   "info": "4kwebplay",
 			   "image": "https://i.ibb.co/vhNCnrq/DAZN-2-Logo-Sin-Fondo.webp",
-			   "url":"http://51.158.36.81:18000/DAZN_2/hls/playlist.m3u8",
-			   "userAgent" : ""
+			   "url" : "https://4kwebplay.xyz/maxsport.php?id=primadazn2es",
+			   "referer" : "https://antennasports.ru/",
+			   "isHost": "true"
 		 }, {
 			   "name": "Canal 12",
 			   "image": "https://i.ibb.co/vhNCnrq/DAZN-2-Logo-Sin-Fondo.webp",
@@ -5612,19 +5614,21 @@
 				"image": "https://i.ibb.co/vhNCnrq/DAZN-2-Logo-Sin-Fondo.webp",
 				"url":"https://daddy.yurendtv.biz.id/https://ddy1.onlinewebtv.lol:443/ddy1/premium446/tracks-v1a1/mono.m3u8",
 				"userAgent" : ""
-			}, { 
+		}, { 
 			"name": "Canal 1",
-			   "image": "https://i.ibb.co/p1Ry56w/DAZN-3-Logo-Sin-Fondo.png",
-		 	"url": "https://sportskart.click/embed/stream-446.php",
+			"info": "4kwebplay",
+		   	"image": "https://i.ibb.co/p1Ry56w/DAZN-3-Logo-Sin-Fondo.png",
+		 	"url": "https://4kwebplay.xyz/maxsport.php?id=primadazn3es",
+			"referer" : "https://antennasports.ru/",
 			"isHost": "true"   
-			   },{ 
+	   }, { 
 				"name": "Canal 2",
 				"info": "csdj-xvofy | 1str",
 			   	"image": "https://i.ibb.co/p1Ry56w/DAZN-3-Logo-Sin-Fondo.png",
 				"url": "https://closedjelly.net/embed/xvofyfktwqkwrr",
 	   			"referer" : "https://1stream.buzz/",
 	   			"isHost":"true"
-			  },{ 
+	  }, { 
 			"name": "Canal 3",
 			"info": "fgtt-xvofy | 1str",
 			   "image": "https://i.ibb.co/p1Ry56w/DAZN-3-Logo-Sin-Fondo.png",
@@ -5633,15 +5637,16 @@
 		"isHost": "true"
 		  },{ 
 			"name": "Canal 4",
-			"info": "topembed",
+			"info": "4kwebplay",
 			"image": "https://i.ibb.co/p1Ry56w/DAZN-3-Logo-Sin-Fondo.png",
-			"url": "https://topembed.pw/channel/DAZN3[Spain]",
+			"url": "https://4kwebplay.xyz/maxsport.php?id=primadazn3es",
+			"referer" : "https://antennasports.ru/",
 			"isHost": "true" 
 			   }, {
 				"name": "Canal 5",
 			   "image": "https://i.ibb.co/p1Ry56w/DAZN-3-Logo-Sin-Fondo.png",
-				 "url": "https://utopianwilderness.com/embed/a2x9fkk75ru",
-			   "referer": "https://starlive.xyz/",
+				 "url": "https://generalpill.net/embed/1y3rog39gf48pz",
+			   "referer": "https://bedsport.live/",
 				"isHost": "true"  
 				   }, {
 			   "name": "Canal 6",
@@ -5699,13 +5704,14 @@
 			   "url" :  "https://forgepattern.net/embed/w67i2uz",
 		"referer" : "https://1stream.buzz/",
 			   "isHost":"true" 
-		  },{ 
+		  }, { 
 			"name": "Canal 2",
-			   "image": "https://i.ibb.co/LQy2rM6/DAZN-4-Logo-Sin-Fondo.png",
-		 "url": "https://locatedinfain.com/embed.php?player=desktop&live=do36",
-			"referer": "https://zvision.link/",
-		"isHost": "true"  
-		 },{ 
+			"info": "4kwebplay",
+		   	"image": "https://i.ibb.co/LQy2rM6/DAZN-4-Logo-Sin-Fondo.png",
+		 	"url": "https://4kwebplay.xyz/maxsport.php?id=primadazn4es",
+			"referer": "https://antennasports.ru/",
+			"isHost": "true"  
+		 }, { 
 			"name": "Canal 3",
 			"info": "topembed",
 			   "image": "https://i.ibb.co/LQy2rM6/DAZN-4-Logo-Sin-Fondo.png",
@@ -5735,8 +5741,8 @@
 	 }, {
 	"name": "Canal 7",
 	"image": "https://i.ibb.co/LQy2rM6/DAZN-4-Logo-Sin-Fondo.png",
-	"url" : "https://viwlivehdplay.ru/mono.php?id=49",
-  	"referer" : "https://s2watch.link/",
+	"url" : "https://generalpill.net/embed/1y3rog39gf48pz",
+  	"referer" : "https://bedsport.live/",
 	 "isHost": "true"  
 	 }, {
 		"name": "Canal 8",
@@ -5916,10 +5922,10 @@
 				"isHost": "true" 
 			}, {
 				"name": "Canal 7",
-				"info": "viwli",
+				"info": "4kwebplay",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				"url" : "https://viwlivehdplay.ru/mono.php?id=40", 
-                         	"referer" : "https://s2watch.link/",
+				"url" : "https://4kwebplay.xyz/maxsport.php?id=primaespndeportes", 
+                         	"referer" : "https://antenasport.online/",
 				"isHost" : "true"
 			  }, {
 				"name": "Canal 8",
@@ -6437,16 +6443,16 @@
            				"isHost" : "true"
 				}, {
 					"name": "Canal 8",
-					"info": "php - index",
+					"info": "generalpill",
 	   				"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
-	   				"url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=15",
-              				"referer" : "https://dlhd.sx/",
+	   				"url" : "https://generalpill.net/embed/j66qmcpw?skin=1",
+              				"referer" : "https://bedsport.live/",
 			 		"isHost":"true"
 				}, {
 					"name": "Canal 9",
 					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
-					"url" : "https://viwlivehdplay.ru/mono.php?id=16", 
-                         		"referer" : "https://s2watch.link/",
+					"url" : "https://generalpill.net/embed/xdpq3ptcuts1qpp", 
+                         		"referer" : "https://bedsport.live/",
            				"isHost" : "true"
 				}, {
 					"name": "Canal 10",
@@ -6483,7 +6489,7 @@
 				}, {
 					"name": "Canal 15",
 					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
-					"url" : "https://generalpill.net/embed/j66qmcpw?skin=1",
+					"url" : "https://generalpill.net/embed/3d44n21uf8pkocd",
 			 		"referer": "https://bedsport.live/",
            				"isHost" : "true"
 				}, {
@@ -6519,8 +6525,8 @@
 				}, {
 					"name": "Canal 21",
 					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
-					"url" : "https://voraciousglove.net/embed/opthng68di66m",
-			 		"referer": "https://1stream.buzz/",
+					"url" : "https://8kwebplay.xyz/maxsport.php?id=primaliga1",
+			 		"referer": "https://antenasport.online/",
            				"isHost" : "true"
 				}, {
 					"name": "Canal 22",
@@ -6746,10 +6752,10 @@
 							 "isHost": "true"
 						}, {
 							"name": "Canal 7",
-							"info": "viwli",
+							"info": "generalpill",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-					   		"url" : "https://viwlivehdplay.ru/mono.php?id=44",
-                  					"referer" : "https://s2watch.link/",
+					   		"url" : "https://generalpill.net/embed/ofdz1",
+                  					"referer" : "https://bedsport.live/",
 							"isHost": "true"
 						}, {
 							"name": "Canal 8",
@@ -7600,10 +7606,10 @@
             							"isHost": "true"
 							   }, {
 								"name": "Canal 3",
-								"info": "csdj-r23llp | 1str",
+								"info": "dinnerpotential",
 								"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-								"url": "https://closedjelly.net/embed/r23llp",
-                               					"referer" : "https://1stream.buzz/",
+								"url": "https://dinnerpotential.net/embed/wlloso4ptv7ory",
+                               					"referer" : "https://elitegol.lat/",
 								"isHost": "true"
 							 }, {
 								"name": "Canal 4",
@@ -7622,7 +7628,7 @@
 							  }, {
 								"name": "Canal 6",
 							  	"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-								"url" : "https://locatedinfain.com/embed.php?player=desktop&live=do30",
+								"url" : "https://locatedinfain.com/embed.php?player=desktop&live=do56",
                   						"referer" : "https://zvision.link/",
 							  	"isHost": "true" 	
 							}, {
@@ -7779,10 +7785,10 @@
              							"isHost": "true"
 							  }, {
 								"name": "Canal 32",
-								"info": "do19",
+								"info": "8kwebplay",
 								"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-								"url": "https://locatedinfain.com/embed.php?player=desktop&live=do19",
-								"referer": "https://zvision.link/",
+								"url": "https://8kwebplay.xyz/maxsport.php?id=primadaznf1",
+								"referer": "https://antenasport.online/",
              							"isHost": "true"
 							  }, {
 								"name": "Canal 33",
@@ -7857,8 +7863,8 @@
 							}, {
 								  "name": "Canal 6",
 								  "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
-								 "url" : "https://viwlivehdplay.ru/mono.php?id=30",
-								  "referer" : "https://s2watch.link/",
+								 "url" : "https://generalpill.net/embed/i2wp1vbihfn2vy?skin=1",
+								  "referer" : "https://bedsport.live/",
             							  "isHost": "true"
 									   }, {
 								  "name": "Canal 7",
@@ -8267,14 +8273,16 @@
 						},{
 							 "name": "Canal 3",
 							"info": "",
-							"image": "https://i.ibb.co/jr7VQss/logo-off.png",
-						   	"url": "",
-						 	"userAgent": ""
+							"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5aMBynBScnyrCyvkwHvsGGqLtYCdyI1PEE8X6iN2IS9D2MELHKOrJpuR5tnEQdF0PWwz1JlJEQ7Ivn4kEXkp1lckGGLhevfwtbkvG-pEvFRLWGaVsz3vBZBROkJBj8c8tP2y21P3qIZuV0wFifBZhfBy0O4X2j4zbIJdQNzLhTa9UqlA7NyKanlXe-fg-/w645-h432/BoxeoMiniatura.PNG",
+						   	"url": "https://swipebreed.net/embed/67rt25",
+							"referer" : "https://strims.in/",
+						 	"isHost": "true"
 						},{ 
 						 	"name": "Canal 4",
-					 		"info": "thestreameast",
-							"image": "https://i.ibb.co/jr7VQss/logo-off.png",
-						   	"url": "https://www.thestreameast.to/ufc/ufc-[number]-boxer1-vs-boxer2-[opt. number]/",
+					 		"info": "",
+							"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5aMBynBScnyrCyvkwHvsGGqLtYCdyI1PEE8X6iN2IS9D2MELHKOrJpuR5tnEQdF0PWwz1JlJEQ7Ivn4kEXkp1lckGGLhevfwtbkvG-pEvFRLWGaVsz3vBZBROkJBj8c8tP2y21P3qIZuV0wFifBZhfBy0O4X2j4zbIJdQNzLhTa9UqlA7NyKanlXe-fg-/w645-h432/BoxeoMiniatura.PNG",
+						   	"url": "https://35rr2l4rh003d5m.kettlescrape.net/embed/2ov0r1",
+							"referer" : "https://v5.sportsonline.si/",
 						 	"isHost": "true"
 						},{ 
 							 	"name": "Canal 5",
@@ -8302,7 +8310,7 @@
 					}, { 
 						 	"name": "Canal 9",
 							"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5aMBynBScnyrCyvkwHvsGGqLtYCdyI1PEE8X6iN2IS9D2MELHKOrJpuR5tnEQdF0PWwz1JlJEQ7Ivn4kEXkp1lckGGLhevfwtbkvG-pEvFRLWGaVsz3vBZBROkJBj8c8tP2y21P3qIZuV0wFifBZhfBy0O4X2j4zbIJdQNzLhTa9UqlA7NyKanlXe-fg-/w645-h432/BoxeoMiniatura.PNG",
-						   	"url": "https://gameshdlive.net/new/ch12.php",
+						   	"url": "https://lewblivehdplay.ru/premiumtv/daddyhd.php?id=447",
              						"isHost":"true"  
 					}, {
 						 	"name": "Canal 10",
@@ -8314,8 +8322,8 @@
 						 	"name": "Canal 11",
 							"info": "",
 							"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5aMBynBScnyrCyvkwHvsGGqLtYCdyI1PEE8X6iN2IS9D2MELHKOrJpuR5tnEQdF0PWwz1JlJEQ7Ivn4kEXkp1lckGGLhevfwtbkvG-pEvFRLWGaVsz3vBZBROkJBj8c8tP2y21P3qIZuV0wFifBZhfBy0O4X2j4zbIJdQNzLhTa9UqlA7NyKanlXe-fg-/w645-h432/BoxeoMiniatura.PNG",
-						   	"url" :  "https://viwlivehdplay.ru/mono.php?id=5",
-							"referer" : "https://s2watch.link/",
+						   	"url" :  "https://generalpill.net/embed/h1gn2",
+							"referer" : "https://bedsport.live/",
              						"isHost":"true"  
 					}, { 
 						 	"name": "Canal 12",
@@ -9666,10 +9674,10 @@
 				 	"isHost":"true" 
 				}, {
 					"name": "Canal 4",
-					"info":"",
+					"info":"AC Milan - Brujas",
 					"image": "https://editorial.uefa.com/resources/0246-0e98e0aed53b-074f228dc0a2-1000/ucl_branding.jpeg",
-					"url" : "https://viwlivehdplay.ru/mono.php?id=1", 
-				   	"referer" : "https://s2watch.link/",
+					"url" : "https://generalpill.net/embed/ueahi0mkr3", 
+				   	"referer" : "https://bedsport.live/",
 				 	"isHost":"true" 
 				}, {
 					"name": "Canal 5",
@@ -9680,21 +9688,21 @@
 				 	"isHost":"true" 
 				}, {
 					"name": "Canal 6",
-					"info":"",
+					"info":"AC Milan - Brujas",
 					"image": "https://editorial.uefa.com/resources/0246-0e98e0aed53b-074f228dc0a2-1000/ucl_branding.jpeg",
-					"url": "https://viwlivehdplay.ru/mono.php?id=19",
-					"referer": "https://s2watch.link/",
+					"url": "https://forgepattern.net/embed/40ltfs8ms26hmy",
+					"referer": "https://www.elixx.xyz/",
 				 	"isHost":"true" 
 				}, {
 					"name": "Canal 7",
 					"info":"",
 					"image": "https://editorial.uefa.com/resources/0246-0e98e0aed53b-074f228dc0a2-1000/ucl_branding.jpeg",
-					"url" :  "https://sportsonline.sx/channels/hd/hd6.php",
-					"referer" : "https://channels-1op.pages.dev/",
+					"url" :  "https://myv0d8yvbv810.kettlescrape.net/embed/l57xdb4wvi930cf",
+					"referer" : "https://sportsonline.sx/",
 				 	"isHost":"true" 
 				}, {
 					"name": "Canal 8",
-					"info":"",
+					"info":"Real Madrid - Borussia",
 					"image": "https://editorial.uefa.com/resources/0246-0e98e0aed53b-074f228dc0a2-1000/ucl_branding.jpeg",
 					"url" : "https://lewblivehdplay.ru/premiumtv/daddyhd.php?id=435",
 				 	"isHost":"true" 
@@ -9707,10 +9715,10 @@
 				 	"isHost":"true" 
 				}, {
 					"name": "Canal 10",
-					"info":"",
+					"info":"Monaco - Crvena",
 					"image": "https://editorial.uefa.com/resources/0246-0e98e0aed53b-074f228dc0a2-1000/ucl_branding.jpeg",
-					"url": "https://viwlivehdplay.ru/mono.php?id=48",
-					"referer": "https://s2watch.link/",
+					"url": "https://forgepattern.net/embed/kw6ef0n921mnbf0",
+					"referer": "https://www.elixx.xyz/",
 				 	"isHost":"true" 
 				}, {
 					"name": "Canal 11",
@@ -9756,17 +9764,17 @@
 				 	"isHost":"true" 
 				}, {
 					"name": "Canal 17",
-					"info":"multi",
+					"info":"PSG - PSV",
 					"image": "https://editorial.uefa.com/resources/0246-0e98e0aed53b-074f228dc0a2-1000/ucl_branding.jpeg",
-					"url" :  "https://dinnerpotential.net/hzsw0yityofp0y",
-					"referer" : "https://tarjetarojaenvivo.lat/",
+					"url" :  "https://generalpill.net/embed/kj2hoxz1p0eox0",
+					"referer" : "https://bedsport.live/",
 				 	"isHost":"true" 
 				}, {
 					"name": "Canal 18",
-					"info":"",
+					"info":"PSG - PSV",
 					"image": "https://editorial.uefa.com/resources/0246-0e98e0aed53b-074f228dc0a2-1000/ucl_branding.jpeg",
-					"url" :  "https://viwlivehdplay.ru/mono.php?id=48",
-					"referer" : "https://s2watch.link/",
+					"url" :  "https://mylivestream.pro/bettaa.php?stream=dLKqRA8vUXQV",
+					"referer" : "https://aliezstream.pro/",
 				 	"isHost":"true" 
 				}, {
 					"name": "Canal 19",
@@ -9777,10 +9785,10 @@
 				 	"isHost":"true" 
 				}, {
 					"name": "Canal 20",
-					"info":"Multi",
+					"info":"Girona - Bratislava",
 					"image": "https://editorial.uefa.com/resources/0246-0e98e0aed53b-074f228dc0a2-1000/ucl_branding.jpeg",
-					"url" :  "https://viwlivehdplay.ru/mono.php?id=10",
-					"referer" : "https://s2watch.link/",
+					"url" :  "https://mylivestream.pro/bettaa.php?stream=3IjUKOlzLB2T",
+					"referer" : "https://aliezstream.pro/",
 				 	"isHost":"true" 
 				}, {
 					"name": "Canal 21",
@@ -9826,7 +9834,7 @@
 				 	"isHost":"true" 
 				}, {
 					"name": "Canal 27",
-					"info":"",
+					"info":"Sturm Graz - Sporting CP",
 					"image": "https://editorial.uefa.com/resources/0246-0e98e0aed53b-074f228dc0a2-1000/ucl_branding.jpeg",
 					"url" : "https://generalpill.net/embed/vxf0bjocis",
                    			"referer" : "https://s2watch.link/",
@@ -9847,12 +9855,57 @@
 				 	"isHost":"true" 
 				}, {
 					"name": "Canal 30",
-					"info":"",
+					"info":"Real Madrid - Borussia",
 					"image": "https://editorial.uefa.com/resources/0246-0e98e0aed53b-074f228dc0a2-1000/ucl_branding.jpeg",
 					"url" : "https://mylivestream.pro/bettaa.php?stream=DhxJ1yVlM1ZM",
                    			"referer" : "https://aliezstream.pro/",
 				 	"isHost":"true" 
-				},
+				}, {
+					"name": "Canal 31",
+					"info":"Arsenal - Shakhtar",
+					"image": "https://editorial.uefa.com/resources/0246-0e98e0aed53b-074f228dc0a2-1000/ucl_branding.jpeg",
+					"url" : "https://generalpill.net/embed/skryn8w1pgh",
+                   			"referer" : "https://bedsport.live/",
+				 	"isHost":"true" 
+				}, {
+					"name": "Canal 32",
+					"info":"Arsenal - Shakhtar",
+					"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
+					"url" : "https://forgepattern.net/embed/xim5l82td952sj6",
+                   			"referer" : "https://www.elixx.xyz/",
+				 	"isHost": "true" 
+				}, {
+					"name": "Canal 33",
+					"info":"Sturm Graz - Sporting CP",
+					"image": "https://editorial.uefa.com/resources/0246-0e98e0aed53b-074f228dc0a2-1000/ucl_branding.jpeg",
+					"url" : "https://generalpill.net/embed/vxf0bjocis",
+                   			"referer" : "https://bedsport.live/",
+				 	"isHost":"true" 
+				}, {
+					"name": "Canal 34",
+					"info":"Aston Villa  -Bologna",
+					"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8DUs_eptCujTHRwAxJrkaw18XZRMaXNgLzRSKagDuvYAAqlauM0l-QngGK9bK0-f2ItKqMZ62aX-wq4Bp_XTUDni3CYxh9U0t-VfshtE5Sn_4j9jyW7RSBTCoS9s9gu8Yl9FkB7qKFK40VMKFn3PYMcNFX32H1w5oi1ZcCc5-UBk8FyOhAjzYOb4f-G99/w642-h267/invisible.png",
+					"url" : "https://forgepattern.net/embed/v83dhutujqc",
+                   			"referer" : "https://www.elixx.xyz/",
+				 	"isHost":"true" 
+				}, {
+					"name": "Canal 35",
+					"info":"Aston Villa - Bologna",
+					"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8DUs_eptCujTHRwAxJrkaw18XZRMaXNgLzRSKagDuvYAAqlauM0l-QngGK9bK0-f2ItKqMZ62aX-wq4Bp_XTUDni3CYxh9U0t-VfshtE5Sn_4j9jyW7RSBTCoS9s9gu8Yl9FkB7qKFK40VMKFn3PYMcNFX32H1w5oi1ZcCc5-UBk8FyOhAjzYOb4f-G99/w642-h267/invisible.png",
+					"url" : "https://generalpill.net/embed/00xlj75tkjvtay8?skin=1",
+                   			"referer" : "https://bedsport.live/",
+				 	"isHost":"true" 
+				}, {
+					"name": "Canal 36",
+					"info":"",
+					"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8DUs_eptCujTHRwAxJrkaw18XZRMaXNgLzRSKagDuvYAAqlauM0l-QngGK9bK0-f2ItKqMZ62aX-wq4Bp_XTUDni3CYxh9U0t-VfshtE5Sn_4j9jyW7RSBTCoS9s9gu8Yl9FkB7qKFK40VMKFn3PYMcNFX32H1w5oi1ZcCc5-UBk8FyOhAjzYOb4f-G99/w642-h267/invisible.png",
+					"url" : "https://web.xtratime.top/hembedplayer/fgvsg556hcfgnh/4/500/400",
+                   			"referer" : "https://web.xtratime.top/fgvsg556hcfgnh",
+				 	"isHost":"true" 
+				}
+
+
+
 
 
 				{
