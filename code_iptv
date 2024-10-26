@@ -24,9 +24,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 22/10/2024",
+             "name": "Ultm. versión 26/10/2024",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 22/10/2024",
+            "info": "última versión actualizada el 26/10/2024",
             "stations": []
 	}, 
 	
@@ -1112,37 +1112,37 @@
                 	 		"name": "Liga Hypermotion 3 720p",
 					"info": "base-host",
                     			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-3-es.png",
-                    			"url" :  "acestream://bd2f7970c17f427ae92867e2eb86696dd7900a3e",
+                    			"url" :  "acestream://20196007a6697a1f11589fd4c8bab6713c265e64",
 					"isHost": "true"
 				}, { 
                 	 		"name": "Liga Hypermotion 3 720p",
 					"info": "base-agent",
                     			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-3-es.png",
-                    			"url" :  "acestream://bd2f7970c17f427ae92867e2eb86696dd7900a3e",
+                    			"url" :  "acestream://20196007a6697a1f11589fd4c8bab6713c265e64",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "Liga Hypermotion 3 720p",
 					"info": "base-embed",
                     			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-3-es.png",
-                    			"url" :  "acestream://bd2f7970c17f427ae92867e2eb86696dd7900a3e",
+                    			"url" :  "acestream://20196007a6697a1f11589fd4c8bab6713c265e64",
 					"embed": "true"
 				}, { 
                 	 		"name": "Liga Hypermotion 3 720p",
 					"info": "get-host",
                     			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-3-es.png",
-                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=bd2f7970c17f427ae92867e2eb86696dd7900a3e",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=20196007a6697a1f11589fd4c8bab6713c265e64",
 					"isHost": "true"
 				}, { 
                 	 		"name": "Liga Hypermotion 3 720p",
 					"info": "get-agent",
                     			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-3-es.png",
-                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=bd2f7970c17f427ae92867e2eb86696dd7900a3e",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=20196007a6697a1f11589fd4c8bab6713c265e64",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "Liga Hypermotion 3 720p",
 					"info": "get-embed",
                     			"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-3-es.png",
-                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=bd2f7970c17f427ae92867e2eb86696dd7900a3e",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=20196007a6697a1f11589fd4c8bab6713c265e64",
 					"embed": "true"
 				},
 
@@ -5183,7 +5183,7 @@
 			   	"name": "Canal 6",
 			   	"info": "a2ao4",
 			   	"image": "https://i.ibb.co/4NvkCVR/logo-deportes.png",
-			   	"url" :  "https://dinnerpotential.net/embed/a2ao4jza74qn",
+			   	"url" :  "https://dinnerpotential.net/embed/ud9rsutobknz1um",
              			"referer" : "https://tarjetarojaenvivo.lat/",
 			   	"isHost" : "true"
 			}, {
@@ -5430,9 +5430,9 @@
 	 "isHost": "true"
   }, {
 	"name": "Canal 8",
-	"info": "swpb-h5m4g | 1str",
+	"info": "csjy-h5m4g | 1str",
 	"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-	"url" : "https://swipebreed.net/embed/h5m4gyv36vtc",
+	"url" : "https://closedjelly.net/embed/h5m4gyv36vtc",
 	"referer": "https://1stream.buzz/",
 	"isHost": "true"
   }, {
@@ -5975,9 +5975,10 @@
 							"isHost":"true"
 						  }, {
 							"name": "Canal 15",
+							"info": "t7w70x7v57",
 							"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-							"url" : "https://cdn122.com/embed/2k2kr220ol6yr6i?skin=40",
-							 "referer": "https://l1l1.to/",
+							"url" : "https://dinnerpotential.net/embed/t7w70x7v57",
+							 "referer": "https://tarjetarojaenvivo.lat/",
 							 "isHost": "true" 
 						},{
 								 "name": "Canal 16",
@@ -6005,10 +6006,10 @@
 				"isHost" : "true" 
 					 }, {
 				"name": "Canal 20",
-				"info": "php",
+				"info": "jm php",
 		   		"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-			   	"url" :  "https://gabitotv.com/010.php", 
-                       		"referer" : "https://gabitotv.com/ch010.php",
+			   	"url" :  "https://jeinzmacias.me/01.php", 
+                       		"referer" : "https://jeinzmacias.me/ch01.php",
 			 	"isHost":"true"
 			 }, {
 				"name": "Canal 21",
@@ -6438,7 +6439,7 @@
 				   }, {
 					"name": "Canal 7",
 					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
-					"url" : "https://brownheaven.net/embed/vuiel9gd34kos6", 
+					"url" : "https://closedjelly.net/embed/vuiel9gd34kos6", 
                          		"referer" : "https://1stream.buzz/",
            				"isHost" : "true"
 				}, {
@@ -6975,9 +6976,9 @@
 							 "isHost": "true"
 							 }, {
 							"name": "Canal 8",
-							"info": "swpb-t83h0",
+							"info": "csjy-t83h0",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-							"url" :  "https://swipebreed.net/embed/t83h07fpraz",
+							"url" :  "https://closedjelly.net/embed/t83h07fpraz",
 							"referer" : "https://1stream.buzz/",
 							 "isHost": "true"
 						   }, {
@@ -6996,9 +6997,9 @@
              		"isHost": "true"
                 }, {
 			"name": "Canal 11",
-			"info": "swpb-sc44nn",
+			"info": "csjy-sc44nn",
 			"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-			"url" :  "https://swipebreed.net/embed/sc44nn",
+			"url" :  "https://closedjelly.net/embed/sc44nn",
 			"referer" : "https://1stream.buzz/",
              		"isHost": "true"
 	       }, {
@@ -7628,8 +7629,8 @@
 							  }, {
 								"name": "Canal 6",
 							  	"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-								"url" : "https://locatedinfain.com/embed.php?player=desktop&live=do56",
-                  						"referer" : "https://zvision.link/",
+								"url" : "https://web.xtratime.top/hembedplayer/gdthj8jmhgya/4/500/400",
+                  						"referer" : "https://web.xtratime.top/gdthj8jmhgya",
 							  	"isHost": "true" 	
 							}, {
 								"name": "Canal 7",
@@ -8259,17 +8260,18 @@
 						   	"url":"https://1180885077.rsc.cdn77.org/HLS/BOXINGTV.m3u8",
 						   	"userAgent" : ""
 						 }, {
-							"name": "Canal 1",
-							"info": "ANDROID/iOS",
-							"image": "https://i.ibb.co/jr7VQss/logo-off.png",
-						   	"url": "",
-						 	"userAgent": ""
+							"name": "UFC308",
+							"info": "php",
+							"image": "https://img.solowrestling.com/images/134/134736-ufc-308.jpg",
+						   	"url": "https://niamm.forgottenheading8x14.shop/es/fighting/boxing-1767789/ufc-308-topuria-vs-holloway.html",
+						 	"isHost":"true"
 						},{
-							 "name": "Canal 2",
+							 "name": "UFC308",
 							"info": "",
-							"image": "https://i.ibb.co/jr7VQss/logo-off.png",
-						   	"url": "",
-						 	"userAgent": ""
+							"image": "https://img.solowrestling.com/images/134/134736-ufc-308.jpg",
+						   	"url": "https://generalpill.net/embed/2t6xcz?skin=1",
+						 	"referer" : "https://bedsport.live/",
+							"isHost":"true"
 						},{
 							 "name": "Canal 3",
 							"info": "",
@@ -8291,10 +8293,11 @@
 							   	"url": "https://flstv.online//embed/boxing1.php",
                      						"isHost": "true"
 						  },{ 
-						 	"name": "Canal 6",
-							"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5aMBynBScnyrCyvkwHvsGGqLtYCdyI1PEE8X6iN2IS9D2MELHKOrJpuR5tnEQdF0PWwz1JlJEQ7Ivn4kEXkp1lckGGLhevfwtbkvG-pEvFRLWGaVsz3vBZBROkJBj8c8tP2y21P3qIZuV0wFifBZhfBy0O4X2j4zbIJdQNzLhTa9UqlA7NyKanlXe-fg-/w645-h432/BoxeoMiniatura.PNG",
-						   	"url": "https://gameshdlive.net/new/ch30.php",
-						 	"isHost":"true"  
+						 	"name": "UFC308",
+							"info": "php",
+							"image": "https://img.solowrestling.com/images/134/134736-ufc-308.jpg",
+						   	"url": "https://vsd74.mycdn.me/hls/7160983194331.m3u8/sig/is3CKJT-31I/expires/1730042641325/srcIp/92.176.177.81/urls/45.136.21.40/clientType/0/srcAg/SAFARI_IPHONE_OTHER/mid/7581127220955/7160983194331_high/index.m3u8",
+						 	"userAgent" : "" 
 						 },{ 
 						 	"name": "Canal 7",
 							"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5aMBynBScnyrCyvkwHvsGGqLtYCdyI1PEE8X6iN2IS9D2MELHKOrJpuR5tnEQdF0PWwz1JlJEQ7Ivn4kEXkp1lckGGLhevfwtbkvG-pEvFRLWGaVsz3vBZBROkJBj8c8tP2y21P3qIZuV0wFifBZhfBy0O4X2j4zbIJdQNzLhTa9UqlA7NyKanlXe-fg-/w645-h432/BoxeoMiniatura.PNG",
@@ -8308,9 +8311,10 @@
              						"referer" : "https://cricplay2.xyz/",
 			 				"isHost":"true"  
 					}, { 
-						 	"name": "Canal 9",
-							"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5aMBynBScnyrCyvkwHvsGGqLtYCdyI1PEE8X6iN2IS9D2MELHKOrJpuR5tnEQdF0PWwz1JlJEQ7Ivn4kEXkp1lckGGLhevfwtbkvG-pEvFRLWGaVsz3vBZBROkJBj8c8tP2y21P3qIZuV0wFifBZhfBy0O4X2j4zbIJdQNzLhTa9UqlA7NyKanlXe-fg-/w645-h432/BoxeoMiniatura.PNG",
-						   	"url": "https://lewblivehdplay.ru/premiumtv/daddyhd.php?id=447",
+						 	"name": "UFC308",
+							"image": "https://img.solowrestling.com/images/134/134736-ufc-308.jpg",
+						   	"url": "https://generalpill.net/embed/h1gn2",
+							"referer" : "https://bedsport.live/",
              						"isHost":"true"  
 					}, {
 						 	"name": "Canal 10",
@@ -8319,11 +8323,11 @@
                          				"referer" : "https://www.elixx.xyz/",
 						 	"isHost":"true"
 					}, { 
-						 	"name": "Canal 11",
+						 	"name": "UFC308",
 							"info": "",
-							"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5aMBynBScnyrCyvkwHvsGGqLtYCdyI1PEE8X6iN2IS9D2MELHKOrJpuR5tnEQdF0PWwz1JlJEQ7Ivn4kEXkp1lckGGLhevfwtbkvG-pEvFRLWGaVsz3vBZBROkJBj8c8tP2y21P3qIZuV0wFifBZhfBy0O4X2j4zbIJdQNzLhTa9UqlA7NyKanlXe-fg-/w645-h432/BoxeoMiniatura.PNG",
-						   	"url" :  "https://generalpill.net/embed/h1gn2",
-							"referer" : "https://bedsport.live/",
+							"image": "https://img.solowrestling.com/images/134/134736-ufc-308.jpg",
+						   	"url" :  "https://wwwstream.pro/bettaa.php?stream=9gSZoyFska",
+							"referer" : "https://aliezstream.pro/",
              						"isHost":"true"  
 					}, { 
 						 	"name": "Canal 12",
@@ -8338,9 +8342,9 @@
 							"url": "http://sportsurge.stream/embed/wwe.php",
 							"isHost" : "true"
 				  	}, {
-							"name": "Canal 14",
-						   	"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5aMBynBScnyrCyvkwHvsGGqLtYCdyI1PEE8X6iN2IS9D2MELHKOrJpuR5tnEQdF0PWwz1JlJEQ7Ivn4kEXkp1lckGGLhevfwtbkvG-pEvFRLWGaVsz3vBZBROkJBj8c8tP2y21P3qIZuV0wFifBZhfBy0O4X2j4zbIJdQNzLhTa9UqlA7NyKanlXe-fg-/w645-h432/BoxeoMiniatura.PNG",
-						   	"url":"https://d856dff4.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWdiX1BGTE1NQV9ITFM/22e27f77-d243-40b2-9dd3-cb6efe6e61a0/5.m3u8",
+							"name": "UFC308",
+						   	"image": "https://img.solowrestling.com/images/134/134736-ufc-308.jpg",
+						   	"url":"https://vsd123.mycdn.me/hls/7160983194331.m3u8/sig/h4soySnR1Ms/expires/1730040905189/srcIp/92.176.177.81/urls/45.136.21.40/clientType/0/srcAg/CHROME_ANDROID/mid/7581127220955/7160983194331_high/index.m3u8",
 						   	"userAgent" : ""
 					 }, {
 							"name": "Canal 15",
@@ -8349,11 +8353,11 @@
                     					"referer" : "https://elixx.xyz/",
 						   	"isHost":"true"
 					 }, {
-							"name": "Canal 16",
-							"info": "streamocean2",
-						   	"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5aMBynBScnyrCyvkwHvsGGqLtYCdyI1PEE8X6iN2IS9D2MELHKOrJpuR5tnEQdF0PWwz1JlJEQ7Ivn4kEXkp1lckGGLhevfwtbkvG-pEvFRLWGaVsz3vBZBROkJBj8c8tP2y21P3qIZuV0wFifBZhfBy0O4X2j4zbIJdQNzLhTa9UqlA7NyKanlXe-fg-/w645-h432/BoxeoMiniatura.PNG",
-						   	"url":"https://streamocean.online/sportsurge/b2.php",
-						   	"isHost":"true"
+							"name": "UFC308",
+							"info": "",
+						   	"image": "https://img.solowrestling.com/images/134/134736-ufc-308.jpg",
+						   	"url":"https://vsd123.mycdn.me/hls/7160983194331.m3u8/sig/oYpfVjbjJew/expires/1730040826998/srcIp/92.176.177.81/urls/45.136.21.40/clientType/0/srcAg/SAFARI_IPHONE_OTHER/mid/7581127220955/video.m3u8?p",
+						   	"userAgent" : ""
 					 }, {
 						 	"name": "Canal 17",
 							"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5aMBynBScnyrCyvkwHvsGGqLtYCdyI1PEE8X6iN2IS9D2MELHKOrJpuR5tnEQdF0PWwz1JlJEQ7Ivn4kEXkp1lckGGLhevfwtbkvG-pEvFRLWGaVsz3vBZBROkJBj8c8tP2y21P3qIZuV0wFifBZhfBy0O4X2j4zbIJdQNzLhTa9UqlA7NyKanlXe-fg-/w645-h432/BoxeoMiniatura.PNG",
@@ -9084,6 +9088,12 @@
               		"referer" : "https://tvfutbol.info/",  
 			"isHost":"true"
 		  }, {
+			"name": "Bein Sport Ñ",
+			"info": "m3u8",
+	 		"image": "https://static.wikia.nocookie.net/logosfake/images/3/3a/BeIN_Sports_en_Espa%C3%B1ol.png/revision/latest/scale-to-width-down/2953?cb=20180913094220",
+		        "url" : "https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8",
+              		"userAgent":""
+		  }, {
 					   "name": "Canal 1",
 				 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/1200px-Logo_bein_sports_1.png",
 			"url": "https://pahaplayers.click/ch/pahe091ch.php",
@@ -9674,7 +9684,7 @@
 				 	"isHost":"true" 
 				}, {
 					"name": "Canal 4",
-					"info":"AC Milan - Brujas",
+					"info":"",
 					"image": "https://editorial.uefa.com/resources/0246-0e98e0aed53b-074f228dc0a2-1000/ucl_branding.jpeg",
 					"url" : "https://generalpill.net/embed/ueahi0mkr3", 
 				   	"referer" : "https://bedsport.live/",
@@ -9688,7 +9698,7 @@
 				 	"isHost":"true" 
 				}, {
 					"name": "Canal 6",
-					"info":"AC Milan - Brujas",
+					"info":"",
 					"image": "https://editorial.uefa.com/resources/0246-0e98e0aed53b-074f228dc0a2-1000/ucl_branding.jpeg",
 					"url": "https://forgepattern.net/embed/40ltfs8ms26hmy",
 					"referer": "https://www.elixx.xyz/",
@@ -9702,7 +9712,7 @@
 				 	"isHost":"true" 
 				}, {
 					"name": "Canal 8",
-					"info":"Real Madrid - Borussia",
+					"info":"",
 					"image": "https://editorial.uefa.com/resources/0246-0e98e0aed53b-074f228dc0a2-1000/ucl_branding.jpeg",
 					"url" : "https://lewblivehdplay.ru/premiumtv/daddyhd.php?id=435",
 				 	"isHost":"true" 
@@ -9715,7 +9725,7 @@
 				 	"isHost":"true" 
 				}, {
 					"name": "Canal 10",
-					"info":"Monaco - Crvena",
+					"info":"",
 					"image": "https://editorial.uefa.com/resources/0246-0e98e0aed53b-074f228dc0a2-1000/ucl_branding.jpeg",
 					"url": "https://forgepattern.net/embed/kw6ef0n921mnbf0",
 					"referer": "https://www.elixx.xyz/",
@@ -9764,28 +9774,28 @@
 				 	"isHost":"true" 
 				}, {
 					"name": "Canal 17",
-					"info":"PSG - PSV",
+					"info":"",
 					"image": "https://editorial.uefa.com/resources/0246-0e98e0aed53b-074f228dc0a2-1000/ucl_branding.jpeg",
 					"url" :  "https://generalpill.net/embed/kj2hoxz1p0eox0",
 					"referer" : "https://bedsport.live/",
 				 	"isHost":"true" 
 				}, {
 					"name": "Canal 18",
-					"info":"PSG - PSV",
+					"info":"",
 					"image": "https://editorial.uefa.com/resources/0246-0e98e0aed53b-074f228dc0a2-1000/ucl_branding.jpeg",
 					"url" :  "https://mylivestream.pro/bettaa.php?stream=dLKqRA8vUXQV",
 					"referer" : "https://aliezstream.pro/",
 				 	"isHost":"true" 
 				}, {
 					"name": "Canal 19",
-					"info":"",
+					"info":"Lig. Camp. 4",
 					"image": "https://editorial.uefa.com/resources/0246-0e98e0aed53b-074f228dc0a2-1000/ucl_branding.jpeg",
 					"url" :  "https://dinnerpotential.net/embed/hzsw0yityofp0y",
 					"referer" : "https://tarjetarojaenvivo.lat/",
 				 	"isHost":"true" 
 				}, {
 					"name": "Canal 20",
-					"info":"Girona - Bratislava",
+					"info":"",
 					"image": "https://editorial.uefa.com/resources/0246-0e98e0aed53b-074f228dc0a2-1000/ucl_branding.jpeg",
 					"url" :  "https://mylivestream.pro/bettaa.php?stream=3IjUKOlzLB2T",
 					"referer" : "https://aliezstream.pro/",
@@ -9834,7 +9844,7 @@
 				 	"isHost":"true" 
 				}, {
 					"name": "Canal 27",
-					"info":"Sturm Graz - Sporting CP",
+					"info":"",
 					"image": "https://editorial.uefa.com/resources/0246-0e98e0aed53b-074f228dc0a2-1000/ucl_branding.jpeg",
 					"url" : "https://generalpill.net/embed/vxf0bjocis",
                    			"referer" : "https://s2watch.link/",
@@ -9855,52 +9865,66 @@
 				 	"isHost":"true" 
 				}, {
 					"name": "Canal 30",
-					"info":"Real Madrid - Borussia",
+					"info":"",
 					"image": "https://editorial.uefa.com/resources/0246-0e98e0aed53b-074f228dc0a2-1000/ucl_branding.jpeg",
 					"url" : "https://mylivestream.pro/bettaa.php?stream=DhxJ1yVlM1ZM",
                    			"referer" : "https://aliezstream.pro/",
 				 	"isHost":"true" 
 				}, {
 					"name": "Canal 31",
-					"info":"Arsenal - Shakhtar",
+					"info":"",
 					"image": "https://editorial.uefa.com/resources/0246-0e98e0aed53b-074f228dc0a2-1000/ucl_branding.jpeg",
 					"url" : "https://generalpill.net/embed/skryn8w1pgh",
                    			"referer" : "https://bedsport.live/",
 				 	"isHost":"true" 
 				}, {
 					"name": "Canal 32",
-					"info":"Arsenal - Shakhtar",
-					"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
+					"info":"",
+					"image": "https://editorial.uefa.com/resources/0246-0e98e0aed53b-074f228dc0a2-1000/ucl_branding.jpeg",
 					"url" : "https://forgepattern.net/embed/xim5l82td952sj6",
                    			"referer" : "https://www.elixx.xyz/",
 				 	"isHost": "true" 
 				}, {
 					"name": "Canal 33",
-					"info":"Sturm Graz - Sporting CP",
+					"info":"",
 					"image": "https://editorial.uefa.com/resources/0246-0e98e0aed53b-074f228dc0a2-1000/ucl_branding.jpeg",
 					"url" : "https://generalpill.net/embed/vxf0bjocis",
                    			"referer" : "https://bedsport.live/",
 				 	"isHost":"true" 
 				}, {
 					"name": "Canal 34",
-					"info":"Aston Villa  -Bologna",
-					"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8DUs_eptCujTHRwAxJrkaw18XZRMaXNgLzRSKagDuvYAAqlauM0l-QngGK9bK0-f2ItKqMZ62aX-wq4Bp_XTUDni3CYxh9U0t-VfshtE5Sn_4j9jyW7RSBTCoS9s9gu8Yl9FkB7qKFK40VMKFn3PYMcNFX32H1w5oi1ZcCc5-UBk8FyOhAjzYOb4f-G99/w642-h267/invisible.png",
+					"info":"",
+					"image": "https://editorial.uefa.com/resources/0246-0e98e0aed53b-074f228dc0a2-1000/ucl_branding.jpeg",
 					"url" : "https://forgepattern.net/embed/v83dhutujqc",
                    			"referer" : "https://www.elixx.xyz/",
 				 	"isHost":"true" 
 				}, {
 					"name": "Canal 35",
-					"info":"Aston Villa - Bologna",
-					"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8DUs_eptCujTHRwAxJrkaw18XZRMaXNgLzRSKagDuvYAAqlauM0l-QngGK9bK0-f2ItKqMZ62aX-wq4Bp_XTUDni3CYxh9U0t-VfshtE5Sn_4j9jyW7RSBTCoS9s9gu8Yl9FkB7qKFK40VMKFn3PYMcNFX32H1w5oi1ZcCc5-UBk8FyOhAjzYOb4f-G99/w642-h267/invisible.png",
+					"info":"",
+					"image": "https://editorial.uefa.com/resources/0246-0e98e0aed53b-074f228dc0a2-1000/ucl_branding.jpeg",
 					"url" : "https://generalpill.net/embed/00xlj75tkjvtay8?skin=1",
                    			"referer" : "https://bedsport.live/",
 				 	"isHost":"true" 
 				}, {
 					"name": "Canal 36",
 					"info":"",
-					"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8DUs_eptCujTHRwAxJrkaw18XZRMaXNgLzRSKagDuvYAAqlauM0l-QngGK9bK0-f2ItKqMZ62aX-wq4Bp_XTUDni3CYxh9U0t-VfshtE5Sn_4j9jyW7RSBTCoS9s9gu8Yl9FkB7qKFK40VMKFn3PYMcNFX32H1w5oi1ZcCc5-UBk8FyOhAjzYOb4f-G99/w642-h267/invisible.png",
+					"image": "https://editorial.uefa.com/resources/0246-0e98e0aed53b-074f228dc0a2-1000/ucl_branding.jpeg",
 					"url" : "https://web.xtratime.top/hembedplayer/fgvsg556hcfgnh/4/500/400",
                    			"referer" : "https://web.xtratime.top/fgvsg556hcfgnh",
+				 	"isHost":"true" 
+				}, {
+					"name": "Canal 37",
+					"info":"Lig. Camp. 6",
+					"image": "https://editorial.uefa.com/resources/0246-0e98e0aed53b-074f228dc0a2-1000/ucl_branding.jpeg",
+					"url" : "https://dinnerpotential.net/embed/gx5tpkvb00kq",
+                   			"referer" : "https://tarjetarojaenvivo.lat/",
+				 	"isHost":"true" 
+				}, {
+					"name": "Canal 38",
+					"info":"Lig. Camp. 7",
+					"image": "https://editorial.uefa.com/resources/0246-0e98e0aed53b-074f228dc0a2-1000/ucl_branding.jpeg",
+					"url" : "https://dinnerpotential.net/embed/ii3hr0p2u",
+                   			"referer" : "https://www.elixx.xyz/",
 				 	"isHost":"true" 
 				},
 
