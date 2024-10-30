@@ -24,9 +24,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 26/10/2024",
+             "name": "Ultm. versión 29/10/2024",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 26/10/2024",
+            "info": "última versión actualizada el 29/10/2024",
             "stations": []
 	}, 
 	
@@ -5176,8 +5176,7 @@
 			 }, {
 				"name": "Canal 5",
 				"image": "https://i.ibb.co/4NvkCVR/logo-deportes.png",
-				"url" : "https://8kwebplay.xyz/maxsport.php?id=primamovistar",
-              			"referer" : "https://antenasport.online/",
+				"url" : "https://topembed.pw/channel/MovistarDeportes[Spain]",
 			 	"isHost":"true"
 			 }, {
 			   	"name": "Canal 6",
@@ -5806,10 +5805,9 @@
 		"isHost": "true"
 	}, {
 		"name": "Canal 4",
-		"info": "php - index",
+		"info": "topembed",
 		"image": "https://i.ibb.co/HLcq8Cj/logo-es2.webp",
-		"url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=525",
-              	"referer" : "https://dlhd.sx/",
+		"url" : "https://topembed.pw/channel/Eurosport2[Spain]",
 		 "isHost":"true"
 	}, {
 		"name": "Canal 1",
@@ -5941,12 +5939,11 @@
 				"url" :  "https://lewblivehdplay.ru/premiumtv/daddyhd.php?id=84",
 				"isHost" : "true"
 					  }, {
-							   "name": "Canal 10",
-							"info": "csdj-yrm5h | 1str",
-							   "image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-							  "url": "https://closedjelly.net/embed/yrm5hpui6v6mj9r",
-							"referer" : "https://1stream.buzz/",
-							"isHost": "true"
+						   	"name": "Canal 10",
+							"info": "m3u8",
+						   	"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
+						  	"url": "https://www.kool.to/play/3996529465/index.m3u8",
+							"userAgent" : ""
 					}, {
 							"name": "Canal 11",
 							"info": "coalcannon",
@@ -7569,8 +7566,8 @@
 							  "stations": [{
 								"name": "Canal 1",
 							  	"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-								"url" :  "https://candlenorth.net/embed/fgvd9mt1",
-                              					"referer" : "https://coolrea.link/",
+								"url" :  "https://8kwebplay.xyz/maxsport.php?id=primadaznf1",
+                              					"referer" : "https://abbasport.site/",
 			 					"isHost":"true"
 							   }, {
 								"name": "Canal 2",
@@ -7593,17 +7590,17 @@
 								"isHost":"true"
 							   }, {
 								"name": "Canal 1",
-								"info": "php",
+								"info": "generalpill",
 	   							"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-	   							"url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=537",
-              							"referer" : "https://dlhd.sx/",
+	   							"url" : "https://generalpill.net/embed/wnm78ydq",
+              							"referer" : "https://bedsport.live/",
 			 					"isHost":"true" 
 	 						}, {
 								"name": "Canal 2",
-								"info": "php",
+								"info": "dinnerpotential",
 							  	"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-								"url" : "https://viwlivehdplay.ru/mono.php?id=48",
-                  						"referer" : "https://s2watch.link/",
+								"url" : "https://dinnerpotential.net/embed/nid5m8",
+                  						"referer" : "https://tarjetarojaenvivo.lat/",
             							"isHost": "true"
 							   }, {
 								"name": "Canal 3",
@@ -7629,8 +7626,8 @@
 							  }, {
 								"name": "Canal 6",
 							  	"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-								"url" : "https://web.xtratime.top/hembedplayer/gdthj8jmhgya/4/500/400",
-                  						"referer" : "https://web.xtratime.top/gdthj8jmhgya",
+								"url" : "https://flstv.online//embed/formula1.php",
+                  						"referer" : "https://sportsurge.stream/",
 							  	"isHost": "true" 	
 							}, {
 								"name": "Canal 7",
@@ -8260,15 +8257,15 @@
 						   	"url":"https://1180885077.rsc.cdn77.org/HLS/BOXINGTV.m3u8",
 						   	"userAgent" : ""
 						 }, {
-							"name": "UFC308",
+							"name": "Canal 1",
 							"info": "php",
-							"image": "https://img.solowrestling.com/images/134/134736-ufc-308.jpg",
+							"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5aMBynBScnyrCyvkwHvsGGqLtYCdyI1PEE8X6iN2IS9D2MELHKOrJpuR5tnEQdF0PWwz1JlJEQ7Ivn4kEXkp1lckGGLhevfwtbkvG-pEvFRLWGaVsz3vBZBROkJBj8c8tP2y21P3qIZuV0wFifBZhfBy0O4X2j4zbIJdQNzLhTa9UqlA7NyKanlXe-fg-/w645-h432/BoxeoMiniatura.PNG",
 						   	"url": "https://niamm.forgottenheading8x14.shop/es/fighting/boxing-1767789/ufc-308-topuria-vs-holloway.html",
 						 	"isHost":"true"
 						},{
-							 "name": "UFC308",
+							 "name": "Canal 2",
 							"info": "",
-							"image": "https://img.solowrestling.com/images/134/134736-ufc-308.jpg",
+							"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5aMBynBScnyrCyvkwHvsGGqLtYCdyI1PEE8X6iN2IS9D2MELHKOrJpuR5tnEQdF0PWwz1JlJEQ7Ivn4kEXkp1lckGGLhevfwtbkvG-pEvFRLWGaVsz3vBZBROkJBj8c8tP2y21P3qIZuV0wFifBZhfBy0O4X2j4zbIJdQNzLhTa9UqlA7NyKanlXe-fg-/w645-h432/BoxeoMiniatura.PNG",
 						   	"url": "https://generalpill.net/embed/2t6xcz?skin=1",
 						 	"referer" : "https://bedsport.live/",
 							"isHost":"true"
@@ -8293,9 +8290,9 @@
 							   	"url": "https://flstv.online//embed/boxing1.php",
                      						"isHost": "true"
 						  },{ 
-						 	"name": "UFC308",
+						 	"name": "Canal 6",
 							"info": "php",
-							"image": "https://img.solowrestling.com/images/134/134736-ufc-308.jpg",
+							"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5aMBynBScnyrCyvkwHvsGGqLtYCdyI1PEE8X6iN2IS9D2MELHKOrJpuR5tnEQdF0PWwz1JlJEQ7Ivn4kEXkp1lckGGLhevfwtbkvG-pEvFRLWGaVsz3vBZBROkJBj8c8tP2y21P3qIZuV0wFifBZhfBy0O4X2j4zbIJdQNzLhTa9UqlA7NyKanlXe-fg-/w645-h432/BoxeoMiniatura.PNG",
 						   	"url": "https://vsd74.mycdn.me/hls/7160983194331.m3u8/sig/is3CKJT-31I/expires/1730042641325/srcIp/92.176.177.81/urls/45.136.21.40/clientType/0/srcAg/SAFARI_IPHONE_OTHER/mid/7581127220955/7160983194331_high/index.m3u8",
 						 	"userAgent" : "" 
 						 },{ 
@@ -8305,14 +8302,14 @@
 						 	"isHost":"true"  
 					}, { 
 						 	"name": "Canal 8",
-							"info": "topembed",
+							"info": "php",
 							"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5aMBynBScnyrCyvkwHvsGGqLtYCdyI1PEE8X6iN2IS9D2MELHKOrJpuR5tnEQdF0PWwz1JlJEQ7Ivn4kEXkp1lckGGLhevfwtbkvG-pEvFRLWGaVsz3vBZBROkJBj8c8tP2y21P3qIZuV0wFifBZhfBy0O4X2j4zbIJdQNzLhTa9UqlA7NyKanlXe-fg-/w645-h432/BoxeoMiniatura.PNG",
-						   	"url" : "https://topembed.pw/cric.php?id=TNTSports1[UK]",
-             						"referer" : "https://cricplay2.xyz/",
+						   	"url" : "https://gabitotv.com/3.php",
+             						"referer" : "https://gabitotv.com/03.php",
 			 				"isHost":"true"  
 					}, { 
-						 	"name": "UFC308",
-							"image": "https://img.solowrestling.com/images/134/134736-ufc-308.jpg",
+						 	"name": "Canal 9",
+							"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5aMBynBScnyrCyvkwHvsGGqLtYCdyI1PEE8X6iN2IS9D2MELHKOrJpuR5tnEQdF0PWwz1JlJEQ7Ivn4kEXkp1lckGGLhevfwtbkvG-pEvFRLWGaVsz3vBZBROkJBj8c8tP2y21P3qIZuV0wFifBZhfBy0O4X2j4zbIJdQNzLhTa9UqlA7NyKanlXe-fg-/w645-h432/BoxeoMiniatura.PNG",
 						   	"url": "https://generalpill.net/embed/h1gn2",
 							"referer" : "https://bedsport.live/",
              						"isHost":"true"  
@@ -8323,9 +8320,9 @@
                          				"referer" : "https://www.elixx.xyz/",
 						 	"isHost":"true"
 					}, { 
-						 	"name": "UFC308",
+						 	"name": "Canal 11",
 							"info": "",
-							"image": "https://img.solowrestling.com/images/134/134736-ufc-308.jpg",
+							"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5aMBynBScnyrCyvkwHvsGGqLtYCdyI1PEE8X6iN2IS9D2MELHKOrJpuR5tnEQdF0PWwz1JlJEQ7Ivn4kEXkp1lckGGLhevfwtbkvG-pEvFRLWGaVsz3vBZBROkJBj8c8tP2y21P3qIZuV0wFifBZhfBy0O4X2j4zbIJdQNzLhTa9UqlA7NyKanlXe-fg-/w645-h432/BoxeoMiniatura.PNG",
 						   	"url" :  "https://wwwstream.pro/bettaa.php?stream=9gSZoyFska",
 							"referer" : "https://aliezstream.pro/",
              						"isHost":"true"  
@@ -8342,8 +8339,8 @@
 							"url": "http://sportsurge.stream/embed/wwe.php",
 							"isHost" : "true"
 				  	}, {
-							"name": "UFC308",
-						   	"image": "https://img.solowrestling.com/images/134/134736-ufc-308.jpg",
+							"name": "Canal 14",
+						   	"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5aMBynBScnyrCyvkwHvsGGqLtYCdyI1PEE8X6iN2IS9D2MELHKOrJpuR5tnEQdF0PWwz1JlJEQ7Ivn4kEXkp1lckGGLhevfwtbkvG-pEvFRLWGaVsz3vBZBROkJBj8c8tP2y21P3qIZuV0wFifBZhfBy0O4X2j4zbIJdQNzLhTa9UqlA7NyKanlXe-fg-/w645-h432/BoxeoMiniatura.PNG",
 						   	"url":"https://vsd123.mycdn.me/hls/7160983194331.m3u8/sig/h4soySnR1Ms/expires/1730040905189/srcIp/92.176.177.81/urls/45.136.21.40/clientType/0/srcAg/CHROME_ANDROID/mid/7581127220955/7160983194331_high/index.m3u8",
 						   	"userAgent" : ""
 					 }, {
@@ -8353,9 +8350,9 @@
                     					"referer" : "https://elixx.xyz/",
 						   	"isHost":"true"
 					 }, {
-							"name": "UFC308",
+							"name": "Canal 16",
 							"info": "",
-						   	"image": "https://img.solowrestling.com/images/134/134736-ufc-308.jpg",
+						   	"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5aMBynBScnyrCyvkwHvsGGqLtYCdyI1PEE8X6iN2IS9D2MELHKOrJpuR5tnEQdF0PWwz1JlJEQ7Ivn4kEXkp1lckGGLhevfwtbkvG-pEvFRLWGaVsz3vBZBROkJBj8c8tP2y21P3qIZuV0wFifBZhfBy0O4X2j4zbIJdQNzLhTa9UqlA7NyKanlXe-fg-/w645-h432/BoxeoMiniatura.PNG",
 						   	"url":"https://vsd123.mycdn.me/hls/7160983194331.m3u8/sig/oYpfVjbjJew/expires/1730040826998/srcIp/92.176.177.81/urls/45.136.21.40/clientType/0/srcAg/SAFARI_IPHONE_OTHER/mid/7581127220955/video.m3u8?p",
 						   	"userAgent" : ""
 					 }, {
@@ -8380,8 +8377,8 @@
 					 }, {
 							"name": "Canal 20",
 						   	"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5aMBynBScnyrCyvkwHvsGGqLtYCdyI1PEE8X6iN2IS9D2MELHKOrJpuR5tnEQdF0PWwz1JlJEQ7Ivn4kEXkp1lckGGLhevfwtbkvG-pEvFRLWGaVsz3vBZBROkJBj8c8tP2y21P3qIZuV0wFifBZhfBy0O4X2j4zbIJdQNzLhTa9UqlA7NyKanlXe-fg-/w645-h432/BoxeoMiniatura.PNG",
-						   	"url" :  "https://viwlivehdplay.ru/mono.php?id=8",
-							"referer" : "https://s2watch.link/",
+						   	"url" :  "https://flstv.online//embed/ufc.php",
+							"referer" : "https://sportsurge.stream/",
 						   	"isHost":"true"
 					 }, {
 							"name": "Canal 21",
@@ -8853,10 +8850,9 @@
 			"isHost":"true" 
 		}, {
 			"name": "Fox Sports 1",
-			"info": "php - index",
+			"info": "topembed",
 			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_NwEsRH6BbHnxgq92HLGBlh95ppszS0fsxdMYWFhrC0xdyoXiuC7gZ2AFJUJ3hV2IkSFwmuGmFcNK4Pm1HjirJNhpjYuFNxC3OvYzU52Uy84kdbjhGIYN9lUhVcRXW3dHubHg0DHJsbm_fs_L-_Pwon1lZTJ1-9w8vaZg7rnoaz6m2CL5HiuYFTk4wZtm/w520-h234/logo-fs1.png",
-                  	"url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=767",
-              		"referer" : "https://dlhd.sx/",
+                  	"url" : "https://topembed.pw/channel/FOXSports1[Argentina]",
 			"isHost":"true"
 		}, {
 			"name": "Fox Sports 1.2",
@@ -8866,10 +8862,9 @@
 			"isHost":"true"
 		}, {
 			"name": "Fox Sports 2",
-			"info": "php - index",
+			"info": "topembed",
 			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4120TyOG4BIwd3SLGVvw2GEEy61ExiAu0aVA5AXStwEhHKx4h37jttMBT0uOJ3X4kOnjh2VO6Dn6MbyX0rdmr0pvQ2lFU_zauBqsQJn2PT-F3YHBjM_87TEQaW3W0rjrJSOUAjSVGVE8F3Yq8jthXhFG-U0M2rkJ75N7pKjfbYmHyEGEFwCsp4Nsuu9Oz/w559-h251/logo-fs2.png",
-			"url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=788",
-              		"referer" : "https://dlhd.sx/",
+			"url" : "https://topembed.pw/channel/FOXSports2[Argentina]",
 			"isHost" : "true"
 		}, {
 			"name": "Fox Sports 2.2",
@@ -8879,10 +8874,9 @@
 			"isHost" : "true"
 		}, {
 			"name": "Fox Sports 3",
-			"info": "php - index",
+			"info": "topembed",
 			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-G7Lncg_gzP3-h5IanMhVNLvcJovfFy6Ilem92op8N7ViL4CHPB_GRtlLcY22QVKchKjkoqSCrQoqJf4ToVshtCs5qP6pcqf5-9sdnyfJsXsQ5BmDcwUhvTuGJqlYVnr2a-ZErLkS89CeS7cEYXOez4uL6_S4oz7fLnCURO4mxqNOu66tizdV3JW3sb3M/w559-h252/logo-fs3.png",
-		 	"url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=789",
-              		"referer" : "https://dlhd.sx/",
+		 	"url" : "https://topembed.pw/channel/FOXSports3[Argentina]",
 			"isHost" : "true"
            	}, {
 			"name": "Fox Sports 3.2",
@@ -8906,15 +8900,14 @@
 			"isHost":"true"
 		}, {
 			"name": "TUDN",
-			"info": "php - index",
+			"info": "topembed",
 			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCjmWSWbYJIVsFeo1ipw58yFgi80OrnltyZUucnYzhAP-71KYvOW7QeCyO8ITgyfcMzyXVM5Lr3e0ceWoFDNz7o0w_uh0iRuQOA2XzAYK3LT0H9CP2D6AvTlzUFpEcMBVqC0HbmiT7OOErVE0VlVQsEh_-KMjMzIn4UxjZvbxCjkdBqUCS-JZ7CudoV4wz/w590-h129/logo-TUDN.png",
-			"url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=66",
-              		"referer" : "https://dlhd.sx/",
+			"url" : "https://topembed.pw/channel/TUDN[Mexico]",
 	                "isHost": "true"
 		}, {
 			"name": "DirecTV Sports",
 			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTUlMGu9lKtgggYYMRmBqUUtM0F1j1SQvTm8mYxxmpUlyUQKf0eD1RI3r3Y6oLUS-Hv4jHhwQmCu8oRuiZcb6JmBxZIIZXohkMlghwWwdro3bBK0QnzSVxHcz73ql_z61g0hBrywOZfK9sKHriamd5GUZHYo83OP0PPFM3QuCALa0RFYdsL7ZO3QZ6wCDt/w589-h244/logo-dtvs.png",
-			"url": "https://topembed.pw/channel/DirecTV[Ecuador]",
+			"url": "https://topembed.pw/channel/DirecTVSports[Argentina]",
 			"isHost" : "true"
 		}, {
 			"name": "DirecTV Sports+",
@@ -8924,7 +8917,7 @@
               }, {
 			"name": "DirecTV Sports 2",
 			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDQ8OdPENazGgA30w5nWmmUmeg7kwV6ra3VnLf2pEBeNs7GZVtOdM-DNAxAcrvVMzcvKbqii4cO80utajamoU1GOx0N1IUtvfgXkZXCoMRAsqILOwMJePzYbUDUaUf96msWdG1MlWK2ST5E9fRoyIHhO3rZHmnOcpnciJhCHNNN_lEy4vCYu8PXiUXoVCm/w504-h283/logo-dtvs2.png",
-			"url": "https://ltinversionistas.com/jactv/directv2.php",
+			"url": "https://topembed.pw/channel/DirecTVSports2[Argentina]",
 	           	"isHost": "true"
                }, {
 			"name": "TyC Sports",
