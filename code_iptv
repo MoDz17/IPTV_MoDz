@@ -24,9 +24,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 03/11/2024",
+             "name": "Ultm. versión 19/11/2024",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 03/11/2024",
+            "info": "última versión actualizada el 19/11/2024",
             "stations": []
 	}, 
 	
@@ -4797,25 +4797,17 @@
 		"info": "",
 		"stations": [
 		{
-        		"name": "Canal 1*",
-        		"info":"",
-        		"image": "https://s1.elespanol.com/2023/04/07/actualidad/754434837_232268046_1024x576.jpg",
-        		"url": "https://xyzdddd.videohls.ru/lb/premium437/index.m3u8 ",
-        		"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        		"referer" : "https://qqwebplay.xyz/",
-        		"online":"true",
-        		"isHost":""
-        	}, {
 		  	"name": "Canal 1",
-			"info": "xone8",
+			"info": "",
 		   	"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhC_ZrjTAL_zi61ZUD-aRw18x_XEiKBS-sH5X1EihR_oZ43LsvApOPfWnvjAXfkxh2h_i8W7RNDfU4t42vQskD-fBjP25sBpJKo1fLEAkT4hliVrOVA3HQewEBFLGb3ntMTj2KTu63u4yzFBJUj92xyBfh9Ka9vQPMsZJaAtrJfWS8Nzr34pf9QtJj7CyY/w589-h212/logo_vamos.png",
-			"url" : "http://xone8.1222908.net/live/346C0F77EDBDF396B9EF8A379964C00A/337813.m3u8",
-			"userAgent" : ""
+			"url" : "https://linearroute.net/embed/rq4g6", 
+                        "referer" : "https://footdirect.ru/",
+			"isHost" : "true"
 		  }, {
 			"name": "Canal 2",
 			"info": "php",
 		   	"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhC_ZrjTAL_zi61ZUD-aRw18x_XEiKBS-sH5X1EihR_oZ43LsvApOPfWnvjAXfkxh2h_i8W7RNDfU4t42vQskD-fBjP25sBpJKo1fLEAkT4hliVrOVA3HQewEBFLGb3ntMTj2KTu63u4yzFBJUj92xyBfh9Ka9vQPMsZJaAtrJfWS8Nzr34pf9QtJj7CyY/w589-h212/logo_vamos.png",    
-		   	"url" : "https://quest4play.xyz/premiumtv/daddylivehd.php?id=521",
+		   	"url" : "https://abbasport.site/vamos.php",
 			"isHost":"true"
 		 }, {
 				"name": "Canal 3",
@@ -5168,10 +5160,9 @@
 			  	"isHost": "true"
 			 }, {
 			 	"name": "Canal 4",
-				"info": "8kweb",
+				"info": "abba",
                     		"image": "https://i.ibb.co/4NvkCVR/logo-deportes.png",
-                 		"url": "https://ilovetoplay.xyz/maxsport.php?id=primamovistar1",
-                  		"referer" : "https://antenasport.online/",
+                 		"url": "https://abbasport.site/movistar1.php",
 			 	"isHost": "true"
 			 }, {
 				"name": "Canal 5",
@@ -5211,10 +5202,9 @@
         			"isHost":""
         	}, {
 			"name": "Canal 1",
-			"info": "instream",
+			"info": "abba",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar_Deportes_2.svg/2070px-Movistar_Deportes_2.svg.png",
-		 	"url" : "https://instream.pro/hls2.php?stream=rSGTzi1Alw11TJ",
-               		"referer" : "https://soccerstream100.to/",
+		 	"url" : "https://abbasport.site/movistar2.php",
              		"isHost": "true"  
          		}, {
 			"name": "Canal 2",
@@ -5973,13 +5963,12 @@
 						},{
 								 "name": "Canal 16",
 							"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-						"url" : "https://unbiasedsenseevent.com/embed/df7nk3qyxpu1vx",
-							"referer": "https://buzztv.futbol/",
-							"isHost": "true"
+						"url": "https://gamelink.ru.com/embed/hd-1.php",
+							"isHost" : "true"
 								   },{
 								 "name": "Canal 17",
 							"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-						 "url": "https://emb.apl357.me//player/live.php?id=223817&w=100%&h=100%",
+						 "url": "https://gamelink.ru.com/embed/hd-2.php",
 							"isHost" : "true"
 						}, {
 				"name": "Canal 18",
@@ -5996,10 +5985,10 @@
 				"isHost" : "true" 
 					 }, {
 				"name": "Canal 20",
-				"info": "jm php",
+				"info": "gabitotv",
 		   		"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-			   	"url" :  "https://jeinzmacias.me/01.php", 
-                       		"referer" : "https://jeinzmacias.me/ch01.php",
+			   	"url" :  "https://gabitotv.com/6.php", 
+                       		"referer" : "https://gabitotv.com/06.php",
 			 	"isHost":"true"
 			 }, {
 				"name": "Canal 21",
@@ -6033,10 +6022,10 @@
 				"userAgent":""
 			}, {
 				"name": "Canal 26",
-				"info": "clap-60 | tvf",
+				"info": "8kweb",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				"url" : "https://claplivehdplay.ru/embedlc.php?id=60",
-                     		"referer" : "https://tvfutbol.info/",
+				"url" : "https://8kwebplay.xyz/maxsport.php?id=primaespndeportes",
+			      	"referer" : "https://abbasport.site/",
 				"isHost":"true"
 			}, {
 				"name": "Canal 27",
@@ -6093,9 +6082,8 @@
 				   "isHost": "true"
 			 }, {
 				   "name": "Canal 35",
-				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				 "url" : "https://viwlivehdplay.ru/mono.php?id=29",
-                  		"referer" : "https://s2watch.link/",
+				   "image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
+				   "url" : "https://quest4play.xyz/embedlivetv.php?id=premium538",
 				   "isHost": "true"
 			 }, {
 				"name": "Canal 36",
@@ -6232,10 +6220,10 @@
                  		"isHost": "true"
 			}, { 
                  		"name": "Canal 57",
-				"info":"mylivestream",
+				"info":"xtratime",
                     		"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-                      		"url": "https://mylivestream.pro/bill.php?stream=4eLyr2RZq7v",
-				"referer": "https://livetvsx.pro/",
+                      		"url": "https://web.xtratime.top/hembedplayer/erghedh4gdfhg4/4/500/400",
+				"referer": "https://web.xtratime.top/erghedh4gdfhg4",
                  		"isHost": "true"
 			}, { 
                  		"name": "Canal 58",
@@ -8297,20 +8285,19 @@
 						 	"name": "Canal 8",
 							"info": "php",
 							"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5aMBynBScnyrCyvkwHvsGGqLtYCdyI1PEE8X6iN2IS9D2MELHKOrJpuR5tnEQdF0PWwz1JlJEQ7Ivn4kEXkp1lckGGLhevfwtbkvG-pEvFRLWGaVsz3vBZBROkJBj8c8tP2y21P3qIZuV0wFifBZhfBy0O4X2j4zbIJdQNzLhTa9UqlA7NyKanlXe-fg-/w645-h432/BoxeoMiniatura.PNG",
-						   	"url" : "https://gabitotv.com/3.php",
-             						"referer" : "https://gabitotv.com/03.php",
+						   	"url" :  "https://generalpill.net/embed/dnva8",
+							"referer" : "https://bedsport.live/",
 			 				"isHost":"true"  
 					}, { 
 						 	"name": "Canal 9",
 							"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5aMBynBScnyrCyvkwHvsGGqLtYCdyI1PEE8X6iN2IS9D2MELHKOrJpuR5tnEQdF0PWwz1JlJEQ7Ivn4kEXkp1lckGGLhevfwtbkvG-pEvFRLWGaVsz3vBZBROkJBj8c8tP2y21P3qIZuV0wFifBZhfBy0O4X2j4zbIJdQNzLhTa9UqlA7NyKanlXe-fg-/w645-h432/BoxeoMiniatura.PNG",
-						   	"url": "https://generalpill.net/embed/h1gn2",
+						   	"url": "https://generalpill.net/embed/taj6r",
 							"referer" : "https://bedsport.live/",
              						"isHost":"true"  
 					}, {
 						 	"name": "Canal 10",
 							"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5aMBynBScnyrCyvkwHvsGGqLtYCdyI1PEE8X6iN2IS9D2MELHKOrJpuR5tnEQdF0PWwz1JlJEQ7Ivn4kEXkp1lckGGLhevfwtbkvG-pEvFRLWGaVsz3vBZBROkJBj8c8tP2y21P3qIZuV0wFifBZhfBy0O4X2j4zbIJdQNzLhTa9UqlA7NyKanlXe-fg-/w645-h432/BoxeoMiniatura.PNG",
-						  	"url" :  "https://swipebreed.net/embed/2ov0r1",
-                         				"referer" : "https://www.elixx.xyz/",
+						  	"url" :  "https://gamelink.ru.com/embed/hd-20.php",
 						 	"isHost":"true"
 					}, { 
 						 	"name": "Canal 11",
@@ -8364,8 +8351,8 @@
 					}, {
 							"name": "Canal 19",
 						   	"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5aMBynBScnyrCyvkwHvsGGqLtYCdyI1PEE8X6iN2IS9D2MELHKOrJpuR5tnEQdF0PWwz1JlJEQ7Ivn4kEXkp1lckGGLhevfwtbkvG-pEvFRLWGaVsz3vBZBROkJBj8c8tP2y21P3qIZuV0wFifBZhfBy0O4X2j4zbIJdQNzLhTa9UqlA7NyKanlXe-fg-/w645-h432/BoxeoMiniatura.PNG",
-						   	"url": "https://forgepattern.net/embed/2ov0r1",
-              						"referer" : "https://elixx.xyz/",
+						   	"url": "https://browncrossing.net/embed/pdiez3cpk4198",
+              						"referer" : "https://v5.sportsonline.si/",
 						   	"isHost":"true"
 					 }, {
 							"name": "Canal 20",
