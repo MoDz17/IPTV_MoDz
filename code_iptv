@@ -309,13 +309,13 @@
 									  "stations": 
 			[       { 
                 	 		"name": "M+ Supercopa 1080p",
-					"info": "base-host 8ba7",
+					"info": "base-host | 8ba7",
                     			"image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Movistar_Plus%2B_Supercopa_de_Espa%C3%B1a_logo_2023.png",
                     			"url" :  "acestream://8ba764f6a3bce6eae87ec71208fad1aa3a20528d",
 					"isHost": "true"
 				}, { 
                 	 		"name": "M+ Supercopa 1080p",
-					"info": "base-agent 8ba7",
+					"info": "base-agent [8ba7]",
                     			"image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Movistar_Plus%2B_Supercopa_de_Espa%C3%B1a_logo_2023.png",
                     			"url" :  "acestream://8ba764f6a3bce6eae87ec71208fad1aa3a20528d",
 					"userAgent" : ""
