@@ -1,13 +1,13 @@
 {
     "name": "IPT - ADICTOS",
     "author": "MoDz",
-    "image": "https://i.ibb.co/PGL5P2Z/Main-pic-Logo-and-Banner.jpg",
+    "image": "https://i.ibb.co/ncqsL9X/Pic-Profile-N.png",
     "info": "IPTV oficial de FUTBOL-ADICTOS",
-    "telegram": "+wIBp4fXctzpjYTU0",
+    "telegram": "+Txo_BnIiSddiMTk0",
     "url": "https://raw.githubusercontent.com/MoDz17/IPTV_MoDz/main/code_iptv",
     "groups": [{
              "name": "FUTBOL - ADICTOS",
-            "image": "https://i.ibb.co/PGL5P2Z/Main-pic-Logo-and-Banner.jpg",
+            "image": "https://i.ibb.co/ncqsL9X/Pic-Profile-N.png",
             "info": "",
             "stations": [
 	    	{
@@ -24,9 +24,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 29/11/2024",
+             "name": "Ultm. versión 01/12/2024",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 29/11/2024",
+            "info": "última versión actualizada el 01/12/2024",
             "stations": []
 	}, 
 	
@@ -2753,153 +2753,197 @@
 								"image":"https://i.ibb.co/NWLCj63/DAZN-Logo.png",
 								"stations": 
 							[
-								{ 
+					{ 
 									 "name": "DAZN Liga 1080p",
-									"info": "base-host",
+									"info": "base-host [110d]",
 									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
-									"url" :  "acestream://1960a9be8ae9e8c755330218eac4c5805466290a",
+									"url" :  "acestream://110d441ddc9713a7452588770d2bc85504672f47",
 									"isHost": "true"
-					}, { 
-								 "name": "DAZN Liga 1080p",
-						"info": "base-agent",
+							}, { 
+								 	"name": "DAZN Liga 1080p",
+									"info": "base-agent [110d]",
 									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
-									"url" :  "acestream://1960a9be8ae9e8c755330218eac4c5805466290a",
-						"userAgent" : ""
-					}, { 
-								 "name": "DAZN Liga 1080p",
-						"info": "base-embed",
+									"url" :  "acestream://110d441ddc9713a7452588770d2bc85504672f47",
+									"userAgent" : ""
+							}, { 
+								 	"name": "DAZN Liga 1080p",
+									"info": "base-embed [110d]",
 									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
-									"url" :  "acestream://1960a9be8ae9e8c755330218eac4c5805466290a",
-						"embed": "true"
-					}, { 
-								 "name": "DAZN Liga 1080p",
-						"info": "get-host",
+									"url" :  "acestream://110d441ddc9713a7452588770d2bc85504672f47",
+									"embed": "true"
+							}, { 
+								 	"name": "DAZN Liga 1080p",
+									"info": "get-host [110d]",
 									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
-									"url" :  "http://127.0.0.1:6878/ace/getstream?id=1960a9be8ae9e8c755330218eac4c5805466290a",
-						"isHost": "true"
-					}, { 
-								 "name": "DAZN Liga 1080p",
-						"info": "get-agent",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id=110d441ddc9713a7452588770d2bc85504672f47",
+									"isHost": "true"
+							}, { 
+								 	"name": "DAZN Liga 1080p",
+									"info": "get-agent [110d]",
 									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
-									"url" :  "http://127.0.0.1:6878/ace/getstream?id=1960a9be8ae9e8c755330218eac4c5805466290a",
-						"userAgent" : ""
-					}, { 
-								 "name": "DAZN Liga 1080p",
-						"info": "get-embed",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id=110d441ddc9713a7452588770d2bc85504672f47",
+									"userAgent" : ""
+							}, { 
+								 	"name": "DAZN Liga 1080p",
+									"info": "get-embed [110d]",
 									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
-									"url" :  "http://127.0.0.1:6878/ace/getstream?id=1960a9be8ae9e8c755330218eac4c5805466290a",
-						"embed": "true"
-					}, { 
-								 "name": "DAZN Liga 1080p",
-						"info": "base-host | MultiAudio",
-									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
-									"url" :  "acestream://75251ba975132ec9a202806ba5bf606e87280c96",
-						"isHost": "true"
-					}, { 
-								 "name": "DAZN Liga 1080p",
-						"info": "base-agent | MultiAudio",
-									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
-									"url" :  "acestream://75251ba975132ec9a202806ba5bf606e87280c96",
-						"userAgent" : ""
-					}, { 
-								 "name": "DAZN Liga 1080p",
-						"info": "base-embed | MultiAudio",
-									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
-									"url" :  "acestream://75251ba975132ec9a202806ba5bf606e87280c96",
-						"embed": "true"
-					}, { 
-								 "name": "DAZN Liga 1080p",
-						"info": "get-host | MultiAudio",
-									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
-									"url" :  "http://127.0.0.1:6878/ace/getstream?id=75251ba975132ec9a202806ba5bf606e87280c96",
-						"isHost": "true"
-					}, { 
-								 "name": "DAZN Liga 1080p",
-						"info": "get-agent | MultiAudio",
-									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
-									"url" :  "http://127.0.0.1:6878/ace/getstream?id=75251ba975132ec9a202806ba5bf606e87280c96",
-						"userAgent" : ""
-					}, { 
-								 "name": "DAZN Liga 1080p",
-						"info": "get-embed | MultiAudio",
-									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
-									"url" :  "http://127.0.0.1:6878/ace/getstream?id=75251ba975132ec9a202806ba5bf606e87280c96",
-						"embed": "true"
-					}, { 
-								 "name": "DAZN Liga 720p",
-						"info": "base-host",
-									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
-									"url" :  "acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914",
-						"isHost": "true"
-					}, { 
-								 "name": "DAZN Liga 720p",
-						"info": "base-agent",
-									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
-									"url" :  "acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914",
-						"userAgent" : ""
-					}, { 
-								 "name": "DAZN Liga 720p",
-						"info": "base-embed",
-									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
-									"url" :  "acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914",
-						"embed": "true"
-					}, { 
-								 "name": "DAZN Liga 720p",
-						"info": "get-host",
-									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
-									"url" :  "http://127.0.0.1:6878/ace/getstream?id=a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914",
-						"isHost": "true"
-					}, { 
-								 "name": "DAZN Liga 720p",
-						"info": "get-agent",
-									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
-									"url" :  "http://127.0.0.1:6878/ace/getstream?id=a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914",
-						"userAgent" : ""
-					}, { 
-								 "name": "DAZN Liga 720p",
-						"info": "get-embed",
-									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
-									"url" :  "http://127.0.0.1:6878/ace/getstream?id=a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914",
-						"embed": "true"
-					},
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id=110d441ddc9713a7452588770d2bc85504672f47",
+									"embed": "true"
+							}, 
 
+
+							{ 
+								 	"name": "DAZN Liga 1080p",
+									"info": "base-host [ec29]",
+									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
+									"url" :  "acestream://ec29289b0b14756e686c03a501bae1efa05be70c",
+									"isHost": "true"
+							}, { 
+								 	"name": "DAZN Liga 1080p",
+									"info": "base-agent [ec29]",
+									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
+									"url" :  "acestream://ec29289b0b14756e686c03a501bae1efa05be70c",
+									"userAgent" : ""
+							}, { 
+								 	"name": "DAZN Liga 1080p",
+									"info": "base-embed [ec29]",
+									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
+									"url" :  "acestream://ec29289b0b14756e686c03a501bae1efa05be70c",
+									"embed": "true"
+							}, { 
+								 	"name": "DAZN Liga 1080p",
+									"info": "get-host [ec29]",
+									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id=ec29289b0b14756e686c03a501bae1efa05be70c",
+									"isHost": "true"
+							}, { 
+								 	"name": "DAZN Liga 1080p",
+									"info": "get-agent [ec29]",
+									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id=ec29289b0b14756e686c03a501bae1efa05be70c",
+									"userAgent" : ""
+							}, { 
+								 	"name": "DAZN Liga 1080p",
+									"info": "get-embed [ec29]",
+									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id=ec29289b0b14756e686c03a501bae1efa05be70c",
+									"embed": "true"
+							}, 
+
+
+							{ 
+								 	"name": "DAZN Liga 1080p",
+									"info": "base-host [6de4]",
+									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
+									"url" :  "acestream://6de4794cd02f88f14354b5996823413a59a1de0f",
+									"isHost": "true"
+							}, { 
+								 	"name": "DAZN Liga 1080p",
+									"info": "base-agent [6de4]",
+									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
+									"url" :  "acestream://6de4794cd02f88f14354b5996823413a59a1de0f",
+									"userAgent" : ""
+							}, { 
+								 	"name": "DAZN Liga 1080p",
+									"info": "base-embed [6de4]",
+									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
+									"url" :  "acestream://6de4794cd02f88f14354b5996823413a59a1de0f",
+									"embed": "true"
+							}, { 
+								 	"name": "DAZN Liga 1080p",
+									"info": "get-host [6de4]",
+									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id=6de4794cd02f88f14354b5996823413a59a1de0f",
+									"isHost": "true"
+							}, { 
+								 	"name": "DAZN Liga 1080p",
+									"info": "get-agent [6de4]",
+									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id=6de4794cd02f88f14354b5996823413a59a1de0f",
+									"userAgent" : ""
+							}, { 
+								 	"name": "DAZN Liga 1080p",
+									"info": "get-embed [6de4]",
+									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id=6de4794cd02f88f14354b5996823413a59a1de0f",
+									"embed": "true"
+							}, 
+
+
+							{ 
+								 	"name": "DAZN Liga 720p",
+									"info": "base-host [8c8c]",
+									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
+									"url" :  "acestream://8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb",
+									"isHost": "true"
+							}, { 
+									"name": "DAZN Liga 720p",
+									"info": "base-agent [8c8c]",
+									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
+									"url" :  "acestream://8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb",
+									"userAgent" : ""
+							}, { 
+								 	"name": "DAZN Liga 720p",
+									"info": "base-embed [8c8c]",
+									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
+									"url" :  "acestream://8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb",
+									"embed": "true"
+							}, { 
+								 	"name": "DAZN Liga 720p",
+									"info": "get-host [8c8c]",
+									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id=8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb",
+									"isHost": "true"
+							}, { 
+								 	"name": "DAZN Liga 720p",
+									"info": "get-agent [8c8c]",
+									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id=8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb",
+									"userAgent" : ""
+							}, { 
+								 	"name": "DAZN Liga 720p",
+									"info": "get-embed [8c8c]",
+									"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id=8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb",
+									"embed": "true"
+							},
 
 
 				{ 
                 	 		"name": "DAZN Liga 2 1080p",
-					"info": "base-host",
+					"info": "base-host [97ba]",
                     			"image": "https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png",
-                    			"url" :  "acestream://e33e666c393ef04ebe99a9b92135d2e0b48c4d10",
+                    			"url" :  "acestream://97ba38d47680954be40e48bd8f43e17222fefecb",
 					"isHost": "true"
 				}, { 
                 	 		"name": "DAZN Liga 2 1080p",
-					"info": "base-agent",
+					"info": "base-agent [97ba]",
                     			"image": "https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png",
-                    			"url" :  "acestream://e33e666c393ef04ebe99a9b92135d2e0b48c4d10",
+                    			"url" :  "acestream://97ba38d47680954be40e48bd8f43e17222fefecb",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "DAZN Liga 2 1080p",
-					"info": "base-embed",
+					"info": "base-embed [97ba]",
                     			"image": "https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png",
-                    			"url" :  "acestream://e33e666c393ef04ebe99a9b92135d2e0b48c4d10",
+                    			"url" :  "acestream://97ba38d47680954be40e48bd8f43e17222fefecb",
 					"embed": "true"
 				}, { 
                 	 		"name": "DAZN Liga 2 1080p",
-					"info": "get-host",
+					"info": "get-host [97ba]",
                     			"image": "https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png",
-                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=e33e666c393ef04ebe99a9b92135d2e0b48c4d10",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=97ba38d47680954be40e48bd8f43e17222fefecb",
 					"isHost": "true"
 				}, { 
                 	 		"name": "DAZN Liga 2 1080p",
-					"info": "get-agent",
+					"info": "get-agent [97ba]",
                     			"image": "https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png",
-                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=e33e666c393ef04ebe99a9b92135d2e0b48c4d10",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=97ba38d47680954be40e48bd8f43e17222fefecb",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "DAZN Liga 2 1080p",
-					"info": "get-embed",
+					"info": "get-embed [97ba]",
                     			"image": "https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png",
-                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=e33e666c393ef04ebe99a9b92135d2e0b48c4d10",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=97ba38d47680954be40e48bd8f43e17222fefecb",
 					"embed": "true"
 				},
 
@@ -2907,39 +2951,39 @@
 
 				{ 
                 	 		"name": "DAZN Liga 2 720p",
-					"info": "base-host",
+					"info": "base-host [51db]",
                     			"image": "https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png",
-                    			"url" :  "acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47",
+                    			"url" :  "acestream://b9a81ddb0cf98d9a5ae18ba2eef0ab094bd5d5b0",
 					"isHost": "true"
 				}, { 
                 	 		"name": "DAZN Liga 2 720p",
-					"info": "base-agent",
+					"info": "base-agent [51db]",
                     			"image": "https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png",
-                    			"url" :  "acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47",
+                    			"url" :  "acestream://b9a81ddb0cf98d9a5ae18ba2eef0ab094bd5d5b0",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "DAZN Liga 2 720p",
-					"info": "base-embed",
+					"info": "base-embed [51db]",
                     			"image": "https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png",
-                    			"url" :  "acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47",
+                    			"url" :  "acestream://b9a81ddb0cf98d9a5ae18ba2eef0ab094bd5d5b0",
 					"embed": "true"
 				}, { 
                 	 		"name": "DAZN Liga 2 720p",
-					"info": "get-host",
+					"info": "get-host [51db]",
                     			"image": "https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png",
-                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=b9a81ddb0cf98d9a5ae18ba2eef0ab094bd5d5b0",
 					"isHost": "true"
 				}, { 
                 	 		"name": "DAZN Liga 2 720p",
-					"info": "get-agent",
+					"info": "get-agent [51db]",
                     			"image": "https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png",
-                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=b9a81ddb0cf98d9a5ae18ba2eef0ab094bd5d5b0",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "DAZN Liga 2 720p",
-					"info": "get-embed",
+					"info": "get-embed [51db]",
                     			"image": "https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png",
-                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=b9a81ddb0cf98d9a5ae18ba2eef0ab094bd5d5b0",
 					"embed": "true"
 				},
 
@@ -2947,37 +2991,37 @@
 
 				{ 
                 	 		"name": "DAZN Liga 3 1080p",
-					"info": "base-host",
+					"info": "base-host [8c71]",
                     			"image": "https://www.lyngsat.com/logo/tv/dd/dazn-laliga-3-uk-es.png",
                     			"url" :  "acestream://8c71f0e0a5476e10950fc827f9d2a507340aba74",
 					"isHost": "true"
 				}, { 
                 	 		"name": "DAZN Liga 3 1080p",
-					"info": "base-agent",
+					"info": "base-agent [8c71]",
                     			"image": "https://www.lyngsat.com/logo/tv/dd/dazn-laliga-3-uk-es.png",
                     			"url" :  "acestream://8c71f0e0a5476e10950fc827f9d2a507340aba74",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "DAZN Liga 3 1080p",
-					"info": "base-embed",
+					"info": "base-embed [8c71]",
                     			"image": "https://www.lyngsat.com/logo/tv/dd/dazn-laliga-3-uk-es.png",
                     			"url" :  "acestream://8c71f0e0a5476e10950fc827f9d2a507340aba74",
 					"embed": "true"
 				}, { 
                 	 		"name": "DAZN Liga 3 1080p",
-					"info": "get-host",
+					"info": "get-host [8c71]",
                     			"image": "https://www.lyngsat.com/logo/tv/dd/dazn-laliga-3-uk-es.png",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=8c71f0e0a5476e10950fc827f9d2a507340aba74",
 					"isHost": "true"
 				}, { 
                 	 		"name": "DAZN Liga 3 1080p",
-					"info": "get-agent",
+					"info": "get-agent [8c71]",
                     			"image": "https://www.lyngsat.com/logo/tv/dd/dazn-laliga-3-uk-es.png",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=8c71f0e0a5476e10950fc827f9d2a507340aba74",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "DAZN Liga 3 1080p",
-					"info": "get-embed",
+					"info": "get-embed [8c71]",
                     			"image": "https://www.lyngsat.com/logo/tv/dd/dazn-laliga-3-uk-es.png",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=8c71f0e0a5476e10950fc827f9d2a507340aba74",
 					"embed": "true"
@@ -2987,37 +3031,37 @@
 
 				{ 
                 	 		"name": "DAZN Liga 4 1080p",
-					"info": "base-host",
+					"info": "base-host [2792]",
                     			"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
                     			"url" :  "acestream://2792a8a5f4a3f53cd72dec377a2639cd12a6973e",
 					"isHost": "true"
 				}, { 
                 	 		"name": "DAZN Liga 4 1080p",
-					"info": "base-agent",
+					"info": "base-agent [2792]",
                     			"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
                     			"url" :  "acestream://2792a8a5f4a3f53cd72dec377a2639cd12a6973e",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "DAZN Liga 4 1080p",
-					"info": "base-embed",
+					"info": "base-embed [2792]",
                     			"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
                     			"url" :  "acestream://2792a8a5f4a3f53cd72dec377a2639cd12a6973e",
 					"embed": "true"
 				}, { 
                 	 		"name": "DAZN Liga 4 1080p",
-					"info": "get-host",
+					"info": "get-host [2792]",
                     			"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=2792a8a5f4a3f53cd72dec377a2639cd12a6973e",
 					"isHost": "true"
 				}, { 
                 	 		"name": "DAZN Liga 4 1080p",
-					"info": "get-agent",
+					"info": "get-agent [2792]",
                     			"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=2792a8a5f4a3f53cd72dec377a2639cd12a6973e",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "DAZN Liga 4 1080p",
-					"info": "get-embed",
+					"info": "get-embed [2792]",
                     			"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=2792a8a5f4a3f53cd72dec377a2639cd12a6973e",
 					"embed": "true"
@@ -3027,37 +3071,37 @@
 
 				{ 
                 	 		"name": "DAZN Liga 5 1080p",
-					"info": "base-host",
+					"info": "base-host [99e5]",
                     			"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
                     			"url" :  "acestream://99e544cddbee13798e854c1009ee7d1a93fdedf7",
 					"isHost": "true"
 				}, { 
                 	 		"name": "DAZN Liga 5 1080p",
-					"info": "base-agent",
+					"info": "base-agent [99e5]",
                     			"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
                     			"url" :  "acestream://99e544cddbee13798e854c1009ee7d1a93fdedf7",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "DAZN Liga 5 1080p",
-					"info": "base-embed",
+					"info": "base-embed [99e5]",
                     			"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
                     			"url" :  "acestream://99e544cddbee13798e854c1009ee7d1a93fdedf7",
 					"embed": "true"
 				}, { 
                 	 		"name": "DAZN Liga 5 1080p",
-					"info": "get-host",
+					"info": "get-host [99e5]",
                     			"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=99e544cddbee13798e854c1009ee7d1a93fdedf7",
 					"isHost": "true"
 				}, { 
                 	 		"name": "DAZN Liga 5 1080p",
-					"info": "get-agent",
+					"info": "get-agent [99e5]",
                     			"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=99e544cddbee13798e854c1009ee7d1a93fdedf7",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "DAZN Liga 5 1080p",
-					"info": "get-embed",
+					"info": "get-embed [99e5]",
                     			"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=99e544cddbee13798e854c1009ee7d1a93fdedf7",
 					"embed": "true"
@@ -3068,270 +3112,270 @@
 
 				{ 
 								 "name": "DAZN 1 1080p",
-						"info": "base-host",
+						"info": "base-host [7cf0]",
 									"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-									"url" :  "acestream://8ca07071b39185431f8e940ec98d1add9e561639",
+									"url" :  "acestream://7cf0086fa7d478f51dbba952865c79e66cb9add5",
 						"isHost": "true"
 					}, { 
 								 "name": "DAZN 1 1080p",
-						"info": "base-agent",
+						"info": "base-agent [7cf0]",
 									"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-									"url" :  "acestream://8ca07071b39185431f8e940ec98d1add9e561639",
+									"url" :  "acestream://7cf0086fa7d478f51dbba952865c79e66cb9add5",
 						"userAgent" : ""
 					}, { 
 								 "name": "DAZN 1 1080p",
-						"info": "base-embed",
+						"info": "base-embed [7cf0]",
 									"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-									"url" :  "acestream://8ca07071b39185431f8e940ec98d1add9e561639",
+									"url" :  "acestream://7cf0086fa7d478f51dbba952865c79e66cb9add5",
 						"embed": "true"
 					}, { 
 								 "name": "DAZN 1 1080p",
-						"info": "get-host",
+						"info": "get-host [7cf0]",
 									"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-									"url" :  "http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id=7cf0086fa7d478f51dbba952865c79e66cb9add5",
 						"isHost": "true"
 					}, { 
 								 "name": "DAZN 1 1080p",
-						"info": "get-agent",
+						"info": "get-agent [7cf0]",
 									"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-									"url" :  "http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id=7cf0086fa7d478f51dbba952865c79e66cb9add5",
 						"userAgent" : ""
 					}, { 
 								 "name": "DAZN 1 1080p",
-						"info": "get-embed",
+						"info": "get-embed [7cf0]",
 									"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-									"url" :  "http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id=7cf0086fa7d478f51dbba952865c79e66cb9add5",
 						"embed": "true"
 					}, 
 	
 					{ 
 								 "name": "DAZN 1 720p",
-						"info": "base-host",
+						"info": "base-host [35c7]",
 									"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-									"url" :  "acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f",
+									"url" :  "acestream://35c7f0c966ecde3390f4510bb4caded40018c07a",
 						"isHost": "true"
 					}, { 
 								 "name": "DAZN 1 720p",
-						"info": "base-agent",
+						"info": "base-agent [35c7]",
 									"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-									"url" :  "acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f",
+									"url" :  "acestream://35c7f0c966ecde3390f4510bb4caded40018c07a",
 						"userAgent" : ""
 					}, { 
 								 "name": "DAZN 1 720p",
-						"info": "base-embed",
+						"info": "base-embed [35c7]",
 									"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-									"url" :  "acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f",
+									"url" :  "acestream://35c7f0c966ecde3390f4510bb4caded40018c07a",
 						"embed": "true"
 					}, { 
 								 "name": "DAZN 1 720p",
-						"info": "get-host",
+						"info": "get-host [35c7]",
 									"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-									"url" :  "http://127.0.0.1:6878/ace/getstream?id=eaff9293c76a324c750ef5094c2a4e2c96518d1f",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a",
 						"isHost": "true"
 					}, { 
 								 "name": "DAZN 1 720p",
-						"info": "get-agent",
+						"info": "get-agent [35c7]",
 									"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-									"url" :  "http://127.0.0.1:6878/ace/getstream?id=eaff9293c76a324c750ef5094c2a4e2c96518d1f",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a",
 						"userAgent" : ""
 					}, { 
 								 "name": "DAZN 1 720p",
-						"info": "get-embed",
+						"info": "get-embed [35c7]",
 									"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-									"url" :  "http://127.0.0.1:6878/ace/getstream?id=eaff9293c76a324c750ef5094c2a4e2c96518d1f",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a",
 						"embed": "true"
 					},
 	
 	
 					{ 
 								 "name": "DAZN 2 1080p",
-						"info": "base-host",
+						"info": "base-host [ca92]",
 									"image": "https://i.ibb.co/vhNCnrq/DAZN-2-Logo-Sin-Fondo.webp",
-									"url" :  "acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc",
+									"url" :  "acestream://ca923c9873fd206a41c1e83ff8fc40e3cf323c9a",
 						"isHost": "true"
 					}, { 
 								 "name": "DAZN 2 1080p",
-						"info": "base-agent",
+						"info": "base-agent [ca92]",
 									"image": "https://i.ibb.co/vhNCnrq/DAZN-2-Logo-Sin-Fondo.webp",
-									"url" :  "acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc",
+									"url" :  "acestream://ca923c9873fd206a41c1e83ff8fc40e3cf323c9a",
 						"userAgent" : ""
 					}, { 
 								 "name": "DAZN 2 1080p",
-						"info": "base-embed",
+						"info": "base-embed [ca92]",
 									"image": "https://i.ibb.co/vhNCnrq/DAZN-2-Logo-Sin-Fondo.webp",
-									"url" :  "acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc",
+									"url" :  "acestream://ca923c9873fd206a41c1e83ff8fc40e3cf323c9a",
 						"embed": "true"
 					}, { 
 								 "name": "DAZN 2 1080p",
-						"info": "get-host",
+						"info": "get-host [ca92]",
 									"image": "https://i.ibb.co/vhNCnrq/DAZN-2-Logo-Sin-Fondo.webp",
-									"url" :  "http://127.0.0.1:6878/ace/getstream?id=60dbeeb299ec04bf02bc7426d827547599d3d9fc",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a",
 						"isHost": "true"
 					}, { 
 								 "name": "DAZN 2 1080p",
-						"info": "get-agent",
+						"info": "get-agent [ca92]",
 									"image": "https://i.ibb.co/vhNCnrq/DAZN-2-Logo-Sin-Fondo.webp",
-									"url" :  "http://127.0.0.1:6878/ace/getstream?id=60dbeeb299ec04bf02bc7426d827547599d3d9fc",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a",
 						"userAgent" : ""
 					}, { 
 								 "name": "DAZN 2 1080p",
-						"info": "get-embed",
+						"info": "get-embed [ca92]",
 									"image": "https://i.ibb.co/vhNCnrq/DAZN-2-Logo-Sin-Fondo.webp",
-									"url" :  "http://127.0.0.1:6878/ace/getstream?id=60dbeeb299ec04bf02bc7426d827547599d3d9fc",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a",
 						"embed": "true"
 					},
 	
 	
 					{ 
 								 "name": "DAZN 2 720p",
-						"info": "base-host",
+						"info": "base-host [a929]",
 									"image": "https://i.ibb.co/vhNCnrq/DAZN-2-Logo-Sin-Fondo.webp",
-									"url" :  "acestream://7aa402bab9fff43258fbcf401881a39475f30aaf",
+									"url" :  "acestream://a929eeec1268d69d1556a2e3ace793b2577d8810",
 						"isHost": "true"
 					}, { 
 								 "name": "DAZN 2 720p",
-						"info": "base-agent",
+						"info": "base-agent [a929]",
 									"image": "https://i.ibb.co/vhNCnrq/DAZN-2-Logo-Sin-Fondo.webp",
-									"url" :  "acestream://7aa402bab9fff43258fbcf401881a39475f30aaf",
+									"url" :  "acestream://a929eeec1268d69d1556a2e3ace793b2577d8810",
 						"userAgent" : ""
 					}, { 
 								 "name": "DAZN 2 720p",
-						"info": "base-embed",
+						"info": "base-embed [a929]",
 									"image": "https://i.ibb.co/vhNCnrq/DAZN-2-Logo-Sin-Fondo.webp",
-									"url" :  "acestream://7aa402bab9fff43258fbcf401881a39475f30aaf",
+									"url" :  "acestream://a929eeec1268d69d1556a2e3ace793b2577d8810",
 						"embed": "true"
 					}, { 
 								 "name": "DAZN 2 720p",
-						"info": "get-host",
+						"info": "get-host [a929]",
 									"image": "https://i.ibb.co/vhNCnrq/DAZN-2-Logo-Sin-Fondo.webp",
-									"url" :  "http://127.0.0.1:6878/ace/getstream?id=7aa402bab9fff43258fbcf401881a39475f30aaf",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810",
 						"isHost": "true"
 					}, { 
 								 "name": "DAZN 2 720p",
-						"info": "get-agent",
+						"info": "get-agent [a929]",
 									"image": "https://i.ibb.co/vhNCnrq/DAZN-2-Logo-Sin-Fondo.webp",
-									"url" :  "http://127.0.0.1:6878/ace/getstream?id=7aa402bab9fff43258fbcf401881a39475f30aaf",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810",
 						"userAgent" : ""
 					}, { 
 								 "name": "DAZN 2 720p",
-						"info": "get-embed",
+						"info": "get-embed [a929]",
 									"image": "https://i.ibb.co/vhNCnrq/DAZN-2-Logo-Sin-Fondo.webp",
-									"url" :  "http://127.0.0.1:6878/ace/getstream?id=7aa402bab9fff43258fbcf401881a39475f30aaf",
-						"embed": "true"
-					},
-	
-	
-					{ 
-								 "name": "DAZN 3 1080p",
-						"info": "base-host",
-									"image": "https://i.ibb.co/p1Ry56w/DAZN-3-Logo-Sin-Fondo.png",
-									"url" :  "acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97",
-						"isHost": "true"
-					}, { 
-								 "name": "DAZN 3 1080p",
-						"info": "base-agent",
-									"image": "https://i.ibb.co/p1Ry56w/DAZN-3-Logo-Sin-Fondo.png",
-									"url" :  "acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97",
-						"userAgent" : ""
-					}, { 
-								 "name": "DAZN 3 1080p",
-						"info": "base-embed",
-									"image": "https://i.ibb.co/p1Ry56w/DAZN-3-Logo-Sin-Fondo.png",
-									"url" :  "acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97",
-						"embed": "true"
-					}, { 
-								 "name": "DAZN 3 1080p",
-						"info": "get-host",
-									"image": "https://i.ibb.co/p1Ry56w/DAZN-3-Logo-Sin-Fondo.png",
-									"url" :  "http://127.0.0.1:6878/ace/getstream?id=a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97",
-						"isHost": "true"
-					}, { 
-								 "name": "DAZN 3 1080p",
-						"info": "get-agent",
-									"image": "https://i.ibb.co/p1Ry56w/DAZN-3-Logo-Sin-Fondo.png",
-									"url" :  "http://127.0.0.1:6878/ace/getstream?id=a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97",
-						"userAgent" : ""
-					}, { 
-								 "name": "DAZN 3 1080p",
-						"info": "get-embed",
-									"image": "https://i.ibb.co/p1Ry56w/DAZN-3-Logo-Sin-Fondo.png",
-									"url" :  "http://127.0.0.1:6878/ace/getstream?id=a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810",
 						"embed": "true"
 					},
 	
 	
 					{ 
+								 "name": "DAZN 3 1080p",
+						"info": "base-host [19cd]",
+									"image": "https://i.ibb.co/p1Ry56w/DAZN-3-Logo-Sin-Fondo.png",
+									"url" :  "acestream://19cd05c7ae26f22737ae5728b571ca36abd8a2e8",
+						"isHost": "true"
+					}, { 
+								 "name": "DAZN 3 1080p",
+						"info": "base-agent [19cd]",
+									"image": "https://i.ibb.co/p1Ry56w/DAZN-3-Logo-Sin-Fondo.png",
+									"url" :  "acestream://19cd05c7ae26f22737ae5728b571ca36abd8a2e8",
+						"userAgent" : ""
+					}, { 
+								 "name": "DAZN 3 1080p",
+						"info": "base-embed [19cd]",
+									"image": "https://i.ibb.co/p1Ry56w/DAZN-3-Logo-Sin-Fondo.png",
+									"url" :  "acestream://19cd05c7ae26f22737ae5728b571ca36abd8a2e8",
+						"embed": "true"
+					}, { 
+								 "name": "DAZN 3 1080p",
+						"info": "get-host [19cd]",
+									"image": "https://i.ibb.co/p1Ry56w/DAZN-3-Logo-Sin-Fondo.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id=19cd05c7ae26f22737ae5728b571ca36abd8a2e8",
+						"isHost": "true"
+					}, { 
+								 "name": "DAZN 3 1080p",
+						"info": "get-agent [19cd]",
+									"image": "https://i.ibb.co/p1Ry56w/DAZN-3-Logo-Sin-Fondo.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id=19cd05c7ae26f22737ae5728b571ca36abd8a2e8",
+						"userAgent" : ""
+					}, { 
+								 "name": "DAZN 3 1080p",
+						"info": "get-embed [19cd]",
+									"image": "https://i.ibb.co/p1Ry56w/DAZN-3-Logo-Sin-Fondo.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id=19cd05c7ae26f22737ae5728b571ca36abd8a2e8",
+						"embed": "true"
+					},
+	
+	
+					{ 
 								 "name": "DAZN 4 1080p",
-						"info": "base-host",
+						"info": "base-host [4e83]",
 									"image": "https://i.ibb.co/LQy2rM6/DAZN-4-Logo-Sin-Fondo.png",
-									"url" :  "acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd",
+									"url" :  "acestream://4e83f23945ab3e43982045f88ec31daaa4683102",
 						"isHost": "true"
 					}, { 
 								 "name": "DAZN 4 1080p",
-						"info": "base-agent",
+						"info": "base-agent [4e83]",
 									"image": "https://i.ibb.co/LQy2rM6/DAZN-4-Logo-Sin-Fondo.png",
-									"url" :  "acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd",
+									"url" :  "acestream://4e83f23945ab3e43982045f88ec31daaa4683102",
 						"userAgent" : ""
 					}, { 
 								 "name": "DAZN 4 1080p",
-						"info": "base-embed",
+						"info": "base-embed [4e83]",
 									"image": "https://i.ibb.co/LQy2rM6/DAZN-4-Logo-Sin-Fondo.png",
-									"url" :  "acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd",
+									"url" :  "acestream://4e83f23945ab3e43982045f88ec31daaa4683102",
 						"embed": "true"
 					}, { 
 								 "name": "DAZN 4 1080p",
-						"info": "get-host",
+						"info": "get-host [4e83]",
 									"image": "https://i.ibb.co/LQy2rM6/DAZN-4-Logo-Sin-Fondo.png",
-									"url" :  "http://127.0.0.1:6878/ace/getstream?id=2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id=4e83f23945ab3e43982045f88ec31daaa4683102",
 						"isHost": "true"
 					}, { 
 								 "name": "DAZN 4 1080p",
-						"info": "get-agent",
+						"info": "get-agent [4e83]",
 									"image": "https://i.ibb.co/LQy2rM6/DAZN-4-Logo-Sin-Fondo.png",
-									"url" :  "http://127.0.0.1:6878/ace/getstream?id=2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id=4e83f23945ab3e43982045f88ec31daaa4683102",
 						"userAgent" : ""
 					}, { 
 								 "name": "DAZN 4 1080p",
-						"info": "get-embed",
+						"info": "get-embed [4e83]",
 									"image": "https://i.ibb.co/LQy2rM6/DAZN-4-Logo-Sin-Fondo.png",
-									"url" :  "http://127.0.0.1:6878/ace/getstream?id=2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id=4e83f23945ab3e43982045f88ec31daaa4683102",
 						"embed": "true"
 					},
 	
 	
 					{ 
 								 "name": "DAZN F1 Multi",
-						"info": "base-host",
+						"info": "base-host [9686]",
 									"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
 									"url" :  "acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e",
 						"isHost": "true"
 					}, { 
 								 "name": "DAZN F1 Multi",
-						"info": "base-agent",
+						"info": "base-agent [9686]",
 									"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
 									"url" :  "acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e",
 						"userAgent" : ""
 					}, { 
 								 "name": "DAZN F1 Multi",
-						"info": "base-embed",
+						"info": "base-embed [9686]",
 									"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
 									"url" :  "acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e",
 						"embed": "true"
 					}, { 
 								 "name": "DAZN F1 Multi",
-						"info": "get-host",
+						"info": "get-host [9686]",
 									"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
 									"url" :  "http://127.0.0.1:6878/ace/getstream?id=968627d24eec1c16b51d88e4a4a6c02211e3346e",
 						"isHost": "true"
 					}, { 
 								 "name": "DAZN F1 Multi",
-						"info": "get-agent",
+						"info": "get-agent [9686]",
 									"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
 									"url" :  "http://127.0.0.1:6878/ace/getstream?id=968627d24eec1c16b51d88e4a4a6c02211e3346e",
 						"userAgent" : ""
 					}, { 
 								 "name": "DAZN F1 Multi",
-						"info": "get-embed",
+						"info": "get-embed [9686]",
 									"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
 									"url" :  "http://127.0.0.1:6878/ace/getstream?id=968627d24eec1c16b51d88e4a4a6c02211e3346e",
 						"embed": "true"
@@ -3340,156 +3384,197 @@
 	
 					{ 
 								 "name": "DAZN F1 4K",
-						"info": "base-host | MultiAudio",
-									"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+						"info": "base-host",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
 									"url" :  "acestream://6b94479c24898700089e6b87d28a3ccc72dc4041",
-						"isHost": "true"
+						"isHost": "false"
 					}, { 
 								 "name": "DAZN F1 4K",
-						"info": "base-agent | MultiAudio",
-									"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+						"info": "base-agent",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
 									"url" :  "acestream://6b94479c24898700089e6b87d28a3ccc72dc4041",
-						"userAgent" : ""
+						"userAgent" : "false"
 					}, { 
 								 "name": "DAZN F1 4K",
-						"info": "base-embed | MultiAudio",
-									"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+						"info": "base-embed",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
 									"url" :  "acestream://6b94479c24898700089e6b87d28a3ccc72dc4041",
-						"embed": "true"
+						"embed": "false"
 					}, { 
 								 "name": "DAZN F1 4K",
-						"info": "get-host | MultiAudio",
-									"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+						"info": "get-host",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
 									"url" :  "http://127.0.0.1:6878/ace/getstream?id=6b94479c24898700089e6b87d28a3ccc72dc4041",
-						"isHost": "true"
+						"isHost": "false"
 					}, { 
 								 "name": "DAZN F1 4K",
-						"info": "get-agent | MultiAudio",
-									"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+						"info": "get-agent",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
 									"url" :  "http://127.0.0.1:6878/ace/getstream?id=6b94479c24898700089e6b87d28a3ccc72dc4041",
-						"userAgent" : ""
+						"userAgent" : "false"
 					}, { 
 								 "name": "DAZN F1 4K",
-						"info": "get-embed | MultiAudio",
-									"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+						"info": "get-embed",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
 									"url" :  "http://127.0.0.1:6878/ace/getstream?id=6b94479c24898700089e6b87d28a3ccc72dc4041",
+						"embed": "false"
+					},
+	
+	
+					{ 
+								 "name": "DAZN F1 1080p",
+						"info": "base-host [d628]",
+									"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+									"url" :  "acestream://d6281d4e6310269b416180442a470d23a4a99dc9",
+						"isHost": "true"
+					}, { 
+								 "name": "DAZN F1 1080p",
+						"info": "base-agent [d628]",
+									"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+									"url" :  "acestream://d6281d4e6310269b416180442a470d23a4a99dc9",
+						"userAgent" : ""
+					}, { 
+								 "name": "DAZN F1 1080p",
+						"info": "base-embed [d628]",
+									"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+									"url" :  "acestream://d6281d4e6310269b416180442a470d23a4a99dc9",
+						"embed": "true"
+					}, { 
+								 "name": "DAZN F1 1080p",
+						"info": "get-host [d628]",
+									"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id=d6281d4e6310269b416180442a470d23a4a99dc9",
+						"isHost": "true"
+					}, { 
+								 "name": "DAZN F1 1080p",
+						"info": "get-agent [d628]",
+									"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id=d6281d4e6310269b416180442a470d23a4a99dc9",
+						"userAgent" : ""
+					}, { 
+								 "name": "DAZN F1 1080p",
+						"info": "get-embed [d628]",
+									"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id=d6281d4e6310269b416180442a470d23a4a99dc9",
 						"embed": "true"
 					},
 	
 	
 					{ 
 								 "name": "DAZN F1 1080p",
-						"info": "base-host",
+						"info": "base-host [2c6e]",
 									"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-									"url" :  "acestream://5789ca155323664edd293b848606688edf803f4d",
+									"url" :  "acestream://2c6e4c897661e6b0257bfe931b66d20b2ec763b6",
 						"isHost": "true"
 					}, { 
 								 "name": "DAZN F1 1080p",
-						"info": "base-agent",
+						"info": "base-agent [2c6e]",
 									"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-									"url" :  "acestream://5789ca155323664edd293b848606688edf803f4d",
+									"url" :  "acestream://2c6e4c897661e6b0257bfe931b66d20b2ec763b6",
 						"userAgent" : ""
 					}, { 
 								 "name": "DAZN F1 1080p",
-						"info": "base-embed",
+						"info": "base-embed [2c6e]",
 									"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-									"url" :  "acestream://5789ca155323664edd293b848606688edf803f4d",
+									"url" :  "acestream://2c6e4c897661e6b0257bfe931b66d20b2ec763b6",
 						"embed": "true"
 					}, { 
 								 "name": "DAZN F1 1080p",
-						"info": "get-host",
+						"info": "get-host [2c6e]",
 									"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-									"url" :  "http://127.0.0.1:6878/ace/getstream?id=5789ca155323664edd293b848606688edf803f4d",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id=2c6e4c897661e6b0257bfe931b66d20b2ec763b6",
 						"isHost": "true"
 					}, { 
 								 "name": "DAZN F1 1080p",
-						"info": "get-agent",
+						"info": "get-agent [2c6e]",
 									"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-									"url" :  "http://127.0.0.1:6878/ace/getstream?id=5789ca155323664edd293b848606688edf803f4d",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id=2c6e4c897661e6b0257bfe931b66d20b2ec763b6",
 						"userAgent" : ""
 					}, { 
 								 "name": "DAZN F1 1080p",
-						"info": "get-embed",
+						"info": "get-embed [2c6e]",
 									"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-									"url" :  "http://127.0.0.1:6878/ace/getstream?id=5789ca155323664edd293b848606688edf803f4d",
-						"embed": "true"
-					},
-	
-	
-					{ 
-								 "name": "DAZN F1 1080p",
-						"info": "base-host | MultiAudio",
-									"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-									"url" :  "acestream://9dad717d99b29a05672166258a77c25b57713dd5",
-						"isHost": "true"
-					}, { 
-								 "name": "DAZN F1 1080p",
-						"info": "base-agent | MultiAudio",
-									"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-									"url" :  "acestream://9dad717d99b29a05672166258a77c25b57713dd5",
-						"userAgent" : ""
-					}, { 
-								 "name": "DAZN F1 1080p",
-						"info": "base-embed | MultiAudio",
-									"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-									"url" :  "acestream://9dad717d99b29a05672166258a77c25b57713dd5",
-						"embed": "true"
-					}, { 
-								 "name": "DAZN F1 1080p",
-						"info": "get-host | MultiAudio",
-									"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-									"url" :  "http://127.0.0.1:6878/ace/getstream?id=9dad717d99b29a05672166258a77c25b57713dd5",
-						"isHost": "true"
-					}, { 
-								 "name": "DAZN F1 1080p",
-						"info": "get-agent | MultiAudio",
-									"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-									"url" :  "http://127.0.0.1:6878/ace/getstream?id=9dad717d99b29a05672166258a77c25b57713dd5",
-						"userAgent" : ""
-					}, { 
-								 "name": "DAZN F1 1080p",
-						"info": "get-embed | MultiAudio",
-									"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-									"url" :  "http://127.0.0.1:6878/ace/getstream?id=9dad717d99b29a05672166258a77c25b57713dd5",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id=2c6e4c897661e6b0257bfe931b66d20b2ec763b6",
 						"embed": "true"
 					},
-	
+
+
+
+					{ 
+								 "name": "DAZN F1 1080p",
+						"info": "base-host [71ee]",
+									"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+									"url" :  "acestream://71eef80158aa8b37f3dc59f6793c6696df9a2dfa",
+						"isHost": "true"
+					}, { 
+								 "name": "DAZN F1 1080p",
+						"info": "base-agent [71ee]",
+									"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+									"url" :  "acestream://71eef80158aa8b37f3dc59f6793c6696df9a2dfa",
+						"userAgent" : ""
+					}, { 
+								 "name": "DAZN F1 1080p",
+						"info": "base-embed [71ee]",
+									"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+									"url" :  "acestream://71eef80158aa8b37f3dc59f6793c6696df9a2dfa",
+						"embed": "true"
+					}, { 
+								 "name": "DAZN F1 1080p",
+						"info": "get-host [71ee]",
+									"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id=71eef80158aa8b37f3dc59f6793c6696df9a2dfa",
+						"isHost": "true"
+					}, { 
+								 "name": "DAZN F1 1080p",
+						"info": "get-agent [71ee]",
+									"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id=71eef80158aa8b37f3dc59f6793c6696df9a2dfa",
+						"userAgent" : ""
+					}, { 
+								 "name": "DAZN F1 1080p",
+						"info": "get-embed [71ee]",
+									"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id=71eef80158aa8b37f3dc59f6793c6696df9a2dfa",
+						"embed": "true"
+					},
+
+
 	
 					{ 
 								 "name": "DAZN F1 720p",
-						"info": "base-host",
+						"info": "base-host [2682]",
 									"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-									"url" :  "acestream://e1fcad9de0c782c157fde6377805c58297ab65c2",
+									"url" :  "acestream://268289e7a3c5209960b53b4d43c8c65fab294b85",
 						"isHost": "true"
 					}, { 
 								 "name": "DAZN F1 720p",
-						"info": "base-agent",
+						"info": "base-agent [2682]",
 									"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-									"url" :  "acestream://e1fcad9de0c782c157fde6377805c58297ab65c2",
+									"url" :  "acestream://268289e7a3c5209960b53b4d43c8c65fab294b85",
 						"userAgent" : ""
 					}, { 
 								 "name": "DAZN F1 720p",
-						"info": "base-embed",
+						"info": "base-embed [2682]",
 									"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-									"url" :  "acestream://e1fcad9de0c782c157fde6377805c58297ab65c2",
+									"url" :  "acestream://268289e7a3c5209960b53b4d43c8c65fab294b85",
 						"embed": "true"
 					}, { 
 								 "name": "DAZN F1 720p",
-						"info": "get-host",
+						"info": "get-host [2682]",
 									"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-									"url" :  "http://127.0.0.1:6878/ace/getstream?id=e1fcad9de0c782c157fde6377805c58297ab65c2",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id=268289e7a3c5209960b53b4d43c8c65fab294b85",
 						"isHost": "true"
 					}, { 
 								 "name": "DAZN F1 720p",
-						"info": "get-agent",
+						"info": "get-agent [2682]",
 									"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-									"url" :  "http://127.0.0.1:6878/ace/getstream?id=e1fcad9de0c782c157fde6377805c58297ab65c2",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id=268289e7a3c5209960b53b4d43c8c65fab294b85",
 						"userAgent" : ""
 					}, { 
 								 "name": "DAZN F1 720p",
-						"info": "get-embed",
+						"info": "get-embed [2682]",
 									"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-									"url" :  "http://127.0.0.1:6878/ace/getstream?id=e1fcad9de0c782c157fde6377805c58297ab65c2",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id=268289e7a3c5209960b53b4d43c8c65fab294b85",
 						"embed": "true"
 					},
 
@@ -3497,504 +3582,427 @@
 					{ 
 								 "name": "Eurosport 4k",
 						"info": "base-host",
-									"image": "https://dtvnews.hu/sites/default/files/wide_images/eurosport_4k_wide.png",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
 									"url" :  "acestream://63135c171f056d1d6028f9ffb1637ed704b88a20",
-						"isHost": "true"
+						"isHost": "false"
 					}, { 
 								 "name": "Eurosport 4k",
 						"info": "base-agent",
-									"image": "https://dtvnews.hu/sites/default/files/wide_images/eurosport_4k_wide.png",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
 									"url" :  "acestream://63135c171f056d1d6028f9ffb1637ed704b88a20",
-						"userAgent" : ""
+						"userAgent" : "false"
 					}, { 
 								 "name": "Eurosport 4k",
 						"info": "base-embed",
-									"image": "https://dtvnews.hu/sites/default/files/wide_images/eurosport_4k_wide.png",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
 									"url" :  "acestream://63135c171f056d1d6028f9ffb1637ed704b88a20",
-						"embed": "true"
+						"embed": "false"
 					}, { 
 								 "name": "Eurosport 4k",
 						"info": "get-host",
-									"image": "https://dtvnews.hu/sites/default/files/wide_images/eurosport_4k_wide.png",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
 									"url" :  "http://127.0.0.1:6878/ace/getstream?id=63135c171f056d1d6028f9ffb1637ed704b88a20",
-						"isHost": "true"
+						"isHost": "false"
 					}, { 
 								 "name": "Eurosport 4k",
 						"info": "get-agent",
-									"image": "https://dtvnews.hu/sites/default/files/wide_images/eurosport_4k_wide.png",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
 									"url" :  "http://127.0.0.1:6878/ace/getstream?id=63135c171f056d1d6028f9ffb1637ed704b88a20",
-						"userAgent" : ""
+						"userAgent" : "false"
 					}, { 
 								 "name": "Eurosport 4k",
 						"info": "get-embed",
-									"image": "https://dtvnews.hu/sites/default/files/wide_images/eurosport_4k_wide.png",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
 									"url" :  "http://127.0.0.1:6878/ace/getstream?id=63135c171f056d1d6028f9ffb1637ed704b88a20",
-						"embed": "true"
+						"embed": "false"
 					},
 	
 	
 					{ 
 								 "name": "Eurosport 1 1080p",
-						"info": "base-host",
+						"info": "base-host [16ff]",
 									"image": "https://i.ibb.co/Ntcj66Q/logo-es1.webp",
-									"url" :  "acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952",
+									"url" :  "acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580",
 						"isHost": "true"
 					}, { 
 								 "name": "Eurosport 1 1080p",
-						"info": "base-agent",
+						"info": "base-agent [16ff]",
 									"image": "https://i.ibb.co/Ntcj66Q/logo-es1.webp",
-									"url" :  "acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952",
+									"url" :  "acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580",
 						"userAgent" : ""
 					}, { 
 								 "name": "Eurosport 1 1080p",
-						"info": "base-embed",
+						"info": "base-embed [16ff]",
 									"image": "https://i.ibb.co/Ntcj66Q/logo-es1.webp",
-									"url" :  "acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952",
+									"url" :  "acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580",
 						"embed": "true"
 					}, { 
 								 "name": "Eurosport 1 1080p",
-						"info": "get-host",
+						"info": "get-host [16ff]",
 									"image": "https://i.ibb.co/Ntcj66Q/logo-es1.webp",
-									"url" :  "http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580",
 						"isHost": "true"
 					}, { 
 								 "name": "Eurosport 1 1080p",
-						"info": "get-agent",
+						"info": "get-agent [16ff]",
 									"image": "https://i.ibb.co/Ntcj66Q/logo-es1.webp",
-									"url" :  "http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580",
 						"userAgent" : ""
 					}, { 
 								 "name": "Eurosport 1 1080p",
-						"info": "get-embed",
+						"info": "get-embed [16ff]",
 									"image": "https://i.ibb.co/Ntcj66Q/logo-es1.webp",
-									"url" :  "http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952",
-						"embed": "true"
-					},
-
-
-					{ 
-								 "name": "Eurosport 1 1080p",
-						"info": "base-host",
-									"image": "https://i.ibb.co/Ntcj66Q/logo-es1.webp",
-									"url" :  "acestream://f233f3a8e9ddfae2e43d919789073fc17d9bbd7c",
-						"isHost": "true"
-					}, { 
-								 "name": "Eurosport 1 1080p",
-						"info": "base-agent",
-									"image": "https://i.ibb.co/Ntcj66Q/logo-es1.webp",
-									"url" :  "acestream://f233f3a8e9ddfae2e43d919789073fc17d9bbd7c",
-						"userAgent" : ""
-					}, { 
-								 "name": "Eurosport 1 1080p",
-						"info": "base-embed",
-									"image": "https://i.ibb.co/Ntcj66Q/logo-es1.webp",
-									"url" :  "acestream://f233f3a8e9ddfae2e43d919789073fc17d9bbd7c",
-						"embed": "true"
-					}, { 
-								 "name": "Eurosport 1 1080p",
-						"info": "get-host",
-									"image": "https://i.ibb.co/Ntcj66Q/logo-es1.webp",
-									"url" :  "http://127.0.0.1:6878/ace/getstream?id=f233f3a8e9ddfae2e43d919789073fc17d9bbd7c",
-						"isHost": "true"
-					}, { 
-								 "name": "Eurosport 1 1080p",
-						"info": "get-agent",
-									"image": "https://i.ibb.co/Ntcj66Q/logo-es1.webp",
-									"url" :  "http://127.0.0.1:6878/ace/getstream?id=f233f3a8e9ddfae2e43d919789073fc17d9bbd7c",
-						"userAgent" : ""
-					}, { 
-								 "name": "Eurosport 1 1080p",
-						"info": "get-embed",
-									"image": "https://i.ibb.co/Ntcj66Q/logo-es1.webp",
-									"url" :  "http://127.0.0.1:6878/ace/getstream?id=f233f3a8e9ddfae2e43d919789073fc17d9bbd7c",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580",
 						"embed": "true"
 					},
 	
 	
 					{ 
 								 "name": "Eurosport 2 1080p",
-						"info": "base-host",
+						"info": "base-host [9878]",
 									"image": "https://i.ibb.co/HLcq8Cj/logo-es2.webp",
-									"url" :  "acestream://c373da9e901d414b7384e671112e64d5a2310c29",
+									"url" :  "acestream://98784fa0714190de289f42eb5b84e405df7e685a",
 						"isHost": "true"
 					}, { 
 								 "name": "Eurosport 2 1080p",
-						"info": "base-agent",
+						"info": "base-agent [9878]",
 									"image": "https://i.ibb.co/HLcq8Cj/logo-es2.webp",
-									"url" :  "acestream://c373da9e901d414b7384e671112e64d5a2310c29",
+									"url" :  "acestream://98784fa0714190de289f42eb5b84e405df7e685a",
 						"userAgent" : ""
 					}, { 
 								 "name": "Eurosport 2 1080p",
-						"info": "base-embed",
+						"info": "base-embed [9878]",
 									"image": "https://i.ibb.co/HLcq8Cj/logo-es2.webp",
-									"url" :  "acestream://c373da9e901d414b7384e671112e64d5a2310c29",
+									"url" :  "acestream://98784fa0714190de289f42eb5b84e405df7e685a",
 						"embed": "true"
 					}, { 
 								 "name": "Eurosport 2 1080p",
-						"info": "get-host",
+						"info": "get-host [9878]",
 									"image": "https://i.ibb.co/HLcq8Cj/logo-es2.webp",
-									"url" :  "http://127.0.0.1:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id=98784fa0714190de289f42eb5b84e405df7e685a",
 						"isHost": "true"
 					}, { 
 								 "name": "Eurosport 2 1080p",
-						"info": "get-agent",
+						"info": "get-agent [9878]",
 									"image": "https://i.ibb.co/HLcq8Cj/logo-es2.webp",
-									"url" :  "http://127.0.0.1:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id=98784fa0714190de289f42eb5b84e405df7e685a",
 						"userAgent" : ""
 					}, { 
 								 "name": "Eurosport 2 1080p",
-						"info": "get-embed",
+						"info": "get-embed [9878]",
 									"image": "https://i.ibb.co/HLcq8Cj/logo-es2.webp",
-									"url" :  "http://127.0.0.1:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29",
-						"embed": "true"
-					},
-
-
-					{ 
-								 "name": "Eurosport 2 1080p",
-						"info": "base-host",
-									"image": "https://i.ibb.co/HLcq8Cj/logo-es2.webp",
-									"url" :  "acestream://3e0df5e0e93cc867022e320afef0aaecda9509fe",
-						"isHost": "true"
-					}, { 
-								 "name": "Eurosport 2 1080p",
-						"info": "base-agent",
-									"image": "https://i.ibb.co/HLcq8Cj/logo-es2.webp",
-									"url" :  "acestream://3e0df5e0e93cc867022e320afef0aaecda9509fe",
-						"userAgent" : ""
-					}, { 
-								 "name": "Eurosport 2 1080p",
-						"info": "base-embed",
-									"image": "https://i.ibb.co/HLcq8Cj/logo-es2.webp",
-									"url" :  "acestream://3e0df5e0e93cc867022e320afef0aaecda9509fe",
-						"embed": "true"
-					}, { 
-								 "name": "Eurosport 2 1080p",
-						"info": "get-host",
-									"image": "https://i.ibb.co/HLcq8Cj/logo-es2.webp",
-									"url" :  "http://127.0.0.1:6878/ace/getstream?id=3e0df5e0e93cc867022e320afef0aaecda9509fe",
-						"isHost": "true"
-					}, { 
-								 "name": "Eurosport 2 1080p",
-						"info": "get-agent",
-									"image": "https://i.ibb.co/HLcq8Cj/logo-es2.webp",
-									"url" :  "http://127.0.0.1:6878/ace/getstream?id=3e0df5e0e93cc867022e320afef0aaecda9509fe",
-						"userAgent" : ""
-					}, { 
-								 "name": "Eurosport 2 1080p",
-						"info": "get-embed",
-									"image": "https://i.ibb.co/HLcq8Cj/logo-es2.webp",
-									"url" :  "http://127.0.0.1:6878/ace/getstream?id=3e0df5e0e93cc867022e320afef0aaecda9509fe",
+									"url" :  "http://127.0.0.1:6878/ace/getstream?id=98784fa0714190de289f42eb5b84e405df7e685a",
 						"embed": "true"
 					},
+				
 
 
 					{ 
 								 "name": "Eurosport 3 1080p",
 						"info": "base-host",
-									"image": "https://static.wikia.nocookie.net/logopedia/images/f/fa/Eurosport_3.svg/revision/latest/scale-to-width-down/300?cb=20190719155439",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
 									"url" :  "acestream://a62c010c71bfb76b18188f108c3cc4541c34f45e",
-						"isHost": "true"
+						"isHost": "false"
 					}, { 
 								 "name": "Eurosport 3 1080p",
 						"info": "base-agent",
-									"image": "https://static.wikia.nocookie.net/logopedia/images/f/fa/Eurosport_3.svg/revision/latest/scale-to-width-down/300?cb=20190719155439",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
 									"url" :  "acestream://a62c010c71bfb76b18188f108c3cc4541c34f45e",
-						"userAgent" : ""
+						"userAgent" : "false"
 					}, { 
 								 "name": "Eurosport 3 1080p",
 						"info": "base-embed",
-									"image": "https://static.wikia.nocookie.net/logopedia/images/f/fa/Eurosport_3.svg/revision/latest/scale-to-width-down/300?cb=20190719155439",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
 									"url" :  "acestream://a62c010c71bfb76b18188f108c3cc4541c34f45e",
-						"embed": "true"
+						"embed": "false"
 					}, { 
 								 "name": "Eurosport 3 1080p",
 						"info": "get-host",
-									"image": "https://static.wikia.nocookie.net/logopedia/images/f/fa/Eurosport_3.svg/revision/latest/scale-to-width-down/300?cb=20190719155439",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
 									"url" :  "http://127.0.0.1:6878/ace/getstream?id=a62c010c71bfb76b18188f108c3cc4541c34f45e",
-						"isHost": "true"
+						"isHost": "false"
 					}, { 
 								 "name": "Eurosport 3 1080p",
 						"info": "get-agent",
-									"image": "https://static.wikia.nocookie.net/logopedia/images/f/fa/Eurosport_3.svg/revision/latest/scale-to-width-down/300?cb=20190719155439",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
 									"url" :  "http://127.0.0.1:6878/ace/getstream?id=a62c010c71bfb76b18188f108c3cc4541c34f45e",
-						"userAgent" : ""
+						"userAgent" : "false"
 					}, { 
 								 "name": "Eurosport 3 1080p",
 						"info": "get-embed",
-									"image": "https://static.wikia.nocookie.net/logopedia/images/f/fa/Eurosport_3.svg/revision/latest/scale-to-width-down/300?cb=20190719155439",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
 									"url" :  "http://127.0.0.1:6878/ace/getstream?id=a62c010c71bfb76b18188f108c3cc4541c34f45e",
-						"embed": "true"
+						"embed": "false"
 					},
 
 
                     			{ 
 								 "name": "Eurosport 4 1080p",
 						"info": "base-host",
-									"image": "https://static.wikia.nocookie.net/logopedia/images/5/53/Eurosport_4.svg/revision/latest/scale-to-width-down/300?cb=20190719155614",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
 									"url" :  "acestream://76a482a4cb53fc28518187c6b814f136b3db3c95",
-						"isHost": "true"
+						"isHost": "false"
 					}, { 
 								 "name": "Eurosport 4 1080p",
 						"info": "base-agent",
-									"image": "https://static.wikia.nocookie.net/logopedia/images/5/53/Eurosport_4.svg/revision/latest/scale-to-width-down/300?cb=20190719155614",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
 									"url" :  "acestream://76a482a4cb53fc28518187c6b814f136b3db3c95",
-						"userAgent" : ""
+						"userAgent" : "false"
 					}, { 
 								 "name": "Eurosport 4 1080p",
 						"info": "base-embed",
-									"image": "https://static.wikia.nocookie.net/logopedia/images/5/53/Eurosport_4.svg/revision/latest/scale-to-width-down/300?cb=20190719155614",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
 									"url" :  "acestream://76a482a4cb53fc28518187c6b814f136b3db3c95",
-						"embed": "true"
+						"embed": "false"
 					}, { 
 								 "name": "Eurosport 4 1080p",
 						"info": "get-host",
-									"image": "https://static.wikia.nocookie.net/logopedia/images/5/53/Eurosport_4.svg/revision/latest/scale-to-width-down/300?cb=20190719155614",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
 									"url" :  "http://127.0.0.1:6878/ace/getstream?id=76a482a4cb53fc28518187c6b814f136b3db3c95",
-						"isHost": "true"
+						"isHost": "false"
 					}, { 
 								 "name": "Eurosport 4 1080p",
 						"info": "get-agent",
-									"image": "https://static.wikia.nocookie.net/logopedia/images/5/53/Eurosport_4.svg/revision/latest/scale-to-width-down/300?cb=20190719155614",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
 									"url" :  "http://127.0.0.1:6878/ace/getstream?id=76a482a4cb53fc28518187c6b814f136b3db3c95",
-						"userAgent" : ""
+						"userAgent" : "false"
 					}, { 
 								 "name": "Eurosport 4 1080p",
 						"info": "get-embed",
-									"image": "https://static.wikia.nocookie.net/logopedia/images/5/53/Eurosport_4.svg/revision/latest/scale-to-width-down/300?cb=20190719155614",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
 									"url" :  "http://127.0.0.1:6878/ace/getstream?id=76a482a4cb53fc28518187c6b814f136b3db3c95",
-						"embed": "true"
+						"embed": "false"
 					},
 
 
                     			{ 
 								 "name": "Eurosport 5 1080p",
 						"info": "base-host",
-									"image": "https://static.wikia.nocookie.net/logopedia/images/c/c6/Eurosport_5.svg/revision/latest/scale-to-width-down/300?cb=20190719160111",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
 									"url" :  "acestream://914ce366baec9b0fb3523dd7ba762a44b597fc40",
-						"isHost": "true"
+						"isHost": "false"
 					}, { 
 								 "name": "Eurosport 5 1080p",
 						"info": "base-agent",
-									"image": "https://static.wikia.nocookie.net/logopedia/images/c/c6/Eurosport_5.svg/revision/latest/scale-to-width-down/300?cb=20190719160111",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
 									"url" :  "acestream://914ce366baec9b0fb3523dd7ba762a44b597fc40",
-						"userAgent" : ""
+						"userAgent" : "false"
 					}, { 
 								 "name": "Eurosport 5 1080p",
 						"info": "base-embed",
-									"image": "https://static.wikia.nocookie.net/logopedia/images/c/c6/Eurosport_5.svg/revision/latest/scale-to-width-down/300?cb=20190719160111",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
 									"url" :  "acestream://914ce366baec9b0fb3523dd7ba762a44b597fc40",
-						"embed": "true"
+						"embed": "false"
 					}, { 
 								 "name": "Eurosport 5 1080p",
 						"info": "get-host",
-									"image": "https://static.wikia.nocookie.net/logopedia/images/c/c6/Eurosport_5.svg/revision/latest/scale-to-width-down/300?cb=20190719160111",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
 									"url" :  "http://127.0.0.1:6878/ace/getstream?id=914ce366baec9b0fb3523dd7ba762a44b597fc40",
-						"isHost": "true"
+						"isHost": "false"
 					}, { 
 								 "name": "Eurosport 5 1080p",
 						"info": "get-agent",
-									"image": "https://static.wikia.nocookie.net/logopedia/images/c/c6/Eurosport_5.svg/revision/latest/scale-to-width-down/300?cb=20190719160111",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
 									"url" :  "http://127.0.0.1:6878/ace/getstream?id=914ce366baec9b0fb3523dd7ba762a44b597fc40",
-						"userAgent" : ""
+						"userAgent" : "false"
 					}, { 
 								 "name": "Eurosport 5 1080p",
 						"info": "get-embed",
-									"image": "https://static.wikia.nocookie.net/logopedia/images/c/c6/Eurosport_5.svg/revision/latest/scale-to-width-down/300?cb=20190719160111",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
 									"url" :  "http://127.0.0.1:6878/ace/getstream?id=914ce366baec9b0fb3523dd7ba762a44b597fc40",
-						"embed": "true"
+						"embed": "false"
 					},
 
 
                     			{ 
 								 "name": "Eurosport 6 1080p",
 						"info": "base-host",
-									"image": "https://static.wikia.nocookie.net/logopedia/images/4/40/Eurosport_6.svg/revision/latest/scale-to-width-down/300?cb=20210725063247",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
 									"url" :  "acestream://1bc614c5aa2a94117c13c7f0be2b8ea31b535f38",
-						"isHost": "true"
+						"isHost": "false"
 					}, { 
 								 "name": "Eurosport 6 1080p",
 						"info": "base-agent",
-									"image": "https://static.wikia.nocookie.net/logopedia/images/4/40/Eurosport_6.svg/revision/latest/scale-to-width-down/300?cb=20210725063247",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
 									"url" :  "acestream://1bc614c5aa2a94117c13c7f0be2b8ea31b535f38",
-						"userAgent" : ""
+						"userAgent" : "false"
 					}, { 
 								 "name": "Eurosport 6 1080p",
 						"info": "base-embed",
-									"image": "https://static.wikia.nocookie.net/logopedia/images/4/40/Eurosport_6.svg/revision/latest/scale-to-width-down/300?cb=20210725063247",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
 									"url" :  "acestream://1bc614c5aa2a94117c13c7f0be2b8ea31b535f38",
-						"embed": "true"
+						"embed": "false"
 					}, { 
 								 "name": "Eurosport 6 1080p",
 						"info": "get-host",
-									"image": "https://static.wikia.nocookie.net/logopedia/images/4/40/Eurosport_6.svg/revision/latest/scale-to-width-down/300?cb=20210725063247",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
 									"url" :  "http://127.0.0.1:6878/ace/getstream?id=1bc614c5aa2a94117c13c7f0be2b8ea31b535f38",
-						"isHost": "true"
+						"isHost": "false"
 					}, { 
 								 "name": "Eurosport 6 1080p",
 						"info": "get-agent",
-									"image": "https://static.wikia.nocookie.net/logopedia/images/4/40/Eurosport_6.svg/revision/latest/scale-to-width-down/300?cb=20210725063247",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
 									"url" :  "http://127.0.0.1:6878/ace/getstream?id=1bc614c5aa2a94117c13c7f0be2b8ea31b535f38",
-						"userAgent" : ""
+						"userAgent" : "false"
 					}, { 
 								 "name": "Eurosport 6 1080p",
 						"info": "get-embed",
-									"image": "https://static.wikia.nocookie.net/logopedia/images/4/40/Eurosport_6.svg/revision/latest/scale-to-width-down/300?cb=20210725063247",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
 									"url" :  "http://127.0.0.1:6878/ace/getstream?id=1bc614c5aa2a94117c13c7f0be2b8ea31b535f38",
-						"embed": "true"
+						"embed": "false"
 					},
 
 
                     			{ 
 								 "name": "Eurosport 7 1080p",
 						"info": "base-host",
-									"image": "https://static.wikia.nocookie.net/logopedia/images/0/05/Eurosport_7.svg/revision/latest/scale-to-width-down/300?cb=20210725063521",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
 									"url" :  "acestream://e899a4f1e20f7ce1b39cc529dc237fc29a21855f",
-						"isHost": "true"
+						"isHost": "false"
 					}, { 
 								 "name": "Eurosport 7 1080p",
 						"info": "base-agent",
-									"image": "https://static.wikia.nocookie.net/logopedia/images/0/05/Eurosport_7.svg/revision/latest/scale-to-width-down/300?cb=20210725063521",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
 									"url" :  "acestream://e899a4f1e20f7ce1b39cc529dc237fc29a21855f",
-						"userAgent" : ""
+						"userAgent" : "false"
 					}, { 
 								 "name": "Eurosport 7 1080p",
 						"info": "base-embed",
-									"image": "https://static.wikia.nocookie.net/logopedia/images/0/05/Eurosport_7.svg/revision/latest/scale-to-width-down/300?cb=20210725063521",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
 									"url" :  "acestream://e899a4f1e20f7ce1b39cc529dc237fc29a21855f",
-						"embed": "true"
+						"embed": "false"
 					}, { 
 								 "name": "Eurosport 7 1080p",
 						"info": "get-host",
-									"image": "https://static.wikia.nocookie.net/logopedia/images/0/05/Eurosport_7.svg/revision/latest/scale-to-width-down/300?cb=20210725063521",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
 									"url" :  "http://127.0.0.1:6878/ace/getstream?id=e899a4f1e20f7ce1b39cc529dc237fc29a21855f",
-						"isHost": "true"
+						"isHost": "false"
 					}, { 
 								 "name": "Eurosport 7 1080p",
 						"info": "get-agent",
-									"image": "https://static.wikia.nocookie.net/logopedia/images/0/05/Eurosport_7.svg/revision/latest/scale-to-width-down/300?cb=20210725063521",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
 									"url" :  "http://127.0.0.1:6878/ace/getstream?id=e899a4f1e20f7ce1b39cc529dc237fc29a21855f",
-						"userAgent" : ""
+						"userAgent" : "false"
 					}, { 
 								 "name": "Eurosport 7 1080p",
 						"info": "get-embed",
-									"image": "https://static.wikia.nocookie.net/logopedia/images/0/05/Eurosport_7.svg/revision/latest/scale-to-width-down/300?cb=20210725063521",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
 									"url" :  "http://127.0.0.1:6878/ace/getstream?id=e899a4f1e20f7ce1b39cc529dc237fc29a21855f",
-						"embed": "true"
+						"embed": "false"
 					},
 
 
                     			{ 
 								 "name": "Eurosport 8 1080p",
 						"info": "base-host",
-									"image": "https://static.wikia.nocookie.net/logopedia/images/7/74/Eurosport_8.svg/revision/latest/scale-to-width-down/300?cb=20210725063656",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
 									"url" :  "acestream://721a78f2076faa584c9c09059ffb4e10159f4665",
-						"isHost": "true"
+						"isHost": "false"
 					}, { 
 								 "name": "Eurosport 8 1080p",
 						"info": "base-agent",
-									"image": "https://static.wikia.nocookie.net/logopedia/images/7/74/Eurosport_8.svg/revision/latest/scale-to-width-down/300?cb=20210725063656",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
 									"url" :  "acestream://721a78f2076faa584c9c09059ffb4e10159f4665",
-						"userAgent" : ""
+						"userAgent" : "false"
 					}, { 
 								 "name": "Eurosport 8 1080p",
 						"info": "base-embed",
-									"image": "https://static.wikia.nocookie.net/logopedia/images/7/74/Eurosport_8.svg/revision/latest/scale-to-width-down/300?cb=20210725063656",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
 									"url" :  "acestream://721a78f2076faa584c9c09059ffb4e10159f4665",
-						"embed": "true"
+						"embed": "false"
 					}, { 
 								 "name": "Eurosport 8 1080p",
 						"info": "get-host",
-									"image": "https://static.wikia.nocookie.net/logopedia/images/7/74/Eurosport_8.svg/revision/latest/scale-to-width-down/300?cb=20210725063656",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
 									"url" :  "http://127.0.0.1:6878/ace/getstream?id=721a78f2076faa584c9c09059ffb4e10159f4665",
-						"isHost": "true"
+						"isHost": "false"
 					}, { 
 								 "name": "Eurosport 8 1080p",
 						"info": "get-agent",
-									"image": "https://static.wikia.nocookie.net/logopedia/images/7/74/Eurosport_8.svg/revision/latest/scale-to-width-down/300?cb=20210725063656",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
 									"url" :  "http://127.0.0.1:6878/ace/getstream?id=721a78f2076faa584c9c09059ffb4e10159f4665",
-						"userAgent" : ""
+						"userAgent" : "false"
 					}, { 
 								 "name": "Eurosport 8 1080p",
 						"info": "get-embed",
-									"image": "https://static.wikia.nocookie.net/logopedia/images/7/74/Eurosport_8.svg/revision/latest/scale-to-width-down/300?cb=20210725063656",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
 									"url" :  "http://127.0.0.1:6878/ace/getstream?id=721a78f2076faa584c9c09059ffb4e10159f4665",
-						"embed": "true"
+						"embed": "false"
 					},
 
 
                     			{ 
 								 "name": "Eurosport 9 1080p",
 						"info": "base-host",
-									"image": "https://static.wikia.nocookie.net/logopedia/images/a/a7/Eurosport_9.svg/revision/latest/scale-to-width-down/300?cb=20210725063808",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
 									"url" :  "acestream://dd9c56ef2f09753c59d9c2e2d2af31aeea6451c0",
-						"isHost": "true"
+						"isHost": "false"
 					}, { 
 								 "name": "Eurosport 9 1080p",
 						"info": "base-agent",
-									"image": "https://static.wikia.nocookie.net/logopedia/images/a/a7/Eurosport_9.svg/revision/latest/scale-to-width-down/300?cb=20210725063808",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
 									"url" :  "acestream://dd9c56ef2f09753c59d9c2e2d2af31aeea6451c0",
-						"userAgent" : ""
+						"userAgent" : "false"
 					}, { 
 								 "name": "Eurosport 9 1080p",
 						"info": "base-embed",
-									"image": "https://static.wikia.nocookie.net/logopedia/images/a/a7/Eurosport_9.svg/revision/latest/scale-to-width-down/300?cb=20210725063808",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
 									"url" :  "acestream://dd9c56ef2f09753c59d9c2e2d2af31aeea6451c0",
-						"embed": "true"
+						"embed": "false"
 					}, { 
 								 "name": "Eurosport 9 1080p",
 						"info": "get-host",
-									"image": "https://static.wikia.nocookie.net/logopedia/images/a/a7/Eurosport_9.svg/revision/latest/scale-to-width-down/300?cb=20210725063808",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
 									"url" :  "http://127.0.0.1:6878/ace/getstream?id=dd9c56ef2f09753c59d9c2e2d2af31aeea6451c0",
-						"isHost": "true"
+						"isHost": "false"
 					}, { 
 								 "name": "Eurosport 9 1080p",
 						"info": "get-agent",
-									"image": "https://static.wikia.nocookie.net/logopedia/images/a/a7/Eurosport_9.svg/revision/latest/scale-to-width-down/300?cb=20210725063808",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
 									"url" :  "http://127.0.0.1:6878/ace/getstream?id=dd9c56ef2f09753c59d9c2e2d2af31aeea6451c0",
-						"userAgent" : ""
+						"userAgent" : "false"
 					}, { 
 								 "name": "Eurosport 9 1080p",
 						"info": "get-embed",
-									"image": "https://static.wikia.nocookie.net/logopedia/images/a/a7/Eurosport_9.svg/revision/latest/scale-to-width-down/300?cb=20210725063808",
+									"image": "https://i.ibb.co/jr7VQss/logo-off.png",
 									"url" :  "http://127.0.0.1:6878/ace/getstream?id=dd9c56ef2f09753c59d9c2e2d2af31aeea6451c0",
-						"embed": "true"
+						"embed": "false"
 					},
 	
 	
 					{ 
 								 "name": "Liga Fem1",
-						"info": "base-host",
+						"info": "base-host [6002]",
 									"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
 									"url" :  "acestream://600222a4f98df80a2c0df2d60cb5ff3df9620710",
 						"isHost": "true"
 					}, { 
 								 "name": "Liga Fem1",
-						"info": "base-agent",
+						"info": "base-agent [6002]",
 									"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
 									"url" :  "acestream://600222a4f98df80a2c0df2d60cb5ff3df9620710",
 						"userAgent" : ""
 					}, { 
 								 "name": "Liga Fem1",
-						"info": "base-embed",
+						"info": "base-embed [6002]",
 									"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
 									"url" :  "acestream://600222a4f98df80a2c0df2d60cb5ff3df9620710",
 						"embed": "true"
 					}, { 
 								 "name": "Liga Fem1",
-						"info": "get-host",
+						"info": "get-host [6002]",
 									"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
 									"url" :  "http://127.0.0.1:6878/ace/getstream?id=600222a4f98df80a2c0df2d60cb5ff3df9620710",
 						"isHost": "true"
 					}, { 
 								 "name": "Liga Fem1",
-						"info": "get-agent",
+						"info": "get-agent [6002]",
 									"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
 									"url" :  "http://127.0.0.1:6878/ace/getstream?id=600222a4f98df80a2c0df2d60cb5ff3df9620710",
 						"userAgent" : ""
 					}, { 
 								 "name": "Liga Fem1",
-						"info": "get-embed",
+						"info": "get-embed [6002]",
 									"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
 									"url" :  "http://127.0.0.1:6878/ace/getstream?id=600222a4f98df80a2c0df2d60cb5ff3df9620710",
 						"embed": "true"
@@ -4003,37 +4011,37 @@
 	
 					{ 
 								 "name": "Liga Fem2",
-						"info": "base-host",
+						"info": "base-host [4af5]",
 									"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
 									"url" :  "acestream://4af5952b95d3c2e99fcdc0de2f528d3fcd73e06b",
 						"isHost": "true"
 					}, { 
 								 "name": "Liga Fem2",
-						"info": "base-agent",
+						"info": "base-agent [4af5]",
 									"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
 									"url" :  "acestream://4af5952b95d3c2e99fcdc0de2f528d3fcd73e06b",
 						"userAgent" : ""
 					}, { 
 								 "name": "Liga Fem2",
-						"info": "base-embed",
+						"info": "base-embed [4af5]",
 									"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
 									"url" :  "acestream://4af5952b95d3c2e99fcdc0de2f528d3fcd73e06b",
 						"embed": "true"
 					}, { 
 								 "name": "Liga Fem2",
-						"info": "get-host",
+						"info": "get-host [4af5]",
 									"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
 									"url" :  "http://127.0.0.1:6878/ace/getstream?id=4af5952b95d3c2e99fcdc0de2f528d3fcd73e06b",
 						"isHost": "true"
 					}, { 
 								 "name": "Liga Fem2",
-						"info": "get-agent",
+						"info": "get-agent [4af5]",
 									"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
 									"url" :  "http://127.0.0.1:6878/ace/getstream?id=4af5952b95d3c2e99fcdc0de2f528d3fcd73e06b",
 						"userAgent" : ""
 					}, { 
 								 "name": "Liga Fem2",
-						"info": "get-embed",
+						"info": "get-embed [4af5]",
 									"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
 									"url" :  "http://127.0.0.1:6878/ace/getstream?id=4af5952b95d3c2e99fcdc0de2f528d3fcd73e06b",
 						"embed": "true"
@@ -4042,37 +4050,37 @@
 	
 					{ 
 								 "name": "Liga Fem3",
-						"info": "base-host",
+						"info": "base-host [1629]",
 									"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
 									"url" :  "acestream://162942adc047d0f78eac056effbe5bbec54a5e51",
 						"isHost": "true"
 					}, { 
 								 "name": "Liga Fem3",
-						"info": "base-agent",
+						"info": "base-agent [1629]",
 									"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
 									"url" :  "acestream://162942adc047d0f78eac056effbe5bbec54a5e51",
 						"userAgent" : ""
 					}, { 
 								 "name": "Liga Fem3",
-						"info": "base-embed",
+						"info": "base-embed [1629]",
 									"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
 									"url" :  "acestream://162942adc047d0f78eac056effbe5bbec54a5e51",
 						"embed": "true"
 					}, { 
 								 "name": "Liga Fem3",
-						"info": "get-host",
+						"info": "get-host [1629]",
 									"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
 									"url" :  "http://127.0.0.1:6878/ace/getstream?id=162942adc047d0f78eac056effbe5bbec54a5e51",
 						"isHost": "true"
 					}, { 
 								 "name": "Liga Fem3",
-						"info": "get-agent",
+						"info": "get-agent [1629]",
 									"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
 									"url" :  "http://127.0.0.1:6878/ace/getstream?id=162942adc047d0f78eac056effbe5bbec54a5e51",
 						"userAgent" : ""
 					}, { 
 								 "name": "Liga Fem3",
-						"info": "get-embed",
+						"info": "get-embed [1629]",
 									"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
 									"url" :  "http://127.0.0.1:6878/ace/getstream?id=162942adc047d0f78eac056effbe5bbec54a5e51",
 						"embed": "true"
@@ -4081,37 +4089,37 @@
 	
 					{ 
 								 "name": "Liga Fem4",
-						"info": "base-host",
+						"info": "base-host [e454]",
 									"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
 									"url" :  "acestream://e454681a152a86da504e63694f17f90d0586867d",
 						"isHost": "true"
 					}, { 
 								 "name": "Liga Fem4",
-						"info": "base-agent",
+						"info": "base-agent [e454]",
 									"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
 									"url" :  "acestream://e454681a152a86da504e63694f17f90d0586867d",
 						"userAgent" : ""
 					}, { 
 								 "name": "Liga Fem4",
-						"info": "base-embed",
+						"info": "base-embed [e454]",
 									"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
 									"url" :  "acestream://e454681a152a86da504e63694f17f90d0586867d",
 						"embed": "true"
 					}, { 
 								 "name": "Liga Fem4",
-						"info": "get-host",
+						"info": "get-host [e454]",
 									"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
 									"url" :  "http://127.0.0.1:6878/ace/getstream?id=e454681a152a86da504e63694f17f90d0586867d",
 						"isHost": "true"
 					}, { 
 								 "name": "Liga Fem4",
-						"info": "get-agent",
+						"info": "get-agent [e454]",
 									"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
 									"url" :  "http://127.0.0.1:6878/ace/getstream?id=e454681a152a86da504e63694f17f90d0586867d",
 						"userAgent" : ""
 					}, { 
 								 "name": "Liga Fem4",
-						"info": "get-embed",
+						"info": "get-embed [e454]",
 									"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
 									"url" :  "http://127.0.0.1:6878/ace/getstream?id=e454681a152a86da504e63694f17f90d0586867d",
 						"embed": "true"
@@ -4120,37 +4128,37 @@
 	
 					{ 
 								 "name": "Liga Fem5",
-						"info": "base-host",
+						"info": "base-host [d6cd]",
 									"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
 									"url" :  "acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e",
 						"isHost": "true"
 					}, { 
 								 "name": "Liga Fem5",
-						"info": "base-agent",
+						"info": "base-agent [d6cd]",
 									"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
 									"url" :  "acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e",
 						"userAgent" : ""
 					}, { 
 								 "name": "Liga Fem5",
-						"info": "base-embed",
+						"info": "base-embed [d6cd]",
 									"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
 									"url" :  "acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e",
 						"embed": "true"
 					}, { 
 								 "name": "Liga Fem5",
-						"info": "get-host",
+						"info": "get-host [d6cd]",
 									"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
 									"url" :  "http://127.0.0.1:6878/ace/getstream?id=d6cdd724a97fcf851e7ef641c28d6beb8663496e",
 						"isHost": "true"
 					}, { 
 								 "name": "Liga Fem5",
-						"info": "get-agent",
+						"info": "get-agent [d6cd]",
 									"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
 									"url" :  "http://127.0.0.1:6878/ace/getstream?id=d6cdd724a97fcf851e7ef641c28d6beb8663496e",
 						"userAgent" : ""
 					}, { 
 								 "name": "Liga Fem5",
-						"info": "get-embed",
+						"info": "get-embed [d6cd]",
 									"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
 									"url" :  "http://127.0.0.1:6878/ace/getstream?id=d6cdd724a97fcf851e7ef641c28d6beb8663496e",
 						"embed": "true"
@@ -4159,37 +4167,37 @@
 			
 				{ 
                 	 		"name": "Liga Fem6",
-					"info": "base-host",
+					"info": "base-host [d462]",
                     			"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
                     			"url" :  "acestream://d4627f7b6b237a8556819445b3283d866caceca2",
 					"isHost": "true"
 				}, { 
                 	 		"name": "Liga Fem6",
-					"info": "base-agent",
+					"info": "base-agent [d462]",
                     			"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
                     			"url" :  "acestream://d4627f7b6b237a8556819445b3283d866caceca2",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "Liga Fem6",
-					"info": "base-embed",
+					"info": "base-embed [d462]",
                     			"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
                     			"url" :  "acestream://d4627f7b6b237a8556819445b3283d866caceca2",
 					"embed": "true"
 				}, { 
-                	 		"name": "Liga Fem6",
+                	 		"name": "Liga Fem6 [d462]",
 					"info": "get-host",
                     			"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=d4627f7b6b237a8556819445b3283d866caceca2",
 					"isHost": "true"
 				}, { 
                 	 		"name": "Liga Fem6",
-					"info": "get-agent",
+					"info": "get-agent [d462]",
                     			"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=d4627f7b6b237a8556819445b3283d866caceca2",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "Liga Fem6",
-					"info": "get-embed",
+					"info": "get-embed [d462]",
                     			"image": "https://i.ibb.co/j50Hygr/DAZNF.webp",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=d4627f7b6b237a8556819445b3283d866caceca2",
 					"embed": "true"
@@ -4204,154 +4212,154 @@
 				
 				{ 
                 	 		"name": "La 1 4k",
-					"info": "base-host",
+					"info": "base-host [4a71]",
                     			"image": "https://i.ibb.co/GHqBPVz/La1-logo.png",
-                    			"url" :  "acestream://61a38b6c3b6c3fdffcb2f61053f3437e569eb666",
+                    			"url" :  "acestream://4a714c436cb67d53cf197f9038239fddab2d8b20",
 					"isHost": "true"
 				}, { 
                 	 		"name": "La 1 4k",
-					"info": "base-agent",
+					"info": "base-agent [4a71]",
                     			"image": "https://i.ibb.co/GHqBPVz/La1-logo.png",
-                    			"url" :  "acestream://61a38b6c3b6c3fdffcb2f61053f3437e569eb666",
+                    			"url" :  "acestream://4a714c436cb67d53cf197f9038239fddab2d8b20",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "La 1 4k",
-					"info": "base-embed",
+					"info": "base-embed [4a71]",
                     			"image": "https://i.ibb.co/GHqBPVz/La1-logo.png",
-                    			"url" :  "acestream://61a38b6c3b6c3fdffcb2f61053f3437e569eb666",
+                    			"url" :  "acestream://4a714c436cb67d53cf197f9038239fddab2d8b20",
 					"embed": "true"
 				}, { 
                 	 		"name": "La 1 4k",
-					"info": "get-host",
+					"info": "get-host [4a71]",
                     			"image": "https://i.ibb.co/GHqBPVz/La1-logo.png",
-                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=61a38b6c3b6c3fdffcb2f61053f3437e569eb666",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=4a714c436cb67d53cf197f9038239fddab2d8b20",
 					"isHost": "true"
 				}, { 
                 	 		"name": "La 1 4k",
-					"info": "get-agent",
+					"info": "get-agent [4a71]",
                     			"image": "https://i.ibb.co/GHqBPVz/La1-logo.png",
-                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=61a38b6c3b6c3fdffcb2f61053f3437e569eb666",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=4a714c436cb67d53cf197f9038239fddab2d8b20",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "La 1 4k",
-					"info": "get-embed",
+					"info": "get-embed [4a71]",
                     			"image": "https://i.ibb.co/GHqBPVz/La1-logo.png",
-                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=61a38b6c3b6c3fdffcb2f61053f3437e569eb666",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=4a714c436cb67d53cf197f9038239fddab2d8b20",
 					"embed": "true"
 				},
 				
 				
                			{ 
                 	 		"name": "La 1 1080p",
-					"info": "base-host",
+					"info": "base-host [b9a8]",
                     			"image": "https://i.ibb.co/GHqBPVz/La1-logo.png",
-                    			"url" :  "acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47",
+                    			"url" :  "acestream://b9a81ddb0cf98d9a5ae18ba2eef0ab094bd5d5b0",
 					"isHost": "true"
 				}, { 
                 	 		"name": "La 1 1080p",
-					"info": "base-agent",
+					"info": "base-agent [b9a8]",
                     			"image": "https://i.ibb.co/GHqBPVz/La1-logo.png",
-                    			"url" :  "acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47",
+                    			"url" :  "acestream://b9a81ddb0cf98d9a5ae18ba2eef0ab094bd5d5b0",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "La 1 1080p",
-					"info": "base-embed",
+					"info": "base-embed [b9a8]",
                     			"image": "https://i.ibb.co/GHqBPVz/La1-logo.png",
-                    			"url" :  "acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47",
+                    			"url" :  "acestream://b9a81ddb0cf98d9a5ae18ba2eef0ab094bd5d5b0",
 					"embed": "true"
 				}, { 
                 	 		"name": "La 1 1080p",
-					"info": "get-host",
+					"info": "get-host [b9a8]",
                     			"image": "https://i.ibb.co/GHqBPVz/La1-logo.png",
-                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=b9a81ddb0cf98d9a5ae18ba2eef0ab094bd5d5b0",
 					"isHost": "true"
 				}, { 
                 	 		"name": "La 1 1080p",
-					"info": "get-agent",
+					"info": "get-agent [b9a8]",
                     			"image": "https://i.ibb.co/GHqBPVz/La1-logo.png",
-                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=b9a81ddb0cf98d9a5ae18ba2eef0ab094bd5d5b0",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "La 1 1080p",
-					"info": "get-embed",
+					"info": "get-embed [b9a8]",
                     			"image": "https://i.ibb.co/GHqBPVz/La1-logo.png",
-                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=b9a81ddb0cf98d9a5ae18ba2eef0ab094bd5d5b0",
 					"embed": "true"
 				},
 
 
 				{ 
                 	 		"name": "Teledeporte 1080p",
-					"info": "base-host",
+					"info": "base-host [61b9]",
                     			"image": "https://i.ibb.co/7QP3X8W/tdp-logo.webp",
-                    			"url" :  "acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f",
+                    			"url" :  "acestream://61b9b271c16f970aab43cb753c5f8be181dceece",
 					"isHost": "true"
 				}, { 
                 	 		"name": "Teledeporte 1080p",
-					"info": "base-agent",
+					"info": "base-agent [61b9]",
                     			"image": "https://i.ibb.co/7QP3X8W/tdp-logo.webp",
-                    			"url" :  "acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f",
+                    			"url" :  "acestream://61b9b271c16f970aab43cb753c5f8be181dceece",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "Teledeporte 1080p",
-					"info": "base-embed",
+					"info": "base-embed [61b9]",
                     			"image": "https://i.ibb.co/7QP3X8W/tdp-logo.webp",
-                    			"url" :  "acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f",
+                    			"url" :  "acestream://61b9b271c16f970aab43cb753c5f8be181dceece",
 					"embed": "true"
 				}, { 
                 	 		"name": "Teledeporte 1080p",
-					"info": "get-host",
+					"info": "get-host [61b9]",
                     			"image": "https://i.ibb.co/7QP3X8W/tdp-logo.webp",
-                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=61b9b271c16f970aab43cb753c5f8be181dceece",
 					"isHost": "true"
 				}, { 
                 	 		"name": "Teledeporte 1080p",
-					"info": "get-agent",
+					"info": "get-agent [61b9]",
                     			"image": "https://i.ibb.co/7QP3X8W/tdp-logo.webp",
-                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=61b9b271c16f970aab43cb753c5f8be181dceece",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "Teledeporte 1080p",
-					"info": "get-embed",
+					"info": "get-embed [61b9]",
                     			"image": "https://i.ibb.co/7QP3X8W/tdp-logo.webp",
-                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=61b9b271c16f970aab43cb753c5f8be181dceece",
 					"embed": "true"
 				},
 				
 				
 				{ 
                 	 		"name": "NBA TV",
-					"info": "base-host",
+					"info": "base-host [e72d]",
                     			"image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png",
                     			"url" :  "acestream://e72d03fb9694164317260f684470be9ab781ed95",
 					"isHost": "true"
 				}, { 
                 	 		"name": "NBA TV",
-					"info": "base-agent",
+					"info": "base-agent [e72d]",
                     			"image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png",
                     			"url" :  "acestream://e72d03fb9694164317260f684470be9ab781ed95",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "NBA TV",
-					"info": "base-embed",
+					"info": "base-embed [e72d]",
                     			"image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png",
                     			"url" :  "acestream://e72d03fb9694164317260f684470be9ab781ed95",
 					"embed": "true"
 				}, { 
                 	 		"name": "NBA TV",
-					"info": "get-host",
+					"info": "get-host [e72d]",
                     			"image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95",
 					"isHost": "true"
 				}, { 
                 	 		"name": "NBA TV",
-					"info": "get-agent",
+					"info": "get-agent [e72d]",
                     			"image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "NBA TV",
-					"info": "get-embed",
+					"info": "get-embed [e72d]",
                     			"image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95",
 					"embed": "true"
@@ -4360,37 +4368,37 @@
 
 				{ 
                 	 		"name": "Sport TV-1 1080p",
-					"info": "base-host",
+					"info": "base-host [ce23]",
                     			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrL8b9tijeRaKvGXKaefN1NCr_aA0wRmQxyQZ2DsBGzc1v1PnJa5TmhqtVZNB5_vAVflq7NjGK9vh60nkGRXJ4VajF6OL1m_JSWfBaLfE5qv21BmYi_S6mVX-6NzCvdwb60GmgNCxjkImgEw2W_3O57Deuy4e933kdwjiQHLzW6kKplfws36pwfhIus_dF/w489-h93/Sport-TV1.PNG",
                     			"url" :  "acestream://ce235921dac95e1da2dd5e54673c2fecb9e806de",
 					"isHost": "true"
 				}, { 
                 	 		"name": "Sport TV-1 1080p",
-					"info": "base-agent",
+					"info": "base-agent [ce23]",
                     			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrL8b9tijeRaKvGXKaefN1NCr_aA0wRmQxyQZ2DsBGzc1v1PnJa5TmhqtVZNB5_vAVflq7NjGK9vh60nkGRXJ4VajF6OL1m_JSWfBaLfE5qv21BmYi_S6mVX-6NzCvdwb60GmgNCxjkImgEw2W_3O57Deuy4e933kdwjiQHLzW6kKplfws36pwfhIus_dF/w489-h93/Sport-TV1.PNG",
                     			"url" :  "acestream://ce235921dac95e1da2dd5e54673c2fecb9e806de",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "Sport TV-1 1080p",
-					"info": "base-embed",
+					"info": "base-embed [ce23]",
                     			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrL8b9tijeRaKvGXKaefN1NCr_aA0wRmQxyQZ2DsBGzc1v1PnJa5TmhqtVZNB5_vAVflq7NjGK9vh60nkGRXJ4VajF6OL1m_JSWfBaLfE5qv21BmYi_S6mVX-6NzCvdwb60GmgNCxjkImgEw2W_3O57Deuy4e933kdwjiQHLzW6kKplfws36pwfhIus_dF/w489-h93/Sport-TV1.PNG",
                     			"url" :  "acestream://ce235921dac95e1da2dd5e54673c2fecb9e806de",
 					"embed": "true"
 				}, { 
                 	 		"name": "Sport TV-1 1080p",
-					"info": "get-host",
+					"info": "get-host [ce23]",
                     			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrL8b9tijeRaKvGXKaefN1NCr_aA0wRmQxyQZ2DsBGzc1v1PnJa5TmhqtVZNB5_vAVflq7NjGK9vh60nkGRXJ4VajF6OL1m_JSWfBaLfE5qv21BmYi_S6mVX-6NzCvdwb60GmgNCxjkImgEw2W_3O57Deuy4e933kdwjiQHLzW6kKplfws36pwfhIus_dF/w489-h93/Sport-TV1.PNG",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=ce235921dac95e1da2dd5e54673c2fecb9e806de",
 					"isHost": "true"
 				}, { 
                 	 		"name": "Sport TV-1 1080p",
-					"info": "get-agent",
+					"info": "get-agent [ce23]",
                     			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrL8b9tijeRaKvGXKaefN1NCr_aA0wRmQxyQZ2DsBGzc1v1PnJa5TmhqtVZNB5_vAVflq7NjGK9vh60nkGRXJ4VajF6OL1m_JSWfBaLfE5qv21BmYi_S6mVX-6NzCvdwb60GmgNCxjkImgEw2W_3O57Deuy4e933kdwjiQHLzW6kKplfws36pwfhIus_dF/w489-h93/Sport-TV1.PNG",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=ce235921dac95e1da2dd5e54673c2fecb9e806de",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "Sport TV-1 1080p",
-					"info": "get-embed",
+					"info": "get-embed [ce23]",
                     			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrL8b9tijeRaKvGXKaefN1NCr_aA0wRmQxyQZ2DsBGzc1v1PnJa5TmhqtVZNB5_vAVflq7NjGK9vh60nkGRXJ4VajF6OL1m_JSWfBaLfE5qv21BmYi_S6mVX-6NzCvdwb60GmgNCxjkImgEw2W_3O57Deuy4e933kdwjiQHLzW6kKplfws36pwfhIus_dF/w489-h93/Sport-TV1.PNG",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=ce235921dac95e1da2dd5e54673c2fecb9e806de",
 					"embed": "true"
@@ -4399,37 +4407,37 @@
 
 				{ 
                 	 		"name": "ESPN USA",
-					"info": "base-host",
+					"info": "base-host [4b49]",
                     			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ESPN_America.svg/1200px-ESPN_America.svg.png",
                     			"url" :  "acestream://4b4907de51ec11087d4bed5876f2a0c68264f442",
 					"isHost": "true"
 				}, { 
                 	 		"name": "ESPN USA",
-					"info": "base-agent",
+					"info": "base-agent [4b49]",
                     			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ESPN_America.svg/1200px-ESPN_America.svg.png",
                     			"url" :  "acestream://4b4907de51ec11087d4bed5876f2a0c68264f442",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "ESPN USA",
-					"info": "base-embed",
+					"info": "base-embed [4b49]",
                     			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ESPN_America.svg/1200px-ESPN_America.svg.png",
                     			"url" :  "acestream://4b4907de51ec11087d4bed5876f2a0c68264f442",
 					"embed": "true"
 				}, { 
                 	 		"name": "ESPN USA",
-					"info": "get-host",
+					"info": "get-host [4b49]",
                     			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ESPN_America.svg/1200px-ESPN_America.svg.png",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=4b4907de51ec11087d4bed5876f2a0c68264f442",
 					"isHost": "true"
 				}, { 
                 	 		"name": "ESPN USA",
-					"info": "get-agent",
+					"info": "get-agent [4b49]",
                     			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ESPN_America.svg/1200px-ESPN_America.svg.png",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=4b4907de51ec11087d4bed5876f2a0c68264f442",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "ESPN USA",
-					"info": "get-embed",
+					"info": "get-embed [4b49]",
                     			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ESPN_America.svg/1200px-ESPN_America.svg.png",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=4b4907de51ec11087d4bed5876f2a0c68264f442",
 					"embed": "true"
@@ -4438,37 +4446,37 @@
 
 				{ 
                 	 		"name": "ESPN2 USA",
-					"info": "base-host",
+					"info": "base-host [664e]",
                     			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ESPN_America.svg/1200px-ESPN_America.svg.png",
                     			"url" :  "acestream://664eb5fe460b96941aed633959a845b185cd8394",
 					"isHost": "true"
 				}, { 
                 	 		"name": "ESPN2 USA",
-					"info": "base-agent",
+					"info": "base-agent [664e]",
                     			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ESPN_America.svg/1200px-ESPN_America.svg.png",
                     			"url" :  "acestream://664eb5fe460b96941aed633959a845b185cd8394",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "ESPN2 USA",
-					"info": "base-embed",
+					"info": "base-embed [664e]",
                     			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ESPN_America.svg/1200px-ESPN_America.svg.png",
                     			"url" :  "acestream://664eb5fe460b96941aed633959a845b185cd8394",
 					"embed": "true"
 				}, { 
                 	 		"name": "ESPN2 USA",
-					"info": "get-host",
+					"info": "get-host [664e]",
                     			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ESPN_America.svg/1200px-ESPN_America.svg.png",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=664eb5fe460b96941aed633959a845b185cd8394",
 					"isHost": "true"
 				}, { 
                 	 		"name": "ESPN2 USA",
-					"info": "get-agent",
+					"info": "get-agent [664e]",
                     			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ESPN_America.svg/1200px-ESPN_America.svg.png",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=664eb5fe460b96941aed633959a845b185cd8394",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "ESPN2 USA",
-					"info": "get-embed",
+					"info": "get-embed [664e]",
                     			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ESPN_America.svg/1200px-ESPN_America.svg.png",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=664eb5fe460b96941aed633959a845b185cd8394",
 					"embed": "true"
@@ -4477,37 +4485,37 @@
 
 				{ 
                 	 		"name": "Fox Sports 1 USA",
-					"info": "base-host",
+					"info": "base-host [c9c0]",
                     			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_NwEsRH6BbHnxgq92HLGBlh95ppszS0fsxdMYWFhrC0xdyoXiuC7gZ2AFJUJ3hV2IkSFwmuGmFcNK4Pm1HjirJNhpjYuFNxC3OvYzU52Uy84kdbjhGIYN9lUhVcRXW3dHubHg0DHJsbm_fs_L-_Pwon1lZTJ1-9w8vaZg7rnoaz6m2CL5HiuYFTk4wZtm/w520-h234/logo-fs1.png",
                     			"url" :  "acestream://c9c062941fbecb16ce29437f346ea7177d720898",
 					"isHost": "true"
 				}, { 
                 	 		"name": "Fox Sports 1 USA",
-					"info": "base-agent",
+					"info": "base-agent [c9c0]",
                     			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_NwEsRH6BbHnxgq92HLGBlh95ppszS0fsxdMYWFhrC0xdyoXiuC7gZ2AFJUJ3hV2IkSFwmuGmFcNK4Pm1HjirJNhpjYuFNxC3OvYzU52Uy84kdbjhGIYN9lUhVcRXW3dHubHg0DHJsbm_fs_L-_Pwon1lZTJ1-9w8vaZg7rnoaz6m2CL5HiuYFTk4wZtm/w520-h234/logo-fs1.png",
                     			"url" :  "acestream://c9c062941fbecb16ce29437f346ea7177d720898",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "Fox Sports 1 USA",
-					"info": "base-embed",
+					"info": "base-embed [c9c0]",
                     			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_NwEsRH6BbHnxgq92HLGBlh95ppszS0fsxdMYWFhrC0xdyoXiuC7gZ2AFJUJ3hV2IkSFwmuGmFcNK4Pm1HjirJNhpjYuFNxC3OvYzU52Uy84kdbjhGIYN9lUhVcRXW3dHubHg0DHJsbm_fs_L-_Pwon1lZTJ1-9w8vaZg7rnoaz6m2CL5HiuYFTk4wZtm/w520-h234/logo-fs1.png",
                     			"url" :  "acestream://c9c062941fbecb16ce29437f346ea7177d720898",
 					"embed": "true"
 				}, { 
                 	 		"name": "Fox Sports 1 USA",
-					"info": "get-host",
+					"info": "get-host [c9c0]",
                     			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_NwEsRH6BbHnxgq92HLGBlh95ppszS0fsxdMYWFhrC0xdyoXiuC7gZ2AFJUJ3hV2IkSFwmuGmFcNK4Pm1HjirJNhpjYuFNxC3OvYzU52Uy84kdbjhGIYN9lUhVcRXW3dHubHg0DHJsbm_fs_L-_Pwon1lZTJ1-9w8vaZg7rnoaz6m2CL5HiuYFTk4wZtm/w520-h234/logo-fs1.png",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=c9c062941fbecb16ce29437f346ea7177d720898",
 					"isHost": "true"
 				}, { 
                 	 		"name": "Fox Sports 1 USA",
-					"info": "get-agent",
+					"info": "get-agent [c9c0]",
                     			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_NwEsRH6BbHnxgq92HLGBlh95ppszS0fsxdMYWFhrC0xdyoXiuC7gZ2AFJUJ3hV2IkSFwmuGmFcNK4Pm1HjirJNhpjYuFNxC3OvYzU52Uy84kdbjhGIYN9lUhVcRXW3dHubHg0DHJsbm_fs_L-_Pwon1lZTJ1-9w8vaZg7rnoaz6m2CL5HiuYFTk4wZtm/w520-h234/logo-fs1.png",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=c9c062941fbecb16ce29437f346ea7177d720898",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "Fox Sports 1 USA",
-					"info": "get-embed",
+					"info": "get-embed [c9c0]",
                     			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_NwEsRH6BbHnxgq92HLGBlh95ppszS0fsxdMYWFhrC0xdyoXiuC7gZ2AFJUJ3hV2IkSFwmuGmFcNK4Pm1HjirJNhpjYuFNxC3OvYzU52Uy84kdbjhGIYN9lUhVcRXW3dHubHg0DHJsbm_fs_L-_Pwon1lZTJ1-9w8vaZg7rnoaz6m2CL5HiuYFTk4wZtm/w520-h234/logo-fs1.png",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=c9c062941fbecb16ce29437f346ea7177d720898",
 					"embed": "true"
@@ -4516,37 +4524,37 @@
 
 				{ 
                 	 		"name": "Fox Sports 2 USA",
-					"info": "base-host",
+					"info": "base-host [cba8]",
                     			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4120TyOG4BIwd3SLGVvw2GEEy61ExiAu0aVA5AXStwEhHKx4h37jttMBT0uOJ3X4kOnjh2VO6Dn6MbyX0rdmr0pvQ2lFU_zauBqsQJn2PT-F3YHBjM_87TEQaW3W0rjrJSOUAjSVGVE8F3Yq8jthXhFG-U0M2rkJ75N7pKjfbYmHyEGEFwCsp4Nsuu9Oz/w559-h251/logo-fs2.png",
                     			"url" :  "acestream://cba8d369eac629b577750edb90370cd1c5fb03b7",
 					"isHost": "true"
 				}, { 
                 	 		"name": "Fox Sports 2 USA",
-					"info": "base-agent",
+					"info": "base-agent [cba8]",
                     			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4120TyOG4BIwd3SLGVvw2GEEy61ExiAu0aVA5AXStwEhHKx4h37jttMBT0uOJ3X4kOnjh2VO6Dn6MbyX0rdmr0pvQ2lFU_zauBqsQJn2PT-F3YHBjM_87TEQaW3W0rjrJSOUAjSVGVE8F3Yq8jthXhFG-U0M2rkJ75N7pKjfbYmHyEGEFwCsp4Nsuu9Oz/w559-h251/logo-fs2.png",
                     			"url" :  "acestream://cba8d369eac629b577750edb90370cd1c5fb03b7",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "Fox Sports 2 USA",
-					"info": "base-embed",
+					"info": "base-embed [cba8]",
                     			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4120TyOG4BIwd3SLGVvw2GEEy61ExiAu0aVA5AXStwEhHKx4h37jttMBT0uOJ3X4kOnjh2VO6Dn6MbyX0rdmr0pvQ2lFU_zauBqsQJn2PT-F3YHBjM_87TEQaW3W0rjrJSOUAjSVGVE8F3Yq8jthXhFG-U0M2rkJ75N7pKjfbYmHyEGEFwCsp4Nsuu9Oz/w559-h251/logo-fs2.png",
                     			"url" :  "acestream://cba8d369eac629b577750edb90370cd1c5fb03b7",
 					"embed": "true"
 				}, { 
                 	 		"name": "Fox Sports 2 USA",
-					"info": "get-host",
+					"info": "get-host [cba8]",
                     			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4120TyOG4BIwd3SLGVvw2GEEy61ExiAu0aVA5AXStwEhHKx4h37jttMBT0uOJ3X4kOnjh2VO6Dn6MbyX0rdmr0pvQ2lFU_zauBqsQJn2PT-F3YHBjM_87TEQaW3W0rjrJSOUAjSVGVE8F3Yq8jthXhFG-U0M2rkJ75N7pKjfbYmHyEGEFwCsp4Nsuu9Oz/w559-h251/logo-fs2.png",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=cba8d369eac629b577750edb90370cd1c5fb03b7",
 					"isHost": "true"
 				}, { 
                 	 		"name": "Fox Sports 2 USA",
-					"info": "get-agent",
+					"info": "get-agent [cba8]",
                     			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4120TyOG4BIwd3SLGVvw2GEEy61ExiAu0aVA5AXStwEhHKx4h37jttMBT0uOJ3X4kOnjh2VO6Dn6MbyX0rdmr0pvQ2lFU_zauBqsQJn2PT-F3YHBjM_87TEQaW3W0rjrJSOUAjSVGVE8F3Yq8jthXhFG-U0M2rkJ75N7pKjfbYmHyEGEFwCsp4Nsuu9Oz/w559-h251/logo-fs2.png",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=cba8d369eac629b577750edb90370cd1c5fb03b7",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "Fox Sports 2 USA",
-					"info": "get-embed",
+					"info": "get-embed [cba8]",
                     			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4120TyOG4BIwd3SLGVvw2GEEy61ExiAu0aVA5AXStwEhHKx4h37jttMBT0uOJ3X4kOnjh2VO6Dn6MbyX0rdmr0pvQ2lFU_zauBqsQJn2PT-F3YHBjM_87TEQaW3W0rjrJSOUAjSVGVE8F3Yq8jthXhFG-U0M2rkJ75N7pKjfbYmHyEGEFwCsp4Nsuu9Oz/w559-h251/logo-fs2.png",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=cba8d369eac629b577750edb90370cd1c5fb03b7",
 					"embed": "true"
@@ -4555,37 +4563,37 @@
 
 				{ 
                 	 		"name": "Sky Sports Arena UK",
-					"info": "base-host",
+					"info": "base-host [d317]",
                     			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi5DUuJX-RCMPH3g2n6E2oXtR5Vzb0kNZLeC4nwvABs9tlN3mN7W91zh6FwID_RO8zdP9uuZcY4-B4jjUyzPAlOYaKbeG86ZCHbKR6x2TVCGN7cHO-jCkzK3nU9aKBcUEVauky5HeK5kKD_A7n_CcKrcvhkapt049w1lTAVe8tP8EYu16PPVLniUlYQTh8/w470-h202/Sky-Sports-Arena-UK.PNG",
                     			"url" :  "acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c",
 					"isHost": "true"
 				}, { 
                 	 		"name": "Sky Sports Arena UK",
-					"info": "base-agent",
+					"info": "base-agent [d317]",
                     			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi5DUuJX-RCMPH3g2n6E2oXtR5Vzb0kNZLeC4nwvABs9tlN3mN7W91zh6FwID_RO8zdP9uuZcY4-B4jjUyzPAlOYaKbeG86ZCHbKR6x2TVCGN7cHO-jCkzK3nU9aKBcUEVauky5HeK5kKD_A7n_CcKrcvhkapt049w1lTAVe8tP8EYu16PPVLniUlYQTh8/w470-h202/Sky-Sports-Arena-UK.PNG",
                     			"url" :  "acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "Sky Sports Arena UK",
-					"info": "base-embed",
+					"info": "base-embed [d317]",
                     			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi5DUuJX-RCMPH3g2n6E2oXtR5Vzb0kNZLeC4nwvABs9tlN3mN7W91zh6FwID_RO8zdP9uuZcY4-B4jjUyzPAlOYaKbeG86ZCHbKR6x2TVCGN7cHO-jCkzK3nU9aKBcUEVauky5HeK5kKD_A7n_CcKrcvhkapt049w1lTAVe8tP8EYu16PPVLniUlYQTh8/w470-h202/Sky-Sports-Arena-UK.PNG",
                     			"url" :  "acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c",
 					"embed": "true"
 				}, { 
                 	 		"name": "Sky Sports Arena UK",
-					"info": "get-host",
+					"info": "get-host [d317]",
                     			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi5DUuJX-RCMPH3g2n6E2oXtR5Vzb0kNZLeC4nwvABs9tlN3mN7W91zh6FwID_RO8zdP9uuZcY4-B4jjUyzPAlOYaKbeG86ZCHbKR6x2TVCGN7cHO-jCkzK3nU9aKBcUEVauky5HeK5kKD_A7n_CcKrcvhkapt049w1lTAVe8tP8EYu16PPVLniUlYQTh8/w470-h202/Sky-Sports-Arena-UK.PNG",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c",
 					"isHost": "true"
 				}, { 
                 	 		"name": "Sky Sports Arena UK",
-					"info": "get-agent",
+					"info": "get-agent [d317]",
                     			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi5DUuJX-RCMPH3g2n6E2oXtR5Vzb0kNZLeC4nwvABs9tlN3mN7W91zh6FwID_RO8zdP9uuZcY4-B4jjUyzPAlOYaKbeG86ZCHbKR6x2TVCGN7cHO-jCkzK3nU9aKBcUEVauky5HeK5kKD_A7n_CcKrcvhkapt049w1lTAVe8tP8EYu16PPVLniUlYQTh8/w470-h202/Sky-Sports-Arena-UK.PNG",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "Sky Sports Arena UK",
-					"info": "get-embed",
+					"info": "get-embed [d317]",
                     			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi5DUuJX-RCMPH3g2n6E2oXtR5Vzb0kNZLeC4nwvABs9tlN3mN7W91zh6FwID_RO8zdP9uuZcY4-B4jjUyzPAlOYaKbeG86ZCHbKR6x2TVCGN7cHO-jCkzK3nU9aKBcUEVauky5HeK5kKD_A7n_CcKrcvhkapt049w1lTAVe8tP8EYu16PPVLniUlYQTh8/w470-h202/Sky-Sports-Arena-UK.PNG",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c",
 					"embed": "true"
@@ -4594,37 +4602,37 @@
 
 				{ 
                 	 		"name": "Sky Sports Football UK",
-					"info": "base-host",
+					"info": "base-host [8dbe]",
                     			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYeFUM9tjZGkOyd3X_hzCd4yoArACpB0ptuMgWb8iTkoT-Cutp1rjJDI_rFT-NrdtHG3TTobq0QNIq8JHmRq4sZkbpVm3oIm_FzLTi532Td8STxVEKSptk5pC1SKIdYNDF87uF1k9C7Fgwo_VuDQQR5xkKVh03wuIh0L6HTGsLBeHjY4bIM8KbcupBHjA6/w474-h202/Sky-Sports-Football.PNG",
                     			"url" :  "acestream://8dbe2d515e9131fa311353537736f8c94be9b26d",
 					"isHost": "true"
 				}, { 
                 	 		"name": "Sky Sports Football UK",
-					"info": "base-agent",
+					"info": "base-agent [8dbe]",
                     			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYeFUM9tjZGkOyd3X_hzCd4yoArACpB0ptuMgWb8iTkoT-Cutp1rjJDI_rFT-NrdtHG3TTobq0QNIq8JHmRq4sZkbpVm3oIm_FzLTi532Td8STxVEKSptk5pC1SKIdYNDF87uF1k9C7Fgwo_VuDQQR5xkKVh03wuIh0L6HTGsLBeHjY4bIM8KbcupBHjA6/w474-h202/Sky-Sports-Football.PNG",
                     			"url" :  "acestream://8dbe2d515e9131fa311353537736f8c94be9b26d",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "Sky Sports Football UK",
-					"info": "base-embed",
+					"info": "base-embed [8dbe]",
                     			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYeFUM9tjZGkOyd3X_hzCd4yoArACpB0ptuMgWb8iTkoT-Cutp1rjJDI_rFT-NrdtHG3TTobq0QNIq8JHmRq4sZkbpVm3oIm_FzLTi532Td8STxVEKSptk5pC1SKIdYNDF87uF1k9C7Fgwo_VuDQQR5xkKVh03wuIh0L6HTGsLBeHjY4bIM8KbcupBHjA6/w474-h202/Sky-Sports-Football.PNG",
                     			"url" :  "acestream://8dbe2d515e9131fa311353537736f8c94be9b26d",
 					"embed": "true"
 				}, { 
                 	 		"name": "Sky Sports Football UK",
-					"info": "get-host",
+					"info": "get-host [8dbe]",
                     			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYeFUM9tjZGkOyd3X_hzCd4yoArACpB0ptuMgWb8iTkoT-Cutp1rjJDI_rFT-NrdtHG3TTobq0QNIq8JHmRq4sZkbpVm3oIm_FzLTi532Td8STxVEKSptk5pC1SKIdYNDF87uF1k9C7Fgwo_VuDQQR5xkKVh03wuIh0L6HTGsLBeHjY4bIM8KbcupBHjA6/w474-h202/Sky-Sports-Football.PNG",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d",
 					"isHost": "true"
 				}, { 
                 	 		"name": "Sky Sports Football UK",
-					"info": "get-agent",
+					"info": "get-agent [8dbe]",
                     			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYeFUM9tjZGkOyd3X_hzCd4yoArACpB0ptuMgWb8iTkoT-Cutp1rjJDI_rFT-NrdtHG3TTobq0QNIq8JHmRq4sZkbpVm3oIm_FzLTi532Td8STxVEKSptk5pC1SKIdYNDF87uF1k9C7Fgwo_VuDQQR5xkKVh03wuIh0L6HTGsLBeHjY4bIM8KbcupBHjA6/w474-h202/Sky-Sports-Football.PNG",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "Sky Sports Football UK",
-					"info": "get-embed",
+					"info": "get-embed [8dbe]",
                     			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYeFUM9tjZGkOyd3X_hzCd4yoArACpB0ptuMgWb8iTkoT-Cutp1rjJDI_rFT-NrdtHG3TTobq0QNIq8JHmRq4sZkbpVm3oIm_FzLTi532Td8STxVEKSptk5pC1SKIdYNDF87uF1k9C7Fgwo_VuDQQR5xkKVh03wuIh0L6HTGsLBeHjY4bIM8KbcupBHjA6/w474-h202/Sky-Sports-Football.PNG",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d",
 					"embed": "true"
@@ -4633,37 +4641,37 @@
 
 				{ 
                 	 		"name": "Sky Sports Main Event UK",
-					"info": "base-host",
+					"info": "base-host [eab7]",
                     			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9lOpfSyCJAxjiACXsvpJWmOfxAyL_Lh7Jrp1J3oCKGay_s-k8HHLIrCfOZhmdJtGnGBd_qvoWED3EzlD8U2B1fv1OO6nI_fOkx_SSK269TSZpFJ38LgaFduibfNxhUj7CgeoO1sytsDjV6oxWhl71A1oO-r0ZJ1oeByfVr8lgHb43Kdttfl7_snBppemk/w477-h204/Sky-Sports-MainEvent.PNG",
                     			"url" :  "acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e",
 					"isHost": "true"
 				}, { 
                 	 		"name": "Sky Sports Main Event UK",
-					"info": "base-agent",
+					"info": "base-agent [eab7]",
                     			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9lOpfSyCJAxjiACXsvpJWmOfxAyL_Lh7Jrp1J3oCKGay_s-k8HHLIrCfOZhmdJtGnGBd_qvoWED3EzlD8U2B1fv1OO6nI_fOkx_SSK269TSZpFJ38LgaFduibfNxhUj7CgeoO1sytsDjV6oxWhl71A1oO-r0ZJ1oeByfVr8lgHb43Kdttfl7_snBppemk/w477-h204/Sky-Sports-MainEvent.PNG",
                     			"url" :  "acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "Sky Sports Main Event UK",
-					"info": "base-embed",
+					"info": "base-embed [eab7]",
                     			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9lOpfSyCJAxjiACXsvpJWmOfxAyL_Lh7Jrp1J3oCKGay_s-k8HHLIrCfOZhmdJtGnGBd_qvoWED3EzlD8U2B1fv1OO6nI_fOkx_SSK269TSZpFJ38LgaFduibfNxhUj7CgeoO1sytsDjV6oxWhl71A1oO-r0ZJ1oeByfVr8lgHb43Kdttfl7_snBppemk/w477-h204/Sky-Sports-MainEvent.PNG",
                     			"url" :  "acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e",
 					"embed": "true"
 				}, { 
                 	 		"name": "Sky Sports Main Event UK",
-					"info": "get-host",
+					"info": "get-host [eab7]",
                     			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9lOpfSyCJAxjiACXsvpJWmOfxAyL_Lh7Jrp1J3oCKGay_s-k8HHLIrCfOZhmdJtGnGBd_qvoWED3EzlD8U2B1fv1OO6nI_fOkx_SSK269TSZpFJ38LgaFduibfNxhUj7CgeoO1sytsDjV6oxWhl71A1oO-r0ZJ1oeByfVr8lgHb43Kdttfl7_snBppemk/w477-h204/Sky-Sports-MainEvent.PNG",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e",
 					"isHost": "true"
 				}, { 
                 	 		"name": "Sky Sports Main Event UK",
-					"info": "get-agent",
+					"info": "get-agent [eab7]",
                     			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9lOpfSyCJAxjiACXsvpJWmOfxAyL_Lh7Jrp1J3oCKGay_s-k8HHLIrCfOZhmdJtGnGBd_qvoWED3EzlD8U2B1fv1OO6nI_fOkx_SSK269TSZpFJ38LgaFduibfNxhUj7CgeoO1sytsDjV6oxWhl71A1oO-r0ZJ1oeByfVr8lgHb43Kdttfl7_snBppemk/w477-h204/Sky-Sports-MainEvent.PNG",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "Sky Sports Main Event UK",
-					"info": "get-embed",
+					"info": "get-embed [eab7]",
                     			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9lOpfSyCJAxjiACXsvpJWmOfxAyL_Lh7Jrp1J3oCKGay_s-k8HHLIrCfOZhmdJtGnGBd_qvoWED3EzlD8U2B1fv1OO6nI_fOkx_SSK269TSZpFJ38LgaFduibfNxhUj7CgeoO1sytsDjV6oxWhl71A1oO-r0ZJ1oeByfVr8lgHb43Kdttfl7_snBppemk/w477-h204/Sky-Sports-MainEvent.PNG",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e",
 					"embed": "true"
@@ -4672,37 +4680,37 @@
 
 				{ 
                 	 		"name": "Sky Sports Plus UK",
-					"info": "base-host",
+					"info": "base-host [ec5e]",
                     			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Sky_Sport_Plus_-_Logo_2015.svg/2560px-Sky_Sport_Plus_-_Logo_2015.svg.png",
                     			"url" :  "acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e",
 					"isHost": "true"
 				}, { 
                 	 		"name": "Sky Sports Plus UK",
-					"info": "base-agent",
+					"info": "base-agent [ec5e]",
                     			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Sky_Sport_Plus_-_Logo_2015.svg/2560px-Sky_Sport_Plus_-_Logo_2015.svg.png",
                     			"url" :  "acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "Sky Sports Plus UK",
-					"info": "base-embed",
+					"info": "base-embed [ec5e]",
                     			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Sky_Sport_Plus_-_Logo_2015.svg/2560px-Sky_Sport_Plus_-_Logo_2015.svg.png",
                     			"url" :  "acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e",
 					"embed": "true"
 				}, { 
                 	 		"name": "Sky Sports Plus UK",
-					"info": "get-host",
+					"info": "get-host [ec5e]",
                     			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Sky_Sport_Plus_-_Logo_2015.svg/2560px-Sky_Sport_Plus_-_Logo_2015.svg.png",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e",
 					"isHost": "true"
 				}, { 
                 	 		"name": "Sky Sports Plus UK",
-					"info": "get-agent",
+					"info": "get-agent [ec5e]",
                     			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Sky_Sport_Plus_-_Logo_2015.svg/2560px-Sky_Sport_Plus_-_Logo_2015.svg.png",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "Sky Sports Plus UK",
-					"info": "get-embed",
+					"info": "get-embed [ec5e]",
                     			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Sky_Sport_Plus_-_Logo_2015.svg/2560px-Sky_Sport_Plus_-_Logo_2015.svg.png",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e",
 					"embed": "true"
@@ -4711,37 +4719,37 @@
 
 				{ 
                 	 		"name": "Premier Sports 1 UK",
-					"info": "base-host",
+					"info": "base-host [75a5]",
                     			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnu0GOMNZxmSzj4QB6rPnnOT0fhL64H3La4XhN2XDd6fFDQ6U2Qj2_SmMH2F0ueYbN4I3uK9syMVyyowhkkMDusxCvfs31JBH8MMpGnko9BzswHMVunwlIhSq1wln2lvO1PmaiZgLc3P8vryBTwlA8rbW-dXW_PiUE1ii8cwUhASv9fPXFqGtvHPxd9XqX/w466-h157/Premier-Sports1.PNG",
                     			"url" :  "acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565",
 					"isHost": "true"
 				}, { 
                 	 		"name": "Premier Sports 1 UK",
-					"info": "base-agent",
+					"info": "base-agent [75a5]",
                     			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnu0GOMNZxmSzj4QB6rPnnOT0fhL64H3La4XhN2XDd6fFDQ6U2Qj2_SmMH2F0ueYbN4I3uK9syMVyyowhkkMDusxCvfs31JBH8MMpGnko9BzswHMVunwlIhSq1wln2lvO1PmaiZgLc3P8vryBTwlA8rbW-dXW_PiUE1ii8cwUhASv9fPXFqGtvHPxd9XqX/w466-h157/Premier-Sports1.PNG",
                     			"url" :  "acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "Premier Sports 1 UK",
-					"info": "base-embed",
+					"info": "base-embed [75a5]",
                     			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnu0GOMNZxmSzj4QB6rPnnOT0fhL64H3La4XhN2XDd6fFDQ6U2Qj2_SmMH2F0ueYbN4I3uK9syMVyyowhkkMDusxCvfs31JBH8MMpGnko9BzswHMVunwlIhSq1wln2lvO1PmaiZgLc3P8vryBTwlA8rbW-dXW_PiUE1ii8cwUhASv9fPXFqGtvHPxd9XqX/w466-h157/Premier-Sports1.PNG",
                     			"url" :  "acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565",
 					"embed": "true"
 				}, { 
                 	 		"name": "Premier Sports 1 UK",
-					"info": "get-host",
+					"info": "get-host [75a5]",
                     			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnu0GOMNZxmSzj4QB6rPnnOT0fhL64H3La4XhN2XDd6fFDQ6U2Qj2_SmMH2F0ueYbN4I3uK9syMVyyowhkkMDusxCvfs31JBH8MMpGnko9BzswHMVunwlIhSq1wln2lvO1PmaiZgLc3P8vryBTwlA8rbW-dXW_PiUE1ii8cwUhASv9fPXFqGtvHPxd9XqX/w466-h157/Premier-Sports1.PNG",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565",
 					"isHost": "true"
 				}, { 
                 	 		"name": "Premier Sports 1 UK",
-					"info": "get-agent",
+					"info": "get-agent [75a5]",
                     			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnu0GOMNZxmSzj4QB6rPnnOT0fhL64H3La4XhN2XDd6fFDQ6U2Qj2_SmMH2F0ueYbN4I3uK9syMVyyowhkkMDusxCvfs31JBH8MMpGnko9BzswHMVunwlIhSq1wln2lvO1PmaiZgLc3P8vryBTwlA8rbW-dXW_PiUE1ii8cwUhASv9fPXFqGtvHPxd9XqX/w466-h157/Premier-Sports1.PNG",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "Premier Sports 1 UK",
-					"info": "get-embed",
+					"info": "get-embed [75a5]",
                     			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnu0GOMNZxmSzj4QB6rPnnOT0fhL64H3La4XhN2XDd6fFDQ6U2Qj2_SmMH2F0ueYbN4I3uK9syMVyyowhkkMDusxCvfs31JBH8MMpGnko9BzswHMVunwlIhSq1wln2lvO1PmaiZgLc3P8vryBTwlA8rbW-dXW_PiUE1ii8cwUhASv9fPXFqGtvHPxd9XqX/w466-h157/Premier-Sports1.PNG",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565",
 					"embed": "true"
@@ -4750,37 +4758,37 @@
 
 				{ 
                 	 		"name": "Premier Sports 2 UK",
-					"info": "base-host",
+					"info": "base-host [4903]",
                     			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeqfvcdF2hajdZJRNFlsOvBmdOEJcyzDADbsibKqLpTkMg7_oRg_Rx6hsov1CGGFanBdafjNsaEg5Ufsg1sjfoS5fKwZ4IJG5MDH7Aj92SxTlZjrj3l_lDLJbGrwIjt3tJPOEHWx_312M7whvITBOOTL-hqdAIIq0lR0AYIXfV9VXPfIx52Oc6lYE_lM7X/w467-h167/Premier-Sports2.PNG",
                     			"url" :  "acestream://4903ca695edb64bc72ae29eb85a5333ba0139537",
 					"isHost": "true"
 				}, { 
                 	 		"name": "Premier Sports 2 UK",
-					"info": "base-agent",
+					"info": "base-agent [4903]",
                     			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeqfvcdF2hajdZJRNFlsOvBmdOEJcyzDADbsibKqLpTkMg7_oRg_Rx6hsov1CGGFanBdafjNsaEg5Ufsg1sjfoS5fKwZ4IJG5MDH7Aj92SxTlZjrj3l_lDLJbGrwIjt3tJPOEHWx_312M7whvITBOOTL-hqdAIIq0lR0AYIXfV9VXPfIx52Oc6lYE_lM7X/w467-h167/Premier-Sports2.PNG",
                     			"url" :  "acestream://4903ca695edb64bc72ae29eb85a5333ba0139537",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "Premier Sports 2 UK",
-					"info": "base-embed",
+					"info": "base-embed [4903]",
                     			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeqfvcdF2hajdZJRNFlsOvBmdOEJcyzDADbsibKqLpTkMg7_oRg_Rx6hsov1CGGFanBdafjNsaEg5Ufsg1sjfoS5fKwZ4IJG5MDH7Aj92SxTlZjrj3l_lDLJbGrwIjt3tJPOEHWx_312M7whvITBOOTL-hqdAIIq0lR0AYIXfV9VXPfIx52Oc6lYE_lM7X/w467-h167/Premier-Sports2.PNG",
                     			"url" :  "acestream://4903ca695edb64bc72ae29eb85a5333ba0139537",
 					"embed": "true"
 				}, { 
                 	 		"name": "Premier Sports 2 UK",
-					"info": "get-host",
+					"info": "get-host [4903]",
                     			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeqfvcdF2hajdZJRNFlsOvBmdOEJcyzDADbsibKqLpTkMg7_oRg_Rx6hsov1CGGFanBdafjNsaEg5Ufsg1sjfoS5fKwZ4IJG5MDH7Aj92SxTlZjrj3l_lDLJbGrwIjt3tJPOEHWx_312M7whvITBOOTL-hqdAIIq0lR0AYIXfV9VXPfIx52Oc6lYE_lM7X/w467-h167/Premier-Sports2.PNG",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=4903ca695edb64bc72ae29eb85a5333ba0139537",
 					"isHost": "true"
 				}, { 
                 	 		"name": "Premier Sports 2 UK",
-					"info": "get-agent",
+					"info": "get-agent [4903]",
                     			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeqfvcdF2hajdZJRNFlsOvBmdOEJcyzDADbsibKqLpTkMg7_oRg_Rx6hsov1CGGFanBdafjNsaEg5Ufsg1sjfoS5fKwZ4IJG5MDH7Aj92SxTlZjrj3l_lDLJbGrwIjt3tJPOEHWx_312M7whvITBOOTL-hqdAIIq0lR0AYIXfV9VXPfIx52Oc6lYE_lM7X/w467-h167/Premier-Sports2.PNG",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=4903ca695edb64bc72ae29eb85a5333ba0139537",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "Premier Sports 2 UK",
-					"info": "get-embed",
+					"info": "get-embed [4903]",
                     			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeqfvcdF2hajdZJRNFlsOvBmdOEJcyzDADbsibKqLpTkMg7_oRg_Rx6hsov1CGGFanBdafjNsaEg5Ufsg1sjfoS5fKwZ4IJG5MDH7Aj92SxTlZjrj3l_lDLJbGrwIjt3tJPOEHWx_312M7whvITBOOTL-hqdAIIq0lR0AYIXfV9VXPfIx52Oc6lYE_lM7X/w467-h167/Premier-Sports2.PNG",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=4903ca695edb64bc72ae29eb85a5333ba0139537",
 					"embed": "true"
@@ -4789,37 +4797,37 @@
 
 				{ 
                 	 		"name": "Eleven Sports 1",
-					"info": "base-host",
+					"info": "base-host [36ca]",
                     			"image": "https://www.mm-eu.tv/wordpress/wp-content/uploads/2019/10/ELEVEN_Channel_1.jpg",
                     			"url" :  "acestream://36cad67fed5a739757a9db844a551aa845a8d51b",
 					"isHost": "true"
 				}, { 
                 	 		"name": "Eleven Sports 1",
-					"info": "base-agent",
+					"info": "base-agent [36ca]",
                     			"image": "https://www.mm-eu.tv/wordpress/wp-content/uploads/2019/10/ELEVEN_Channel_1.jpg",
                     			"url" :  "acestream://36cad67fed5a739757a9db844a551aa845a8d51b",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "Eleven Sports 1",
-					"info": "base-embed",
+					"info": "base-embed [36ca]",
                     			"image": "https://www.mm-eu.tv/wordpress/wp-content/uploads/2019/10/ELEVEN_Channel_1.jpg",
                     			"url" :  "acestream://36cad67fed5a739757a9db844a551aa845a8d51b",
 					"embed": "true"
 				}, { 
                 	 		"name": "Eleven Sports 1",
-					"info": "get-host",
+					"info": "get-host [36ca]",
                     			"image": "https://www.mm-eu.tv/wordpress/wp-content/uploads/2019/10/ELEVEN_Channel_1.jpg",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b",
 					"isHost": "true"
 				}, { 
                 	 		"name": "Eleven Sports 1",
-					"info": "get-agent",
+					"info": "get-agent [36ca]",
                     			"image": "https://www.mm-eu.tv/wordpress/wp-content/uploads/2019/10/ELEVEN_Channel_1.jpg",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "Eleven Sports 1",
-					"info": "get-embed",
+					"info": "get-embed [36ca]",
                     			"image": "https://www.mm-eu.tv/wordpress/wp-content/uploads/2019/10/ELEVEN_Channel_1.jpg",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b",
 					"embed": "true"
@@ -4827,37 +4835,37 @@
 
 				{ 
                 	 		"name": "Eleven Sports 2",
-					"info": "base-host",
+					"info": "base-host [d080]",
                     			"image": "https://www.mm-eu.tv/wordpress/wp-content/uploads/2019/10/ELEVEN_Channel_2.jpg",
                     			"url" :  "acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce",
 					"isHost": "true"
 				}, { 
                 	 		"name": "Eleven Sports 2",
-					"info": "base-agent",
+					"info": "base-agent [d080]",
                     			"image": "https://www.mm-eu.tv/wordpress/wp-content/uploads/2019/10/ELEVEN_Channel_2.jpg",
                     			"url" :  "acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "Eleven Sports 2",
-					"info": "base-embed",
+					"info": "base-embed [d080]",
                     			"image": "https://www.mm-eu.tv/wordpress/wp-content/uploads/2019/10/ELEVEN_Channel_2.jpg",
                     			"url" :  "acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce",
 					"embed": "true"
 				}, { 
                 	 		"name": "Eleven Sports 2",
-					"info": "get-host",
+					"info": "get-host [d080]",
                     			"image": "https://www.mm-eu.tv/wordpress/wp-content/uploads/2019/10/ELEVEN_Channel_2.jpg",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce",
 					"isHost": "true"
 				}, { 
                 	 		"name": "Eleven Sports 2",
-					"info": "get-agent",
+					"info": "get-agent [d080]",
                     			"image": "https://www.mm-eu.tv/wordpress/wp-content/uploads/2019/10/ELEVEN_Channel_2.jpg",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "Eleven Sports 2",
-					"info": "get-embed",
+					"info": "get-embed [d080]",
                     			"image": "https://www.mm-eu.tv/wordpress/wp-content/uploads/2019/10/ELEVEN_Channel_2.jpg",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce",
 					"embed": "true"
@@ -4865,37 +4873,37 @@
 
 				{ 
                 	 		"name": "Eleven Sports 3",
-					"info": "base-host",
+					"info": "base-host [dae7]",
                     			"image": "https://www.mm-eu.tv/wordpress/wp-content/uploads/2019/10/ELEVEN_Channel_3.jpg",
                     			"url" :  "acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e",
 					"isHost": "true"
 				}, { 
                 	 		"name": "Eleven Sports 3",
-					"info": "base-agent",
+					"info": "base-agent [dae7]",
                     			"image": "https://www.mm-eu.tv/wordpress/wp-content/uploads/2019/10/ELEVEN_Channel_3.jpg",
                     			"url" :  "acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "Eleven Sports 3",
-					"info": "base-embed",
+					"info": "base-embed [dae7]",
                     			"image": "https://www.mm-eu.tv/wordpress/wp-content/uploads/2019/10/ELEVEN_Channel_3.jpg",
                     			"url" :  "acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e",
 					"embed": "true"
 				}, { 
                 	 		"name": "Eleven Sports 3",
-					"info": "get-host",
+					"info": "get-host [dae7]",
                     			"image": "https://www.mm-eu.tv/wordpress/wp-content/uploads/2019/10/ELEVEN_Channel_3.jpg",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e",
 					"isHost": "true"
 				}, { 
                 	 		"name": "Eleven Sports 3",
-					"info": "get-agent",
+					"info": "get-agent [dae7]",
                     			"image": "https://www.mm-eu.tv/wordpress/wp-content/uploads/2019/10/ELEVEN_Channel_3.jpg",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "Eleven Sports 3",
-					"info": "get-embed",
+					"info": "get-embed [dae7]",
                     			"image": "https://www.mm-eu.tv/wordpress/wp-content/uploads/2019/10/ELEVEN_Channel_3.jpg",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e",
 					"embed": "true"
@@ -4903,37 +4911,37 @@
 
 				{ 
                 	 		"name": "Eleven Sports 4",
-					"info": "base-host",
+					"info": "base-host [0f32]",
                     			"image": "https://s1.vcdn.biz/static/f/5452506631/image.jpg",
                     			"url" :  "acestream://0f32c0131a2d9444996410801f4e18b04384db98",
 					"isHost": "true"
 				}, { 
                 	 		"name": "Eleven Sports 4",
-					"info": "base-agent",
+					"info": "base-agent [0f32]",
                     			"image": "https://s1.vcdn.biz/static/f/5452506631/image.jpg",
                     			"url" :  "acestream://0f32c0131a2d9444996410801f4e18b04384db98",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "Eleven Sports 4",
-					"info": "base-embed",
+					"info": "base-embed [0f32]",
                     			"image": "https://s1.vcdn.biz/static/f/5452506631/image.jpg",
                     			"url" :  "acestream://0f32c0131a2d9444996410801f4e18b04384db98",
 					"embed": "true"
 				}, { 
                 	 		"name": "Eleven Sports 4",
-					"info": "get-host",
+					"info": "get-host [0f32]",
                     			"image": "https://s1.vcdn.biz/static/f/5452506631/image.jpg",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98",
 					"isHost": "true"
 				}, { 
                 	 		"name": "Eleven Sports 4",
-					"info": "get-agent",
+					"info": "get-agent [0f32]",
                     			"image": "https://s1.vcdn.biz/static/f/5452506631/image.jpg",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "Eleven Sports 4",
-					"info": "get-embed",
+					"info": "get-embed [0f32]",
                     			"image": "https://s1.vcdn.biz/static/f/5452506631/image.jpg",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98",
 					"embed": "true"
@@ -4941,37 +4949,37 @@
 
 				{ 
                 	 		"name": "Eleven Sports 5",
-					"info": "base-host",
+					"info": "base-host [4dbe]",
                     			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpeobtW6p6QBsv4bqV8XFgnQKkRhFqU_C5hrXPLvySJHwxAhLoXujTIKuoiV0DQy6FBQe4WRlGLUlLZsMa4QCx2SLBCsNmTFrZe7a6ND1NM4JhWtFYEhq4KFVGJTEiH3tpsCqxEHh9vqGcRU1qy-8qrt1harNG6OhGXVywOnRPW7mUfjywK2c80QGho02a/w581-h225/logo-ElevenSports.png",
                     			"url" :  "acestream://4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a",
 					"isHost": "true"
 				}, { 
                 	 		"name": "Eleven Sports 5",
-					"info": "base-agent",
+					"info": "base-agent [4dbe]",
                     			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpeobtW6p6QBsv4bqV8XFgnQKkRhFqU_C5hrXPLvySJHwxAhLoXujTIKuoiV0DQy6FBQe4WRlGLUlLZsMa4QCx2SLBCsNmTFrZe7a6ND1NM4JhWtFYEhq4KFVGJTEiH3tpsCqxEHh9vqGcRU1qy-8qrt1harNG6OhGXVywOnRPW7mUfjywK2c80QGho02a/w581-h225/logo-ElevenSports.png",
                     			"url" :  "acestream://4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "Eleven Sports 5",
-					"info": "base-embed",
+					"info": "base-embed [4dbe]",
                     			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpeobtW6p6QBsv4bqV8XFgnQKkRhFqU_C5hrXPLvySJHwxAhLoXujTIKuoiV0DQy6FBQe4WRlGLUlLZsMa4QCx2SLBCsNmTFrZe7a6ND1NM4JhWtFYEhq4KFVGJTEiH3tpsCqxEHh9vqGcRU1qy-8qrt1harNG6OhGXVywOnRPW7mUfjywK2c80QGho02a/w581-h225/logo-ElevenSports.png",
                     			"url" :  "acestream://4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a",
 					"embed": "true"
 				}, { 
                 	 		"name": "Eleven Sports 5",
-					"info": "get-host",
+					"info": "get-host [4dbe]",
                     			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpeobtW6p6QBsv4bqV8XFgnQKkRhFqU_C5hrXPLvySJHwxAhLoXujTIKuoiV0DQy6FBQe4WRlGLUlLZsMa4QCx2SLBCsNmTFrZe7a6ND1NM4JhWtFYEhq4KFVGJTEiH3tpsCqxEHh9vqGcRU1qy-8qrt1harNG6OhGXVywOnRPW7mUfjywK2c80QGho02a/w581-h225/logo-ElevenSports.png",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a",
 					"isHost": "true"
 				}, { 
                 	 		"name": "Eleven Sports 5",
-					"info": "get-agent",
+					"info": "get-agent [4dbe]",
                     			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpeobtW6p6QBsv4bqV8XFgnQKkRhFqU_C5hrXPLvySJHwxAhLoXujTIKuoiV0DQy6FBQe4WRlGLUlLZsMa4QCx2SLBCsNmTFrZe7a6ND1NM4JhWtFYEhq4KFVGJTEiH3tpsCqxEHh9vqGcRU1qy-8qrt1harNG6OhGXVywOnRPW7mUfjywK2c80QGho02a/w581-h225/logo-ElevenSports.png",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "Eleven Sports 5",
-					"info": "get-embed",
+					"info": "get-embed [4dbe]",
                     			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpeobtW6p6QBsv4bqV8XFgnQKkRhFqU_C5hrXPLvySJHwxAhLoXujTIKuoiV0DQy6FBQe4WRlGLUlLZsMa4QCx2SLBCsNmTFrZe7a6ND1NM4JhWtFYEhq4KFVGJTEiH3tpsCqxEHh9vqGcRU1qy-8qrt1harNG6OhGXVywOnRPW7mUfjywK2c80QGho02a/w581-h225/logo-ElevenSports.png",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a",
 					"embed": "true"
@@ -4979,41 +4987,160 @@
 
 				{ 
                 	 		"name": "Eleven Sports 6",
-					"info": "base-host",
+					"info": "base-host [50b6]",
                     			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpeobtW6p6QBsv4bqV8XFgnQKkRhFqU_C5hrXPLvySJHwxAhLoXujTIKuoiV0DQy6FBQe4WRlGLUlLZsMa4QCx2SLBCsNmTFrZe7a6ND1NM4JhWtFYEhq4KFVGJTEiH3tpsCqxEHh9vqGcRU1qy-8qrt1harNG6OhGXVywOnRPW7mUfjywK2c80QGho02a/w581-h225/logo-ElevenSports.png",
                     			"url" :  "acestream://50b6d2b5fd59fefb9f4fd2176994d418f2b94a80",
 					"isHost": "true"
 				}, { 
                 	 		"name": "Eleven Sports 6",
-					"info": "base-agent",
+					"info": "base-agent [50b6]",
                     			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpeobtW6p6QBsv4bqV8XFgnQKkRhFqU_C5hrXPLvySJHwxAhLoXujTIKuoiV0DQy6FBQe4WRlGLUlLZsMa4QCx2SLBCsNmTFrZe7a6ND1NM4JhWtFYEhq4KFVGJTEiH3tpsCqxEHh9vqGcRU1qy-8qrt1harNG6OhGXVywOnRPW7mUfjywK2c80QGho02a/w581-h225/logo-ElevenSports.png",
                     			"url" :  "acestream://50b6d2b5fd59fefb9f4fd2176994d418f2b94a80",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "Eleven Sports 6",
-					"info": "base-embed",
+					"info": "base-embed [50b6]",
                     			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpeobtW6p6QBsv4bqV8XFgnQKkRhFqU_C5hrXPLvySJHwxAhLoXujTIKuoiV0DQy6FBQe4WRlGLUlLZsMa4QCx2SLBCsNmTFrZe7a6ND1NM4JhWtFYEhq4KFVGJTEiH3tpsCqxEHh9vqGcRU1qy-8qrt1harNG6OhGXVywOnRPW7mUfjywK2c80QGho02a/w581-h225/logo-ElevenSports.png",
                     			"url" :  "acestream://50b6d2b5fd59fefb9f4fd2176994d418f2b94a80",
 					"embed": "true"
 				}, { 
                 	 		"name": "Eleven Sports 6",
-					"info": "get-host",
+					"info": "get-host [50b6]",
                     			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpeobtW6p6QBsv4bqV8XFgnQKkRhFqU_C5hrXPLvySJHwxAhLoXujTIKuoiV0DQy6FBQe4WRlGLUlLZsMa4QCx2SLBCsNmTFrZe7a6ND1NM4JhWtFYEhq4KFVGJTEiH3tpsCqxEHh9vqGcRU1qy-8qrt1harNG6OhGXVywOnRPW7mUfjywK2c80QGho02a/w581-h225/logo-ElevenSports.png",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80",
 					"isHost": "true"
 				}, { 
                 	 		"name": "Eleven Sports 6",
-					"info": "get-agent",
+					"info": "get-agent [50b6]",
                     			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpeobtW6p6QBsv4bqV8XFgnQKkRhFqU_C5hrXPLvySJHwxAhLoXujTIKuoiV0DQy6FBQe4WRlGLUlLZsMa4QCx2SLBCsNmTFrZe7a6ND1NM4JhWtFYEhq4KFVGJTEiH3tpsCqxEHh9vqGcRU1qy-8qrt1harNG6OhGXVywOnRPW7mUfjywK2c80QGho02a/w581-h225/logo-ElevenSports.png",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "Eleven Sports 6",
-					"info": "get-embed",
+					"info": "get-embed [50b6]",
                     			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpeobtW6p6QBsv4bqV8XFgnQKkRhFqU_C5hrXPLvySJHwxAhLoXujTIKuoiV0DQy6FBQe4WRlGLUlLZsMa4QCx2SLBCsNmTFrZe7a6ND1NM4JhWtFYEhq4KFVGJTEiH3tpsCqxEHh9vqGcRU1qy-8qrt1harNG6OhGXVywOnRPW7mUfjywK2c80QGho02a/w581-h225/logo-ElevenSports.png",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80",
+					"embed": "true"
+				},
+
+
+				{ 
+                	 		"name": "PPV1",
+					"info": "base-host [6994]",
+                    			"image": "https://d3ciwvs59ifrt8.cloudfront.net/4191fa14-acf4-4031-9625-1217a4fc5df3/67714905-abe5-44f9-97f5-0d3c5c981b6b_l.png",
+                    			"url" :  "acestream://6994af284ecab2996f9b140ef44b8da8bfee0006",
+					"isHost": "true"
+				}, { 
+                	 		"name": "PPV1",
+					"info": "base-agent [6994]",
+                    			"image": "https://d3ciwvs59ifrt8.cloudfront.net/4191fa14-acf4-4031-9625-1217a4fc5df3/67714905-abe5-44f9-97f5-0d3c5c981b6b_l.png",
+                    			"url" :  "acestream://6994af284ecab2996f9b140ef44b8da8bfee0006",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "PPV1",
+					"info": "base-embed [6994]",
+                    			"image": "https://d3ciwvs59ifrt8.cloudfront.net/4191fa14-acf4-4031-9625-1217a4fc5df3/67714905-abe5-44f9-97f5-0d3c5c981b6b_l.png",
+                    			"url" :  "acestream://6994af284ecab2996f9b140ef44b8da8bfee0006",
+					"embed": "true"
+				}, { 
+                	 		"name": "PPV1",
+					"info": "get-host [6994]",
+                    			"image": "https://d3ciwvs59ifrt8.cloudfront.net/4191fa14-acf4-4031-9625-1217a4fc5df3/67714905-abe5-44f9-97f5-0d3c5c981b6b_l.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=6994af284ecab2996f9b140ef44b8da8bfee0006",
+					"isHost": "true"
+				}, { 
+                	 		"name": "PPV1",
+					"info": "get-agent [6994]",
+                    			"image": "https://d3ciwvs59ifrt8.cloudfront.net/4191fa14-acf4-4031-9625-1217a4fc5df3/67714905-abe5-44f9-97f5-0d3c5c981b6b_l.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=6994af284ecab2996f9b140ef44b8da8bfee0006",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "PPV1",
+					"info": "get-embed [6994]",
+                    			"image": "https://d3ciwvs59ifrt8.cloudfront.net/4191fa14-acf4-4031-9625-1217a4fc5df3/67714905-abe5-44f9-97f5-0d3c5c981b6b_l.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=6994af284ecab2996f9b140ef44b8da8bfee0006",
+					"embed": "true"
+				},
+
+
+				{ 
+                	 		"name": "PPV2",
+					"info": "base-host [7cf4]",
+                    			"image": "https://d3ciwvs59ifrt8.cloudfront.net/4191fa14-acf4-4031-9625-1217a4fc5df3/67714905-abe5-44f9-97f5-0d3c5c981b6b_l.png",
+                    			"url" :  "acestream://7cf437be950f3525e735be57c63f7824cab822c9",
+					"isHost": "true"
+				}, { 
+                	 		"name": "PPV2",
+					"info": "base-agent [7cf4]",
+                    			"image": "https://d3ciwvs59ifrt8.cloudfront.net/4191fa14-acf4-4031-9625-1217a4fc5df3/67714905-abe5-44f9-97f5-0d3c5c981b6b_l.png",
+                    			"url" :  "acestream://7cf437be950f3525e735be57c63f7824cab822c9",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "PPV2",
+					"info": "base-embed [7cf4]",
+                    			"image": "https://d3ciwvs59ifrt8.cloudfront.net/4191fa14-acf4-4031-9625-1217a4fc5df3/67714905-abe5-44f9-97f5-0d3c5c981b6b_l.png",
+                    			"url" :  "acestream://7cf437be950f3525e735be57c63f7824cab822c9",
+					"embed": "true"
+				}, { 
+                	 		"name": "PPV2",
+					"info": "get-host [7cf4]",
+                    			"image": "https://d3ciwvs59ifrt8.cloudfront.net/4191fa14-acf4-4031-9625-1217a4fc5df3/67714905-abe5-44f9-97f5-0d3c5c981b6b_l.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=7cf437be950f3525e735be57c63f7824cab822c9",
+					"isHost": "true"
+				}, { 
+                	 		"name": "PPV2",
+					"info": "get-agent [7cf4]",
+                    			"image": "https://d3ciwvs59ifrt8.cloudfront.net/4191fa14-acf4-4031-9625-1217a4fc5df3/67714905-abe5-44f9-97f5-0d3c5c981b6b_l.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=7cf437be950f3525e735be57c63f7824cab822c9",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "PPV2",
+					"info": "get-embed [7cf4]",
+                    			"image": "https://d3ciwvs59ifrt8.cloudfront.net/4191fa14-acf4-4031-9625-1217a4fc5df3/67714905-abe5-44f9-97f5-0d3c5c981b6b_l.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=7cf437be950f3525e735be57c63f7824cab822c9",
+					"embed": "true"
+				},
+
+
+				{ 
+                	 		"name": "PPV3",
+					"info": "base-host [ad6f]",
+                    			"image": "https://d3ciwvs59ifrt8.cloudfront.net/4191fa14-acf4-4031-9625-1217a4fc5df3/67714905-abe5-44f9-97f5-0d3c5c981b6b_l.png",
+                    			"url" :  "acestream://ad6f4e8e329d6a97c7e7d7b0b8e5d04d8dd0bb48",
+					"isHost": "true"
+				}, { 
+                	 		"name": "PPV3",
+					"info": "base-agent [ad6f]",
+                    			"image": "https://d3ciwvs59ifrt8.cloudfront.net/4191fa14-acf4-4031-9625-1217a4fc5df3/67714905-abe5-44f9-97f5-0d3c5c981b6b_l.png",
+                    			"url" :  "acestream://ad6f4e8e329d6a97c7e7d7b0b8e5d04d8dd0bb48",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "PPV3",
+					"info": "base-embed [ad6f]",
+                    			"image": "https://d3ciwvs59ifrt8.cloudfront.net/4191fa14-acf4-4031-9625-1217a4fc5df3/67714905-abe5-44f9-97f5-0d3c5c981b6b_l.png",
+                    			"url" :  "acestream://ad6f4e8e329d6a97c7e7d7b0b8e5d04d8dd0bb48",
+					"embed": "true"
+				}, { 
+                	 		"name": "PPV3",
+					"info": "get-host [ad6f]",
+                    			"image": "https://d3ciwvs59ifrt8.cloudfront.net/4191fa14-acf4-4031-9625-1217a4fc5df3/67714905-abe5-44f9-97f5-0d3c5c981b6b_l.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=ad6f4e8e329d6a97c7e7d7b0b8e5d04d8dd0bb48",
+					"isHost": "true"
+				}, { 
+                	 		"name": "PPV3",
+					"info": "get-agent [ad6f]",
+                    			"image": "https://d3ciwvs59ifrt8.cloudfront.net/4191fa14-acf4-4031-9625-1217a4fc5df3/67714905-abe5-44f9-97f5-0d3c5c981b6b_l.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=ad6f4e8e329d6a97c7e7d7b0b8e5d04d8dd0bb48",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "PPV3",
+					"info": "get-embed [ad6f]",
+                    			"image": "https://d3ciwvs59ifrt8.cloudfront.net/4191fa14-acf4-4031-9625-1217a4fc5df3/67714905-abe5-44f9-97f5-0d3c5c981b6b_l.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=ad6f4e8e329d6a97c7e7d7b0b8e5d04d8dd0bb48",
 					"embed": "true"
 				}
+
+
 							]
 						}
 				]
