@@ -24,9 +24,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 10/01/2025",
+             "name": "Ultm. versión 12/01/2025",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 10/01/2025",
+            "info": "última versión actualizada el 12/01/2025",
             "stations": []
 	}, 
 	
@@ -6262,7 +6262,8 @@
 				"name": "Canal 9",
 			   	"info": "php",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				"url" :  "https://quest4play.xyz/premiumtv/daddylivehd.php?id=84",
+				"url" :  "https://quickcast.click/steam.php?stream=YJ8krnYwZrR",
+				"referer" : "https://intac.pro/",
 				"isHost" : "true"
 					  }, {
 						   	"name": "Canal 10",
@@ -6272,7 +6273,7 @@
 							"userAgent" : ""
 					}, {
 							"name": "Canal 11",
-							"info": "coalcannon",
+							"info": "xdb4w",
 							"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
 							"url": "https://forgepattern.net/embed/l57xdb4wvi930cf",
 							"referer" : "https://buzztv.futbol/",
@@ -6281,8 +6282,9 @@
 							"name": "Canal 12",
 							"info": "flbl1",
 							"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-							"url" : "http://flbl1.112421.net:8082/323626/mpegts?token=53A52B5776EAB1ED223024E4C3ACF642",
-			 				"userAgent":"PlusMediaPlayer/0.0.9"
+							"url" : "https://generalpilli.net/embed/fgvd9mt1",
+			 				"referer" : "https://bedsport.live/",
+							"ishost": "true"
 						}, {
 							"name": "Canal 13",
 							"info": "misshit",
@@ -6304,12 +6306,13 @@
 							"url" : "https://catercollege.net/embed/t7w70x7v57",
 							 "referer": "https://tarjetarojaenvivo.lat/",
 							 "isHost": "true" 
-						},{
-								 "name": "Canal 16",
-							"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-						"url": "https://streamtp2.com/global1.php?stream=movistarlaliga",
-							"isHost" : "true"
-								   },{
+						}, {
+							 	"name": "Canal 16",
+								"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
+								"url": "https://embx230391.apl373.me//player/live.php?id=230391&w=100%&h=100%",
+								"referer" : "https://intac.pro/",
+								"isHost" : "true"
+						   }, {
 								 "name": "Canal 17",
 							"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
 						 "url": "https://streamingon.org/embed/hd-2.php",
@@ -6758,8 +6761,8 @@
 				   }, {
 					"name": "Canal 7",
 					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
-					"url" : "https://forgepattern.net/embed/vuiel9gd34kos6", 
-                         		"referer" : "https://tarjetarojaenvivo.lat/",
+					"url" : "https://generalpilli.net/embed/l2tnht", 
+                         		"referer" : "https://bedsport.live/",
            				"isHost" : "true"
 				}, {
 					"name": "Canal 8",
@@ -8446,125 +8449,125 @@
 									"name":"Canal 18",
 									"info":"-----------",
 								 	"image":"https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-								  	"url": "https://ilovetoplay.xyz/wiki.php?id=ten1",
+								  	"url": "https://freshwaterdell.com/wiki.php?player=desktop&live=ten1",
            								"referer" : "https://wikisport.click/",
                 							"isHost": "true"
 								}, {
 									"name":"Canal 19",
 								 	"image":"https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-								  	"url": "https://ilovetoplay.xyz/wiki.php?id=ten2",
+								  	"url": "https://freshwaterdell.com/wiki.php?player=desktop&live=ten2",
             								"referer" : "https://wikisport.click/",
 									"isHost":"true"
 								}, {
 									"name":"Canal 20",
 								 	"image":"https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-								  	"url": "https://ilovetoplay.xyz/wiki.php?id=ten3",
+								  	"url": "https://freshwaterdell.com/wiki.php?player=desktop&live=ten3",
             								"referer" : "https://wikisport.click/",
 									"isHost":"true"
 								}, {
 									"name":"Canal 21",
 								 	"image":"https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-								  	"url": "https://ilovetoplay.xyz/wiki.php?id=ten4",
+								  	"url": "https://freshwaterdell.com/wiki.php?player=desktop&live=ten4",
 									"referer" : "https://wikisport.click/",
 									"isHost":"true"
 								}, {
 									"name":"Canal 22",
 									"info": "",
 								 	"image":"https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-								  	"url": "https://ilovetoplay.xyz/wiki.php?id=ten5",
+								  	"url": "https://freshwaterdell.com/wiki.php?player=desktop&live=ten5",
             								"referer" : "https://wikisport.click/",
 									"isHost": "true"
 								}, {
 									"name":"Canal 23",
 									"info": "",
 								 	"image":"https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-								  	"url": "https://ilovetoplay.xyz/wiki.php?id=ten6",
+								  	"url": "https://freshwaterdell.com/wiki.php?player=desktop&live=ten6",
             								"referer" : "https://wikisport.click/",
                  							"isHost": "true"
 								}, {
 									"name":"Canal 24",
 									"info": "",
 								 	"image":"https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-								  	"url": "https://ilovetoplay.xyz/wiki.php?id=ten7",
+								  	"url": "https://freshwaterdell.com/wiki.php?player=desktop&live=ten7",
 									"referer" : "https://wikisport.click/",
                  							"isHost": "true"
 								}, {
 									"name":"Canal 25",
 								 	"image":"https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-								  	"url": "https://ilovetoplay.xyz/wiki.php?id=ten8",
+								  	"url": "https://freshwaterdell.com/wiki.php?player=desktop&live=ten8",
             								"referer" : "https://wikisport.click/",
 									"isHost": "true"
 								}, {
 									"name":"Canal 26",
 								 	"image":"https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-								  	"url": "https://ilovetoplay.xyz/wiki.php?id=ten9",
+								  	"url": "https://freshwaterdell.com/wiki.php?player=desktop&live=ten9",
             								"referer" : "https://wikisport.click/",
                  							"isHost": "true"
 								}, {
 									"name":"Canal 27",
 								 	"image":"https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-								  	"url": "https://ilovetoplay.xyz/wiki.php?id=ten10",
+								  	"url": "https://freshwaterdell.com/wiki.php?player=desktop&live=ten10",
             								"referer" : "https://wikisport.click/",
 									"isHost": "true"
 								}, {
 									"name":"Canal 28",
 								 	"image":"https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-								  	"url": "https://ilovetoplay.xyz/wiki.php?id=ten11",
+								  	"url": "https://freshwaterdell.com/wiki.php?player=desktop&live=ten11",
             								"referer" : "https://wikisport.click/",
 									"isHost": "true"
 								}, {
 									"name":"Canal 29",
 								 	"image":"https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-								  	"url": "https://ilovetoplay.xyz/wiki.php?id=ten12",
+								  	"url": "https://freshwaterdell.com/wiki.php?player=desktop&live=ten12",
             								"referer" : "https://wikisport.click/",
 									"isHost": "true"
 								}, {
 									"name":"Canal 30",
 								 	"image":"https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-								  	"url": "https://ilovetoplay.xyz/wiki.php?id=ten13",
+								  	"url": "https://freshwaterdell.com/wiki.php?player=desktop&live=ten13",
             								"referer" : "https://wikisport.click/",
 									"isHost": "true"
 								}, {
 									"name":"Canal 31",
 								 	"image":"https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-								  	"url": "https://ilovetoplay.xyz/wiki.php?id=ten14",
+								  	"url": "https://freshwaterdell.com/wiki.php?player=desktop&live=ten14",
             								"referer" : "https://wikisport.click/",
 									"isHost": "true"
 								}, {
 									"name":"Canal 32",
 								 	"image":"https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-								  	"url": "https://ilovetoplay.xyz/wiki.php?id=ten15",
+								  	"url": "https://freshwaterdell.com/wiki.php?player=desktop&live=ten15",
             								"referer" : "https://wikisport.click/",
 									"isHost": "true"
 								}, {
 									"name":"Canal 33",
 								 	"image":"https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-								  	"url": "https://ilovetoplay.xyz/wiki.php?id=ten16",
+								  	"url": "https://freshwaterdell.com/wiki.php?player=desktop&live=ten16",
             								"referer" : "https://wikisport.click/",
 									"isHost": "true"
 								}, {
 									"name":"Canal 34",
 								 	"image":"https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-								  	"url": "https://ilovetoplay.xyz/wiki.php?id=ten17",
+								  	"url": "https://freshwaterdell.com/wiki.php?player=desktop&live=ten17",
             								"referer" : "https://wikisport.click/",
 									"isHost": "true"
 								}, {
 									"name":"Canal 35",
 								 	"image":"https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-								  	"url": "https://ilovetoplay.xyz/wiki.php?id=ten18",
+								  	"url": "https://freshwaterdell.com/wiki.php?player=desktop&live=ten18",
             								"referer" : "https://wikisport.click/",
 									"isHost": "true"
 								}, {
 									"name":"Canal 36",
 								 	"image":"https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-								  	"url": "https://ilovetoplay.xyz/wiki.php?id=ten19",
+								  	"url": "https://freshwaterdell.com/wiki.php?player=desktop&live=ten19",
             								"referer" : "https://wikisport.click/",
 									"isHost": "true"
 								}, {
 									"name":"Canal 37",
 									"info":"-----------",
 								 	"image":"https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-								  	"url": "https://ilovetoplay.xyz/wiki.php?id=ten20",
+								  	"url": "https://freshwaterdell.com/wiki.php?player=desktop&live=ten20",
             								"referer" : "https://wikisport.click/",
 									"isHost": "true"
 								}]
@@ -10213,8 +10216,28 @@
 							"name": "Canal 5",
 							"info": "",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-							"url": "https://flstv.online//embed/soccer6.php",
+							"url": "https://forgepattern.net/embed/k13h15p8ue",
+							"referer" : "https://buzztv.futbol/",
                             				"isHost":"true"
+						}, {
+							"name": "Canal 6",
+							"info": "",
+							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
+							"url": "https://embx230391.apl373.me//player/live.php?id=230391&w=100%&h=100%",
+							"referer" : "https://intac.pro/",
+                            				"isHost":"true"
+						}, {
+							"name": "Canal 7",
+							"info": "m3u8",
+							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
+							"url": "https://hastycast.live/hls/0bcFtdYyG5Qe.m3u8?st=L9qg4r3I6q-A9JajANyb284DcNJDDHS_Gb9sWAlNqDg&e=1736704533",
+                            				"userAgent" : "true"
+						}, {
+							"name": "Canal 8",
+							"info": "m3u8",
+							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
+							"url": "https://yhjkrf.site/chunklist/hlsch4.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMS8yMDI1IDYgOjI0IDo1OSAgUE0maGFzaF92YWx1ZT1KRllhbVkydlBTK2llWDJMSlBPa1Z3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD01MS4xNTkuMjIwLjE0MyZzdHJtX2xlbj01",
+                            				"userAgent" : "true"
 						}
 					]
 					}, {
