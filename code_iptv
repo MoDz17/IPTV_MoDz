@@ -24,9 +24,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 12/01/2025",
+             "name": "Ultm. versión 30/01/2025",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 12/01/2025",
+            "info": "última versión actualizada el 30/01/2025",
             "stations": []
 	}, 
 	
@@ -5149,9 +5149,9 @@
 			"isHost":"true"
 		 }, {
 				"name": "Canal 3",
-				"info": "1y3ro",
+				"info": "ofdz1",
 				"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhC_ZrjTAL_zi61ZUD-aRw18x_XEiKBS-sH5X1EihR_oZ43LsvApOPfWnvjAXfkxh2h_i8W7RNDfU4t42vQskD-fBjP25sBpJKo1fLEAkT4hliVrOVA3HQewEBFLGb3ntMTj2KTu63u4yzFBJUj92xyBfh9Ka9vQPMsZJaAtrJfWS8Nzr34pf9QtJj7CyY/w589-h212/logo_vamos.png",
-			   	"url": "https://generalpilli.net/embed/1y3rog39gf48pz",
+			   	"url": "https://generalpilli.net/embed/ofdz1",
 				"referer" : "https://bedsport.live/",
             			"isHost": "true"
 				}, {
@@ -5688,10 +5688,10 @@
 			   	"userAgent" : ""
 			 }, {
 				"name": "Canal 6",
-				"info": "php",
+				"info": "m3u8",
 				"image": "https://i.ibb.co/sVPN8q6/logo-golf.png",
-				"url" : "https://rockhd.lol/live/stream-528.php",
-			 	"isHost":"true"
+				"url" : "https://love2live.wideiptv.top/MOVISTARGOLFES/index.fmp4.m3u8?token=6bc04a598d050fc6ec0cd69e70b3e1ce4e92d1fe-b6d813034562f1431208f88e6fef9d67-1736802781-1736791981",
+			 	"userAgent":""
 		       }, {
         			"name": "Canal 7*",
         			"info":"",
@@ -5782,9 +5782,9 @@
 	 "isHost": "true"  
  }, {
 	"name": "Canal 12",
-	"info": "xdpq3",
+	"info": "h1gn2",
 	"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-	"url" : "https://generalpilli.net/embed/xdpq3ptcuts1qpp",
+	"url" : "https://generalpilli.net/embed/h1gn2",
 	 "referer": "https://bedsport.live/",
 	 "isHost": "true"  
  }, {
@@ -5846,13 +5846,14 @@
 			}, {
 				"name": "Canal 22",
 				"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-				"url" : "https://emb.apl252.me/player/live.php?id=212510&w=100%&h=100%",
+				"url" : "https://generalpilli.net/embed/fgvd9mt1",
+				"referer" : "https://bedsport.live/",
 	 			"isHost": "true"  
  			}, {
 				"name": "Canal 23",
-				"info": "gnpll | fgvd9",
+				"info": "gnpll | o20t6",
 				"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-				"url": "https://generalpilli.net/embed/fgvd9mt1",
+				"url": "https://generalpilli.net/embed/o20t6ui616mw1",
                          	"referer" : "https://bedsport.live/",
 	 			"isHost": "true"  
  			}, { 
@@ -5941,9 +5942,9 @@
 				"userAgent" : ""
 		}, { 
 			"name": "Canal 1",
-			"info": "php",
+			"info": "ae29j",
 		   	"image": "https://i.ibb.co/p1Ry56w/DAZN-3-Logo-Sin-Fondo.png",
-		 	"url": "https://generalpilli.net/embed/swdrsibexfxe5wj?skin=1",
+		 	"url": "https://generalpilli.net/embed/ae29jk4n",
 			"referer" : "https://bedsport.live/",
 			"isHost": "true"   
 	   }, { 
@@ -6330,10 +6331,10 @@
 				"isHost" : "true" 
 					 }, {
 				"name": "Canal 20",
-				"info": "xtratime",
+				"info": "2fowd",
 		   		"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-			   	"url" :  "https://one.xtratime.top/hembedplayer/fgyu5gfgdfg/4/500/400", 
-                       		"referer" : "https://one.xtratime.top/fgyu5gfgdfg",
+			   	"url" :  "https://forgepattern.net/embed/2fowdz6t2zl", 
+                       		"referer" : "https://elixx.soccer/",
 			 	"isHost":"true"
 			 }, {
 				"name": "Canal 21",
@@ -6528,14 +6529,14 @@
                      	}, { 
                  		"name": "Canal 51",
                     		"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-                      		"url": "https://walkcast2.com/wiki.php?player=desktop&live=ten9",
-            			"referer" : "https://wikisport.click/",
+                      		"url": "https://generalpilli.net/embed/fgvd9mt1",
+            			"referer" : "https://bedsport.live/",
                  		"isHost": "true"
                      	}, { 
                  		"name": "Canal 52",
                     		"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
                       		"url": "https://walkcast2.com/wiki.php?player=desktop&live=ten10",
-            			"referer" : "https://wikisport.click/",
+            			"referer" : "https://bedsport.live/",
                  		"isHost": "true"
 			}, { 
                  		"name": "Canal 53",
@@ -6780,8 +6781,8 @@
 				}, {
 					"name": "Canal 10",
 					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
-					"url": "https://wwwstream.pro/embed/UqoaakeCQE1a",
-               				"referer" : "https://kingstreamz.lol/",
+					"url": "https://generalpilli.net/embed/uu8c1",
+               				"referer" : "https://bedsport.live/",
            				"isHost" : "true"
 				}, {
 					"name": "Canal 11",
@@ -9136,13 +9137,13 @@
                     	"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFoCgAwvY3pqWo-gTfR1ztkB9Qdf8KTJOQ0J32bfi1s3i3-Fc_oyZOnJVbCOW4Dw7qJ2Es5Y15C3Nksg777ccGUeUf2we7Wi0v-NZrq3gWo-wivlXy6Vk8TCDxy1EhFfHRF_PWoZUDBECPnjcXkYz75-ER0uTsTNT3og97FtqTajlZQDlAyLF7pDvq4S6U/w545-h327/logo-ESPN.png",
                 	"url": "https://streamtp2.com/global1.php?stream=espn1",
 			"isHost":"true"
-                    },{
-                    "name": "ESPN",
-			"info": "php - index",
-                    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFoCgAwvY3pqWo-gTfR1ztkB9Qdf8KTJOQ0J32bfi1s3i3-Fc_oyZOnJVbCOW4Dw7qJ2Es5Y15C3Nksg777ccGUeUf2we7Wi0v-NZrq3gWo-wivlXy6Vk8TCDxy1EhFfHRF_PWoZUDBECPnjcXkYz75-ER0uTsTNT3og97FtqTajlZQDlAyLF7pDvq4S6U/w545-h327/logo-ESPN.png",
-		    "url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=149",
-              		"referer" : "https://dlhd.sx/",
-			 "isHost":"true"
+	    	},{
+                    	"name": "ESPN",
+			"info": "",
+                    	"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFoCgAwvY3pqWo-gTfR1ztkB9Qdf8KTJOQ0J32bfi1s3i3-Fc_oyZOnJVbCOW4Dw7qJ2Es5Y15C3Nksg777ccGUeUf2we7Wi0v-NZrq3gWo-wivlXy6Vk8TCDxy1EhFfHRF_PWoZUDBECPnjcXkYz75-ER0uTsTNT3og97FtqTajlZQDlAyLF7pDvq4S6U/w545-h327/logo-ESPN.png",
+		    	"url" : "https://catercollege.net/embed/aiif5sr0kjzo8qe",
+              		"referer" : "https://tarjetarojaenvivo.lat/",
+			"isHost":"true"
                   },{
                     	"name": "ESPN2",
 			"info": "php - index",
@@ -10256,7 +10257,7 @@
 							"name": "Canal 2",
 							"info": "",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-							"url": "https://catercollege.net/embed/g36z95h655",
+							"url": "https://catercollege.net/embed/zzf3ovfa",
                             				"referer" : "https://tarjetarojaenvivo.lat/",
 							"isHost":"true"
 						}, {
@@ -10291,15 +10292,15 @@
 							"name": "Canal 7",
 							"info": "",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-							"url": "https://generalpilli.net/embed/av8q3fwxcb",
+							"url": "https://generalpilli.net/embed/gjx2kbtjdlnx",
                             				"referer" : "https://bedsport.live/",
 							"isHost":"true"
 						}, {
 							"name": "Canal 8",
 							"info": "",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-							"url": "https://catercollege.net/embed/g36z95h655",
-                            				"referer" : "https://tarjetarojaenvivo.lat/",
+							"url": "https://generalpilli.net/embed/l2tnht",
+                            				"referer" : "https://bedsport.live/",
 							"isHost":"true"
 						}, {
 							"name": "Canal 9",
