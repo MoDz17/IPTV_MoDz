@@ -1,13 +1,13 @@
 {
     "name": "IPT - ADICTOS",
     "author": "MoDz",
-    "image": "https://i.ibb.co/jRKnqsC/Pic-Profile-SV.png",
+    "image": "https://i.ibb.co/PGL5P2Z/Main-pic-Logo-and-Banner.jpg",
     "info": "IPTV oficial de FUTBOL-ADICTOS",
     "telegram": "+Txo_BnIiSddiMTk0",
     "url": "https://raw.githubusercontent.com/MoDz17/IPTV_MoDz/main/code_iptv",
     "groups": [{
              "name": "FUTBOL - ADICTOS",
-            "image": "https://i.ibb.co/jRKnqsC/Pic-Profile-SV.png",
+            "image": "https://i.ibb.co/PGL5P2Z/Main-pic-Logo-and-Banner.jpg",
             "info": "",
             "stations": [
 	    	{
@@ -24,9 +24,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 18.2/02/2025",
+             "name": "Ultm. versión 02/03/2025",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 18.2/02/2025",
+            "info": "última versión actualizada el 02/03/2025",
             "stations": []
 	}, 
 	
@@ -5905,10 +5905,10 @@
 			 "isHost": "true"
 		  }, {
 			"name": "Canal 8",
-			"info": "misshit",
+			"info": "re856",
 			"image": "https://i.ibb.co/vhNCnrq/DAZN-2-Logo-Sin-Fondo.webp",
-			"url" : "https://new.misshit.top/hembedplayer/gdthj8jmhgya/4/500/400",
-                    	"referer" : "https://watch.ballout.xyz/",
+			"url" : "https://generalpilli.net/embed/re856noa",
+                    	"referer" : "https://bedsport.live/",
 			"isHost": "true"
 			}, {
 			"name": "Canal 9",
@@ -6032,16 +6032,16 @@
 			   "isHost":"true" 
 		  }, { 
 			"name": "Canal 2",
-			"info": "php",
+			"info": "wnm78",
 		   	"image": "https://i.ibb.co/LQy2rM6/DAZN-4-Logo-Sin-Fondo.png",
-		 	"url": "https://generalpilli.net/embed/gjx2kbtjdlnx",
+		 	"url": "https://generalpilli.net/embed/wnm78ydq",
 			"referer" : "https://bedsport.live/",
 			"isHost": "true"  
 		 }, { 
 			"name": "Canal 3",
-			"info": "php",
+			"info": "swdrsi",
 			   "image": "https://i.ibb.co/LQy2rM6/DAZN-4-Logo-Sin-Fondo.png",
-			  "url": "https://generalpilli.net/embed/gjx2kbtjdlnx",
+			  "url": "https://generalpilli.net/embed/swdrsibexfxe5wj?skin=1",
 				"referer" : "https://bedsport.live/",
 		"isHost": "true"
 				},{ 
@@ -6276,23 +6276,23 @@
 							"userAgent" : ""
 					}, {
 							"name": "Canal 11",
-							"info": "xdb4w",
+							"info": "",
 							"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-							"url": "https://forgepattern.net/embed/l57xdb4wvi930cf",
+							"url": "https://d5xwl0k3i5pe0.dynamicglance.net/embed/x2qidlx7",
 							"referer" : "https://buzztv.futbol/",
              						"isHost": "true"
 							 }, {
 							"name": "Canal 12",
-							"info": "flbl1",
+							"info": "j74w7",
 							"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-							"url" : "https://generalpilli.net/embed/fgvd9mt1",
-			 				"referer" : "https://bedsport.live/",
+							"url" : "https://j74w755vt3qy8g.dynamicglance.net/embed/x2qidlx7",
+			 				"referer" : "https://buzztv.futbol/",
 							"ishost": "true"
 						}, {
 							"name": "Canal 13",
 							"info": "x2qid",
 							"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-						   	"url" :  "https://p2wxlv43iy2044.dynamicglance.net/embed/x2qidlx7",
+						   	"url" :  "https://jointexploit.net/embed/x2qidlx7",
 						   	"referer" : "https://buzztv.futbol/",
 							"isHost": "true"
 						  }, {
@@ -6311,8 +6311,9 @@
 							 "isHost": "true" 
 						}, {
 							 	"name": "Canal 16",
+								"info": "m3u8",
 								"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-								"url": "https://hastycast.best/hls/377qj1h890g40.m3u8",
+								"url": "https://hastycast.pro/hls/377qj1h2727.m3u8",
 								"userAgent" : ""
 						   }, {
 						 	"name": "Canal 17",
@@ -8605,8 +8606,7 @@
 						 	"name": "Canal 4",
 					 		"info": "",
 							"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5aMBynBScnyrCyvkwHvsGGqLtYCdyI1PEE8X6iN2IS9D2MELHKOrJpuR5tnEQdF0PWwz1JlJEQ7Ivn4kEXkp1lckGGLhevfwtbkvG-pEvFRLWGaVsz3vBZBROkJBj8c8tP2y21P3qIZuV0wFifBZhfBy0O4X2j4zbIJdQNzLhTa9UqlA7NyKanlXe-fg-/w645-h432/BoxeoMiniatura.PNG",
-						   	"url": "https://flstv.online//embed/boxing3.php",
-							"referer" : "https://flstv.online/",
+						   	"url": "https://flstv.online//embed/boxing1.php",
 						 	"isHost":"true"
 						},{ 
 							 	"name": "Canal 5",
@@ -8630,7 +8630,7 @@
 						 	"name": "Canal 8",
 							"info": "php",
 							"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5aMBynBScnyrCyvkwHvsGGqLtYCdyI1PEE8X6iN2IS9D2MELHKOrJpuR5tnEQdF0PWwz1JlJEQ7Ivn4kEXkp1lckGGLhevfwtbkvG-pEvFRLWGaVsz3vBZBROkJBj8c8tP2y21P3qIZuV0wFifBZhfBy0O4X2j4zbIJdQNzLhTa9UqlA7NyKanlXe-fg-/w645-h432/BoxeoMiniatura.PNG",
-						   	"url" :  "https://generalpilli.net/embed/taj6r",
+						   	"url" :  "https://generalpilli.net/embed/7kp1xyg",
 							"referer" : "https://bedsport.live/",
 			 				"isHost":"true"  
 					}, { 
@@ -9350,11 +9350,10 @@
 			"isHost":"true"
 	  	}, {
               		"name": "Sky Sports Darts",
-			"info": "php - index",
+			"info": "m3u8",
 			"image": "https://mir-s3-cdn-cf.behance.net/project_modules/fs/390c6d61066503.5a70fb4ebedee.jpg",
-			"url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=589",
-              		"referer" : "https://dlhd.sx/",
-			"isHost": "true"
+			"url" : "https://fs.resilientchan.top/pdctv-37931-2025-bet-mgm-premier-league-night-three---spanish/tracks-v1a1/mono.js.m3u8",
+              		"userAgent":""
 		 }, {
               		"name": "Sky Sport Arena",
 			"info": "php - index",
@@ -9794,9 +9793,9 @@
 							   "userAgent" : ""
 					}, {
 							   "name": "Canal 7",
-							   "info": "ip | 50",
+							   "info": "moonlight",
 							   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WrLEUL5KARQ5KrZe_LMVBkqvD2-cx2zAEfMbKD2mhXX-B2bzYyT2c8iCrUBHqNGkwwRhRUsTuxuieiuHgTZusfQD064g98dqTb8uQb1wDdesbNkd4q-J2zUHiMAUzPIS_g8iJ7b7dAeeZRev-kaP9A_UpwL5WOJo_R2hnNesAmyNKvzzFM2nwKvITC1W/w625-h103/logo-MundoToro.png",
-							   "url": "https://moonlight.wideiptv.top/OneToro/index.fmp4.m3u8?token=33d04bc11bd59362dd54bfccb34528f82f62536b-705895240a4e89fcbcfd110f1bd066ab-1739632170-1739621370",
+							   "url": "https://moonlight.wideiptv.top/OneToro/index.fmp4.m3u8?token=799c609d280e58cce248d9082be77f8e49bb6a46-43d5bf657c78beafa4de63420bb6df53-1739913807-1739903007",
                         				   "userAgent": ""
 					}, {
 							   "name": "Canal 8",
