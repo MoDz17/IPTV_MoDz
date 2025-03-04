@@ -24,9 +24,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 03/03/2025",
+             "name": "Ultm. versión 04/03/2025",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 03/03/2025",
+            "info": "última versión actualizada el 04/03/2025",
             "stations": []
 	}, 
 	
@@ -10101,7 +10101,7 @@
                                     "name": "Canal 14",
                                     "info": "",
                                     "image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-                                    "url": "ttps://generalpilli.net/embed/wnm78ydq",
+                                    "url": "https://generalpilli.net/embed/wnm78ydq",
                                     "referer" : "https://bedsport.live/",
                                     "isHost":"true"
                             
@@ -10202,6 +10202,15 @@
                                     "image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
                                     "url": "https://generalpilli.net/embed/vq9vkhj3o",
                                     "referer" : "https://bedsport.live/",
+                                    "isHost":"true"
+                            
+                                }, {
+
+                                    "name": "Canal 26",
+                                    "info": "",
+                                    "image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
+                                    "url": "https://jointexploit.net/embed/x2qidlx7",
+                                    "referer" : "https://buzztv.futbol/",
                                     "isHost":"true"
                             
                                 }
