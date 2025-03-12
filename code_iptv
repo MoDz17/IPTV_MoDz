@@ -24,9 +24,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 04/03/2025",
+             "name": "Ultm. versión 12/03/2025",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 04/03/2025",
+            "info": "última versión actualizada el 12/03/2025",
             "stations": []
 	}, 
 	
@@ -5239,11 +5239,10 @@
         				"isHost":""
         		}, {
 				"name": "Canal 1",
-				"info": "php - index",
+				"info": "m3u8",
 				"image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png", 
-		 		"url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=435",
-              			"referer" : "https://dlhd.sx/",
-			 	"isHost":"true"
+		 		"url" : "https://wo.cma.footballii.ir/hls2/broken1_src.m3u8",
+              			"userAgent":""
 			 }, {
 				"name": "Canal 2",
 				"info": "csdj-plo0t | tjtr",
@@ -5253,10 +5252,10 @@
 				"isHost": "true"
 			}, {
 				"name": "Canal 3",
-				"info": "php - index",
+				"info": "php",
 				"image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
-				"url" : "https://weblivehdplay.ru/premiumtv/daddyhd.php?id=150",
-              			"referer" : "https://dlhd.sx/",
+				"url" : "https://web.alldown.xyz/hembedplayer/hbdsfgdsfgdsf5/4/500/400",
+              			"referer" : "https://new.alldown.xyz/",
 				"isHost":"true"
 			 }, {
 				"name": "Canal 4*",
@@ -5764,7 +5763,7 @@
 	"name": "Canal 9",
 	"info": "php",
 	"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-	"url" : "https://streamtp2.com/global1.php?stream=dazn1",
+	"url" : "https://streamdz4.lat/player/embed.php?channel=dazn1",
 	"isHost": "true"
  }, {
 	"name": "Canal 10",
@@ -5880,8 +5879,7 @@
 		  },{ 
 				"name": "Canal 4",
 			   	"image": "https://i.ibb.co/vhNCnrq/DAZN-2-Logo-Sin-Fondo.webp",
-			  	"url" : "https://viwlivehdplay.ru/mono.php?id=9",
-                  		"referer" : "https://bedsport.live/",
+			  	"url" : "https://streamdz4.lat/player/embed.php?channel=dazn2",
 				"isHost": "true"
 	   	},{ 
 				"name": "Canal 5",
@@ -5977,9 +5975,9 @@
 				"isHost": "true"  
 				   }, {
 			   "name": "Canal 6",
-			   "info": "swpb - 8vj7a",
+			   "info": "brss - 8vj7a",
 			   "image": "https://i.ibb.co/p1Ry56w/DAZN-3-Logo-Sin-Fondo.png",
-			   "url" : "https://swipebreed.net/embed/8vj7aj9",
+			   "url" : "https://browncrossing.net/embed/8vj7aj9",
               		   "referer" : "https://primefoot.ru/",
 			   "isHost":"true"
 			  }, {
@@ -5998,8 +5996,8 @@
 				  }, {
 				"name": "Canal 9",
 	   			"image": "https://i.ibb.co/p1Ry56w/DAZN-3-Logo-Sin-Fondo.png",
-	   			"url":"http://51.178.36.235:49214/DAZN_3/hls/playlist.m3u8",
-	   			"userAgent" : ""
+	   			"url":"https://streamdz4.lat/player/embed.php?channel=dazn3",
+	   			"isHost": "true"
 	 			}, {
 				"name": "Canal 10",
 				"info": "swpb - xvofy",
@@ -6026,10 +6024,9 @@
 				   "userAgent" : ""
 			}, { 
 				"name": "Canal 1",
-				"info": "swpb-xy2i| tjtr",
+				"info": "",
 			   "image": "https://i.ibb.co/LQy2rM6/DAZN-4-Logo-Sin-Fondo.png",
-			   "url" :  "https://swipebreed.net/embed/xy2i0bo",
-		"referer" : "https://tarjetarojaenvivo.lat/",
+			   "url" :  "https://streamdz4.lat/player/embed.php?channel=dazn4",
 			   "isHost":"true" 
 		  }, { 
 			"name": "Canal 2",
@@ -6279,8 +6276,7 @@
 							"name": "Canal 11",
 							"info": "",
 							"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-							"url": "https://d5xwl0k3i5pe0.dynamicglance.net/embed/x2qidlx7",
-							"referer" : "https://buzztv.futbol/",
+							"url": "https://streamdz4.lat/player/embed.php?channel=skymx",
              						"isHost": "true"
 							 }, {
 							"name": "Canal 12",
@@ -6711,7 +6707,7 @@
 		 	}, {
 				"name": "Canal 80",
 				"image": "https://i.ibb.co/VQpLvTb/logo-channels-ESPN.jpg",
-				"url": "https://streamingon.org/embed/hd-3.php",
+				"url": "https://streamdz4.lat/player/embed.php?channel=espndeportes",
 				"isHost": "true"
 		  	}]
 		}, {
@@ -6794,7 +6790,7 @@
 				}, {
 					"name": "Canal 12",
 					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
-					"url" : "https://streamtp3.com/global1.php?stream=laligahypermotion",
+					"url" : "https://streamdz4.lat/player/embed.php?channel=hypermotion",
            				"isHost" : "true"
 				}, {
 					"name": "Canal 13",
@@ -6838,8 +6834,7 @@
 				}, {
 					"name": "Canal 19",
 					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
-					"url" : "https://voraciousglove.net/embed/brxaybp",
-			 		"referer": "https://tarjetarojaenvivo.lat/",
+					"url" : "https://streamdz4.lat/player/embed.php?channel=hypermotion2",
            				"isHost" : "true"
 				}, {
 					"name": "Canal 20",
@@ -7898,10 +7893,10 @@
 			 					"isHost":"true"
 							   }, {
 								"name": "Canal 2",
-								"info": "php",
+								"info": "user-ag",
 							  	"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-								"url" :  "https://abbasport.site/daznf1.php",
-			 					"isHost":"true"
+								"url" :  "https://7pal.short.gy:443/ssportsf1",
+			 					"userAgent": "" 
 							   }, {
 								"name": "Canal 3",
 							  	"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
@@ -7911,14 +7906,13 @@
 							   }, {
 								"name": "F1 Android/iOS",
 							  	"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-								"url": "https://cast2record.com/embed2.php?player=desktop&live=do10",
-               							"referer" : "https://em.bedsport.live/",
+								"url": "https://streamdz4.lat/player/embed.php?channel=daznf1",
 								"isHost":"true"
 							   }, {
 								"name": "Canal 1",
 								"info": "generalpilli",
 	   							"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-	   							"url" : "https://generalpilli.net/embed/wnm78ydq",
+	   							"url" : "https://generalpilli.net/embed/3d44n21uf8pkocd",
               							"referer" : "https://bedsport.live/",
 			 					"isHost":"true" 
 	 						}, {
@@ -9136,7 +9130,7 @@
                 }, {
                     	"name": "ESPN",
                     	"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFoCgAwvY3pqWo-gTfR1ztkB9Qdf8KTJOQ0J32bfi1s3i3-Fc_oyZOnJVbCOW4Dw7qJ2Es5Y15C3Nksg777ccGUeUf2we7Wi0v-NZrq3gWo-wivlXy6Vk8TCDxy1EhFfHRF_PWoZUDBECPnjcXkYz75-ER0uTsTNT3og97FtqTajlZQDlAyLF7pDvq4S6U/w545-h327/logo-ESPN.png",
-                	"url": "https://streamtp2.com/global1.php?stream=espn1",
+                	"url": "https://streamdz4.lat/player/embed.php?channel=dazn1es",
 			"isHost":"true"
 	    	},{
                     	"name": "ESPN",
@@ -9155,12 +9149,12 @@
                  },{
                     "name": "ESPN2",
                     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJTIdLe_W2pLAwmwO087heMSKLjFZBEjpttLnLvBKh6nEoUOOKyZGp8_IFgyfkjUOi7qI1c6HHRlTIq4lSq3ELEIapYFCxX9V6h6CTwz9XAtO0bsus_WbHQxpEsVYdrQGobWN-LnDvARmM_QydmASnjZDKXRr3wisuYGBaZodpq66cduudD6ZBJSLR4nJL/w619-h118/logo-ESPN2.png",
-                     "url":"https://streamtp2.com/global1.php?stream=espn2",
+                     "url":"https://streamdz4.lat/player/embed.php?channel=espn2",
             		"isHost" : "true"
 	    	},{
                     "name": "ESPN3",
                     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFbUXDxdnBL_-bzHyQ4de57zyIdAHO_D7_xqRLxjPA11rS1oV8SsCvOZ-gkXqI6Q1-iMvAQCpkNsbGywm-QZ8nHbL1PpZtf5CjMw25oyCD9VxUQvR5-P7dHXv0siIE-_wAopjZCboU_nwXqLjVd2V3-zpU668Hm1wtLGIiU4yb03imy-bX52yKQ2Tcluub/w568-h117/logo-ESPN3.png",
-		    "url": "https://streamtp2.com/global1.php?stream=espn3",
+		    "url": "https://streamdz4.lat/player/embed.php?channel=espn3",
                      "isHost" : "true"
                   },{
                      "name": "ESPN3",
@@ -9196,7 +9190,7 @@
 			"name": "Fox Sports 1",
 			"info": "topembed",
 			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_NwEsRH6BbHnxgq92HLGBlh95ppszS0fsxdMYWFhrC0xdyoXiuC7gZ2AFJUJ3hV2IkSFwmuGmFcNK4Pm1HjirJNhpjYuFNxC3OvYzU52Uy84kdbjhGIYN9lUhVcRXW3dHubHg0DHJsbm_fs_L-_Pwon1lZTJ1-9w8vaZg7rnoaz6m2CL5HiuYFTk4wZtm/w520-h234/logo-fs1.png",
-                  	"url" : "https://topembed.pw/channel/FOXSports1[Argentina]",
+                  	"url" : "https://streamdz4.lat/player/embed.php?channel=fox1ar",
 			"isHost":"true"
 		}, {
 			"name": "Fox Sports 1.2",
@@ -9208,7 +9202,7 @@
 			"name": "Fox Sports 2",
 			"info": "topembed",
 			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4120TyOG4BIwd3SLGVvw2GEEy61ExiAu0aVA5AXStwEhHKx4h37jttMBT0uOJ3X4kOnjh2VO6Dn6MbyX0rdmr0pvQ2lFU_zauBqsQJn2PT-F3YHBjM_87TEQaW3W0rjrJSOUAjSVGVE8F3Yq8jthXhFG-U0M2rkJ75N7pKjfbYmHyEGEFwCsp4Nsuu9Oz/w559-h251/logo-fs2.png",
-			"url" : "https://topembed.pw/channel/FOXSports2[Argentina]",
+			"url" : "https://streamdz4.lat/player/embed.php?channel=fox2ar",
 			"isHost" : "true"
 		}, {
 			"name": "Fox Sports 2.2",
@@ -9220,7 +9214,7 @@
 			"name": "Fox Sports 3",
 			"info": "topembed",
 			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-G7Lncg_gzP3-h5IanMhVNLvcJovfFy6Ilem92op8N7ViL4CHPB_GRtlLcY22QVKchKjkoqSCrQoqJf4ToVshtCs5qP6pcqf5-9sdnyfJsXsQ5BmDcwUhvTuGJqlYVnr2a-ZErLkS89CeS7cEYXOez4uL6_S4oz7fLnCURO4mxqNOu66tizdV3JW3sb3M/w559-h252/logo-fs3.png",
-		 	"url" : "https://topembed.pw/channel/FOXSports3[Argentina]",
+		 	"url" : "https://streamdz4.lat/player/embed.php?channel=fox3ar",
 			"isHost" : "true"
            	}, {
 			"name": "Fox Sports 3.2",
@@ -9613,7 +9607,7 @@
 						 }, {
 						   "name": "Barça One",
 						   "image": "https://img.3cat.cat/multimedia/jpg/0/9/1709654503990_670x378.jpg",
-						   "url":"https://fcb-cdn-global.interactvty.net/VIDEOS/263631/hls/84ad430d6608dca8c391e98d4cc321e55f1fdb7cd5fda8fe11458154d81a0312.m3u8",
+						   "url":"https://barcatvlive2.flumotion.cloud/barcatv/live2_high/chunks_dvr.m3u8",
 						   "userAgent" : ""
 						 }, {
 							"name": "Esport 3",
@@ -10038,8 +10032,8 @@
                                     "name": "Canal 7",
                                     "info": "",
                                     "image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-                                    "url": "https://cdn.benitotv.com/08.php",
-                                    "referer" : "https://cdn.benitotv.com/ch08.php",
+                                    "url": "https://generalpilli.net/embed/ueahi0mkr3",
+                                    "referer" : "https://bedsport.live/",
                                     "isHost":"true"
                             
                                 }, {
