@@ -24,9 +24,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 12/03/2025",
+             "name": "Ultm. versión 16/03/2025",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 12/03/2025",
+            "info": "última versión actualizada el 16/03/2025",
             "stations": []
 	}, 
 	
@@ -5290,9 +5290,10 @@
 				"isHost" : "true"
 			 }, {
 				"name": "Canal 8",
-				"info": "php",
+				"info": "zh44py",
 				"image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
-				"url" : "https://streamtp2.com/global1.php?stream=movistarligadecampeones",
+				"url" : "https://laceaccept.net/embed/zh44pyu5dpby",
+				"referer" : "https://tarjetarojaenvivo.lat/",
 				"isHost": "true"
 			}, {
 				"name": "Canal 9",
@@ -5410,7 +5411,7 @@
 							"name": "Canal 26",
 							"image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
 							"url": "https://unbiasedsenseevent.com/embed/df7nk3qyxpu1vx",
-							"referer": "https://elixx.xyz/",
+							"referer": "https://elixx.soccer/",
 							 "isHost": "true"  
 			  			}, {
 							"name": "Canal 27",
@@ -5763,7 +5764,8 @@
 	"name": "Canal 9",
 	"info": "php",
 	"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-	"url" : "https://streamdz4.lat/player/embed.php?channel=dazn1",
+	"url" : "https://apex2nova.com/premium.php?player=desktop&live=bbtsp2",
+	"referer" : "https://stream.crichd.sc/",
 	"isHost": "true"
  }, {
 	"name": "Canal 10",
@@ -5801,8 +5803,7 @@
 		"name": "Canal 15",
 		"info":"485ay",
 	   	"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-	   	"url" :  "https://forgepattern.net/embed/485ayycb",
-		"referer" : "https://hoyfutbol.info/",
+	   	"url" :  "https://streamdz4.lat/player/embed.php?channel=dazn1",
 		 "isHost":"true"
 	 		}, {
 			"name": "Canal 16",
@@ -6164,21 +6165,21 @@
 		"info": "csdj-g16dv | elixx",
 		"image": "https://i.ibb.co/CtV2jfV/Champions-F.jpg",
 		"url" :  "https://closedjelly.net/embed/g16dv8bwe2pkg",
-		"referer" : "https://elixx.xyz/",
+		"referer" : "https://elixx.soccer/",
 		"isHost":"true"
 	}, {
 		"name": "Canal 4",
 		"info": "csdj-x3eui | -",
 		"image": "https://i.ibb.co/CtV2jfV/Champions-F.jpg",
 		"url" :  "https://closedjelly.net/embed/x3euisb4tt7",
-		"referer" : "https://elixx.xyz/",
+		"referer" : "https://elixx.soccer/",
 		"isHost":"true"
 	}, {
 		"name": "Canal 5",
 		"info": "csdj-lhfsv | -",
 		"image": "https://i.ibb.co/CtV2jfV/Champions-F.jpg",
 		"url" :  "https://closedjelly.net/embed/lhfsvq5z",
-		"referer" : "https://elixx.xyz/",
+		"referer" : "https://elixx.soccer/",
 		"isHost":"true"
 	}, {
 		"name": "Canal 6",
@@ -6346,7 +6347,7 @@
 				"info": "x2qid",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
 				"url" : "https://freckledine.net/embed/x2qidlx7",
-				"referer" : "https://www.elixx.xyz/",
+				"referer" : "https://www.elixx.soccer/",
 				 "isHost": "true" 
 			}, {
 				"name": "Canal 23",
@@ -6560,7 +6561,7 @@
 				"info": "csdj-mey8 | -",
                     		"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
                       		"url": "https://closedjelly.net/embed/mey8j3",
-               			"referer" : "https://elixx.xyz/",
+               			"referer" : "https://elixx.soccer/",
                  		"isHost": "true"
 			}, { 
                  		"name": "Canal 57",
@@ -6619,7 +6620,7 @@
                  		"name": "Canal 66",
                     		"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
                       		"url": "https://closedjelly.net/embed/ugce3jz6chx",
-               			"referer" : "https://elixx.xyz/",
+               			"referer" : "https://elixx.soccer/",
                  		"isHost": "true"
 			}, { 
                  		"name": "Canal 67",
@@ -6671,14 +6672,14 @@
 				"info": "csdj-xx | kw6ef",
                     		"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
                       		"url" : "https://closedjelly.net/embed/kw6ef0n921mnbf0",
-                         	"referer" : "https://www.elixx.xyz/",
+                         	"referer" : "https://www.elixx.soccer/",
                  		"isHost": "true"
 			}, { 
                  		"name": "Canal 75",
 				"info": "",
                     		"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
                       		"url": "https://closedjelly.net/embed/ww6frra9pf",
-               			"referer" : "https://elixx.xyz/",
+               			"referer" : "https://elixx.soccer/",
                  		"isHost": "true"
 			}, { 
                  		"name": "Canal 76",
@@ -6690,7 +6691,7 @@
 				"name": "Canal 77",
 				"image": "https://i.ibb.co/VQpLvTb/logo-channels-ESPN.jpg",
 				"url": "https://generalpilli.net/embed/g16dv8bwe2pkg",
-               			"referer" : "https://elixx.xyz/",
+               			"referer" : "https://elixx.soccer/",
                  		"isHost": "true"
 		 	}, {
 				"name": "Canal 78",
@@ -6702,7 +6703,7 @@
 				"name": "Canal 79",
 				"image": "https://i.ibb.co/VQpLvTb/logo-channels-ESPN.jpg",
 				"url": "https://freckledine.net/embed/g16dv8bwe2pkg",
-               			"referer" : "https://elixx.xyz/",
+               			"referer" : "https://elixx.soccer/",
                  		"isHost": "true"
 		 	}, {
 				"name": "Canal 80",
@@ -7048,7 +7049,7 @@
 							"info": "dw4k0",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
 							"url": "https://closedjelly.net/embed/dw4k0efjo1w",
-			 				"referer" : "https://elixx.xyz/",
+			 				"referer" : "https://elixx.soccer/",
 							"isHost" : "true"
 						}, {
 							"name": "Canal 4",
@@ -7114,7 +7115,7 @@
 							"info": "csdj-ejj6a | elixx",
                     					"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
                       					"url": "https://closedjelly.net/embed/ejj6a0rybyyp",
-               						"referer" : "https://elixx.xyz/",
+               						"referer" : "https://elixx.soccer/",
                  					"isHost": "true"
 						}, {
 							"name": "Canal 14",
@@ -7131,20 +7132,20 @@
 							"name": "Canal 1",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
 							"url" : "https://forgepattern.net/embed/x3euisb4tt7",
-		        				"referer": "https://www.elixx.xyz/",
+		        				"referer": "https://www.elixx.soccer/",
 							"isHost" : "true"
 						}, {
 							  "name": "Canal 2",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
 							"url": "https://forgepattern.net/embed/kw6ef0n921mnbf0",
-        						"referer" : "https://www.elixx.xyz/",
+        						"referer" : "https://www.elixx.soccer/",
 							"isHost" : "true"
 						  }, {
 							"name": "Canal 3",
 							"info": "",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
 							"url": "https://forgepattern.net/embed/2zy981htw4ee",
-							"referer": "https://www.elixx.xyz/",
+							"referer": "https://www.elixx.soccer/",
              						"isHost": "true"
 						 }, {
 							"name": "Canal 4",
@@ -7205,7 +7206,7 @@
 							"info": "",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
 							"url": "https://closedjelly.net/embed/x3euisb4tt7",
-							"referer": "https://elixx.xyz/",
+							"referer": "https://elixx.soccer/",
 							"isHost": "true"
 						}, {
 							"name": "Canal 14",
@@ -7250,7 +7251,7 @@
 							"info": "csdj-lhfsv | elixx",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
 							"url": "https://closedjelly.net/embed/lhfsvq5z",
-               						"referer" : "https://elixx.xyz/",
+               						"referer" : "https://elixx.soccer/",
 							"isHost" : "true"
 						}, {
 							"name": "Canal 2",
@@ -7284,7 +7285,7 @@
 							"info": "fgtt-oxwou",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
 							"url": "https://forgepattern.net/embed/oxwourlf4th",
-			 				"referer" : "https://elixx.xyz/",
+			 				"referer" : "https://elixx.soccer/",
 							 "isHost": "true"
 								}, {
 							"name": "Canal 7",
@@ -7312,7 +7313,7 @@
 			"info": "fgtt-lhfsv",
 			"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
 			"url": "https://forgepattern.net/embed/lhfsvq5z",
-			"referer" : "https://elixx.xyz/",
+			"referer" : "https://elixx.soccer/",
              		"isHost": "true"
                 }, {
 			"name": "Canal 11",
@@ -7444,13 +7445,13 @@
 				"name": "Canal 32",
 				"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
 				"url": "https://fractionhostile.net/embed/ouittc4oaboy",
-				"referer" : "https://elixx.xyz/",
+				"referer" : "https://elixx.soccer/",
 				 "isHost": "true"
 		 	}, {
 				"name": "Canal 33",
 				"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
 				"url": "https://fractionhostile.net/embed/i1a5vxjlhqqc",
-				"referer" : "https://elixx.xyz/",
+				"referer" : "https://elixx.soccer/",
 				 "isHost": "true"
 		 	}]
 		 }, {
@@ -7468,7 +7469,7 @@
 				"name": "Canal 2",
 				"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
 				 "url" : "https://generalpilli.net/embed/jwpz3ec0iqz",
-		        	"referer": "https://www.elixx.xyz/",
+		        	"referer": "https://www.elixx.soccer/",
 				 "isHost": "true"
 			}, {
 				"name": "Canal 3",
@@ -7481,7 +7482,7 @@
 				"info": "csdj-40ltf",
 				"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
 				"url": "https://closedjelly.net/embed/40ltfs8ms26hmy",
-				"referer" : "https://elixx.xyz/",
+				"referer" : "https://elixx.soccer/",
 				"isHost":"true"
 						}, {
 				"name": "Canal 5",
@@ -7494,7 +7495,7 @@
 				"info": "ww6fr",
 				"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
 				 "url": "https://forgepattern.net/embed/ww6frra9pf",
-              			"referer" : "https://elixx.xyz/",
+              			"referer" : "https://elixx.soccer/",
 				 "isHost": "true"
 				 }, {
 				"name": "Canal 7",
@@ -7506,14 +7507,14 @@
 				"name": "Canal 8",
 				"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
 				 "url": "https://guerrillaforfight.com/embed/i1a5vxjlhqqc",
-				"referer": "https://elixx.xyz/",
+				"referer": "https://elixx.soccer/",
 				 "isHost": "true"
 				 }, {
 				 "name": "Canal 9",
 				 "info": "k8lq8",
 				"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
 		 		"url" : "https://forgepattern.net/embed/k8lq8in1xkknj",
-		        	"referer": "https://www.elixx.xyz/",
+		        	"referer": "https://www.elixx.soccer/",
 				"isHost":"true"
 			}, {
 				"name": "Canal 10",
@@ -7544,7 +7545,7 @@
 				"name": "Canal 14",
 				"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
 				 "url": "https://guerrillaforfight.com/embed/pbbue32",
-              			"referer" : "https://elixx.xyz/",
+              			"referer" : "https://elixx.soccer/",
 				 "isHost": "true"
 			 }, {
 				 "name": "Canal 15",
@@ -7556,14 +7557,14 @@
 				"name": "Canal 16",
 				"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
 				 "url": "https://guerrillaforfight.com/embed/ouittc4oaboy",
-				"referer": "https://elixx.xyz/",
+				"referer": "https://elixx.soccer/",
 				 "isHost": "true"
 			 }, {
 				"name": "Canal 17",
 				"info": "ouitt",
 				"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
 				 "url": "https://exerciseexercise.net/embed/ouittc4oaboy",
-              			"referer" : "https://elixx.xyz/",
+              			"referer" : "https://elixx.soccer/",
 				 "isHost": "true"
 			 }, {
 				 "name": "Canal 18",
@@ -7584,14 +7585,14 @@
 				"info": "csdj-ouitt",
 				"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
 				 "url": "https://closedjelly.net/embed/gtyxnveukc1tw0i",
-              			"referer" : "https://elixx.xyz/",
+              			"referer" : "https://elixx.soccer/",
 				 "isHost": "true"
 			 }, {
 				 "name": "Canal 21",
 				 "info": "g359w",
 			   	"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
 			   	"url":"https://fractionhostile.net/embed/g359w0ew",
-			   	"referer": "https://elixx.xyz/",
+			   	"referer": "https://elixx.soccer/",
 			   	"isHost" : "true" 
 			}, {
 				 "name": "Canal 22",
@@ -7619,7 +7620,7 @@
 				"info": "csdj | fxf2q",
 			   	"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
 			   	"url": "https://closedjelly.net/embed/fxf2qstg",
-				"referer": "https://elixx.xyz/",
+				"referer": "https://elixx.soccer/",
 			   	"isHost" : "true" 
 			}, {
 				"name": "Canal 26",
@@ -7640,7 +7641,7 @@
 				"info": "csdj - 7xze4",
 			   	"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
 			   	"url": "https://closedjelly.net/embed/7xze4da",
-				"referer": "https://elixx.xyz/",
+				"referer": "https://elixx.soccer/",
 			   	"isHost" : "true" 
 			}, {
 				"name": "Canal 29",
@@ -7946,8 +7947,7 @@
 							  }, {
 								"name": "Canal 6",
 							  	"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-								"url" : "https://flstv.online//embed/formula1.php",
-                  						"referer" : "https://flstv.online/",
+								"url" : "https://flstv.online//embed/f1.php",
 							  	"isHost": "true" 	
 							}, {
 								"name": "Canal 7",
@@ -8140,7 +8140,8 @@
 							   }, {
 								  "name": "Canal 5 [F1 inglés]",
 								  "image": "https://i.ibb.co/nwQrbvN/inglesa.webp",
-								  "url" :  "https://usgate.xyz/z/p2p/az10.php",
+								  "url" :  "https://apex2nova.com/premium.php?player=desktop&live=skysfor1",
+								  "referer" : "https://stream.crichd.sc/",
 								  "isHost": "true"
 							   }, {
 								  "name": "MotoGP Android/iOS",
@@ -8150,8 +8151,8 @@
 							   }, {
 								  "name": "Canal 1",
 								  "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
-								  "url" : "https://fractionhostile.net/embed/hpe7zi",
-								  "referer": "https://nopay.info/",
+								  "url" : "https://forgepattern.net/embed/k7x56qf8",
+								  "referer": "https://elixx.soccer/",
 								  "isHost": "true"
 							   }, {
 								  "name": "Canal 2",
@@ -8170,8 +8171,8 @@
 							   }, {
 								  "name": "Canal 4",
 								  "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
-								  "url" : "https://viwlivehdplay.ru/mono.php?id=26",
-								  "referer" : "https://bedsport.live/",
+								  "url" : "https://jointexploit.net/embed/mhbq0m7am17nhai",
+								  "referer" : "https://buzztv.futbol/",
             							  "isHost": "true"
 							}, {
 								  "name": "Canal 5",
@@ -8258,7 +8259,7 @@
 								  "name": "Canal 18",
 								  "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
 								  "url": "https://unbiasedsenseevent.com/embed/i1a5vxjlhqqc",
-								  "referer": "https://elixx.xyz/",
+								  "referer": "https://elixx.soccer/",
 								  "isHost": "true"
 							  }, {
 								  "name": "Canal 19",
@@ -8305,7 +8306,7 @@
 								"info": "csdj-dw4k0",
 								"image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
 								"url": "https://closedjelly.net/embed/dw4k0efjo1w",
-                         					"referer" : "https://elixx.xyz/",
+                         					"referer" : "https://elixx.soccer/",
              							"isHost": "true"
 							  }, {
 								"name": "Canal 26",
@@ -8650,7 +8651,7 @@
 							"info": "40ltf",
 							"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5aMBynBScnyrCyvkwHvsGGqLtYCdyI1PEE8X6iN2IS9D2MELHKOrJpuR5tnEQdF0PWwz1JlJEQ7Ivn4kEXkp1lckGGLhevfwtbkvG-pEvFRLWGaVsz3vBZBROkJBj8c8tP2y21P3qIZuV0wFifBZhfBy0O4X2j4zbIJdQNzLhTa9UqlA7NyKanlXe-fg-/w645-h432/BoxeoMiniatura.PNG",
 						   	"url" :  "https://forgepattern.net/embed/40ltfs8ms26hmy",
-							"referer" : "https://www.elixx.xyz/",
+							"referer" : "https://www.elixx.soccer/",
              						"isHost":"true"  
 					}, { 
 							"name": "Canal 13",
@@ -8666,7 +8667,7 @@
 							"name": "Canal 15",
 						   	"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5aMBynBScnyrCyvkwHvsGGqLtYCdyI1PEE8X6iN2IS9D2MELHKOrJpuR5tnEQdF0PWwz1JlJEQ7Ivn4kEXkp1lckGGLhevfwtbkvG-pEvFRLWGaVsz3vBZBROkJBj8c8tP2y21P3qIZuV0wFifBZhfBy0O4X2j4zbIJdQNzLhTa9UqlA7NyKanlXe-fg-/w645-h432/BoxeoMiniatura.PNG",
 						   	"url": "https://closedjelly.net/embed/ovekcqb6k6jerku",
-                    					"referer" : "https://elixx.xyz/",
+                    					"referer" : "https://elixx.soccer/",
 						   	"isHost":"true"
 					 }, {
 							"name": "Canal 16",
@@ -9790,7 +9791,7 @@
 							   "name": "Canal 7",
 							   "info": "moonlight",
 							   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WrLEUL5KARQ5KrZe_LMVBkqvD2-cx2zAEfMbKD2mhXX-B2bzYyT2c8iCrUBHqNGkwwRhRUsTuxuieiuHgTZusfQD064g98dqTb8uQb1wDdesbNkd4q-J2zUHiMAUzPIS_g8iJ7b7dAeeZRev-kaP9A_UpwL5WOJo_R2hnNesAmyNKvzzFM2nwKvITC1W/w625-h103/logo-MundoToro.png",
-							   "url": "https://moonlight.wideiptv.top/OneToro/index.fmp4.m3u8?token=799c609d280e58cce248d9082be77f8e49bb6a46-43d5bf657c78beafa4de63420bb6df53-1739913807-1739903007",
+							   "url": "https://moonlight.wideiptv.top/OneToro/index.fmp4.m3u8?token=612c12688adf1cf55173ba64c22b5a470c67e62d-781e09099201a66b0e4e7fb28ac2b651-1742070667-1742059867",
                         				   "userAgent": ""
 					}, {
 							   "name": "Canal 8",
@@ -10301,7 +10302,7 @@
 							"info": "",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
 							"url": "https://freckledine.net/embed/x2qidlx7",
-                            				"referer" : "https://www.elixx.xyz/",
+                            				"referer" : "https://www.elixx.soccer/",
 							"isHost":"true"
 						}, {
 							"name": "Canal 5",
