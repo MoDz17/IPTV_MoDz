@@ -24,9 +24,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 14/04/2025",
+             "name": "Ultm. versión 19/04/2025",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 14/04/2025",
+            "info": "última versión actualizada el 19/04/2025",
             "stations": []
 	}, 
 	
@@ -5456,10 +5456,10 @@
            						"isHost" : "true"  
 			}, {
 					"name": "Canal 33",
-					"info": "streamdz4",
+					"info": "m3u8",
 					"image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
-					"url" :  "https://streamtp4.com/global1.php?stream=movistarligadecampeones",
-			 		"isHost":"true"
+					"url" :  "https://x4-cdnnew.newkso.ru/x4-cdn/mono29/mono.m3u8",
+					"userAgent":""
 			}, {
 				"name": "Canal 34",
 				"info": "csdj-gagr8b | leet365",
@@ -5504,8 +5504,8 @@
 			 }, {
 				"name": "Canal 5",
 				"image": "https://i.ibb.co/4NvkCVR/logo-deportes.png",
-				"url" : "https://generalpilli.net/embed/av8q3fwxcb",
-				"referer" : "https://bedsport.live/",
+				"url" : "https://smoothindoor.net/embed/lqpfehvwdj1q2f",
+				"referer" : "https://welivesport.shop/",
 			 	"isHost":"true"
 			 }, {
 			   	"name": "Canal 6",
@@ -5747,9 +5747,8 @@
 	 "name": "Canal 7",
 	 "info": "fgtt - ekm9z",
 	 "image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-	 "url" : "https://forgepattern.net/embed/ekm9z79niibzy",
-	"referer": "https://tarjetarojaenvivo.lat/",
-	 "isHost": "true"
+	 "url" : "https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1OWExNGQ4ODhmNDExLWVjY2EtZWU4NC00YmE2LTBiYWQ0NGIz/master.m3u8",
+	 "userAgent" : ""
   }, {
 	"name": "Canal 8",
 	"info": "csjy-h5m4g | tjtr",
@@ -6545,8 +6544,7 @@
                  		"name": "Canal 54",
 				"info": "php",
                     		"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-                      		"url": "https://d4gr1wajb4.elverrucatv.xyz/v1/ixtewz0.php",
-				"referer" : "https://d4gr1wajb4.elverrucatv.xyz/v1/aftqatb.php",
+                      		"url": "https://kisskissplay.cfd/premiumtv/daddylive.php?id=538",
                  		"isHost": "true"
 			}, { 
                  		"name": "Canal 55",
@@ -6559,7 +6557,7 @@
                  		"name": "Canal 56",
 				"info": "php",
                     		"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-                      		"url": "https://one.halftime.top/hembedplayer/hbdsfgdsfgdsf5/4/500/400",
+                      		"url": "https://hd.halftime.top/hembedplayer/fsdg6gf/4/500/400",
                			"referer" : "https://new.alldown.xyz/",
                  		"isHost": "true"
 			}, { 
@@ -6606,8 +6604,8 @@
 			}, { 
                  		"name": "Canal 64",
                     		"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-                      		"url" :  "https://candlesouth.net/embed/vy7my0wu36",
-				"referer" : "https://l1l1.to/",
+                      		"url" :  "https://sportstreamslife.shop/player/stream-538.php",
+				"referer" : "https://sportstreamslife.xyz/",
                  		"isHost": "true"
 			}, { 
                  		"name": "Canal 65",
@@ -6625,7 +6623,7 @@
                  		"name": "Canal 67",
 				"info": "m3u8",
                     		"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-                      		"url" :  "https://nix1-dc4-cdnnew.koskoros.ru/nix1-dc4-cdn/mono86/mono.m3u8",
+                      		"url" :  "https://x4-cdnnew.newkso.ru/x4-cdn/mono86/mono.m3u8",
 				"userAgent": ""
 			}, { 
                  		"name": "Canal 68",
@@ -6809,8 +6807,8 @@
 				}, {
 					"name": "Canal 15",
 					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
-					"url" : "https://generalpilli.net/embed/wnm78ydq",
-			 		"referer": "https://bedsport.live/",
+					"url" : "https://hd.halftime.top/hembedplayer/gdtryhfgjh5bz/4/500/400",
+			 		"referer": "https://new.alldown.xyz/",
            				"isHost" : "true"
 				}, {
 					"name": "Canal 16",
@@ -7058,10 +7056,9 @@
 							"isHost": "true"
 						}, {
 							"name": "Canal 5",
-							"info": "",
+							"info": "php",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-					   		"url" : "https://forgepattern.net/embed/485ayycb",
-                  					"referer" : "https://elixx.one/",
+					   		"url" : "https://flstv.online//embed/soccer6.php",
 							"isHost": "true"
 					  	}, {
 							"name": "Canal 6",
@@ -7888,9 +7885,8 @@
 							  "stations": [{
 								"name": "Canal 1",
 							  	"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-								"url" :  "https://ilovetoplay.xyz/maxsport.php?id=primadaznf1",
-                              					"referer" : "https://abbasport.site/",
-			 					"isHost":"true"
+								"url" :  "https://wikihznew.newkso.ru/wikihz/wikidf1/mono.m3u8",
+                              					"userAgent" : ""
 							   }, {
 								"name": "Canal 2",
 								"info": "user-ag",
@@ -7906,7 +7902,7 @@
 							   }, {
 								"name": "F1 Android/iOS",
 							  	"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-								"url": "https://tv1.strm2234.xyz/f1/index.m3u8",
+								"url": "https://wikihznew.newkso.ru/wikihz/wikidf1/mono.m3u8",
 								"userAgent": ""
 							   }, {
 								"name": "Canal 1",
@@ -7946,7 +7942,7 @@
 							  }, {
 								"name": "Canal 6",
 							  	"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-								"url" : "https://flstv.online//embed/f1.php",
+								"url" : "https://streamingon.org/embed/hd-25.php",
 							  	"isHost": "true" 	
 							}, {
 								"name": "Canal 7",
@@ -8169,7 +8165,7 @@
 							   }, {
 								  "name": "Canal 4",
 								  "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
-								  "url" : "https://jointexploit.net/embed/mhbq0m7am17nhai",
+								  "url" : "https://jointexploit.net/embed/vndxx07b0",
 								  "referer" : "https://buzztv.futbol/",
             							  "isHost": "true"
 							}, {
@@ -9303,7 +9299,8 @@
 		 }, {
 			"name": "TNT Sport 4",
 			"image": "https://media.info/l/o/1/1491.1690027975.png",
-			"url":"https://streamtp2.com/global1.php?stream=tnt_4_gb",
+			"url":"https://hoca4u.xyz/player/canal62.php",
+			"referer" : "https://www.rojadirectatv.la/",
 	           	"isHost": "true"
 		 }, {
 			"name": "Win Sports",
