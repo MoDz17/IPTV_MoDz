@@ -6424,10 +6424,10 @@
 				   "isHost": "true"
 			 }, {
 				"name": "Canal 36",
-				"info": "wwwstream",
+				"info": "bleedfilter",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				"url" : "https://wwwstream.pro/embed/0Jh5TMBIVlm",
-			     	"referer" :  "https://kingstreamz.lol/",
+				"url" : "https://bleedfilter.net/embed/orfaxhrsmbdogv?color=45A5F4",
+			     	"referer" : "https://powerover.online/",
 			 	"isHost":"true"
 			 }, {
 				   "name": "Canal 37",
@@ -6438,9 +6438,10 @@
 				   "isHost": "true"
 			 }, {
 				"name": "Canal 38",
-				"info": "star1",
+				"info": "miztv",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				"url" : "https://new.star1.live/fgvsg556hcfgnh",
+				"url" : "https://miztv.top/total/stream-84.php",
+				"referer" : "https://zzcointv.xyz/",
 				"isHost": "true"
 			 }, {
 				   "name": "Canal 39",
@@ -6674,10 +6675,10 @@
                  		"isHost": "true"
 			}, { 
                  		"name": "Canal 76",
-				"info": "php",
+				"info": "m3u8",
                     		"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-                      		"url" : "https://streamingon.org/embed/hd-2.php",
-                 		"isHost": "true"
+                      		"url" : "https://wo.cma.footballii.ir/hls2/laligatv.m3u8",
+                 		"userAgent" : ""
 			}, {
 				"name": "Canal 77",
 				"image": "https://i.ibb.co/VQpLvTb/logo-channels-ESPN.jpg",
@@ -9273,13 +9274,14 @@
 		 }, {
 			"name": "TNT Sport 1",
 			"image": "https://media.info/l/o/1/1539.1690027797.png",
-			"url":"https://streamtp2.com/global1.php?stream=tnt_1_gb",
+			"url":"https://vodkapr3mium.com/embed.php?player=desktop&live=bbtsp1",
+			"referer" : "https://techydeals.online/",
 	           	"isHost": "true"
 		 }, {
 			"name": "TNT Sport 2",
 			"image": "https://media.info/l/o/1/1540.1690027877.png",
-			"url":"https://a49.azplay7.me/hls/streama236826/index.m3u8?cst=1bc6a7fda18b68c5938276117ef06f9c",
-	           	"userAgent": ""
+			"url":"https://techydeals.online/iframe/2.php",
+	           	"isHost": "true"
 		 }, {
 			"name": "TNT Sport 3",
 			"image": "https://media.info/l/o/5/5712.1690027954.png",
@@ -10312,7 +10314,7 @@
 							"name": "Canal 8",
 							"info": "",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-							"url": "https://emb.apl375.me/player/live.php?id=236826&w=728&h=480",
+							"url": "https://cheapmarket.blog/idea/?id=5",
 							"isHost":"true"
 						}, {
 							"name": "Canal 9",
