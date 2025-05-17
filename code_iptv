@@ -6336,16 +6336,15 @@
 			 	"isHost":"true"
 			 }, {
 				"name": "Canal 22",
-				"info": "x2qid",
+				"info": "businas",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				"url" : "https://freckledine.net/embed/x2qidlx7",
-				"referer" : "https://www.elixx.soccer/",
+				"url" : "https://businascart.com/embed2.php?player=desktop&live=do86",
+				"referer" : "https://istorm.live/",
 				 "isHost": "true" 
 			}, {
 				"name": "Canal 23",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				"url" : "https://letcast.pro/steam.php?stream=4eLyr2RZq7v",
-				 "referer": "https://hyperstream.click/",
+				"url" : "https://goalstreamz.com/events/stream1/",
 				 "isHost": "true" 
 			}, {
 				"name": "Canal 24",
@@ -6360,11 +6359,10 @@
 				"isHost": "true" 
 			}, {
 				"name": "Canal 26",
-				"info": "8kweb",
+				"info": "m3u8",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				"url" : "https://8kwebplay.xyz/maxsport.php?id=primaespndeportes",
-			      	"referer" : "https://abbasport.site/",
-				"isHost":"true"
+				"url" : "https://windnew.newkso.ru/wind/premium84/mono.m3u8",
+			      	"userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
 			}, {
 				"name": "Canal 27",
 				"info": "php",
@@ -6441,7 +6439,6 @@
 				"info": "miztv",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
 				"url" : "https://miztv.top/total/stream-84.php",
-				"referer" : "https://zzcointv.xyz/",
 				"isHost": "true"
 			 }, {
 				   "name": "Canal 39",
@@ -10028,8 +10025,9 @@
                                     "name": "Canal 8",
                                     "info": "",
                                     "image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-                                    "url": "https://wikihznew.newkso.ru/wikihz/wiki68/mono.m3u8",
-                                    "userAgent":""
+                                    "url": "https://my.xtraball.xyz/hembedplayer/hgfjh5bhf5/4/500/400",
+                                    "referer" : "https://my.xtraball.xyz/hgfjh5bhf5",
+			 	    "isHost":"true"
                             
                                 }, {
 
@@ -10314,7 +10312,7 @@
 							"name": "Canal 8",
 							"info": "",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-							"url": "https://cheapmarket.blog/idea/?id=5",
+							"url": "https://cheapmarket.blog/idea/?id=1",
 							"isHost":"true"
 						}, {
 							"name": "Canal 9",
