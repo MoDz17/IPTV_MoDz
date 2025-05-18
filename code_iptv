@@ -24,9 +24,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 17/05/2025",
+             "name": "Ultm. versión 19/05/2025",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 17/05/2025",
+            "info": "última versión actualizada el 19/05/2025",
             "stations": []
 	}, 
 	
@@ -5151,7 +5151,7 @@
 				"name": "Canal 3",
 				"info": "m3u8",
 				"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhC_ZrjTAL_zi61ZUD-aRw18x_XEiKBS-sH5X1EihR_oZ43LsvApOPfWnvjAXfkxh2h_i8W7RNDfU4t42vQskD-fBjP25sBpJKo1fLEAkT4hliVrOVA3HQewEBFLGb3ntMTj2KTu63u4yzFBJUj92xyBfh9Ka9vQPMsZJaAtrJfWS8Nzr34pf9QtJj7CyY/w589-h212/logo_vamos.png",
-			   	"url": "https://x4-cdnnew.newkso.ru/x4-cdn/mono78/mono.m3u8",
+			   	"url": "https://wikinew.newkso.ru/wiki/movistarvamos/mono.m3u8",
 				"userAgent": ""
 				}, {
 				"name": "Canal 4",
@@ -5582,10 +5582,11 @@
 				"isHost":"true"
 			 }, {
 				"name": "Canal 8",
-				"info": "m3u8",
+				"info": "bleedfilter",
 				"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar_Deportes_2.svg/2070px-Movistar_Deportes_2.svg.png",
-				"url" : "https://x4-cdnnew.newkso.ru/x4-cdn/mono29/mono.m3u8",
-              			"userAgent":""
+				"url" : "https://bleedfilter.net/embed/fic72y7ypbq6",
+              			"referer" : "https://powerover.online/",
+			 	"isHost":"true"
 			 }, {
 				"name": "Canal 9",
 				"info": "vfh7l",
@@ -5741,10 +5742,11 @@
 	 		"isHost": "true"
 	   }, {
 	 "name": "Canal 7",
-	 "info": "m3u8",
+	 "info": "bleedfilter",
 	 "image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-	 "url" : "https://cartv.streaming.aranova.es:443/hls/live/aragontv_canal1.m3u8",
-	 "userAgent" : ""
+	 "url" : "https://bleedfilter.net/embed/aqvpq2u80zqh8",
+	 "referer" : "https://powerover.online/",
+	 "isHost" : "true"
   }, {
 	"name": "Canal 8",
 	"info": "csjy-h5m4g | tjtr",
@@ -5871,9 +5873,11 @@
 				"isHost": "true"
 		  },{ 
 				"name": "Canal 4",
+				"info": "bleedfilter",
 			   	"image": "https://i.ibb.co/vhNCnrq/DAZN-2-Logo-Sin-Fondo.webp",
-			  	"url" : "https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1NTc2ZTIzOGU4ZGVjLTQ2NDgtYzZhNC1lZjJmLTI4ZThiODk0/master.m3u8",
-				"userAgent": ""
+			  	"url" : "https://bleedfilter.net/embed/agatv1erofcym",
+				"referer": "https://powerover.online/",
+                         	"isHost" : "true"
 	   	},{ 
 				"name": "Canal 5",
 				"info": "swpb-xmr0x | tjtr",
@@ -5968,10 +5972,10 @@
 				"isHost": "true"  
 				   }, {
 			   "name": "Canal 6",
-			   "info": "re856",
+			   "info": "bleedfilter",
 			   "image": "https://i.ibb.co/p1Ry56w/DAZN-3-Logo-Sin-Fondo.png",
-			   "url" : "https://generalpilli.net/embed/re856noa",
-              		   "referer" : "https://bedsport.live/",
+			   "url" : "https://bleedfilter.net/embed/j3d0la2d68k04",
+              		   "referer" : "https://powerover.online/",
 			   "isHost":"true"
 			  }, {
 				"name": "Canal 7",
@@ -6030,10 +6034,11 @@
 			"isHost": "true"  
 		 }, { 
 			"name": "Canal 3",
-			"info": "m3u8",
+			"info": "bleedfilter",
 			   "image": "https://i.ibb.co/LQy2rM6/DAZN-4-Logo-Sin-Fondo.png",
-			  "url": "https://x4-cdnnew.newkso.ru/x4-cdn/mono29/mono.m3u8",
-				"userAgent" : ""
+			  "url": "https://bleedfilter.net/embed/aa7cuh7zvjtt",
+				"referer": "https://powerover.online/",
+                         "isHost" : "true"
 				},{ 
 			"name": "Canal 4",
 			"info": "swpb - xy2i0",
@@ -6338,7 +6343,7 @@
 				"name": "Canal 22",
 				"info": "businas",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				"url" : "https://businascart.com/embed2.php?player=desktop&live=do86",
+				"url" : "https://businascart.com/embed2.php?player=desktop&live=do29",
 				"referer" : "https://istorm.live/",
 				 "isHost": "true" 
 			}, {
@@ -6436,10 +6441,11 @@
 				   "isHost": "true"
 			 }, {
 				"name": "Canal 38",
-				"info": "miztv",
+				"info": "bleedfilter",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				"url" : "https://miztv.top/total/stream-84.php",
-				"isHost": "true"
+				"url" : "https://bleedfilter.net/embed/lk3n6n9gy",
+				"referer" : "https://powerover.online/",
+			 	"isHost":"true"
 			 }, {
 				   "name": "Canal 39",
 				"info": "csdj-tqhqq | tjtr",
@@ -6597,7 +6603,7 @@
 			}, { 
                  		"name": "Canal 64",
                     		"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-                      		"url" :  "https://x4-cdnnew.newkso.ru/x4-cdn/mono86/mono.m3u8",
+                      		"url" :  "https://x4-cdnnew.newkso.ru/x4-cdn/mono29/mono.m3u8",
 				"userAgent": ""
 			}, { 
                  		"name": "Canal 65",
@@ -6727,17 +6733,17 @@
            				"isHost" : "true"
 					   }, {
 					"name": "Canal 4",
-					"info": "frck-xfkc2i | tjtr",
+					"info": "***-xfkc2i | tjtr",
 					"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-2-es.png",
-					"url" :  "https://freckledine.net/embed/xfkc2i",
-					"referer" : "https://tarjetarojaenvivo.lat/",
+					"url" :  "https://bleedfilter.net/embed/xfkc2i",
+					"referer" : "https://powerover.online/",
 			 		"isHost":"true"
 						}, {
 					"name": "Canal 5",
-					"info": "swpb-opthn | tjtr",
+					"info": "***-opthn | tjtr",
 					"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
-					"url" : "https://swipebreed.net/embed/opthng68di66m",
-                  			"referer" : "https://tarjetarojaenvivo.lat/",
+					"url" : "https://bleedfilter.net/embed/opthng68di66m",
+                  			"referer" : "https://powerover.online/",
 					 "isHost": "true"
 					  }, {
 					"name": "Canal 6",
@@ -6753,10 +6759,10 @@
                          		"userAgent": ""
 				}, {
 					"name": "Canal 8",
-					"info": "generalpilli",
+					"info": "bleedfilter",
 	   				"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
-	   				"url" : "https://generalpilli.net/embed/fgvd9mt1",
-              				"referer" : "https://bedsport.live/",
+	   				"url" : "https://bleedfilter.net/embed/j3d0la2d68k04",
+              				"referer" : "https://powerover.online/",
 			 		"isHost":"true"
 				}, {
 					"name": "Canal 9",
@@ -7878,10 +7884,11 @@
                               					"userAgent" : ""
 							   }, {
 								"name": "Canal 2",
-								"info": "m3u8",
+								"info": "bleedfilter",
 							  	"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-								"url" :  "https://wikihznew.newkso.ru/wikihz/wikiwrc/mono.m3u8",
-			 					"userAgent": "" 
+								"url" :  "https://bleedfilter.net/embed/ij6ncj7nvv4gay",
+			 					"referer" : "https://powerover.online/",
+			 					"isHost":"true" 
 							   }, {
 								"name": "Canal 3",
 							  	"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
@@ -7891,13 +7898,13 @@
 							   }, {
 								"name": "F1 Android/iOS",
 							  	"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-								"url": "https://wikihznew.newkso.ru/wikihz/wikidf1/mono.m3u8",
+								"url": "http://432c1b8e.edmonst.net/iptv/82WLUSL4F5QKANT4R5W7YKFX/6071/index.m3u8",
 								"userAgent": ""
 							   }, {
 								"name": "Canal 1",
 								"info": "m3u8",
 	   							"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-	   							"url" : "https://x4-cdnnew.newkso.ru/x4-cdn/mono29/mono.m3u8",
+	   							"url" : "https://x4-cdnnew.newkso.ru/x4-cdn/mono30/mono.m3u8",
               							"userAgent": "" 
 	 						}, {
 								"name": "Canal 2",
@@ -7915,10 +7922,10 @@
 								"isHost": "true"
 							 }, {
 								"name": "Canal 4",
-								"info": "swpb-r23llp",
+								"info": "bleedfilter",
 								"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-								"url" : "https://swipebreed.net/embed/r23llp",
-                     						"referer" : "https://primefoot.ru/",
+								"url" : "https://bleedfilter.net/embed/n2eukx7ntv",
+                     						"referer" : "https://powerover.online/",
 								"isHost": "true"
 							   }, {
 								"name": "Canal 5",
@@ -8742,7 +8749,8 @@
 							 	"name": "Canal 30",
 								"info": "php",
 								"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5aMBynBScnyrCyvkwHvsGGqLtYCdyI1PEE8X6iN2IS9D2MELHKOrJpuR5tnEQdF0PWwz1JlJEQ7Ivn4kEXkp1lckGGLhevfwtbkvG-pEvFRLWGaVsz3vBZBROkJBj8c8tP2y21P3qIZuV0wFifBZhfBy0O4X2j4zbIJdQNzLhTa9UqlA7NyKanlXe-fg-/w645-h432/BoxeoMiniatura.PNG",
-							   	"url": "https://flstv.online/embed/boxing.php",
+							   	"url": "https://processbigger.com/maestrohd2.php?player=desktop&live=mevent1",
+								"referer" : "https://piratcast.tv/",
 			 					"isHost":"true"
 				  	}, { 
 							 	"name": "Canal 31",
@@ -9271,25 +9279,27 @@
 		 }, {
 			"name": "TNT Sport 1",
 			"image": "https://media.info/l/o/1/1539.1690027797.png",
-			"url":"https://vodkapr3mium.com/embed.php?player=desktop&live=bbtsp1",
-			"referer" : "https://techydeals.online/",
+			"url" :  "https://bleedfilter.net/embed/67xah9",
+			"referer" : "https://powerover.online/",
 	           	"isHost": "true"
 		 }, {
 			"name": "TNT Sport 2",
 			"image": "https://media.info/l/o/1/1540.1690027877.png",
-			"url":"https://techydeals.online/iframe/2.php",
-	           	"isHost": "true"
+			"url" :  "https://bleedfilter.net/embed/j3d0la2d68k0",
+			"referer" : "https://powerover.online/",
+			"isHost":"true"
 		 }, {
 			"name": "TNT Sport 3",
 			"image": "https://media.info/l/o/5/5712.1690027954.png",
-			"url":"https://emb.apl375.me/player/live.php?id=236826&w=728&h=480",
-	           	"isHost": "true"
+			"url" :  "https://bleedfilter.net/embed/j3d0la2d68k0",
+			"referer" : "https://powerover.online/",
+			"isHost":"true"
 		 }, {
 			"name": "TNT Sport 4",
 			"image": "https://media.info/l/o/1/1491.1690027975.png",
-			"url":"https://stream2wetch.top/live/dazn-1-spain-live-stream-free/",
-			"referer" : " https://daddylive.mp/",
-	           	"isHost": "true"
+			"url" :  "https://bleedfilter.net/embed/j3d0la2d68k0",
+			"referer" : "https://powerover.online/",
+			"isHost":"true"
 		 }, {
 			"name": "Win Sports",
 			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgANgt1BwSbQiMPhZ9Q0FmfBBK_RBkAx6CS3533vjvJsseBWE6oCJpYPLir09aIhfokconXkQ-ez7LL4nTwleCrXG_w4wvNTgsihYiIPGawIOPJzjbyHrh2gBg-NV0peWG3bu_AYYs_QCI7pMQjE7he69Xi34P09Gf8jNB-m_x0JT9nIaXTWpzk3VEEex4_/w498-h256/logo-WS.png",
@@ -9343,32 +9353,32 @@
               	}, {
               		"name": "Sport TV-1",
 			"image": "https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png",
-		 	"url" :  "https://closedjelly.net/embed/d9xskrhxh8g",
-			"referer" : "https://buzztv.futbol/",
+		 	"url" :  "https://admitsettle.net/embed/em3nxmuk",
+			"referer" : "https://elixx.top/",
 			 "isHost":"true"
 		}, {
              		"name": "Sport TV-2",
 			"image": "https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png",
-			 "url" :  "https://closedjelly.net/embed/hx9ejf",
-			"referer" : "https://buzztv.futbol/",
+			 "url" :  "https://admitsettle.net/embed/oxwourlf4th",
+			"referer" : "https://elixx.top/",
 			 "isHost":"true"
           	}, {
              		"name": "Sport TV-3",
 			"image": "https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png",
-			 "url" :  "https://closedjelly.net/embed/cii4kw916f3t",
-			"referer" : "https://buzztv.futbol/",
+			 "url" :  "https://admitsettle.net/embed/2fowdz6t2zl",
+			"referer" : "https://elixx.top/",
 			 "isHost":"true"
           	}, {
               		"name": "Sport TV-4",
 			"image": "https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png",
-			"url" :  "https://closedjelly.net/embed/ern2bja2uygn",
-			"referer" : "https://buzztv.futbol/",
+			"url" :  "https://admitsettle.net/embed/k7x56qf8",
+			"referer" : "https://elixx.top/",
 			"isHost":"true"
                 }, {
               		"name": "Sport TV-5",
 			"image": "https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png",
-			 "url" :  "https://closedjelly.net/embed/vtwhdedmj96",
-			"referer" : "https://buzztv.futbol/",
+			 "url" :  "https://admitsettle.net/embed/k8lq8in1xkknj",
+			"referer" : "https://elixx.top/",
 			 "isHost":"true"
                 }, {
 			"name": "Sport TV-6",
@@ -10023,10 +10033,10 @@
                                 }, {
 
                                     "name": "Canal 8",
-                                    "info": "",
+                                    "info": "blfilt",
                                     "image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-                                    "url": "https://my.xtraball.xyz/hembedplayer/hgfjh5bhf5/4/500/400",
-                                    "referer" : "https://my.xtraball.xyz/hgfjh5bhf5",
+                                    "url": "https://bleedfilter.net/embed/orfaxhrsmbdogv",
+                                    "referer" : "https://powerover.online/",
 			 	    "isHost":"true"
                             
                                 }, {
