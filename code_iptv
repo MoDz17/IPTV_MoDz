@@ -24,9 +24,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 19/05/2025",
+             "name": "Ultm. versión 19.2/05/2025",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 19/05/2025",
+            "info": "última versión actualizada el 19.2/05/2025",
             "stations": []
 	}, 
 	
@@ -246,20 +246,20 @@
 			 }, {
 				"name": "ANDROID/iOS 1",
 				"image": "https://cdn-icons-png.freepik.com/512/13746/13746953.png",
-				"url":"http://mbsderlo.site:2082/get.php?username=admironold&password=7NeFFyN44PSYold&type=m3u_plus",
+				"url":"http://viprteaapi.top:8080/get.php?username=VIP0157173661352325&password=71736962446815&type=m3u_plus",
 				"info":"--- conexiones",
 				"import": false
 			 }, {
-				"name": "ANDROID/iOS 3",
+				"name": "[NULL]",
 				"image": "https://cdn-icons-png.freepik.com/512/13746/13746953.png",
-				"url":"http://iptvtree.net:8080/get.php?username=xplatinum2023&password=shpaF2mG6eKEqHJ3&type=m3u",
-				"info":"500 conexiones",
+				"url":"",
+				"info":"--- conexiones",
 				"import": false
 			 }, {
-				"name": "ANDROID/iOS 3",
+				"name": "[NULL]",
 				"image": "https://cdn-icons-png.freepik.com/512/13746/13746953.png",
-				"url":"http://amazingiptv.one:8080/get.php?username=kaan159467kaan2634&password=Dacota123456&type=m3u",
-				"info":"200 conexiones",
+				"url":"",
+				"info":"--- conexiones",
 				"import": false
 			 }]
 	},
@@ -5503,8 +5503,9 @@
 			 }, {
 				"name": "Canal 5",
 				"image": "https://i.ibb.co/4NvkCVR/logo-deportes.png",
-				"url" : "https://x4-cdnnew.newkso.ru/x4-cdn/mono28/mono.m3u8",
-				"userAgent": ""
+				"url" : "https://bleedfilter.net/embed/r2bmcigt9dfjz",
+			  	"referer" : "https://welivesport.shop/",
+			 	"isHost":"true"
 			 }, {
 			   	"name": "Canal 6",
 			   	"info": "",
@@ -5802,7 +5803,7 @@
 	 		}, {
 			"name": "Canal 16",
 			   "image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-			   "url":"https://x4-cdnnew.newkso.ru/x4-cdn/mono26/mono.m3u8",
+			   "url":"https://x4-cdnnew.newkso.ru/x4-cdn/mono30/mono.m3u8",
 			   "userAgent" : ""
 		 	}, {
 				"name": "Canal 17",
@@ -6265,16 +6266,18 @@
 				"isHost" : "true"
 					  }, {
 						   	"name": "Canal 10",
-							"info": "m3u8",
+							"info": "zh44p",
 						   	"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-						  	"url": "https://www.kool.to/play/3996529465/index.m3u8",
-							"userAgent" : ""
+						  	"url" : "https://laceaccept.net/embed/zh44pyu5dpby",
+              						"referer" : "https://tarjetarojaenvivo.lat/",
+			 				"isHost":"true"
 					}, {
 							"name": "Canal 11",
-							"info": "",
+							"info": "g85mr",
 							"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-							"url": "https://streamdz4.lat/player/embed.php?channel=skymx",
-             						"isHost": "true"
+							"url" : "https://laceaccept.net/embed/g85mrc01p",
+              						"referer" : "https://tarjetarojaenvivo.lat/",
+			 				"isHost":"true"
 							 }, {
 							"name": "Canal 12",
 							"info": "j74w7",
@@ -6286,7 +6289,7 @@
 							"name": "Canal 13",
 							"info": "x2qid",
 							"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-						   	"url" :  "https://jointexploit.net/embed/x2qidlx7",
+						   	"url" :  "https://wagontorch.net/embed/x2qidlx7",
 						   	"referer" : "https://buzztv.futbol/",
 							"isHost": "true"
 						  }, {
@@ -6312,8 +6315,9 @@
 						   }, {
 						 	"name": "Canal 17",
 							"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-						 	"url": "https://39osta28l0q8tvo4.tamalpsdrtd.lat:443/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09CN4U2NmNzYkZmMxQWL5ITN50CNzQGNtYzMkRTL5UTYlNGOxIzL.m3u8",
-							"userAgent" : ""
+						 	"url" : "https://laceaccept.net/embed/r0zijuje2llg07a",
+              						"referer" : "https://tarjetarojaenvivo.lat/",
+			 				"isHost":"true"
 						}, {
 				"name": "Canal 18",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
@@ -6608,15 +6612,16 @@
 			}, { 
                  		"name": "Canal 65",
                     		"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-                      		"url" :  "https://closedjelly.net/embed/fyg9m",
-				"referer" : "https://buzztv.futbol/",
-                 		"isHost": "true"
+                      		"info": "m3u8",
+                    		"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
+                      		"url" :  "https://x4-cdnnew.newkso.ru/x4-cdn/mono10/mono.m3u8",
+				"userAgent": ""
 			}, { 
                  		"name": "Canal 66",
+				"info": "m3u8",
                     		"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-                      		"url": "https://closedjelly.net/embed/ugce3jz6chx",
-               			"referer" : "https://elixx.soccer/",
-                 		"isHost": "true"
+                      		"url" :  "https://x4-cdnnew.newkso.ru/x4-cdn/mono29/mono.m3u8",
+				"userAgent": ""
 			}, { 
                  		"name": "Canal 67",
 				"info": "m3u8",
@@ -6631,31 +6636,28 @@
 				"userAgent": ""
 			}, { 
                  		"name": "Canal 69",
+                      		"info": "m3u8",
                     		"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-                      		"url": "https://hoca4u.com/footy.php?player=desktop&live=ufeed132",
-				"referer": "https://www.streamonsport2.sbs/",
-                 		"isHost": "true"
+                      		"url" :  "https://x4-cdnnew.newkso.ru/x4-cdn/mono27/mono.m3u8",
+				"userAgent": ""
 			}, { 
                  		"name": "Canal 70",
-				"info": "csdj | av8q3",
+                      		"info": "m3u8",
                     		"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-                      		"url" :  "https://closedjelly.net/embed/av8q3fwxcb",
-				"referer" : "https://buzztv.futbol/",
-                 		"isHost": "true"
+                      		"url" :  "https://x4-cdnnew.newkso.ru/x4-cdn/mono76/mono.m3u8",
+				"userAgent": ""
 			}, { 
                  		"name": "Canal 71",
-				"info": "wwwstream",
+                      		"info": "m3u8",
                     		"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-                      		"url" : "https://wwwstream.pro/embed/KRlwgfAbMLFo",
-                  		"referer" : "https://kingstreamz.lol/",
-                 		"isHost": "true"
+                      		"url" :  "https://x4-cdnnew.newkso.ru/x4-cdn/mono78/mono.m3u8",
+				"userAgent": ""
 			}, { 
                  		"name": "Canal 72",
-				"info": "candle | ydd4",
+				"info": "m3u8",
                     		"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-                      		"url" :  "https://candlesouth.net/embed/dvuf5ydd4",
-				"referer" : "https://l1l1.to/",
-                 		"isHost": "true"
+                      		"url" :  "https://x4-cdnnew.newkso.ru/x4-cdn/mono77/mono.m3u8",
+				"userAgent": ""
 			}, { 
                  		"name": "Canal 73",
 				"info": "php",
@@ -9291,14 +9293,13 @@
 		 }, {
 			"name": "TNT Sport 3",
 			"image": "https://media.info/l/o/5/5712.1690027954.png",
-			"url" :  "https://bleedfilter.net/embed/j3d0la2d68k0",
-			"referer" : "https://powerover.online/",
+			"url" :  "https://vodkapr3mium.com/embed.php?player=desktop&live=bbtsp1",
+			"referer" : "https://techydeals.online/",
 			"isHost":"true"
 		 }, {
 			"name": "TNT Sport 4",
 			"image": "https://media.info/l/o/1/1491.1690027975.png",
-			"url" :  "https://bleedfilter.net/embed/j3d0la2d68k0",
-			"referer" : "https://powerover.online/",
+			"url" :  "https://zzcointv.xyz/canales-sport.php?id=tnt1uk",
 			"isHost":"true"
 		 }, {
 			"name": "Win Sports",
@@ -9750,8 +9751,8 @@
 					}, {
 								"name": "Canal 1",
 								"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WrLEUL5KARQ5KrZe_LMVBkqvD2-cx2zAEfMbKD2mhXX-B2bzYyT2c8iCrUBHqNGkwwRhRUsTuxuieiuHgTZusfQD064g98dqTb8uQb1wDdesbNkd4q-J2zUHiMAUzPIS_g8iJ7b7dAeeZRev-kaP9A_UpwL5WOJo_R2hnNesAmyNKvzzFM2nwKvITC1W/w625-h103/logo-MundoToro.png",
-								"url": "https://love2live.wideiptv.top/OneToro/tracks-v1a1/mono.m3u8",
-								"userAgent": ""
+								"url": "https://zzcointv.xyz/canales/toros/",
+								"isHost":"true"
 					}, {
 								"name": "Canal 2",
 							   	"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WrLEUL5KARQ5KrZe_LMVBkqvD2-cx2zAEfMbKD2mhXX-B2bzYyT2c8iCrUBHqNGkwwRhRUsTuxuieiuHgTZusfQD064g98dqTb8uQb1wDdesbNkd4q-J2zUHiMAUzPIS_g8iJ7b7dAeeZRev-kaP9A_UpwL5WOJo_R2hnNesAmyNKvzzFM2nwKvITC1W/w625-h103/logo-MundoToro.png",
@@ -10395,12 +10396,40 @@
 					[
 
 						{
-							"name": "",
+							"name": "Canal 1",
+							"info": "Multi",
+							"image": "https://www.hoyeseldia.es/wp-content/uploads/2023/07/hoyeseldia-laliga.png",
+							"url": "https://laceaccept.net/embed/8xjdm9xmx8ys",
+                            				"referer" : "https://tarjetarojaenvivo.lat/",
+							"isHost":"true"
+						}, {
+							"name": "Canal 2",
 							"info": "",
-							"image": "",
-							"url": "",
-                            				"referer" : "",
-							"isHost":"false"
+							"image": "https://www.hoyeseldia.es/wp-content/uploads/2023/07/hoyeseldia-laliga.png",
+							"url": "https://laceaccept.net/embed/ds13z4tuaur39",
+                            				"referer" : "https://tarjetarojaenvivo.lat/",
+							"isHost":"true"
+						}, {
+							"name": "Canal 3",
+							"info": "",
+							"image": "https://www.hoyeseldia.es/wp-content/uploads/2023/07/hoyeseldia-laliga.png",
+							"url": "https://laceaccept.net/embed/g61pboptvk4v0",
+                            				"referer" : "https://tarjetarojaenvivo.lat/",
+							"isHost":"true"
+						}, {
+							"name": "Canal 4",
+							"info": "",
+							"image": "https://www.hoyeseldia.es/wp-content/uploads/2023/07/hoyeseldia-laliga.png",
+							"url": "https://laceaccept.net/embed/5vl1f5yw",
+                            				"referer" : "https://tarjetarojaenvivo.lat/",
+							"isHost":"true"
+						}, {
+							"name": "Canal 5",
+							"info": "",
+							"image": "https://www.hoyeseldia.es/wp-content/uploads/2023/07/hoyeseldia-laliga.png",
+							"url": "https://laceaccept.net/embed/eur8cbk",
+                            				"referer" : "https://tarjetarojaenvivo.lat/",
+							"isHost":"true"
 						}
 
 					]
