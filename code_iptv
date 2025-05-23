@@ -24,9 +24,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 19.2/05/2025",
+             "name": "Ultm. versión 23/05/2025",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 19.2/05/2025",
+            "info": "última versión actualizada el 23/05/2025",
             "stations": []
 	}, 
 	
@@ -5151,7 +5151,7 @@
 				"name": "Canal 3",
 				"info": "m3u8",
 				"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhC_ZrjTAL_zi61ZUD-aRw18x_XEiKBS-sH5X1EihR_oZ43LsvApOPfWnvjAXfkxh2h_i8W7RNDfU4t42vQskD-fBjP25sBpJKo1fLEAkT4hliVrOVA3HQewEBFLGb3ntMTj2KTu63u4yzFBJUj92xyBfh9Ka9vQPMsZJaAtrJfWS8Nzr34pf9QtJj7CyY/w589-h212/logo_vamos.png",
-			   	"url": "https://wikinew.newkso.ru/wiki/movistarvamos/mono.m3u8",
+			   	"url": "https://windnew.koskoros.ru/wind/premium521/mono.m3u8",
 				"userAgent": ""
 				}, {
 				"name": "Canal 4",
@@ -5537,10 +5537,11 @@
         			"isHost":""
         	}, {
 			"name": "Canal 1",
-			"info": "",
+			"info": "bleedfilter",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar_Deportes_2.svg/2070px-Movistar_Deportes_2.svg.png",
-		 	"url" : "https://cdn.livetv852.me/webplayer2.php?t=ifr&c=2719074&lang=es&eid=288188599&lid=2719074&ci=215&si=3",
-             		"isHost": "true"  
+		 	"url" :  "https://bleedfilter.net/embed/f3cstn9tlhuu",
+			"referer" : "https://powerover.online/",
+		 	"isHost":"true"  
          		}, {
 			"name": "Canal 2",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar_Deportes_2.svg/2070px-Movistar_Deportes_2.svg.png",
@@ -5576,11 +5577,11 @@
 				"isHost":"true"
 			 }, {
 				"name": "Canal 7",
-				"info": "g0mhf",
+				"info": "bleedfilter",
 				"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar_Deportes_2.svg/2070px-Movistar_Deportes_2.svg.png",
-				"url" : "https://catchthrust.net/embed/g0mhf9qfb47",
-              			"referer" : "https://tarjetarojaenvivo.lat/",
-				"isHost":"true"
+				"url" :  "https://bleedfilter.net/embed/awhyywnxw",
+				"referer" : "https://powerover.online/",
+			 	"isHost":"true"
 			 }, {
 				"name": "Canal 8",
 				"info": "bleedfilter",
@@ -5684,7 +5685,7 @@
 				"name": "Canal 6",
 				"info": "m3u8",
 				"image": "https://i.ibb.co/sVPN8q6/logo-golf.png",
-				"url" : "https://love2live.wideiptv.top/MOVISTARGOLFES/index.fmp4.m3u8?token=6bc04a598d050fc6ec0cd69e70b3e1ce4e92d1fe-b6d813034562f1431208f88e6fef9d67-1736802781-1736791981",
+				"url" : "http://432c1b8e.edmonst.net/iptv/82WLUSL4F5QKANT4R5W7YKFX/6066/index.m3u8",
 			 	"userAgent":""
 		       }, {
         			"name": "Canal 7*",
@@ -9122,8 +9123,9 @@
                 }, {
                     	"name": "ESPN",
                     	"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFoCgAwvY3pqWo-gTfR1ztkB9Qdf8KTJOQ0J32bfi1s3i3-Fc_oyZOnJVbCOW4Dw7qJ2Es5Y15C3Nksg777ccGUeUf2we7Wi0v-NZrq3gWo-wivlXy6Vk8TCDxy1EhFfHRF_PWoZUDBECPnjcXkYz75-ER0uTsTNT3og97FtqTajlZQDlAyLF7pDvq4S6U/w545-h327/logo-ESPN.png",
-                	"url": "https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1YTIxZWZmZDY0YjQ2LTYzMDktZWEwNC03ZmQzLWE2NmNmNDIy/master.m3u8",
-			"userAgent":""
+                	"url" : "https://la12hd.com/vivo/canal.php?stream=espn",
+                   	"referer" : "https://zzcointv.xyz/",
+			"isHost":"true"
 	    	},{
                     	"name": "ESPN",
 			"info": "",
