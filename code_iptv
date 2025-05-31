@@ -24,9 +24,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 23/05/2025",
+             "name": "Ultm. versión 31/05/2025",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 23/05/2025",
+            "info": "última versión actualizada el 31/05/2025",
             "stations": []
 	}, 
 	
@@ -5503,7 +5503,7 @@
 			 }, {
 				"name": "Canal 5",
 				"image": "https://i.ibb.co/4NvkCVR/logo-deportes.png",
-				"url" : "https://bleedfilter.net/embed/r2bmcigt9dfjz",
+				"url" : "https://laceaccept.net/embed/r2bmcigt9dfjz",
 			  	"referer" : "https://welivesport.shop/",
 			 	"isHost":"true"
 			 }, {
@@ -5537,10 +5537,10 @@
         			"isHost":""
         	}, {
 			"name": "Canal 1",
-			"info": "bleedfilter",
+			"info": "laceaccept",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar_Deportes_2.svg/2070px-Movistar_Deportes_2.svg.png",
-		 	"url" :  "https://bleedfilter.net/embed/f3cstn9tlhuu",
-			"referer" : "https://powerover.online/",
+		 	"url" :  "https://laceaccept.net/embed/f3cstn9tlhuu",
+			"referer" : "https://tarjetarojaenvivo.lat/",
 		 	"isHost":"true"  
          		}, {
 			"name": "Canal 2",
@@ -5577,17 +5577,17 @@
 				"isHost":"true"
 			 }, {
 				"name": "Canal 7",
-				"info": "bleedfilter",
+				"info": "laceaccept",
 				"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar_Deportes_2.svg/2070px-Movistar_Deportes_2.svg.png",
-				"url" :  "https://bleedfilter.net/embed/awhyywnxw",
-				"referer" : "https://powerover.online/",
+				"url" :  "https://laceaccept.net/embed/awhyywnxw",
+				"referer" : "https://tarjetarojaenvivo.lat/",
 			 	"isHost":"true"
 			 }, {
 				"name": "Canal 8",
-				"info": "bleedfilter",
+				"info": "laceaccept",
 				"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar_Deportes_2.svg/2070px-Movistar_Deportes_2.svg.png",
-				"url" : "https://bleedfilter.net/embed/fic72y7ypbq6",
-              			"referer" : "https://powerover.online/",
+				"url" : "https://laceaccept.net/embed/fic72y7ypbq6",
+              			"referer" : "https://tarjetarojaenvivo.lat/",
 			 	"isHost":"true"
 			 }, {
 				"name": "Canal 9",
@@ -5744,10 +5744,10 @@
 	 		"isHost": "true"
 	   }, {
 	 "name": "Canal 7",
-	 "info": "bleedfilter",
+	 "info": "laceaccept",
 	 "image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-	 "url" : "https://bleedfilter.net/embed/aqvpq2u80zqh8",
-	 "referer" : "https://powerover.online/",
+	 "url" : "https://laceaccept.net/embed/aqvpq2u80zqh8",
+	 "referer" : "https://tarjetarojaenvivo.lat/",
 	 "isHost" : "true"
   }, {
 	"name": "Canal 8",
@@ -5875,10 +5875,10 @@
 				"isHost": "true"
 		  },{ 
 				"name": "Canal 4",
-				"info": "bleedfilter",
+				"info": "laceaccept",
 			   	"image": "https://i.ibb.co/vhNCnrq/DAZN-2-Logo-Sin-Fondo.webp",
-			  	"url" : "https://bleedfilter.net/embed/agatv1erofcym",
-				"referer": "https://powerover.online/",
+			  	"url" : "https://laceaccept.net/embed/agatv1erofcym",
+				"referer": "https://tarjetarojaenvivo.lat/",
                          	"isHost" : "true"
 	   	},{ 
 				"name": "Canal 5",
@@ -5974,10 +5974,10 @@
 				"isHost": "true"  
 				   }, {
 			   "name": "Canal 6",
-			   "info": "bleedfilter",
+			   "info": "laceaccept",
 			   "image": "https://i.ibb.co/p1Ry56w/DAZN-3-Logo-Sin-Fondo.png",
-			   "url" : "https://bleedfilter.net/embed/j3d0la2d68k04",
-              		   "referer" : "https://powerover.online/",
+			   "url" : "https://laceaccept.net/embed/j3d0la2d68k04",
+              		   "referer" : "https://tarjetarojaenvivo.lat/",
 			   "isHost":"true"
 			  }, {
 				"name": "Canal 7",
@@ -6036,10 +6036,10 @@
 			"isHost": "true"  
 		 }, { 
 			"name": "Canal 3",
-			"info": "bleedfilter",
+			"info": "laceaccept",
 			   "image": "https://i.ibb.co/LQy2rM6/DAZN-4-Logo-Sin-Fondo.png",
-			  "url": "https://bleedfilter.net/embed/aa7cuh7zvjtt",
-				"referer": "https://powerover.online/",
+			  "url": "https://laceaccept.net/embed/aa7cuh7zvjtt",
+				"referer": "https://tarjetarojaenvivo.lat/",
                          "isHost" : "true"
 				},{ 
 			"name": "Canal 4",
@@ -6093,10 +6093,11 @@
 		"userAgent" : ""
 	}, {
 		"name": "Canal 2",
-		"info": "ip | 185",
+		"info": "",
 	   	"image": "https://i.ibb.co/Ntcj66Q/logo-es1.webp",
-	   	"url":"http://185.189.225.157/EuroSport1/index.m3u8",
-	   	"userAgent" : ""
+	   	"url":"https://wagontorch.net/embed/o3n79f",
+	   	"referer" : "https://strimsy.top/",
+		 "isHost" : "true"
 	}, {
 		"name": "Canal 3",
 		"image": "https://i.ibb.co/Ntcj66Q/logo-es1.webp",
@@ -6335,8 +6336,8 @@
 				"name": "Canal 20",
 				"info": "",
 		   		"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-			   	"url" :  "https://bleedfilter.net/embed/37nzb0471fcp?color=45A5F4", 
-                       		"referer" : "https://powerover.online/",
+			   	"url" :  "https://laceaccept.net/embed/37nzb0471fcp?color=45A5F4", 
+                       		"referer" : "https://tarjetarojaenvivo.lat/",
 			 	"isHost":"true"
 			 }, {
 				"name": "Canal 21",
@@ -6432,10 +6433,10 @@
 				   "isHost": "true"
 			 }, {
 				"name": "Canal 36",
-				"info": "bleedfilter",
+				"info": "laceaccept",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				"url" : "https://bleedfilter.net/embed/orfaxhrsmbdogv?color=45A5F4",
-			     	"referer" : "https://powerover.online/",
+				"url" : "https://laceaccept.net/embed/orfaxhrsmbdogv?color=45A5F4",
+			     	"referer" : "https://tarjetarojaenvivo.lat/",
 			 	"isHost":"true"
 			 }, {
 				   "name": "Canal 37",
@@ -6446,10 +6447,10 @@
 				   "isHost": "true"
 			 }, {
 				"name": "Canal 38",
-				"info": "bleedfilter",
+				"info": "laceaccept",
 				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
-				"url" : "https://bleedfilter.net/embed/lk3n6n9gy",
-				"referer" : "https://powerover.online/",
+				"url" : "https://laceaccept.net/embed/lk3n6n9gy",
+				"referer" : "https://tarjetarojaenvivo.lat/",
 			 	"isHost":"true"
 			 }, {
 				   "name": "Canal 39",
@@ -6738,15 +6739,15 @@
 					"name": "Canal 4",
 					"info": "***-xfkc2i | tjtr",
 					"image": "https://www.lyngsat-logo.com/logo/tv/ll/laliga-tv-hypermotion-2-es.png",
-					"url" :  "https://bleedfilter.net/embed/xfkc2i",
-					"referer" : "https://powerover.online/",
+					"url" :  "https://laceaccept.net/embed/xfkc2i",
+					"referer" : "https://tarjetarojaenvivo.lat/",
 			 		"isHost":"true"
 						}, {
 					"name": "Canal 5",
 					"info": "***-opthn | tjtr",
 					"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
-					"url" : "https://bleedfilter.net/embed/opthng68di66m",
-                  			"referer" : "https://powerover.online/",
+					"url" : "https://laceaccept.net/embed/opthng68di66m",
+                  			"referer" : "https://tarjetarojaenvivo.lat/",
 					 "isHost": "true"
 					  }, {
 					"name": "Canal 6",
@@ -6762,46 +6763,47 @@
                          		"userAgent": ""
 				}, {
 					"name": "Canal 8",
-					"info": "bleedfilter",
+					"info": "laceaccept",
 	   				"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
-	   				"url" : "https://bleedfilter.net/embed/j3d0la2d68k04",
-              				"referer" : "https://powerover.online/",
+	   				"url" : "https://laceaccept.net/embed/j3d0la2d68k04",
+              				"referer" : "https://tarjetarojaenvivo.lat/",
 			 		"isHost":"true"
 				}, {
 					"name": "Canal 9",
 					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
-					"url" : "https://generalpilli.net/embed/xdpq3ptcuts1qpp", 
-                         		"referer" : "https://bedsport.live/",
+					"url" : "https://laceaccept.net/embed/r0zijuje2llg07a", 
+                         		"referer" : "https://tarjetarojaenvivo.lat/",
            				"isHost" : "true"
 				}, {
 					"name": "Canal 10",
 					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
-					"url": "https://generalpilli.net/embed/wsb3s9ow3e3",
-               				"referer" : "https://bedsport.live/",
+					"url": "https://live.reddit-soccerstreamss.online/reddit/5.php",
+               				"referer" : "https://tv3-sport.xyz/",
            				"isHost" : "true"
 				}, {
 					"name": "Canal 11",
 					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
-					"url" : "https://generalpilli.net/embed/3m7hwt6jr4?skin=1",
-              				"referer": "https://bedsport.live/",
+					"url" : "https://laceaccept.net/embed/ds13z4tuaur39a",
+              				"referer": "https://tarjetarojaenvivo.lat/",
            				"isHost" : "true"
 				}, {
 					"name": "Canal 12",
 					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
-					"url" : "https://streamdz4.lat/player/embed.php?channel=hypermotion",
+					"url" : "https://laceaccept.net/embed/g61pboptvk4v0",
+					"referer" : "https://tarjetarojaenvivo.lat/",
            				"isHost" : "true"
 				}, {
 					"name": "Canal 13",
 					"info": "php",
 					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
-					"url" : "https://4kwebplay.xyz/maxsport.php?id=primaliga1",
-					"referer" : "https://antenasport.online/",
+					"url" : "https://laceaccept.net/embed/eur8cbk",
+					"referer" : "https://tarjetarojaenvivo.lat/",
 				  	"isHost" : "true"
 				}, {
 					"name": "Canal 14",
-					"info": "csdj-52g8n | tjtr",
+					"info": "",
 					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
-					"url" : "https://closedjelly.net/embed/52g8nnqi37bly6",
+					"url" : "https://laceaccept.net/embed/5vl1f5yw",
 			 		"referer": "https://tarjetarojaenvivo.lat/",
            				"isHost" : "true"
 				}, {
@@ -6831,12 +6833,13 @@
 				}, {
 					"name": "Canal 19",
 					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
-					"url" : "https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1Yjk3NGExZTE2YjY3LTEyMWEtN2Y3NC00NTFhLTkxYjY3MGQx/master.m3u8",
-           				"userAgent" : ""
+					"url" : "https://laceaccept.net/embed/xhh0h43hpx2v7",
+           				"referer" : "https://tarjetarojaenvivo.lat/",Add commentMore actions
+			 		"isHost":"true"
 				}, {
 					"name": "Canal 20",
 					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
-					"url" : "https://voraciousglove.net/embed/77ta7nageht5ho",
+					"url" : "https://laceaccept.net/embed/xitymii",
 			 		"referer": "https://tarjetarojaenvivo.lat/",
            				"isHost" : "true"
 				}, {
@@ -6847,10 +6850,10 @@
            				"isHost" : "true"
 				}, {
 					"name": "Canal 22",
-					"info": "viwli",
+					"info": "",
 					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
-					"url" : "https://viwlivehdplay.ru/mono.php?id=29", 
-                         		"referer" : "https://bedsport.live/",
+					"url" : "https://laceaccept.net/embed/zh44pyu5dpby", 
+                         		"referer" : "https://tarjetarojaenvivo.lat/",
                           		"isHost": "true"
 			  	}, {
 					"name": "Canal 23",
@@ -6861,17 +6864,17 @@
 			 		"isHost": "true"
 			  	}, {
 					   "name": "Canal 24",
-					   "info": "wwwstream",
+					   "info": "",
 					   "image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
-					   "url": "https://wwwstream.pro/embed/UqoaakeCQE1a",
-					   "referer" : "https://kingstreamz.lol/",
+					   "url": "https://laceaccept.net/embed/anirqn",
+					   "referer" : "https://tarjetarojaenvivo.lat/",
 			 		   "isHost": "true"
 				}, { 
                  				"name": "Canal 25",
-						"info": "viwli",
+						"info": "",
 						"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
-					 	"url" : "https://viwlivehdplay.ru/maxsport.php?id=primaliga1",
-                   				"referer" : "https://antennasports.ru/",
+					 	"url" : "https://businascart.com/embed3.php?player=desktop&live=do97",
+                   				"referer" : "https://evfancy.link/",
 					 	"isHost": "true"
 				}, { 
                  				"name": "Canal 26",
@@ -7887,10 +7890,10 @@
                               					"userAgent" : ""
 							   }, {
 								"name": "Canal 2",
-								"info": "bleedfilter",
+								"info": "laceaccept",
 							  	"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-								"url" :  "https://bleedfilter.net/embed/ij6ncj7nvv4gay",
-			 					"referer" : "https://powerover.online/",
+								"url" :  "https://laceaccept.net/embed/ij6ncj7nvv4gay",
+			 					"referer" : "https://tarjetarojaenvivo.lat/",
 			 					"isHost":"true" 
 							   }, {
 								"name": "Canal 3",
@@ -7925,29 +7928,29 @@
 								"isHost": "true"
 							 }, {
 								"name": "Canal 4",
-								"info": "bleedfilter",
+								"info": "laceaccept",
 								"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-								"url" : "https://bleedfilter.net/embed/n2eukx7ntv",
-                     						"referer" : "https://powerover.online/",
+								"url" : "https://laceaccept.net/embed/n2eukx7ntv",
+                     						"referer" : "https://tarjetarojaenvivo.lat/",
 								"isHost": "true"
 							   }, {
 								"name": "Canal 5",
 								"info": "r23llp",
 							  	"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-							 	"url": "https://catchthrust.net/embed/r23llp",
+							 	"url": "https://catercollege.net/embed/r23llp",
                    						"referer" : "https://tarjetarojaenvivo.lat/",
                     						"isHost": "true"  
 							  }, {
 								"name": "Canal 6",
 							  	"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-								"url" : "https://streamingon.org/hls4.php?stream=HDGQ25",
-								"referer" : "https://streamingon.org/embed/hd-25.php",
+								"url" : "https://new.allover.top/hembedplayer/hgfxhgh7/4/500/400",
+								"referer" : "https://new.allover.top/hgfxhgh7",
 							  	"isHost": "true" 	
 							}, {
 								"name": "Canal 7",
 								"info": "r23llp",
 								"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-								"url": "https://catchthrust.net/embed/r23llp",
+								"url": "https://catercollege.net/embed/r23llp",
 								"referer" : "https://footdirect.ru/",
 			 					"isHost":"true"
 							   }, {
@@ -9112,8 +9115,8 @@
 		 }, {
 			"name": "Sky Sports Golf",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sky_Sport_Golf_Logo_2022.svg/1200px-Sky_Sport_Golf_Logo_2022.svg.png",
-			 "url": "https://rockhd.lol/live/stream-70.php",
-             		"isHost": "true"
+			 "url": "",
+             		"userAgent":""
                 }, {
 			"name": "Sky Sports Golf",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sky_Sport_Golf_Logo_2022.svg/1200px-Sky_Sport_Golf_Logo_2022.svg.png",
@@ -9283,14 +9286,14 @@
 		 }, {
 			"name": "TNT Sport 1",
 			"image": "https://media.info/l/o/1/1539.1690027797.png",
-			"url" :  "https://bleedfilter.net/embed/67xah9",
-			"referer" : "https://powerover.online/",
+			"url" :  "https://laceaccept.net/embed/67xah9",
+			"referer" : "https://tarjetarojaenvivo.lat/",
 	           	"isHost": "true"
 		 }, {
 			"name": "TNT Sport 2",
 			"image": "https://media.info/l/o/1/1540.1690027877.png",
-			"url" :  "https://bleedfilter.net/embed/j3d0la2d68k0",
-			"referer" : "https://powerover.online/",
+			"url" :  "https://laceaccept.net/embed/j3d0la2d68k0",
+			"referer" : "https://tarjetarojaenvivo.lat/",
 			"isHost":"true"
 		 }, {
 			"name": "TNT Sport 3",
@@ -9301,7 +9304,7 @@
 		 }, {
 			"name": "TNT Sport 4",
 			"image": "https://media.info/l/o/1/1491.1690027975.png",
-			"url" :  "https://zzcointv.xyz/canales-sport.php?id=tnt1uk",
+			"url" :  "https://embedstreams.top/embed/alpha/sky-sports-golf/1",
 			"isHost":"true"
 		 }, {
 			"name": "Win Sports",
@@ -9489,12 +9492,12 @@
 						  {
 							 "name": "La 1",
 							"image": "https://i.ibb.co/GHqBPVz/La1-logo.png",
-							"url":"https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8",
+							"url":"https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_P131AGU37957.m3u8",
 							"userAgent" : ""
 						  }, {
 							"name": "La 2",
 						   "image": "https://i.ibb.co/qF7Zy0f/La2-logo.png",
-						   "url":"https://rtvelivestream-clnx.rtve.es/rtvesec/la2/la2_main_dvr_720.m3u8",
+						   "url":"https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_P611PGS00651405.m3u8",
 						   "userAgent" : ""
 						 }, {
 							"name": "Antena 3",
@@ -9589,7 +9592,7 @@
 						}, {
 							"name": "24h",
 						   	"image": "https://i.ibb.co/NncBbd6/24h-logo.webp",
-						   	"url":"https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8",
+						   	"url":"https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_P511PDS00172151.m3u8",
 						   	"userAgent" : ""
 						 }, {
 							"name": "Teledeporte",
@@ -9614,7 +9617,7 @@
 						 }, {
 							"name": "TV3",
 						   "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_tv3x.png",
-						   "url":"https://directes-tv-cat.ccma.cat/live-content/tv3-hls/master.m3u8",
+						   "url":"https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/master.m3u8",
 						   "userAgent" : ""
 						 }, {
 							"name": "À Punt",
@@ -9650,12 +9653,12 @@
 				 		}, {
 			 				"name": "CMM",
 							"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/CMMedia.svg/2353px-CMMedia.svg.png",
-							"url": "https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_ski67o97/protocol/https/format/applehttp/flavorIds/1_j798obxa,1_laa7c3yp,1_0dz7pqq5,1_mb6o228p,1_z38wqasa/a.m3u8",
+							"url": "https://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_sqa9madm/protocol/https/format/applehttp/a.m3u8?ks=djJ8MjI4ODY5MXzlfjCofv39Tt07aAfyAT5SjaihPw1OuBXB_bL6_G2dBrYIWurdd3BYQfqssst_E4JtHY3zsEY6eloOoN4Lg4lRP0zIwRuPfUjs4KXhPNTpuQ==",
 							"userAgent": ""
              				}, {
 			 				"name": "Canal Sur",
 							"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEmi0oElmIrhfqm7_XloSKjtfFeYM4hMSXUYRt3XVh0ac5mzD0K9Bp36zsLSXqYhiH7UlI7VVTLRsYYMrSvd_fZ1kiqYwaafc__i43jFYg701nR2v2jgFoO1mFJw2AL_ceENRYXB35AJL1ZBZnJeUuzGzKTDzZAtT12wPIBGSsTVTho7EUPOOHBwbHzXYC/w587-h634/logo-CanalSur.png",
-							"url": "https://cdnlive.codev8.net/rtvalive/DtRLVjt1.smil/.m3u8",
+							"url": "https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8",
 							"userAgent": ""
              				}, {
 			 				"name": "Canal Extremadura",
@@ -9665,7 +9668,7 @@
              				}, {
 							"name": "Clan",
 							"image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png",
-							"url":"https://rtvelivestream-clnx.rtve.es/rtvesec/clan/clan_main_dvr_720.m3u8",
+							"url":"https://rtvelivestream.rtve.es/rtvesec/clan/clan_main_P131AGU38582.m3u8",
 							"userAgent": ""
 							}, {
 							"name": "Boing",
@@ -10038,8 +10041,8 @@
                                     "name": "Canal 8",
                                     "info": "blfilt",
                                     "image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-                                    "url": "https://bleedfilter.net/embed/orfaxhrsmbdogv",
-                                    "referer" : "https://powerover.online/",
+                                    "url": "https://laceaccept.net/embed/orfaxhrsmbdogv",
+                                    "referer" : "https://tarjetarojaenvivo.lat/",
 			 	    "isHost":"true"
                             
                                 }, {
@@ -10325,7 +10328,8 @@
 							"name": "Canal 8",
 							"info": "",
 							"image": "https://i.ibb.co/fkXQRxX/se-al-vivo.png",
-							"url": "https://cheapmarket.blog/idea/?id=1",
+							"url": "https://live.reddit-soccerstreamss.online/reddit/5.php",
+							"referer" : "https://tv3-sport.xyz/",
 							"isHost":"true"
 						}, {
 							"name": "Canal 9",
