@@ -6613,7 +6613,6 @@
 				"userAgent": ""
 			}, { 
                  		"name": "Canal 65",
-                    		"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
                       		"info": "m3u8",
                     		"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
                       		"url" :  "https://x4-cdnnew.newkso.ru/x4-cdn/mono10/mono.m3u8",
@@ -6834,7 +6833,7 @@
 					"name": "Canal 19",
 					"image": "https://i.ibb.co/HqpK9nz/Liga-Segunda-mini.webp",
 					"url" : "https://laceaccept.net/embed/xhh0h43hpx2v7",
-           				"referer" : "https://tarjetarojaenvivo.lat/",Add commentMore actions
+           				"referer" : "https://tarjetarojaenvivo.lat/",
 			 		"isHost":"true"
 				}, {
 					"name": "Canal 20",
@@ -6899,7 +6898,7 @@
 						"isHost":"true"
 				}]
                       }, {
-                        "name": "1ª RFEF",
+                        "name": "1a RFEF",
                        "image": "https://www.estadiodeportivo.com/imagenes/5568c439-195a-42bc-8f03-b5224f8e89b3_1200x680.png",
                        "info": "",
                    "stations": [
